@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-30**|**ThinK: Thinner Key Cache by Query-Driven Pruning**|Yuhui Xu et.al.|[2407.21018](http://arxiv.org/abs/2407.21018)|null|
+|**2024-07-30**|**AI-Assisted Generation of Difficult Math Questions**|Vedant Shah et.al.|[2407.21009](http://arxiv.org/abs/2407.21009)|null|
+|**2024-07-30**|**MoFO: Momentum-Filtered Optimizer for Mitigating Forgetting in LLM Fine-Tuning**|Yupeng Chen et.al.|[2407.20999](http://arxiv.org/abs/2407.20999)|null|
+|**2024-07-30**|**Meteoritic Tutton salt, a naturally inspired reservoir of cometary and asteroidal ammonium**|Sergey N. Britvin et.al.|[2407.20997](http://arxiv.org/abs/2407.20997)|null|
+|**2024-07-30**|**From Feature Importance to Natural Language Explanations Using LLMs with RAG**|Sule Tekkesinoglu et.al.|[2407.20990](http://arxiv.org/abs/2407.20990)|null|
+|**2024-07-30**|**Analysis of Polarized Dust Emission from the First Flight of the SPIDER Balloon-Borne Telescope**|SPIDER Collaboration et.al.|[2407.20982](http://arxiv.org/abs/2407.20982)|null|
+|**2024-07-30**|**Large Language Models (LLMs) for Semantic Communication in Edge-based IoT Networks**|Alakesh Kalita et.al.|[2407.20970](http://arxiv.org/abs/2407.20970)|null|
+|**2024-07-30**|**MMTrail: A Multimodal Trailer Video Dataset with Language and Music Descriptions**|Xiaowei Chi et.al.|[2407.20962](http://arxiv.org/abs/2407.20962)|**[link](https://github.com/litwellchi/mmtrail)**|
+|**2024-07-30**|**An Asynchronous Multi-core Accelerator for SNN inference**|Zhuo Chen et.al.|[2407.20947](http://arxiv.org/abs/2407.20947)|null|
+|**2024-07-30**|**Non-classical excitation of a solid-state quantum emitter**|Lena M. Hansen et.al.|[2407.20936](http://arxiv.org/abs/2407.20936)|null|
 |**2024-07-25**|**Unlocking Tokens as Data Points for Generalization Bounds on Larger Language Models**|Sanae Lotfi et.al.|[2407.18158](http://arxiv.org/abs/2407.18158)|null|
 |**2024-07-20**|**MetaAug: Meta-Data Augmentation for Post-Training Quantization**|Cuong Pham et.al.|[2407.14726](http://arxiv.org/abs/2407.14726)|**[link](https://github.com/cuong-pv/MetaAug-PTQ)**|
 |**2024-07-17**|**AdaLog: Post-Training Quantization for Vision Transformers with Adaptive Logarithm Quantizer**|Zhuguanyu Wu et.al.|[2407.12951](http://arxiv.org/abs/2407.12951)|**[link](https://github.com/GoatWu/AdaLog)**|
@@ -62,6 +72,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-30**|**On-the-fly Communication-and-Computing to Enable Representation Learning for Distributed Point Clouds**|Xu Chen et.al.|[2407.20710](http://arxiv.org/abs/2407.20710)|null|
 |**2024-07-29**|**Model Agnostic Hybrid Sharding For Heterogeneous Distributed Inference**|Claudio Angione et.al.|[2407.19775](http://arxiv.org/abs/2407.19775)|null|
 |**2024-07-25**|**A Sensitivity Analysis of Cellular Automata and Heterogeneous Topology Networks: Partially-Local Cellular Automata and Homogeneous Homogeneous Random Boolean Networks**|Tom Eivind Glover et.al.|[2407.18017](http://arxiv.org/abs/2407.18017)|null|
 |**2024-07-22**|**StreamTinyNet: video streaming analysis with spatial-temporal TinyML**|Hazem Hesham Yousef Shalby et.al.|[2407.17524](http://arxiv.org/abs/2407.17524)|null|
@@ -141,6 +152,36 @@ layout: default
 |**2024-07-23**|**Strike a Balance in Continual Panoptic Segmentation**|Jinpeng Chen et.al.|[2407.16354](http://arxiv.org/abs/2407.16354)|**[link](https://github.com/jinpeng0528/balconpas)**|
 |**2024-07-23**|**OriGen:Enhancing RTL Code Generation with Code-to-Code Augmentation and Self-Reflection**|Fan Cui et.al.|[2407.16237](http://arxiv.org/abs/2407.16237)|null|
 |**2024-07-23**|**DDK: Distilling Domain Knowledge for Efficient Large Language Models**|Jiaheng Liu et.al.|[2407.16154](http://arxiv.org/abs/2407.16154)|null|
+
+## Long-context
+
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-30**|**ThinK: Thinner Key Cache by Query-Driven Pruning**|Yuhui Xu et.al.|[2407.21018](http://arxiv.org/abs/2407.21018)|null|
+|**2024-07-30**|**Meteoritic Tutton salt, a naturally inspired reservoir of cometary and asteroidal ammonium**|Sergey N. Britvin et.al.|[2407.20997](http://arxiv.org/abs/2407.20997)|null|
+|**2024-07-30**|**Analysis of Polarized Dust Emission from the First Flight of the SPIDER Balloon-Borne Telescope**|SPIDER Collaboration et.al.|[2407.20982](http://arxiv.org/abs/2407.20982)|null|
+|**2024-07-30**|**An Asynchronous Multi-core Accelerator for SNN inference**|Zhuo Chen et.al.|[2407.20947](http://arxiv.org/abs/2407.20947)|null|
+|**2024-07-30**|**Magnetic field diagnostics of prominences with the Mg II k line: 3D Stokes inversions vs. traditional methods**|Jiří Štěpán et.al.|[2407.20926](http://arxiv.org/abs/2407.20926)|null|
+|**2024-07-30**|**Dynamic Scene Understanding through Object-Centric Voxelization and Neural Rendering**|Yanpeng Zhao et.al.|[2407.20908](http://arxiv.org/abs/2407.20908)|**[link](https://github.com/zyp123494/dynavol)**|
+|**2024-07-30**|**Context-sensitive hypothesis-testing and exponential families**|Mark Kelbert et.al.|[2407.20894](http://arxiv.org/abs/2407.20894)|null|
+|**2024-07-30**|**Kinematic Lensing with the Dark Energy Spectroscopic Instrument -- Probing structure formation at very low redshift**|Jiachuan Xu et.al.|[2407.20867](http://arxiv.org/abs/2407.20867)|null|
+|**2024-07-30**|**Exocomet orbital distribution around $β$ Pictoris**|René Heller et.al.|[2407.20829](http://arxiv.org/abs/2407.20829)|null|
+|**2024-07-30**|**Design and inference for multi-arm clinical trials with informational borrowing: the interacting urns design**|Giacomo Aletti et.al.|[2407.20819](http://arxiv.org/abs/2407.20819)|null|
+
+## MLSYS
+
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-30**|**Accelerated forward-backward and Douglas-Rachford splitting dynamics**|Ibrahim K. Ozaslan et.al.|[2407.20620](http://arxiv.org/abs/2407.20620)|null|
+|**2024-07-29**|**Time series forecasting with high stakes: A field study of the air cargo industry**|Abhinav Garg et.al.|[2407.20192](http://arxiv.org/abs/2407.20192)|null|
+|**2024-07-30**|**Classification of freshwater snails of the genus Radomaniola with multimodal triplet networks**|Dennis Vetter et.al.|[2407.20013](http://arxiv.org/abs/2407.20013)|null|
+|**2024-07-29**|**Efficient Shield Synthesis via State-Space Transformation**|Asger Horn Brorholt et.al.|[2407.19911](http://arxiv.org/abs/2407.19911)|null|
+|**2024-07-29**|**Imitation Learning for Intra-Day Power Grid Operation through Topology Actions**|Matthijs de Jong et.al.|[2407.19865](http://arxiv.org/abs/2407.19865)|null|
+|**2024-07-27**|**Bayesian meta learning for trustworthy uncertainty quantification**|Zhenyuan Yuan et.al.|[2407.19287](http://arxiv.org/abs/2407.19287)|null|
+|**2024-07-26**|**A maturity framework for data driven maintenance**|Chris Rijsdijk et.al.|[2407.18996](http://arxiv.org/abs/2407.18996)|null|
+|**2024-07-24**|**SoNIC: Safe Social Navigation with Adaptive Conformal Inference and Constrained Reinforcement Learning**|Jianpeng Yao et.al.|[2407.17460](http://arxiv.org/abs/2407.17460)|null|
+|**2024-07-24**|**Deep Koopman-based Control of Quality Variation in Multistage Manufacturing Systems**|Zhiyi Chen et.al.|[2407.16933](http://arxiv.org/abs/2407.16933)|null|
+|**2024-07-23**|**Implementing engrams from a machine learning perspective: the relevance of a latent space**|J Marco de Lucas et.al.|[2407.16616](http://arxiv.org/abs/2407.16616)|null|
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
