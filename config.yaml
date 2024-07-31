@@ -27,9 +27,15 @@ keywords:
         filters: ["Hardware Software Codesign", "Hardware Accelerator", "AI Compiler"]
     "TinyML":
         filters: ["TinyML", "Edge AI", "Embedded AI"]
-    "Domain Specific Accelerator":
-        filters: ["Domain Specific Accelerator", "DNN Accelerator", "AI Chip"]
-    "Low-Rank Adaptation":
-        filters: ["LoRA", "Low Rank Adaptation"]
-    "Model Compression":
-        filters: ["Model Compression", "Knowledge Distillation", "Model Pruning"]
+    "Quantization":
+        filters: ["Quantization", "LLMs", "Inference"]
+    "Long-context":
+        filters: ["long contexts", "inference", "context window"]
+    "MLSYS":
+        filters: ["MLSys", "Machine Learning Systems", "KVCache"]
+    # "Domain Specific Accelerator":
+    #     filters: ["Domain Specific Accelerator", "DNN Accelerator", "AI Chip"]
+    # "Low-Rank Adaptation":
+    #     filters: ["LoRA", "Low Rank Adaptation"]
+    # "Model Compression":
+    #     filters: ["Model Compression", "Knowledge Distillation", "Model Pruning"]
