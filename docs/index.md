@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-31**|**Large Language Monkeys: Scaling Inference Compute with Repeated Sampling**|Bradley Brown et.al.|[2407.21787](http://arxiv.org/abs/2407.21787)|null|
+|**2024-07-31**|**Tulip Agent -- Enabling LLM-Based Agents to Solve Tasks Using Large Tool Libraries**|Felix Ocker et.al.|[2407.21778](http://arxiv.org/abs/2407.21778)|null|
+|**2024-07-31**|**ShieldGemma: Generative AI Content Moderation Based on Gemma**|Wenjun Zeng et.al.|[2407.21772](http://arxiv.org/abs/2407.21772)|null|
+|**2024-07-31**|**Paying More Attention to Image: A Training-Free Method for Alleviating Hallucination in LVLMs**|Shi Liu et.al.|[2407.21771](http://arxiv.org/abs/2407.21771)|null|
+|**2024-07-31**|**MoMa: Efficient Early-Fusion Pre-training with Mixture of Modality-Aware Experts**|Xi Victoria Lin et.al.|[2407.21770](http://arxiv.org/abs/2407.21770)|null|
+|**2024-07-31**|**ReplanVLM: Replanning Robotic Tasks with Visual Language Models**|Aoran Mei et.al.|[2407.21762](http://arxiv.org/abs/2407.21762)|null|
+|**2024-07-31**|**Ge-based Clinopyroxene series: first principles and experimental local probe study**|Ricardo P. Moreira et.al.|[2407.21749](http://arxiv.org/abs/2407.21749)|null|
+|**2024-07-31**|**Molecular Simulations of Quantized Lamellar Thickening in Polyethylenes with Regularly Spaced Brominated Groups**|Kutlwano Gabana et.al.|[2407.21728](http://arxiv.org/abs/2407.21728)|null|
+|**2024-07-31**|**Detecting, Explaining, and Mitigating Memorization in Diffusion Models**|Yuxin Wen et.al.|[2407.21720](http://arxiv.org/abs/2407.21720)|null|
+|**2024-07-31**|**CEAR: Automatic construction of a knowledge graph of chemical entities and roles from scientific literature**|Stefan Langer et.al.|[2407.21708](http://arxiv.org/abs/2407.21708)|null|
 |**2024-07-30**|**ThinK: Thinner Key Cache by Query-Driven Pruning**|Yuhui Xu et.al.|[2407.21018](http://arxiv.org/abs/2407.21018)|null|
 |**2024-07-30**|**AI-Assisted Generation of Difficult Math Questions**|Vedant Shah et.al.|[2407.21009](http://arxiv.org/abs/2407.21009)|null|
 |**2024-07-31**|**MoFO: Momentum-Filtered Optimizer for Mitigating Forgetting in LLM Fine-Tuning**|Yupeng Chen et.al.|[2407.20999](http://arxiv.org/abs/2407.20999)|null|
@@ -72,6 +82,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-31**|**TinyChirp: Bird Song Recognition Using TinyML Models on Low-power Wireless Acoustic Sensors**|Zhaolan Huang et.al.|[2407.21453](http://arxiv.org/abs/2407.21453)|null|
+|**2024-07-31**|**SHA-CNN: Scalable Hierarchical Aware Convolutional Neural Network for Edge AI**|Narendra Singh Dhakad et.al.|[2407.21370](http://arxiv.org/abs/2407.21370)|null|
 |**2024-07-30**|**On-the-fly Communication-and-Computing to Enable Representation Learning for Distributed Point Clouds**|Xu Chen et.al.|[2407.20710](http://arxiv.org/abs/2407.20710)|null|
 |**2024-07-29**|**Model Agnostic Hybrid Sharding For Heterogeneous Distributed Inference**|Claudio Angione et.al.|[2407.19775](http://arxiv.org/abs/2407.19775)|null|
 |**2024-07-25**|**A Sensitivity Analysis of Cellular Automata and Heterogeneous Topology Networks: Partially-Local Cellular Automata and Homogeneous Homogeneous Random Boolean Networks**|Tom Eivind Glover et.al.|[2407.18017](http://arxiv.org/abs/2407.18017)|null|
@@ -157,6 +169,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-31**|**Large Language Monkeys: Scaling Inference Compute with Repeated Sampling**|Bradley Brown et.al.|[2407.21787](http://arxiv.org/abs/2407.21787)|null|
+|**2024-07-31**|**The Llama 3 Herd of Models**|Abhimanyu Dubey et.al.|[2407.21783](http://arxiv.org/abs/2407.21783)|null|
+|**2024-07-31**|**Tulip Agent -- Enabling LLM-Based Agents to Solve Tasks Using Large Tool Libraries**|Felix Ocker et.al.|[2407.21778](http://arxiv.org/abs/2407.21778)|null|
+|**2024-07-31**|**Paying More Attention to Image: A Training-Free Method for Alleviating Hallucination in LVLMs**|Shi Liu et.al.|[2407.21771](http://arxiv.org/abs/2407.21771)|null|
+|**2024-07-31**|**MoMa: Efficient Early-Fusion Pre-training with Mixture of Modality-Aware Experts**|Xi Victoria Lin et.al.|[2407.21770](http://arxiv.org/abs/2407.21770)|null|
+|**2024-07-31**|**Ge-based Clinopyroxene series: first principles and experimental local probe study**|Ricardo P. Moreira et.al.|[2407.21749](http://arxiv.org/abs/2407.21749)|null|
+|**2024-07-31**|**Detecting, Explaining, and Mitigating Memorization in Diffusion Models**|Yuxin Wen et.al.|[2407.21720](http://arxiv.org/abs/2407.21720)|null|
+|**2024-07-31**|**Unveiling land use dynamics: Insights from a hierarchical Bayesian spatio-temporal modelling of Compositional Data**|Mario Figueira et.al.|[2407.21695](http://arxiv.org/abs/2407.21695)|null|
+|**2024-07-31**|**Shape-restricted transfer learning analysis for generalized linear regression model**|Pengfei Li et.al.|[2407.21682](http://arxiv.org/abs/2407.21682)|null|
+|**2024-07-31**|**Synthetic Simplicity: Unveiling Bias in Medical Data Augmentation**|Krishan Agyakari Raja Babu et.al.|[2407.21674](http://arxiv.org/abs/2407.21674)|null|
 |**2024-07-30**|**ThinK: Thinner Key Cache by Query-Driven Pruning**|Yuhui Xu et.al.|[2407.21018](http://arxiv.org/abs/2407.21018)|null|
 |**2024-07-30**|**Meteoritic Tutton salt, a naturally inspired reservoir of cometary and asteroidal ammonium**|Sergey N. Britvin et.al.|[2407.20997](http://arxiv.org/abs/2407.20997)|null|
 |**2024-07-30**|**Analysis of Polarized Dust Emission from the First Flight of the SPIDER Balloon-Borne Telescope**|SPIDER Collaboration et.al.|[2407.20982](http://arxiv.org/abs/2407.20982)|null|
@@ -172,6 +194,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-31**|**Generalized Out-of-Distribution Detection and Beyond in Vision Language Model Era: A Survey**|Atsuyuki Miyai et.al.|[2407.21794](http://arxiv.org/abs/2407.21794)|null|
+|**2024-07-31**|**Diagnostic Runtime Monitoring with Martingales**|Ali Hindy et.al.|[2407.21748](http://arxiv.org/abs/2407.21748)|null|
+|**2024-07-31**|**CXSimulator: A User Behavior Simulation using LLM Embeddings for Web-Marketing Campaign Assessment**|Akira Kasuga et.al.|[2407.21553](http://arxiv.org/abs/2407.21553)|null|
+|**2024-07-31**|**Who should I trust? A Visual Analytics Approach for Comparing Net Load Forecasting Models**|Kaustav Bhattacharjee et.al.|[2407.21299](http://arxiv.org/abs/2407.21299)|null|
 |**2024-07-30**|**Accelerated forward-backward and Douglas-Rachford splitting dynamics**|Ibrahim K. Ozaslan et.al.|[2407.20620](http://arxiv.org/abs/2407.20620)|null|
 |**2024-07-29**|**Time series forecasting with high stakes: A field study of the air cargo industry**|Abhinav Garg et.al.|[2407.20192](http://arxiv.org/abs/2407.20192)|null|
 |**2024-07-30**|**Classification of freshwater snails of the genus Radomaniola with multimodal triplet networks**|Dennis Vetter et.al.|[2407.20013](http://arxiv.org/abs/2407.20013)|null|
