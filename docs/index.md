@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.05
+## Updated on 2024.08.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Quantization
@@ -196,7 +196,7 @@ layout: default
 |**2024-08-02**|**PsybORG+: Cognitive Modeling for Triggering and Detection of Cognitive Biases of Advanced Persistent Threats**|Shuo Huang et.al.|[2408.01310](http://arxiv.org/abs/2408.01310)|null|
 |**2024-08-02**|**Probabilistic Inversion Modeling of Gas Emissions: A Gradient-Based MCMC Estimation of Gaussian Plume Parameters**|Thomas Newman et.al.|[2408.01298](http://arxiv.org/abs/2408.01298)|null|
 |**2024-08-02**|**3DPX: Progressive 2D-to-3D Oral Image Reconstruction with Hybrid MLP-CNN Networks**|Xiaoshuang Li et.al.|[2408.01292](http://arxiv.org/abs/2408.01292)|null|
-|**2024-08-02**|**HRFT: Mining High-Frequency Risk Factor Collections End-to-End via Transformer**|Wenyan Xu et.al.|[2408.01271](http://arxiv.org/abs/2408.01271)|null|
+|**2024-08-05**|**HRFT: Mining High-Frequency Risk Factor Collections End-to-End via Transformer**|Wenyan Xu et.al.|[2408.01271](http://arxiv.org/abs/2408.01271)|null|
 |**2024-08-02**|**EmoBack: Backdoor Attacks Against Speaker Identification Using Emotional Prosody**|Coen Schoof et.al.|[2408.01178](http://arxiv.org/abs/2408.01178)|null|
 |**2024-08-02**|**TCR-GPT: Integrating Autoregressive Model and Reinforcement Learning for T-Cell Receptor Repertoires Generation**|Yicheng Lin et.al.|[2408.01156](http://arxiv.org/abs/2408.01156)|null|
 |**2024-08-02**|**A Survey of Mamba**|Haohao Qu et.al.|[2408.01129](http://arxiv.org/abs/2408.01129)|null|
