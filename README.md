@@ -25,6 +25,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-05**|**Evaluating and Utilizing Surrogate Outcomes in Covariate-Adjusted Response-Adaptive Designs**|Wenxin Zhang et.al.|[2408.02667](http://arxiv.org/abs/2408.02667)|null|
+|**2024-08-05**|**Self-Taught Evaluators**|Tianlu Wang et.al.|[2408.02666](http://arxiv.org/abs/2408.02666)|null|
+|**2024-08-05**|**Can Reinforcement Learning Unlock the Hidden Dangers in Aligned Large Language Models?**|Mohammad Bahrami Karkevandi et.al.|[2408.02651](http://arxiv.org/abs/2408.02651)|null|
+|**2024-08-05**|**SEAS: Self-Evolving Adversarial Safety Optimization for Large Language Models**|Muxi Diao et.al.|[2408.02632](http://arxiv.org/abs/2408.02632)|null|
+|**2024-08-05**|**Leveraging the Power of LLMs: A Fine-Tuning Approach for High-Quality Aspect-Based Summarization**|Ankan Mullick et.al.|[2408.02584](http://arxiv.org/abs/2408.02584)|null|
+|**2024-08-05**|**DanModCap: Designing a Danmaku Moderation Tool for Video-Sharing Platforms that Leverages Impact Captions**|Siying Hu et.al.|[2408.02574](http://arxiv.org/abs/2408.02574)|null|
+|**2024-08-05**|**Testing identifying assumptions in Tobit Models**|Santiago Acerenza et.al.|[2408.02573](http://arxiv.org/abs/2408.02573)|null|
+|**2024-08-05**|**HQOD: Harmonious Quantization for Object Detection**|Long Huang et.al.|[2408.02561](http://arxiv.org/abs/2408.02561)|null|
+|**2024-08-05**|**Evaluating and Enhancing LLMs Agent based on Theory of Mind in Guandan: A Multi-Player Cooperative Game under Imperfect Information**|Yauwai Yim et.al.|[2408.02559](http://arxiv.org/abs/2408.02559)|null|
+|**2024-08-05**|**Peer-induced Fairness: A Causal Approach to Reveal Algorithmic Unfairness in Credit Approval**|Shiqi Fang et.al.|[2408.02558](http://arxiv.org/abs/2408.02558)|null|
 |**2024-08-02**|**Prompt Recursive Search: A Living Framework with Adaptive Growth in LLM Auto-Prompting**|Xiangyu Zhao et.al.|[2408.01423](http://arxiv.org/abs/2408.01423)|null|
 |**2024-08-02**|**Linear response in planar Hall and thermal Hall setups for Rarita-Schwinger-Weyl semimetals**|Rahul Ghosh et.al.|[2408.01422](http://arxiv.org/abs/2408.01422)|null|
 |**2024-08-02**|**Mission Impossible: A Statistical Perspective on Jailbreaking LLMs**|Jingtong Su et.al.|[2408.01420](http://arxiv.org/abs/2408.01420)|null|
@@ -100,6 +110,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-05**|**PENDRAM: Enabling High-Performance and Energy-Efficient Processing of Deep Neural Networks through a Generalized DRAM Data Mapping Policy**|Rachmad Vidya Wicaksana Putra et.al.|[2408.02412](http://arxiv.org/abs/2408.02412)|null|
 |**2024-08-02**|**Digitized Phase Change Material Heterostack for Diffractive Optical Neural Network**|Ruiyang Chen et.al.|[2408.01404](http://arxiv.org/abs/2408.01404)|null|
 |**2024-08-02**|**Search-in-Memory (SiM): Reliable, Versatile, and Efficient Data Matching in SSD's NAND Flash Memory Chip for Data Indexing Acceleration**|Yun-Chih Chen et.al.|[2408.00327](http://arxiv.org/abs/2408.00327)|null|
 |**2024-07-28**|**Temporal Feature Matters: A Framework for Diffusion Model Quantization**|Yushi Huang et.al.|[2407.19547](http://arxiv.org/abs/2407.19547)|null|
@@ -121,6 +132,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-05**|**Toward Attention-based TinyML: A Heterogeneous Accelerated Architecture and Automated Deployment Flow**|Philip Wiese et.al.|[2408.02473](http://arxiv.org/abs/2408.02473)|null|
+|**2024-08-05**|**PENDRAM: Enabling High-Performance and Energy-Efficient Processing of Deep Neural Networks through a Generalized DRAM Data Mapping Policy**|Rachmad Vidya Wicaksana Putra et.al.|[2408.02412](http://arxiv.org/abs/2408.02412)|null|
 |**2024-08-02**|**A Tiny Supervised ODL Core with Auto Data Pruning for Human Activity Recognition**|Hiroki Matsutani et.al.|[2408.01283](http://arxiv.org/abs/2408.01283)|null|
 |**2024-07-29**|**HOAA: Hybrid Overestimating Approximate Adder for Enhanced Performance Processing Engine**|Omkar Kokane et.al.|[2408.00806](http://arxiv.org/abs/2408.00806)|null|
 |**2024-07-31**|**TinyChirp: Bird Song Recognition Using TinyML Models on Low-power Wireless Acoustic Sensors**|Zhaolan Huang et.al.|[2407.21453](http://arxiv.org/abs/2407.21453)|null|
@@ -218,6 +231,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-05**|**Evaluating and Utilizing Surrogate Outcomes in Covariate-Adjusted Response-Adaptive Designs**|Wenxin Zhang et.al.|[2408.02667](http://arxiv.org/abs/2408.02667)|null|
+|**2024-08-05**|**Can Reinforcement Learning Unlock the Hidden Dangers in Aligned Large Language Models?**|Mohammad Bahrami Karkevandi et.al.|[2408.02651](http://arxiv.org/abs/2408.02651)|null|
+|**2024-08-05**|**Testing identifying assumptions in Tobit Models**|Santiago Acerenza et.al.|[2408.02573](http://arxiv.org/abs/2408.02573)|null|
+|**2024-08-05**|**Peer-induced Fairness: A Causal Approach to Reveal Algorithmic Unfairness in Credit Approval**|Shiqi Fang et.al.|[2408.02558](http://arxiv.org/abs/2408.02558)|null|
+|**2024-08-05**|**Generative AI as a Service in 6G Edge-Cloud: Generation Task Offloading by In-context Learning**|Hao Zhou et.al.|[2408.02549](http://arxiv.org/abs/2408.02549)|null|
+|**2024-08-05**|**RAG Foundry: A Framework for Enhancing LLMs for Retrieval Augmented Generation**|Daniel Fleischer et.al.|[2408.02545](http://arxiv.org/abs/2408.02545)|null|
+|**2024-08-05**|**Flow with FlorDB: Incremental Context Maintenance for the Machine Learning Lifecycle**|Rolando Garcia et.al.|[2408.02498](http://arxiv.org/abs/2408.02498)|null|
+|**2024-08-05**|**Accelerated signal-to-noise ratio interpolation across the gravitational-wave signal manifold powered by artificial neural networks**|Ryan Magee et.al.|[2408.02470](http://arxiv.org/abs/2408.02470)|null|
+|**2024-08-05**|**Inferring firm-level supply chain networks with realistic systemic risk from industry sector-level data**|Massimiliano Fessina et.al.|[2408.02467](http://arxiv.org/abs/2408.02467)|null|
+|**2024-08-05**|**Traversing a thin lubricant film in finite time**|John Sebastian et.al.|[2408.02443](http://arxiv.org/abs/2408.02443)|null|
 |**2024-08-02**|**PsybORG+: Cognitive Modeling for Triggering and Detection of Cognitive Biases of Advanced Persistent Threats**|Shuo Huang et.al.|[2408.01310](http://arxiv.org/abs/2408.01310)|null|
 |**2024-08-02**|**Probabilistic Inversion Modeling of Gas Emissions: A Gradient-Based MCMC Estimation of Gaussian Plume Parameters**|Thomas Newman et.al.|[2408.01298](http://arxiv.org/abs/2408.01298)|null|
 |**2024-08-02**|**3DPX: Progressive 2D-to-3D Oral Image Reconstruction with Hybrid MLP-CNN Networks**|Xiaoshuang Li et.al.|[2408.01292](http://arxiv.org/abs/2408.01292)|null|
@@ -265,6 +288,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-05**|**Multi-level Traffic-Responsive Tilt Camera Surveillance through Predictive Correlated Online Learning**|Tao Li et.al.|[2408.02208](http://arxiv.org/abs/2408.02208)|null|
+|**2024-08-03**|**Real-time Hybrid System Identification with Online Deterministic Annealing**|Christos Mavridis et.al.|[2408.01730](http://arxiv.org/abs/2408.01730)|null|
+|**2024-08-03**|**Coordinating Planning and Tracking in Layered Control Policies via Actor-Critic Learning**|Fengjun Yang et.al.|[2408.01639](http://arxiv.org/abs/2408.01639)|null|
+|**2024-08-02**|**Trustworthy Machine Learning under Social and Adversarial Data Sources**|Han Shao et.al.|[2408.01596](http://arxiv.org/abs/2408.01596)|null|
 |**2024-08-02**|**Certified Robust Invariant Polytope Training in Neural Controlled ODEs**|Akash Harapanahalli et.al.|[2408.01273](http://arxiv.org/abs/2408.01273)|null|
 |**2024-07-31**|**Generalized Out-of-Distribution Detection and Beyond in Vision Language Model Era: A Survey**|Atsuyuki Miyai et.al.|[2407.21794](http://arxiv.org/abs/2407.21794)|null|
 |**2024-07-31**|**Diagnostic Runtime Monitoring with Martingales**|Ali Hindy et.al.|[2407.21748](http://arxiv.org/abs/2407.21748)|null|
