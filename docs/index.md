@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.07
+## Updated on 2024.08.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Quantization
@@ -22,8 +22,8 @@ layout: default
 |**2024-08-06**|**KaPO: Knowledge-aware Preference Optimization for Controllable Knowledge Selection in Retrieval-Augmented Language Models**|Ruizhe Zhang et.al.|[2408.03297](http://arxiv.org/abs/2408.03297)|null|
 |**2024-08-06**|**DopQ-ViT: Towards Distribution-Friendly and Outlier-Aware Post-Training Quantization for Vision Transformers**|Lianwei Yang et.al.|[2408.03291](http://arxiv.org/abs/2408.03291)|null|
 |**2024-08-06**|**SARA: Singular-Value Based Adaptive Low-Rank Adaption**|Jihao Gu et.al.|[2408.03290](http://arxiv.org/abs/2408.03290)|null|
-|**2024-08-06**|**Malicious Internet Entity Detection Using Local Graph Inference**|Simon Mandlik et.al.|[2408.03287](http://arxiv.org/abs/2408.03287)|null|
-|**2024-08-06**|**StructEval: Deepen and Broaden Large Language Model Assessment via Structured Evaluation**|Boxi Cao et.al.|[2408.03281](http://arxiv.org/abs/2408.03281)|null|
+|**2024-08-07**|**Malicious Internet Entity Detection Using Local Graph Inference**|Simon Mandlik et.al.|[2408.03287](http://arxiv.org/abs/2408.03287)|null|
+|**2024-08-07**|**StructEval: Deepen and Broaden Large Language Model Assessment via Structured Evaluation**|Boxi Cao et.al.|[2408.03281](http://arxiv.org/abs/2408.03281)|**[link](https://github.com/c-box/structeval)**|
 |**2024-08-05**|**Evaluating and Utilizing Surrogate Outcomes in Covariate-Adjusted Response-Adaptive Designs**|Wenxin Zhang et.al.|[2408.02667](http://arxiv.org/abs/2408.02667)|null|
 |**2024-08-05**|**Self-Taught Evaluators**|Tianlu Wang et.al.|[2408.02666](http://arxiv.org/abs/2408.02666)|null|
 |**2024-08-05**|**Can Reinforcement Learning Unlock the Hidden Dangers in Aligned Large Language Models?**|Mohammad Bahrami Karkevandi et.al.|[2408.02651](http://arxiv.org/abs/2408.02651)|null|
@@ -222,9 +222,9 @@ layout: default
 |**2024-08-06**|**MDT-A2G: Exploring Masked Diffusion Transformers for Co-Speech Gesture Generation**|Xiaofeng Mao et.al.|[2408.03312](http://arxiv.org/abs/2408.03312)|null|
 |**2024-08-06**|**Pre-training and in-context learning IS Bayesian inference a la De Finetti**|Naimeng Ye et.al.|[2408.03307](http://arxiv.org/abs/2408.03307)|null|
 |**2024-08-06**|**SARA: Singular-Value Based Adaptive Low-Rank Adaption**|Jihao Gu et.al.|[2408.03290](http://arxiv.org/abs/2408.03290)|null|
-|**2024-08-06**|**Malicious Internet Entity Detection Using Local Graph Inference**|Simon Mandlik et.al.|[2408.03287](http://arxiv.org/abs/2408.03287)|null|
+|**2024-08-07**|**Malicious Internet Entity Detection Using Local Graph Inference**|Simon Mandlik et.al.|[2408.03287](http://arxiv.org/abs/2408.03287)|null|
 |**2024-08-06**|**Regression analysis of elliptically symmetric direction data**|Zehao Yu et.al.|[2408.03268](http://arxiv.org/abs/2408.03268)|null|
-|**2024-08-06**|**Making Long-Context Language Models Better Multi-Hop Reasoners**|Yanyang Li et.al.|[2408.03246](http://arxiv.org/abs/2408.03246)|null|
+|**2024-08-06**|**Making Long-Context Language Models Better Multi-Hop Reasoners**|Yanyang Li et.al.|[2408.03246](http://arxiv.org/abs/2408.03246)|**[link](https://github.com/lavi-lab/longcontextreasoner)**|
 |**2024-08-06**|**LAC-Net: Linear-Fusion Attention-Guided Convolutional Network for Accurate Robotic Grasping Under the Occlusion**|Jinyu Zhang et.al.|[2408.03238](http://arxiv.org/abs/2408.03238)|null|
 |**2024-08-06**|**$\rm{SU}(3)_F$ sum rules for CP asymmetry of $D_{(s)}$ decays**|Syuhei Iguro et.al.|[2408.03227](http://arxiv.org/abs/2408.03227)|null|
 |**2024-08-05**|**Evaluating and Utilizing Surrogate Outcomes in Covariate-Adjusted Response-Adaptive Designs**|Wenxin Zhang et.al.|[2408.02667](http://arxiv.org/abs/2408.02667)|null|
