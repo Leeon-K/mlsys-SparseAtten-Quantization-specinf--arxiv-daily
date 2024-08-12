@@ -68,7 +68,7 @@
 |**2024-08-02**|**Prompt Recursive Search: A Living Framework with Adaptive Growth in LLM Auto-Prompting**|Xiangyu Zhao et.al.|[2408.01423](http://arxiv.org/abs/2408.01423)|null|
 |**2024-08-02**|**Linear response in planar Hall and thermal Hall setups for Rarita-Schwinger-Weyl semimetals**|Rahul Ghosh et.al.|[2408.01422](http://arxiv.org/abs/2408.01422)|null|
 |**2024-08-02**|**Mission Impossible: A Statistical Perspective on Jailbreaking LLMs**|Jingtong Su et.al.|[2408.01420](http://arxiv.org/abs/2408.01420)|null|
-|**2024-08-02**|**DebateQA: Evaluating Question Answering on Debatable Knowledge**|Rongwu Xu et.al.|[2408.01419](http://arxiv.org/abs/2408.01419)|null|
+|**2024-08-02**|**DebateQA: Evaluating Question Answering on Debatable Knowledge**|Rongwu Xu et.al.|[2408.01419](http://arxiv.org/abs/2408.01419)|**[link](https://github.com/pillowsofwind/debateqa)**|
 |**2024-08-02**|**Talk Less, Interact Better: Evaluating In-context Conversational Adaptation in Multimodal LLMs**|Yilun Hua et.al.|[2408.01417](http://arxiv.org/abs/2408.01417)|null|
 |**2024-08-02**|**Coalitions of Large Language Models Increase the Robustness of AI Agents**|Prattyush Mangal et.al.|[2408.01380](http://arxiv.org/abs/2408.01380)|null|
 |**2024-08-02**|**Toward Automatic Relevance Judgment using Vision--Language Models for Image--Text Retrieval Evaluation**|Jheng-Hong Yang et.al.|[2408.01363](http://arxiv.org/abs/2408.01363)|null|
@@ -78,7 +78,7 @@
 |**2024-08-01**|**Optimizing Diffusion Models for Joint Trajectory Prediction and Controllable Generation**|Yixiao Wang et.al.|[2408.00766](http://arxiv.org/abs/2408.00766)|null|
 |**2024-08-01**|**AgentGen: Enhancing Planning Abilities for Large Language Model based Agent via Environment and Task Generation**|Mengkang Hu et.al.|[2408.00764](http://arxiv.org/abs/2408.00764)|null|
 |**2024-08-01**|**Quantized electrical, thermal, and spin transports of non-Hermitian clean and dirty two-dimensional topological insulators and superconductors**|Sanjib Kumar Das et.al.|[2408.00763](http://arxiv.org/abs/2408.00763)|null|
-|**2024-08-01**|**Tamper-Resistant Safeguards for Open-Weight LLMs**|Rishub Tamirisa et.al.|[2408.00761](http://arxiv.org/abs/2408.00761)|null|
+|**2024-08-01**|**Tamper-Resistant Safeguards for Open-Weight LLMs**|Rishub Tamirisa et.al.|[2408.00761](http://arxiv.org/abs/2408.00761)|**[link](https://github.com/rishub-tamirisa/tamper-resistance)**|
 |**2024-08-01**|**Coarse Correspondence Elicit 3D Spacetime Understanding in Multimodal Language Model**|Benlin Liu et.al.|[2408.00754](http://arxiv.org/abs/2408.00754)|null|
 |**2024-08-01**|**On the Low-Temperature MCMC threshold: the cases of sparse tensor PCA, sparse regression, and a geometric rule**|Zongchen Chen et.al.|[2408.00746](http://arxiv.org/abs/2408.00746)|null|
 |**2024-08-01**|**DynamoLLM: Designing LLM Inference Clusters for Performance and Energy Efficiency**|Jovan Stojkovic et.al.|[2408.00741](http://arxiv.org/abs/2408.00741)|null|
@@ -248,7 +248,7 @@
 |**2024-07-26**|**Boosting Cross-Domain Point Classification via Distilling Relational Priors from 2D Transformers**|Longkun Zou et.al.|[2407.18534](http://arxiv.org/abs/2407.18534)|**[link](https://github.com/zou-longkun/rpd)**|
 |**2024-07-26**|**FedUD: Exploiting Unaligned Data for Cross-Platform Federated Click-Through Rate Prediction**|Wentao Ouyang et.al.|[2407.18472](http://arxiv.org/abs/2407.18472)|null|
 |**2024-07-26**|**Towards A Generalizable Pathology Foundation Model via Unified Knowledge Distillation**|Jiabo Ma et.al.|[2407.18449](http://arxiv.org/abs/2407.18449)|null|
-|**2024-07-25**|**Leveraging Foundation Models via Knowledge Distillation in Multi-Object Tracking: Distilling DINOv2 Features to FairMOT**|Niels G. Faber et.al.|[2407.18288](http://arxiv.org/abs/2407.18288)|null|
+|**2024-07-25**|**Leveraging Foundation Models via Knowledge Distillation in Multi-Object Tracking: Distilling DINOv2 Features to FairMOT**|Niels G. Faber et.al.|[2407.18288](http://arxiv.org/abs/2407.18288)|**[link](https://github.com/NissaFaber/Thesis_repo)**|
 |**2024-07-25**|**Self-Training with Direct Preference Optimization Improves Chain-of-Thought Reasoning**|Tianduo Wang et.al.|[2407.18248](http://arxiv.org/abs/2407.18248)|**[link](https://github.com/tianduowang/dpo-st)**|
 |**2024-07-25**|**How to Train the Teacher Model for Effective Knowledge Distillation**|Shayan Mohajer Hamidi et.al.|[2407.18041](http://arxiv.org/abs/2407.18041)|**[link](https://github.com/eccv2024mse/eccv_mse_teacher)**|
 |**2024-07-25**|**Peak-Controlled Logits Poisoning Attack in Federated Distillation**|Yuhan Tang et.al.|[2407.18039](http://arxiv.org/abs/2407.18039)|null|
@@ -313,7 +313,7 @@
 |**2024-08-02**|**EmoBack: Backdoor Attacks Against Speaker Identification Using Emotional Prosody**|Coen Schoof et.al.|[2408.01178](http://arxiv.org/abs/2408.01178)|null|
 |**2024-08-02**|**TCR-GPT: Integrating Autoregressive Model and Reinforcement Learning for T-Cell Receptor Repertoires Generation**|Yicheng Lin et.al.|[2408.01156](http://arxiv.org/abs/2408.01156)|null|
 |**2024-08-02**|**A Survey of Mamba**|Haohao Qu et.al.|[2408.01129](http://arxiv.org/abs/2408.01129)|null|
-|**2024-08-02**|**An Efficient and Effective Transformer Decoder-Based Framework for Multi-Task Visual Grounding**|Wei Chen et.al.|[2408.01120](http://arxiv.org/abs/2408.01120)|null|
+|**2024-08-02**|**An Efficient and Effective Transformer Decoder-Based Framework for Multi-Task Visual Grounding**|Wei Chen et.al.|[2408.01120](http://arxiv.org/abs/2408.01120)|**[link](https://github.com/chenwei746/eevg)**|
 |**2024-08-02**|**Parametrized Families of Gibbs Measures and their Statistical Inference**|Manfred Denker et.al.|[2408.01104](http://arxiv.org/abs/2408.01104)|null|
 |**2024-08-02**|**The Impact of Hyperparameters on Large Language Model Inference Performance: An Evaluation of vLLM and HuggingFace Pipelines**|Matias Martinez et.al.|[2408.01050](http://arxiv.org/abs/2408.01050)|null|
 |**2024-08-01**|**Optimizing Diffusion Models for Joint Trajectory Prediction and Controllable Generation**|Yixiao Wang et.al.|[2408.00766](http://arxiv.org/abs/2408.00766)|null|
