@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-10**|**Preserving Privacy in Large Language Models: A Survey on Current Threats and Solutions**|Michele Miranda et.al.|[2408.05212](http://arxiv.org/abs/2408.05212)|null|
+|**2024-08-09**|**VITA: Towards Open-Source Interactive Omni Multimodal LLM**|Chaoyou Fu et.al.|[2408.05211](http://arxiv.org/abs/2408.05211)|null|
+|**2024-08-09**|**Holographic thermal correlators and quasinormal modes from semiclassical Virasoro blocks**|Hewei Frederic Jia et.al.|[2408.05208](http://arxiv.org/abs/2408.05208)|null|
+|**2024-08-09**|**Evaluating the capability of large language models to personalize science texts for diverse middle-school-age learners**|Michael Vaccaro Jr et.al.|[2408.05204](http://arxiv.org/abs/2408.05204)|null|
+|**2024-08-09**|**TaSL: Task Skill Localization and Consolidation for Language Model Continual Learning**|Yujie Feng et.al.|[2408.05200](http://arxiv.org/abs/2408.05200)|null|
+|**2024-08-09**|**On "Consistent Quantization of Nearly Singular Superconducting Circuits"**|I. L. Egusquiza et.al.|[2408.05174](http://arxiv.org/abs/2408.05174)|null|
+|**2024-08-09**|**Revisiting physical parameters of the benchmark brown dwarf LHS 6343 C through a HST/WFC3 secondary eclipse observation**|William Frost et.al.|[2408.05173](http://arxiv.org/abs/2408.05173)|null|
+|**2024-08-09**|**EasyInv: Toward Fast and Better DDIM Inversion**|Ziyue Zhang et.al.|[2408.05159](http://arxiv.org/abs/2408.05159)|null|
+|**2024-08-09**|**Sparsity-Preserving Encodings for Straggler-Optimal Distributed Matrix Computations at the Edge**|Anindya Bijoy Das et.al.|[2408.05152](http://arxiv.org/abs/2408.05152)|null|
+|**2024-08-09**|**AttackER: Towards Enhancing Cyber-Attack Attribution with a Named Entity Recognition Dataset**|Pritam Deka et.al.|[2408.05149](http://arxiv.org/abs/2408.05149)|null|
 |**2024-08-08**|**Arctic-TILT. Business Document Understanding at Sub-Billion Scale**|Łukasz Borchmann et.al.|[2408.04632](http://arxiv.org/abs/2408.04632)|null|
 |**2024-08-08**|**Difference-in-Differences for Health Policy and Practice: A Review of Modern Methods**|Shuo Feng et.al.|[2408.04617](http://arxiv.org/abs/2408.04617)|null|
 |**2024-08-08**|**Better Alignment with Instruction Back-and-Forth Translation**|Thao Nguyen et.al.|[2408.04614](http://arxiv.org/abs/2408.04614)|null|
@@ -125,6 +135,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-08**|**Noise-augmented Chaotic Ising Machines for Combinatorial Optimization and Sampling**|Kyle Lee et.al.|[2408.04744](http://arxiv.org/abs/2408.04744)|null|
 |**2024-08-07**|**Hardware-Assisted Virtualization of Neural Processing Units for Cloud Platforms**|Yuqi Xue et.al.|[2408.04104](http://arxiv.org/abs/2408.04104)|null|
 |**2024-08-07**|**Real-time Event Recognition of Long-distance Distributed Vibration Sensing with Knowledge Distillation and Hardware Acceleration**|Zhongyao Luo et.al.|[2408.03647](http://arxiv.org/abs/2408.03647)|null|
 |**2024-08-06**|**LLM-Aided Compilation for Tensor Accelerators**|Charles Hong et.al.|[2408.03408](http://arxiv.org/abs/2408.03408)|null|
@@ -241,6 +252,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-10**|**Preserving Privacy in Large Language Models: A Survey on Current Threats and Solutions**|Michele Miranda et.al.|[2408.05212](http://arxiv.org/abs/2408.05212)|null|
+|**2024-08-09**|**Revisiting physical parameters of the benchmark brown dwarf LHS 6343 C through a HST/WFC3 secondary eclipse observation**|William Frost et.al.|[2408.05173](http://arxiv.org/abs/2408.05173)|null|
+|**2024-08-09**|**EasyInv: Toward Fast and Better DDIM Inversion**|Ziyue Zhang et.al.|[2408.05159](http://arxiv.org/abs/2408.05159)|null|
+|**2024-08-09**|**Sparsity-Preserving Encodings for Straggler-Optimal Distributed Matrix Computations at the Edge**|Anindya Bijoy Das et.al.|[2408.05152](http://arxiv.org/abs/2408.05152)|null|
+|**2024-08-09**|**Impacts of floating-point non-associativity on reproducibility for HPC and deep learning applications**|Sanjif Shanmugavelu et.al.|[2408.05148](http://arxiv.org/abs/2408.05148)|null|
+|**2024-08-09**|**Cycle-Configuration: A Novel Graph-theoretic Descriptor Set for Molecular Inference**|Bowen Song et.al.|[2408.05136](http://arxiv.org/abs/2408.05136)|null|
+|**2024-08-09**|**Range Membership Inference Attacks**|Jiashu Tao et.al.|[2408.05131](http://arxiv.org/abs/2408.05131)|null|
+|**2024-08-09**|**Depth Helps: Improving Pre-trained RGB-based Policy with Depth Information Injection**|Xincheng Pang et.al.|[2408.05107](http://arxiv.org/abs/2408.05107)|null|
+|**2024-08-09**|**Spatial Deconfounding is Reasonable Statistical Practice: Interpretations, Clarifications, and New Benefits**|Jonathan R. Bradley et.al.|[2408.05106](http://arxiv.org/abs/2408.05106)|null|
+|**2024-08-09**|**Order Matters in Hallucination: Reasoning Order as Benchmark and Reflexive Prompting for Large-Language-Models**|Zikai Xie et.al.|[2408.05093](http://arxiv.org/abs/2408.05093)|**[link](https://github.com/xiezikai/reflexiveprompting)**|
 |**2024-08-08**|**Arctic-TILT. Business Document Understanding at Sub-Billion Scale**|Łukasz Borchmann et.al.|[2408.04632](http://arxiv.org/abs/2408.04632)|null|
 |**2024-08-08**|**Difference-in-Differences for Health Policy and Practice: A Review of Modern Methods**|Shuo Feng et.al.|[2408.04617](http://arxiv.org/abs/2408.04617)|null|
 |**2024-08-08**|**Towards High-resolution 3D Anomaly Detection via Group-Level Feature Contrastive Learning**|Hongze Zhu et.al.|[2408.04604](http://arxiv.org/abs/2408.04604)|null|
@@ -326,6 +347,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-09**|**Cautious Calibration in Binary Classification**|Mari-Liis Allikivi et.al.|[2408.05120](http://arxiv.org/abs/2408.05120)|null|
 |**2024-08-08**|**Inference with the Upper Confidence Bound Algorithm**|Koulik Khamaru et.al.|[2408.04595](http://arxiv.org/abs/2408.04595)|**[link](https://github.com/koulikberkeley/ucb-stability-plots)**|
 |**2024-08-08**|**Federated Cubic Regularized Newton Learning with Sparsification-amplified Differential Privacy**|Wei Huo et.al.|[2408.04315](http://arxiv.org/abs/2408.04315)|null|
 |**2024-08-08**|**The Ungrounded Alignment Problem**|Marc Pickett et.al.|[2408.04242](http://arxiv.org/abs/2408.04242)|**[link](https://github.com/EmergenceAI/babybeaver)**|
