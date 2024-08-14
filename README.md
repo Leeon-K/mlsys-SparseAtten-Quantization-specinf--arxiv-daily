@@ -25,6 +25,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-13**|**Discretization effects in finite-volume $2\to2$ scattering**|Maxwell T. Hansen et.al.|[2408.07062](http://arxiv.org/abs/2408.07062)|null|
+|**2024-08-13**|**Diversity Empowers Intelligence: Integrating Expertise of Software Engineering Agents**|Kexun Zhang et.al.|[2408.07060](http://arxiv.org/abs/2408.07060)|null|
+|**2024-08-13**|**Model Counting in the Wild**|Arijit Shaw et.al.|[2408.07059](http://arxiv.org/abs/2408.07059)|null|
+|**2024-08-13**|**LongWriter: Unleashing 10,000+ Word Generation from Long Context LLMs**|Yushi Bai et.al.|[2408.07055](http://arxiv.org/abs/2408.07055)|**[link](https://github.com/thudm/longwriter)**|
+|**2024-08-13**|**Multi-soliton solutions and data-driven discovery of higher-order Burgers' hierarchy equations with physics informed neural networks**|D. A. Kaltsas et.al.|[2408.07027](http://arxiv.org/abs/2408.07027)|null|
+|**2024-08-13**|**A new non-parametric method to infer galaxy cluster masses from weak lensing**|Tobias Mistele et.al.|[2408.07026](http://arxiv.org/abs/2408.07026)|null|
+|**2024-08-13**|**Efficient Human-Object-Interaction (EHOI) Detection via Interaction Label Coding and Conditional Decision**|Tsung-Shan Yang et.al.|[2408.07018](http://arxiv.org/abs/2408.07018)|null|
+|**2024-08-13**|**Casper: Prompt Sanitization for Protecting User Privacy in Web-Based Large Language Models**|Chun Jie Chong et.al.|[2408.07004](http://arxiv.org/abs/2408.07004)|null|
+|**2024-08-13**|**Generative AI for automatic topic labelling**|Diego Kozlowski et.al.|[2408.07003](http://arxiv.org/abs/2408.07003)|null|
+|**2024-08-13**|**Low-Bitwidth Floating Point Quantization for Efficient High-Quality Diffusion Models**|Cheng Chen et.al.|[2408.06995](http://arxiv.org/abs/2408.06995)|null|
 |**2024-08-12**|**Analytical Weak Lensing Shear Inference for Precision Cosmology**|Xiangchong Li et.al.|[2408.06337](http://arxiv.org/abs/2408.06337)|null|
 |**2024-08-12**|**FastFiD: Improve Inference Efficiency of Open Domain Question Answering via Sentence Selection**|Yufei Huang et.al.|[2408.06333](http://arxiv.org/abs/2408.06333)|**[link](https://github.com/thunlp/fastfid)**|
 |**2024-08-12**|**Animate, or Inanimate, That is the Question for Large Language Models**|Leonardo Ranaldi et.al.|[2408.06332](http://arxiv.org/abs/2408.06332)|null|
@@ -160,6 +170,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-13**|**HLSPilot: LLM-based High-Level Synthesis**|Chenwei Xiong et.al.|[2408.06810](http://arxiv.org/abs/2408.06810)|null|
 |**2024-08-12**|**Hardware Architecture Design of Model-Based Image Reconstruction Towards Palm-size Photoacoustic Tomography**|Yuwei Zheng et.al.|[2408.06049](http://arxiv.org/abs/2408.06049)|null|
 |**2024-08-12**|**SZKP: A Scalable Accelerator Architecture for Zero-Knowledge Proofs**|Alhad Daftardar et.al.|[2408.05890](http://arxiv.org/abs/2408.05890)|null|
 |**2024-08-10**|**LLMServingSim: A HW/SW Co-Simulation Infrastructure for LLM Inference Serving at Scale**|Jaehong Cho et.al.|[2408.05499](http://arxiv.org/abs/2408.05499)|**[link](https://github.com/casys-kaist/llmservingsim)**|
@@ -190,12 +201,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-13**|**Harnessing Earnings Reports for Stock Predictions: A QLoRA-Enhanced LLM Approach**|Haowei Ni et.al.|[2408.06634](http://arxiv.org/abs/2408.06634)|null|
 |**2024-08-06**|**Training on the Fly: On-device Self-supervised Learning aboard Nano-drones within 20 mW**|Elia Cereda et.al.|[2408.03168](http://arxiv.org/abs/2408.03168)|null|
 |**2024-08-05**|**Toward Attention-based TinyML: A Heterogeneous Accelerated Architecture and Automated Deployment Flow**|Philip Wiese et.al.|[2408.02473](http://arxiv.org/abs/2408.02473)|null|
 |**2024-08-05**|**PENDRAM: Enabling High-Performance and Energy-Efficient Processing of Deep Neural Networks through a Generalized DRAM Data Mapping Policy**|Rachmad Vidya Wicaksana Putra et.al.|[2408.02412](http://arxiv.org/abs/2408.02412)|null|
 |**2024-08-02**|**A Tiny Supervised ODL Core with Auto Data Pruning for Human Activity Recognition**|Hiroki Matsutani et.al.|[2408.01283](http://arxiv.org/abs/2408.01283)|null|
 |**2024-07-29**|**HOAA: Hybrid Overestimating Approximate Adder for Enhanced Performance Processing Engine**|Omkar Kokane et.al.|[2408.00806](http://arxiv.org/abs/2408.00806)|null|
-|**2024-07-31**|**TinyChirp: Bird Song Recognition Using TinyML Models on Low-power Wireless Acoustic Sensors**|Zhaolan Huang et.al.|[2407.21453](http://arxiv.org/abs/2407.21453)|null|
+|**2024-07-31**|**TinyChirp: Bird Song Recognition Using TinyML Models on Low-power Wireless Acoustic Sensors**|Zhaolan Huang et.al.|[2407.21453](http://arxiv.org/abs/2407.21453)|**[link](https://github.com/TinyPART/TinyBirdSounds)**|
 |**2024-07-31**|**SHA-CNN: Scalable Hierarchical Aware Convolutional Neural Network for Edge AI**|Narendra Singh Dhakad et.al.|[2407.21370](http://arxiv.org/abs/2407.21370)|null|
 |**2024-07-30**|**On-the-fly Communication-and-Computing to Enable Representation Learning for Distributed Point Clouds**|Xu Chen et.al.|[2407.20710](http://arxiv.org/abs/2407.20710)|null|
 |**2024-07-29**|**Model Agnostic Hybrid Sharding For Heterogeneous Distributed Inference**|Claudio Angione et.al.|[2407.19775](http://arxiv.org/abs/2407.19775)|null|
@@ -290,6 +302,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-13**|**Model Counting in the Wild**|Arijit Shaw et.al.|[2408.07059](http://arxiv.org/abs/2408.07059)|null|
+|**2024-08-13**|**LongWriter: Unleashing 10,000+ Word Generation from Long Context LLMs**|Yushi Bai et.al.|[2408.07055](http://arxiv.org/abs/2408.07055)|**[link](https://github.com/thudm/longwriter)**|
+|**2024-08-13**|**Multi-soliton solutions and data-driven discovery of higher-order Burgers' hierarchy equations with physics informed neural networks**|D. A. Kaltsas et.al.|[2408.07027](http://arxiv.org/abs/2408.07027)|null|
+|**2024-08-13**|**A new non-parametric method to infer galaxy cluster masses from weak lensing**|Tobias Mistele et.al.|[2408.07026](http://arxiv.org/abs/2408.07026)|null|
+|**2024-08-13**|**Efficient Human-Object-Interaction (EHOI) Detection via Interaction Label Coding and Conditional Decision**|Tsung-Shan Yang et.al.|[2408.07018](http://arxiv.org/abs/2408.07018)|null|
+|**2024-08-13**|**Low-Bitwidth Floating Point Quantization for Efficient High-Quality Diffusion Models**|Cheng Chen et.al.|[2408.06995](http://arxiv.org/abs/2408.06995)|null|
+|**2024-08-13**|**Endogeneity Corrections in Binary Outcome Models with Nonlinear Transformations: Identification and Inference**|Alexander Mayer et.al.|[2408.06977](http://arxiv.org/abs/2408.06977)|null|
+|**2024-08-13**|**Kilonova Light Curve Parameter Estimation Using Likelihood-Free Inference**|Malina Desai et.al.|[2408.06947](http://arxiv.org/abs/2408.06947)|null|
+|**2024-08-13**|**Spherical-oblate shape coexistence in $^{94}$ Zr from a model-independent analysis**|N. Marchini et.al.|[2408.06940](http://arxiv.org/abs/2408.06940)|null|
+|**2024-08-13**|**Breaking Class Barriers: Efficient Dataset Distillation via Inter-Class Feature Compensator**|Xin Zhang et.al.|[2408.06927](http://arxiv.org/abs/2408.06927)|null|
 |**2024-08-12**|**Analytical Weak Lensing Shear Inference for Precision Cosmology**|Xiangchong Li et.al.|[2408.06337](http://arxiv.org/abs/2408.06337)|null|
 |**2024-08-12**|**FastFiD: Improve Inference Efficiency of Open Domain Question Answering via Sentence Selection**|Yufei Huang et.al.|[2408.06333](http://arxiv.org/abs/2408.06333)|**[link](https://github.com/thunlp/fastfid)**|
 |**2024-08-12**|**Infer-and-widen versus split-and-condition: two tales of selective inference**|Ronan Perry et.al.|[2408.06323](http://arxiv.org/abs/2408.06323)|null|
@@ -397,8 +419,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-13**|**Variance-Reduced Cascade Q-learning: Algorithms and Sample Complexity**|Mohammad Boveiri et.al.|[2408.06544](http://arxiv.org/abs/2408.06544)|null|
+|**2024-08-12**|**Wireless Channel Aware Data Augmentation Methods for Deep Leaning-Based Indoor Localization**|Omer Gokalp Serbetci et.al.|[2408.06452](http://arxiv.org/abs/2408.06452)|null|
 |**2024-08-12**|**Finding Patterns in Ambiguity: Interpretable Stress Testing in the Decision~Boundary**|Inês Gomes et.al.|[2408.06302](http://arxiv.org/abs/2408.06302)|**[link](https://github.com/inesgomes/db-patterns)**|
 |**2024-08-12**|**Online-Score-Aided Federated Learning: Taming the Resource Constraints in Wireless Networks**|Md Ferdous Pervej et.al.|[2408.05886](http://arxiv.org/abs/2408.05886)|null|
+|**2024-08-11**|**On zero-shot learning in neural state estimation of power distribution systems**|Aleksandr Berezin et.al.|[2408.05787](http://arxiv.org/abs/2408.05787)|**[link](https://gitlab.com/transense/nse-tl-paper)**|
 |**2024-08-11**|**Predicting Chaotic System Behavior using Machine Learning Techniques**|Huaiyuan Rao et.al.|[2408.05702](http://arxiv.org/abs/2408.05702)|null|
 |**2024-08-09**|**Cautious Calibration in Binary Classification**|Mari-Liis Allikivi et.al.|[2408.05120](http://arxiv.org/abs/2408.05120)|null|
 |**2024-08-08**|**Inference with the Upper Confidence Bound Algorithm**|Koulik Khamaru et.al.|[2408.04595](http://arxiv.org/abs/2408.04595)|**[link](https://github.com/koulikberkeley/ucb-stability-plots)**|
