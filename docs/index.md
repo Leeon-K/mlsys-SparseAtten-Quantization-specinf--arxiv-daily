@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.14
+## Updated on 2024.08.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Quantization
@@ -284,7 +284,7 @@ layout: default
 |**2024-08-13**|**Efficient Human-Object-Interaction (EHOI) Detection via Interaction Label Coding and Conditional Decision**|Tsung-Shan Yang et.al.|[2408.07018](http://arxiv.org/abs/2408.07018)|null|
 |**2024-08-13**|**Low-Bitwidth Floating Point Quantization for Efficient High-Quality Diffusion Models**|Cheng Chen et.al.|[2408.06995](http://arxiv.org/abs/2408.06995)|null|
 |**2024-08-13**|**Endogeneity Corrections in Binary Outcome Models with Nonlinear Transformations: Identification and Inference**|Alexander Mayer et.al.|[2408.06977](http://arxiv.org/abs/2408.06977)|null|
-|**2024-08-13**|**Kilonova Light Curve Parameter Estimation Using Likelihood-Free Inference**|Malina Desai et.al.|[2408.06947](http://arxiv.org/abs/2408.06947)|null|
+|**2024-08-14**|**Kilonova Light Curve Parameter Estimation Using Likelihood-Free Inference**|Malina Desai et.al.|[2408.06947](http://arxiv.org/abs/2408.06947)|null|
 |**2024-08-13**|**Spherical-oblate shape coexistence in $^{94}$ Zr from a model-independent analysis**|N. Marchini et.al.|[2408.06940](http://arxiv.org/abs/2408.06940)|null|
 |**2024-08-13**|**Breaking Class Barriers: Efficient Dataset Distillation via Inter-Class Feature Compensator**|Xin Zhang et.al.|[2408.06927](http://arxiv.org/abs/2408.06927)|null|
 |**2024-08-12**|**Analytical Weak Lensing Shear Inference for Precision Cosmology**|Xiangchong Li et.al.|[2408.06337](http://arxiv.org/abs/2408.06337)|null|
