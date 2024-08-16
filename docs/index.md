@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.15
+## Updated on 2024.08.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Quantization
@@ -17,7 +17,7 @@ layout: default
 |**2024-08-14**|**The Death of Schema Linking? Text-to-SQL in the Age of Well-Reasoned Language Models**|Karime Maamari et.al.|[2408.07702](http://arxiv.org/abs/2408.07702)|null|
 |**2024-08-14**|**Profile Likelihoods in Cosmology: When, Why and How illustrated with $Λ$ CDM, Massive Neutrinos and Dark Energy**|Laura Herold et.al.|[2408.07700](http://arxiv.org/abs/2408.07700)|null|
 |**2024-08-14**|**Kilonova Emissions from Neutron Star Merger Remnants: Implications for Nuclear Equation of State**|Kelsey A. Lund et.al.|[2408.07686](http://arxiv.org/abs/2408.07686)|null|
-|**2024-08-14**|**Model Merging in LLMs, MLLMs, and Beyond: Methods, Theories, Applications and Opportunities**|Enneng Yang et.al.|[2408.07666](http://arxiv.org/abs/2408.07666)|**[link](https://github.com/ennengyang/awesome-model-merging-methods-theories-applications)**|
+|**2024-08-15**|**Model Merging in LLMs, MLLMs, and Beyond: Methods, Theories, Applications and Opportunities**|Enneng Yang et.al.|[2408.07666](http://arxiv.org/abs/2408.07666)|**[link](https://github.com/ennengyang/awesome-model-merging-methods-theories-applications)**|
 |**2024-08-14**|**Spoken Stereoset: On Evaluating Social Bias Toward Speaker in Speech Large Language Models**|Yi-Cheng Lin et.al.|[2408.07665](http://arxiv.org/abs/2408.07665)|null|
 |**2024-08-14**|**Properties of sunspot light bridges on a geometric height scale**|S. Esteban Pozuelo et.al.|[2408.07645](http://arxiv.org/abs/2408.07645)|null|
 |**2024-08-14**|**WeKnow-RAG: An Adaptive Approach for Retrieval-Augmented Generation Integrating Web Search and Knowledge Graphs**|Weijian Xie et.al.|[2408.07611](http://arxiv.org/abs/2408.07611)|null|
