@@ -25,6 +25,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-19**|**Extended Quantum Anomalous Hall States in Graphene/hBN Moiré Superlattices**|Zhengguang Lu et.al.|[2408.10203](http://arxiv.org/abs/2408.10203)|null|
+|**2024-08-19**|**Demystifying the Communication Characteristics for Distributed Transformer Models**|Quentin Anthony et.al.|[2408.10197](http://arxiv.org/abs/2408.10197)|null|
+|**2024-08-19**|**Transformers to SSMs: Distilling Quadratic Knowledge to Subquadratic Models**|Aviv Bick et.al.|[2408.10189](http://arxiv.org/abs/2408.10189)|null|
+|**2024-08-19**|**LongVILA: Scaling Long-Context Visual Language Models for Long Videos**|Fuzhao Xue et.al.|[2408.10188](http://arxiv.org/abs/2408.10188)|**[link](https://github.com/nvlabs/vila)**|
+|**2024-08-19**|**Customizing Language Models with Instance-wise LoRA for Sequential Recommendation**|Xiaoyu Kong et.al.|[2408.10159](http://arxiv.org/abs/2408.10159)|null|
+|**2024-08-19**|**Multilingual Needle in a Haystack: Investigating Long-Context Behavior of Multilingual Large Language Models**|Amey Hengle et.al.|[2408.10151](http://arxiv.org/abs/2408.10151)|null|
+|**2024-08-19**|**In-Context Learning with Representations: Contextual Generalization of Trained Transformers**|Tong Yang et.al.|[2408.10147](http://arxiv.org/abs/2408.10147)|null|
+|**2024-08-19**|**Instruction Finetuning for Leaderboard Generation from Empirical AI Research**|Salomon Kabongo et.al.|[2408.10141](http://arxiv.org/abs/2408.10141)|null|
+|**2024-08-19**|**Advancing Voice Cloning for Nepali: Leveraging Transfer Learning in a Low-Resource Language**|Manjil Karki et.al.|[2408.10128](http://arxiv.org/abs/2408.10128)|null|
+|**2024-08-19**|**Molecular Graph Representation Learning Integrating Large Language Models with Domain-specific Small Models**|Tianyu Zhang et.al.|[2408.10124](http://arxiv.org/abs/2408.10124)|**[link](https://github.com/zhangtia16/molgraph-lardo)**|
 |**2024-08-19**|**PEDAL: Enhancing Greedy Decoding with Large Language Models using Diverse Exemplars**|Sumanth Prabhu et.al.|[2408.08869](http://arxiv.org/abs/2408.08869)|null|
 |**2024-08-16**|**PsychoLex: Unveiling the Psychological Mind of Large Language Models**|Mohammad Amin Abbasi et.al.|[2408.08848](http://arxiv.org/abs/2408.08848)|null|
 |**2024-08-16**|**Shapley Marginal Surplus for Strong Models**|Daniel de Marchi et.al.|[2408.08845](http://arxiv.org/abs/2408.08845)|null|
@@ -233,6 +243,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-18**|**Challenges and Responses in the Practice of Large Language Models**|Hongyin Zhu et.al.|[2408.09416](http://arxiv.org/abs/2408.09416)|null|
 |**2024-08-15**|**Moving Healthcare AI-Support Systems for Visually Detectable Diseases onto Constrained Devices**|Tess Watt et.al.|[2408.08215](http://arxiv.org/abs/2408.08215)|null|
 |**2024-08-14**|**Efficient Edge AI: Deploying Convolutional Neural Networks on FPGA with the Gemmini Accelerator**|Federico Nicolas Peccia et.al.|[2408.07404](http://arxiv.org/abs/2408.07404)|null|
 |**2024-08-13**|**Harnessing Earnings Reports for Stock Predictions: A QLoRA-Enhanced LLM Approach**|Haowei Ni et.al.|[2408.06634](http://arxiv.org/abs/2408.06634)|null|
@@ -336,6 +347,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-19**|**Transformers to SSMs: Distilling Quadratic Knowledge to Subquadratic Models**|Aviv Bick et.al.|[2408.10189](http://arxiv.org/abs/2408.10189)|null|
+|**2024-08-19**|**LongVILA: Scaling Long-Context Visual Language Models for Long Videos**|Fuzhao Xue et.al.|[2408.10188](http://arxiv.org/abs/2408.10188)|**[link](https://github.com/nvlabs/vila)**|
+|**2024-08-19**|**Multilingual Needle in a Haystack: Investigating Long-Context Behavior of Multilingual Large Language Models**|Amey Hengle et.al.|[2408.10151](http://arxiv.org/abs/2408.10151)|null|
+|**2024-08-19**|**In-Context Learning with Representations: Contextual Generalization of Trained Transformers**|Tong Yang et.al.|[2408.10147](http://arxiv.org/abs/2408.10147)|null|
+|**2024-08-19**|**Instruction Finetuning for Leaderboard Generation from Empirical AI Research**|Salomon Kabongo et.al.|[2408.10141](http://arxiv.org/abs/2408.10141)|null|
+|**2024-08-19**|**Advancing Voice Cloning for Nepali: Leveraging Transfer Learning in a Low-Resource Language**|Manjil Karki et.al.|[2408.10128](http://arxiv.org/abs/2408.10128)|null|
+|**2024-08-19**|**Shape inference in three-dimensional steady state supersonic flows using ODIL and JAX-Fluids**|Aaron B. Buhendwa et.al.|[2408.10094](http://arxiv.org/abs/2408.10094)|null|
+|**2024-08-19**|**Non-Plug-In Estimators Could Outperform Plug-In Estimators: a Cautionary Note and a Diagnosis**|Hongxiang Qiu et.al.|[2408.10091](http://arxiv.org/abs/2408.10091)|null|
+|**2024-08-19**|**Personalizing Reinforcement Learning from Human Feedback with Variational Preference Learning**|Sriyash Poddar et.al.|[2408.10075](http://arxiv.org/abs/2408.10075)|null|
+|**2024-08-19**|**MSDiagnosis: An EMR-based Dataset for Clinical Multi-Step Diagnosis**|Ruihui Hou et.al.|[2408.10039](http://arxiv.org/abs/2408.10039)|null|
 |**2024-08-19**|**PEDAL: Enhancing Greedy Decoding with Large Language Models using Diverse Exemplars**|Sumanth Prabhu et.al.|[2408.08869](http://arxiv.org/abs/2408.08869)|null|
 |**2024-08-16**|**Shapley Marginal Surplus for Strong Models**|Daniel de Marchi et.al.|[2408.08845](http://arxiv.org/abs/2408.08845)|null|
 |**2024-08-16**|**Xpikeformer: Hybrid Analog-Digital Hardware Acceleration for Spiking Transformers**|Zihang Song et.al.|[2408.08794](http://arxiv.org/abs/2408.08794)|null|
@@ -483,6 +504,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-18**|**Behavioral Learning of Dish Rinsing and Scrubbing based on Interruptive Direct Teaching Considering Assistance Rate**|Shumpei Wakabayashi et.al.|[2408.09360](http://arxiv.org/abs/2408.09360)|null|
 |**2024-08-19**|**A new perspective on Bayesian Operational Modal Analysis**|Brandon J. O'Connell et.al.|[2408.08664](http://arxiv.org/abs/2408.08664)|null|
 |**2024-08-16**|**RadioDiff: An Effective Generative Diffusion Model for Sampling-Free Dynamic Radio Map Construction**|Xiucheng Wang et.al.|[2408.08593](http://arxiv.org/abs/2408.08593)|**[link](https://github.com/unic-lab/radiodiff)**|
 |**2024-08-15**|**A semi-centralized multi-agent RL framework for efficient irrigation scheduling**|Bernard T. Agyeman et.al.|[2408.08442](http://arxiv.org/abs/2408.08442)|null|
