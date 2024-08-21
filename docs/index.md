@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-20**|**Revisiting VerilogEval: Newer LLMs, In-Context Learning, and Specification-to-RTL Tasks**|Nathaniel Pinckney et.al.|[2408.11053](http://arxiv.org/abs/2408.11053)|null|
+|**2024-08-20**|**FLAME: Learning to Navigate with Multimodal LLM in Urban Environments**|Yunzhe Xu et.al.|[2408.11051](http://arxiv.org/abs/2408.11051)|**[link](https://github.com/xyz9911/FLAME)**|
+|**2024-08-20**|**MagicDec: Breaking the Latency-Throughput Tradeoff for Long Context Generation with Speculative Decoding**|Jian Chen et.al.|[2408.11049](http://arxiv.org/abs/2408.11049)|null|
+|**2024-08-20**|**Representation Theory of Solitons**|Clay Cordova et.al.|[2408.11045](http://arxiv.org/abs/2408.11045)|null|
+|**2024-08-20**|**Reconciling Methodological Paradigms: Employing Large Language Models as Novice Qualitative Research Assistants in Talent Management Research**|Sreyoshi Bhaduri et.al.|[2408.11043](http://arxiv.org/abs/2408.11043)|null|
+|**2024-08-20**|**Transfusion: Predict the Next Token and Diffuse Images with One Multi-Modal Model**|Chunting Zhou et.al.|[2408.11039](http://arxiv.org/abs/2408.11039)|null|
+|**2024-08-20**|**Athena: Safe Autonomous Agents with Verbal Contrastive Learning**|Tanmana Sadhu et.al.|[2408.11021](http://arxiv.org/abs/2408.11021)|null|
+|**2024-08-20**|**While GitHub Copilot Excels at Coding, Does It Ensure Responsible Output?**|Wen Cheng et.al.|[2408.11006](http://arxiv.org/abs/2408.11006)|**[link](https://github.com/sensente/security-attacks-on-lccts)**|
+|**2024-08-20**|**SenPa-MAE: Sensor Parameter Aware Masked Autoencoder for Multi-Satellite Self-Supervised Pretraining**|Jonathan Prexl et.al.|[2408.11000](http://arxiv.org/abs/2408.11000)|null|
+|**2024-08-20**|**Disentangling segmental and prosodic factors to non-native speech comprehensibility**|Waris Quamer et.al.|[2408.10997](http://arxiv.org/abs/2408.10997)|null|
 |**2024-08-19**|**Extended Quantum Anomalous Hall States in Graphene/hBN Moiré Superlattices**|Zhengguang Lu et.al.|[2408.10203](http://arxiv.org/abs/2408.10203)|null|
 |**2024-08-19**|**Demystifying the Communication Characteristics for Distributed Transformer Models**|Quentin Anthony et.al.|[2408.10197](http://arxiv.org/abs/2408.10197)|null|
 |**2024-08-19**|**Transformers to SSMs: Distilling Quadratic Knowledge to Subquadratic Models**|Aviv Bick et.al.|[2408.10189](http://arxiv.org/abs/2408.10189)|null|
@@ -195,6 +205,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-20**|**Tapping in a Remote Vehicle's onboard LLM to Complement the Ego Vehicle's Field-of-View**|Malsha Ashani Mahawatta Dona et.al.|[2408.10794](http://arxiv.org/abs/2408.10794)|null|
 |**2024-08-16**|**Xpikeformer: Hybrid Analog-Digital Hardware Acceleration for Spiking Transformers**|Zihang Song et.al.|[2408.08794](http://arxiv.org/abs/2408.08794)|null|
 |**2024-08-16**|**Cross-Chip Partial Reconfiguration for the Initialisation of Modular and Scalable Heterogeneous Systems**|Marvin Fuchs et.al.|[2408.08626](http://arxiv.org/abs/2408.08626)|null|
 |**2024-08-13**|**HLSPilot: LLM-based High-Level Synthesis**|Chenwei Xiong et.al.|[2408.06810](http://arxiv.org/abs/2408.06810)|**[link](https://github.com/xcw-1010/hlspilot)**|
@@ -226,6 +237,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-20**|**Pluto and Charon: A Time and Memory Efficient Collaborative Edge AI Framework for Personal LLMs Fine-Tuning**|Bei Ouyang et.al.|[2408.10746](http://arxiv.org/abs/2408.10746)|null|
 |**2024-08-18**|**Challenges and Responses in the Practice of Large Language Models**|Hongyin Zhu et.al.|[2408.09416](http://arxiv.org/abs/2408.09416)|null|
 |**2024-08-15**|**Moving Healthcare AI-Support Systems for Visually Detectable Diseases onto Constrained Devices**|Tess Watt et.al.|[2408.08215](http://arxiv.org/abs/2408.08215)|null|
 |**2024-08-14**|**Efficient Edge AI: Deploying Convolutional Neural Networks on FPGA with the Gemmini Accelerator**|Federico Nicolas Peccia et.al.|[2408.07404](http://arxiv.org/abs/2408.07404)|null|
@@ -322,6 +334,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-20**|**MagicDec: Breaking the Latency-Throughput Tradeoff for Long Context Generation with Speculative Decoding**|Jian Chen et.al.|[2408.11049](http://arxiv.org/abs/2408.11049)|null|
+|**2024-08-20**|**SenPa-MAE: Sensor Parameter Aware Masked Autoencoder for Multi-Satellite Self-Supervised Pretraining**|Jonathan Prexl et.al.|[2408.11000](http://arxiv.org/abs/2408.11000)|null|
+|**2024-08-20**|**Hybrid Recurrent Models Support Emergent Descriptions for Hierarchical Planning and Control**|Poppy Collis et.al.|[2408.10970](http://arxiv.org/abs/2408.10970)|null|
+|**2024-08-20**|**HiRED: Attention-Guided Token Dropping for Efficient Inference of High-Resolution Vision-Language Models in Resource-Constrained Environments**|Kazi Hasan Ibn Arif et.al.|[2408.10945](http://arxiv.org/abs/2408.10945)|**[link](https://github.com/hasanar1f/hired)**|
+|**2024-08-20**|**Robust Regression with Ensembles Communicating over Noisy Channels**|Yuval Ben-Hur et.al.|[2408.10942](http://arxiv.org/abs/2408.10942)|null|
+|**2024-08-20**|**LBC: Language-Based-Classifier for Out-Of-Variable Generalization**|Kangjun Noh et.al.|[2408.10923](http://arxiv.org/abs/2408.10923)|**[link](https://github.com/asdasdanonymous/language-based-classifier-foroovtasks)**|
+|**2024-08-20**|**Soda-Eval: Open-Domain Dialogue Evaluation in the age of LLMs**|John Mendonça et.al.|[2408.10902](http://arxiv.org/abs/2408.10902)|null|
+|**2024-08-20**|**Analytical and Empirical Study of Herding Effects in Recommendation Systems**|Hong Xie et.al.|[2408.10895](http://arxiv.org/abs/2408.10895)|null|
+|**2024-08-20**|**Conditional Delta-Method for Resampling Empirical Processes in Multiple Sample Problems**|Merle Munko et.al.|[2408.10856](http://arxiv.org/abs/2408.10856)|null|
+|**2024-08-20**|**Predicting Rewards Alongside Tokens: Non-disruptive Parameter Insertion for Efficient Inference Intervention in Large Language Model**|Chenhan Yuan et.al.|[2408.10764](http://arxiv.org/abs/2408.10764)|null|
 |**2024-08-19**|**Transformers to SSMs: Distilling Quadratic Knowledge to Subquadratic Models**|Aviv Bick et.al.|[2408.10189](http://arxiv.org/abs/2408.10189)|null|
 |**2024-08-20**|**LongVILA: Scaling Long-Context Visual Language Models for Long Videos**|Fuzhao Xue et.al.|[2408.10188](http://arxiv.org/abs/2408.10188)|**[link](https://github.com/nvlabs/vila)**|
 |**2024-08-19**|**Multilingual Needle in a Haystack: Investigating Long-Context Behavior of Multilingual Large Language Models**|Amey Hengle et.al.|[2408.10151](http://arxiv.org/abs/2408.10151)|null|
@@ -477,6 +499,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-19**|**Neural Horizon Model Predictive Control -- Increasing Computational Efficiency with Neural Networks**|Hendrik Alsmeier et.al.|[2408.09781](http://arxiv.org/abs/2408.09781)|null|
 |**2024-08-18**|**Behavioral Learning of Dish Rinsing and Scrubbing based on Interruptive Direct Teaching Considering Assistance Rate**|Shumpei Wakabayashi et.al.|[2408.09360](http://arxiv.org/abs/2408.09360)|null|
 |**2024-08-19**|**A new perspective on Bayesian Operational Modal Analysis**|Brandon J. O'Connell et.al.|[2408.08664](http://arxiv.org/abs/2408.08664)|null|
 |**2024-08-16**|**RadioDiff: An Effective Generative Diffusion Model for Sampling-Free Dynamic Radio Map Construction**|Xiucheng Wang et.al.|[2408.08593](http://arxiv.org/abs/2408.08593)|**[link](https://github.com/unic-lab/radiodiff)**|
