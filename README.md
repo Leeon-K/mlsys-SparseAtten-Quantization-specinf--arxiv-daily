@@ -25,6 +25,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-22**|**Controllable Text Generation for Large Language Models: A Survey**|Xun Liang et.al.|[2408.12599](http://arxiv.org/abs/2408.12599)|**[link](https://github.com/iaar-shanghai/ctgsurvey)**|
+|**2024-08-22**|**xGen-VideoSyn-1: High-fidelity Text-to-Video Synthesis with Compressed Representations**|Can Qin et.al.|[2408.12590](http://arxiv.org/abs/2408.12590)|null|
+|**2024-08-22**|**Real-Time Video Generation with Pyramid Attention Broadcast**|Xuanlei Zhao et.al.|[2408.12588](http://arxiv.org/abs/2408.12588)|**[link](https://github.com/nus-hpc-ai-lab/opendit)**|
+|**2024-08-22**|**Electric field control of superconductivity and quantized anomalous Hall effects in rhombohedral tetralayer graphene**|Youngjoon Choi et.al.|[2408.12584](http://arxiv.org/abs/2408.12584)|null|
+|**2024-08-22**|**RuleAlign: Making Large Language Models Better Physicians with Diagnostic Rule Alignment**|Xiaohan Wang et.al.|[2408.12579](http://arxiv.org/abs/2408.12579)|null|
+|**2024-08-22**|**Enhanced Parking Perception by Multi-Task Fisheye Cross-view Transformers**|Antonyo Musabini et.al.|[2408.12575](http://arxiv.org/abs/2408.12575)|null|
+|**2024-08-22**|**MuMA-ToM: Multi-modal Multi-Agent Theory of Mind**|Haojun Shi et.al.|[2408.12574](http://arxiv.org/abs/2408.12574)|null|
+|**2024-08-22**|**Jamba-1.5: Hybrid Transformer-Mamba Models at Scale**|Jamba Team et.al.|[2408.12570](http://arxiv.org/abs/2408.12570)|null|
+|**2024-08-22**|**Sapiens: Foundation for Human Vision Models**|Rawal Khirodkar et.al.|[2408.12569](http://arxiv.org/abs/2408.12569)|null|
+|**2024-08-22**|**FRB 20121102A monitoring: updated periodicity at L-band**|C. A. Braga et.al.|[2408.12567](http://arxiv.org/abs/2408.12567)|null|
 |**2024-08-21**|**SEA: Supervised Embedding Alignment for Token-Level Visual-Textual Integration in MLLMs**|Yuanyang Yin et.al.|[2408.11813](http://arxiv.org/abs/2408.11813)|null|
 |**2024-08-21**|**EmbodiedSAM: Online Segment Any 3D Thing in Real Time**|Xiuwei Xu et.al.|[2408.11811](http://arxiv.org/abs/2408.11811)|null|
 |**2024-08-21**|**Story3D-Agent: Exploring 3D Storytelling Visualization with Large Language Models**|Yuzhou Huang et.al.|[2408.11801](http://arxiv.org/abs/2408.11801)|null|
@@ -230,6 +240,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-22**|**Hardware Acceleration for Knowledge Graph Processing: Challenges & Recent Developments**|Maciej Besta et.al.|[2408.12173](http://arxiv.org/abs/2408.12173)|null|
+|**2024-08-21**|**Floating-Point Multiply-Add with Approximate Normalization for Low-Cost Matrix Engines**|Kosmas Alexandridis et.al.|[2408.11997](http://arxiv.org/abs/2408.11997)|null|
 |**2024-08-21**|**Cage: Hardware-Accelerated Safe WebAssembly**|Martin Fink et.al.|[2408.11456](http://arxiv.org/abs/2408.11456)|null|
 |**2024-08-20**|**Tapping in a Remote Vehicle's onboard LLM to Complement the Ego Vehicle's Field-of-View**|Malsha Ashani Mahawatta Dona et.al.|[2408.10794](http://arxiv.org/abs/2408.10794)|null|
 |**2024-08-16**|**Xpikeformer: Hybrid Analog-Digital Hardware Acceleration for Spiking Transformers**|Zihang Song et.al.|[2408.08794](http://arxiv.org/abs/2408.08794)|null|
@@ -370,6 +382,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-22**|**Real-Time Video Generation with Pyramid Attention Broadcast**|Xuanlei Zhao et.al.|[2408.12588](http://arxiv.org/abs/2408.12588)|**[link](https://github.com/nus-hpc-ai-lab/opendit)**|
+|**2024-08-22**|**Enhanced Parking Perception by Multi-Task Fisheye Cross-view Transformers**|Antonyo Musabini et.al.|[2408.12575](http://arxiv.org/abs/2408.12575)|null|
+|**2024-08-22**|**MuMA-ToM: Multi-modal Multi-Agent Theory of Mind**|Haojun Shi et.al.|[2408.12574](http://arxiv.org/abs/2408.12574)|null|
+|**2024-08-22**|**Jamba-1.5: Hybrid Transformer-Mamba Models at Scale**|Jamba Team et.al.|[2408.12570](http://arxiv.org/abs/2408.12570)|null|
+|**2024-08-22**|**Sapiens: Foundation for Human Vision Models**|Rawal Khirodkar et.al.|[2408.12569](http://arxiv.org/abs/2408.12569)|null|
+|**2024-08-22**|**FRB 20121102A monitoring: updated periodicity at L-band**|C. A. Braga et.al.|[2408.12567](http://arxiv.org/abs/2408.12567)|null|
+|**2024-08-22**|**Climate Bistability at the Inner Edge of the Habitable Zone due to Runaway Greenhouse and Cloud Feedbacks**|Bowen Fan et.al.|[2408.12563](http://arxiv.org/abs/2408.12563)|null|
+|**2024-08-22**|**Core formation by binary scouring and gravitational wave recoil in massive elliptical galaxies**|Nader Khonji et.al.|[2408.12537](http://arxiv.org/abs/2408.12537)|null|
+|**2024-08-22**|**Exploiting Student Parallelism for Low-latency GPU Inference of BERT-like Models in Online Services**|Weiyan Wang et.al.|[2408.12526](http://arxiv.org/abs/2408.12526)|null|
+|**2024-08-22**|**Do we need wavelets in the late Universe?**|Luis A. Escamilla et.al.|[2408.12516](http://arxiv.org/abs/2408.12516)|null|
 |**2024-08-21**|**SEA: Supervised Embedding Alignment for Token-Level Visual-Textual Integration in MLLMs**|Yuanyang Yin et.al.|[2408.11813](http://arxiv.org/abs/2408.11813)|null|
 |**2024-08-21**|**EmbodiedSAM: Online Segment Any 3D Thing in Real Time**|Xiuwei Xu et.al.|[2408.11811](http://arxiv.org/abs/2408.11811)|null|
 |**2024-08-21**|**Practical token pruning for foundation models in few-shot conversational virtual assistant systems**|Haode Qi et.al.|[2408.11799](http://arxiv.org/abs/2408.11799)|null|
@@ -547,6 +569,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-22**|**Fine-tuning Smaller Language Models for Question Answering over Financial Documents**|Karmvir Singh Phogat et.al.|[2408.12337](http://arxiv.org/abs/2408.12337)|null|
+|**2024-08-22**|**Accounts of using the Tustin-Net architecture on a rotary inverted pendulum**|Stijn van Esch et.al.|[2408.12266](http://arxiv.org/abs/2408.12266)|**[link](https://github.com/svanesch/tustinNetTransferLearning)**|
 |**2024-08-21**|**Scaling Cross-Embodied Learning: One Policy for Manipulation, Navigation, Locomotion and Aviation**|Ria Doshi et.al.|[2408.11812](http://arxiv.org/abs/2408.11812)|null|
 |**2024-08-21**|**Data-driven Modeling of Combined Sewer Systems for Urban Sustainability: An Empirical Evaluation**|Vipin Singh et.al.|[2408.11619](http://arxiv.org/abs/2408.11619)|null|
 |**2024-08-21**|**Networked Communication for Mean-Field Games with Function Approximation and Empirical Mean-Field Estimation**|Patrick Benjamin et.al.|[2408.11607](http://arxiv.org/abs/2408.11607)|null|
