@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-23**|**MME-RealWorld: Could Your Multimodal LLM Challenge High-Resolution Real-World Scenarios that are Difficult for Humans?**|Yi-Fan Zhang et.al.|[2408.13257](http://arxiv.org/abs/2408.13257)|null|
+|**2024-08-23**|**Variational inference of effective range parameters for ${}^3$He-${}^4$ He scattering**|Andrius Burnelis et.al.|[2408.13250](http://arxiv.org/abs/2408.13250)|null|
+|**2024-08-23**|**Data Exposure from LLM Apps: An In-depth Investigation of OpenAI's GPTs**|Evin Jaff et.al.|[2408.13247](http://arxiv.org/abs/2408.13247)|null|
+|**2024-08-23**|**Multi-Layer Transformers Gradient Can be Approximated in Almost Linear Time**|Yingyu Liang et.al.|[2408.13233](http://arxiv.org/abs/2408.13233)|null|
+|**2024-08-23**|**Amortized Bayesian Multilevel Models**|Daniel Habermann et.al.|[2408.13230](http://arxiv.org/abs/2408.13230)|null|
+|**2024-08-23**|**A New Perspective to Fish Trajectory Imputation: A Methodology for Spatiotemporal Modeling of Acoustically Tagged Fish Data**|Mahshid Ahmadian et.al.|[2408.13220](http://arxiv.org/abs/2408.13220)|null|
+|**2024-08-23**|**Bussgang revisited: effect of quantization on signal to distortion plus noise ratio with non-Gaussian signals**|Alister Burr et.al.|[2408.13205](http://arxiv.org/abs/2408.13205)|null|
+|**2024-08-23**|**DOMAINEVAL: An Auto-Constructed Benchmark for Multi-Domain Code Generation**|Qiming Zhu et.al.|[2408.13204](http://arxiv.org/abs/2408.13204)|null|
+|**2024-08-23**|**NAS-Cap: Deep-Learning Driven 3-D Capacitance Extraction with Neural Architecture Search and Data Augmentation**|Haoyuan Li et.al.|[2408.13195](http://arxiv.org/abs/2408.13195)|null|
+|**2024-08-23**|**Can LLM be a Good Path Planner based on Prompt Engineering? Mitigating the Hallucination for Path Planning**|Hourui Deng et.al.|[2408.13184](http://arxiv.org/abs/2408.13184)|null|
 |**2024-08-22**|**Controllable Text Generation for Large Language Models: A Survey**|Xun Liang et.al.|[2408.12599](http://arxiv.org/abs/2408.12599)|**[link](https://github.com/iaar-shanghai/ctgsurvey)**|
 |**2024-08-22**|**xGen-VideoSyn-1: High-fidelity Text-to-Video Synthesis with Compressed Representations**|Can Qin et.al.|[2408.12590](http://arxiv.org/abs/2408.12590)|null|
 |**2024-08-22**|**Real-Time Video Generation with Pyramid Attention Broadcast**|Xuanlei Zhao et.al.|[2408.12588](http://arxiv.org/abs/2408.12588)|**[link](https://github.com/nus-hpc-ai-lab/opendit)**|
@@ -260,6 +270,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-23**|**S3Simulator: A benchmarking Side Scan Sonar Simulator dataset for Underwater Image Analysis**|Kamal Basha S et.al.|[2408.12833](http://arxiv.org/abs/2408.12833)|null|
 |**2024-08-20**|**Pluto and Charon: A Time and Memory Efficient Collaborative Edge AI Framework for Personal LLMs Fine-Tuning**|Bei Ouyang et.al.|[2408.10746](http://arxiv.org/abs/2408.10746)|null|
 |**2024-08-21**|**Challenges and Responses in the Practice of Large Language Models**|Hongyin Zhu et.al.|[2408.09416](http://arxiv.org/abs/2408.09416)|null|
 |**2024-08-15**|**Moving Healthcare AI-Support Systems for Visually Detectable Diseases onto Constrained Devices**|Tess Watt et.al.|[2408.08215](http://arxiv.org/abs/2408.08215)|null|
@@ -357,6 +368,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-23**|**Variational inference of effective range parameters for ${}^3$He-${}^4$ He scattering**|Andrius Burnelis et.al.|[2408.13250](http://arxiv.org/abs/2408.13250)|null|
+|**2024-08-23**|**Multi-Layer Transformers Gradient Can be Approximated in Almost Linear Time**|Yingyu Liang et.al.|[2408.13233](http://arxiv.org/abs/2408.13233)|null|
+|**2024-08-23**|**Amortized Bayesian Multilevel Models**|Daniel Habermann et.al.|[2408.13230](http://arxiv.org/abs/2408.13230)|null|
+|**2024-08-23**|**A New Perspective to Fish Trajectory Imputation: A Methodology for Spatiotemporal Modeling of Acoustically Tagged Fish Data**|Mahshid Ahmadian et.al.|[2408.13220](http://arxiv.org/abs/2408.13220)|null|
+|**2024-08-23**|**NAS-Cap: Deep-Learning Driven 3-D Capacitance Extraction with Neural Architecture Search and Data Augmentation**|Haoyuan Li et.al.|[2408.13195](http://arxiv.org/abs/2408.13195)|null|
+|**2024-08-23**|**A latent space model for multivariate count data time series analysis**|Hardeep Kaur et.al.|[2408.13162](http://arxiv.org/abs/2408.13162)|null|
+|**2024-08-23**|**Say No to Freeloader: Protecting Intellectual Property of Your Deep Model**|Lianyu Wang et.al.|[2408.13161](http://arxiv.org/abs/2408.13161)|null|
+|**2024-08-23**|**DeTPP: Leveraging Object Detection for Robust Long-Horizon Event Prediction**|Ivan Karpukhin et.al.|[2408.13131](http://arxiv.org/abs/2408.13131)|null|
+|**2024-08-23**|**Optical activation function using a metamaterial waveguide for an all-optical neural network**|Yoshihiro Honda et.al.|[2408.13129](http://arxiv.org/abs/2408.13129)|null|
+|**2024-08-23**|**Evidential Deep Partial Multi-View Classification With Discount Fusion**|Haojian Huang et.al.|[2408.13123](http://arxiv.org/abs/2408.13123)|null|
 |**2024-08-22**|**Real-Time Video Generation with Pyramid Attention Broadcast**|Xuanlei Zhao et.al.|[2408.12588](http://arxiv.org/abs/2408.12588)|**[link](https://github.com/nus-hpc-ai-lab/opendit)**|
 |**2024-08-22**|**Enhanced Parking Perception by Multi-Task Fisheye Cross-view Transformers**|Antonyo Musabini et.al.|[2408.12575](http://arxiv.org/abs/2408.12575)|null|
 |**2024-08-22**|**MuMA-ToM: Multi-modal Multi-Agent Theory of Mind**|Haojun Shi et.al.|[2408.12574](http://arxiv.org/abs/2408.12574)|null|
@@ -542,6 +563,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-23**|**Protecting against simultaneous data poisoning attacks**|Neel Alex et.al.|[2408.13221](http://arxiv.org/abs/2408.13221)|null|
+|**2024-08-23**|**cc-DRL: a Convex Combined Deep Reinforcement Learning Flight Control Design for a Morphing Quadrotor**|Tao Yang et.al.|[2408.13054](http://arxiv.org/abs/2408.13054)|null|
 |**2024-08-22**|**Fine-tuning Smaller Language Models for Question Answering over Financial Documents**|Karmvir Singh Phogat et.al.|[2408.12337](http://arxiv.org/abs/2408.12337)|null|
 |**2024-08-22**|**Accounts of using the Tustin-Net architecture on a rotary inverted pendulum**|Stijn van Esch et.al.|[2408.12266](http://arxiv.org/abs/2408.12266)|**[link](https://github.com/svanesch/tustinNetTransferLearning)**|
 |**2024-08-21**|**Scaling Cross-Embodied Learning: One Policy for Manipulation, Navigation, Locomotion and Aviation**|Ria Doshi et.al.|[2408.11812](http://arxiv.org/abs/2408.11812)|null|
