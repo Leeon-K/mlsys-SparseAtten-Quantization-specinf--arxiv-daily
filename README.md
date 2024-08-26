@@ -45,9 +45,9 @@
 |**2024-08-21**|**Leveraging Chemistry Foundation Models to Facilitate Structure Focused Retrieval Augmented Generation in Multi-Agent Workflows for Catalyst and Materials Design**|Nathaniel H. Park et.al.|[2408.11793](http://arxiv.org/abs/2408.11793)|null|
 |**2024-08-21**|**Critique-out-Loud Reward Models**|Zachary Ankner et.al.|[2408.11791](http://arxiv.org/abs/2408.11791)|**[link](https://github.com/zankner/cloud)**|
 |**2024-08-21**|**DreamFactory: Pioneering Multi-Scene Long Video Generation with a Multi-Agent Framework**|Zhifei Xie et.al.|[2408.11788](http://arxiv.org/abs/2408.11788)|null|
-|**2024-08-20**|**Revisiting VerilogEval: Newer LLMs, In-Context Learning, and Specification-to-RTL Tasks**|Nathaniel Pinckney et.al.|[2408.11053](http://arxiv.org/abs/2408.11053)|null|
+|**2024-08-20**|**Revisiting VerilogEval: Newer LLMs, In-Context Learning, and Specification-to-RTL Tasks**|Nathaniel Pinckney et.al.|[2408.11053](http://arxiv.org/abs/2408.11053)|**[link](https://github.com/nvlabs/verilog-eval)**|
 |**2024-08-20**|**FLAME: Learning to Navigate with Multimodal LLM in Urban Environments**|Yunzhe Xu et.al.|[2408.11051](http://arxiv.org/abs/2408.11051)|**[link](https://github.com/xyz9911/FLAME)**|
-|**2024-08-21**|**MagicDec: Breaking the Latency-Throughput Tradeoff for Long Context Generation with Speculative Decoding**|Jian Chen et.al.|[2408.11049](http://arxiv.org/abs/2408.11049)|null|
+|**2024-08-21**|**MagicDec: Breaking the Latency-Throughput Tradeoff for Long Context Generation with Speculative Decoding**|Jian Chen et.al.|[2408.11049](http://arxiv.org/abs/2408.11049)|**[link](https://github.com/infini-ai-lab/magicdec)**|
 |**2024-08-20**|**Representation Theory of Solitons**|Clay Cordova et.al.|[2408.11045](http://arxiv.org/abs/2408.11045)|null|
 |**2024-08-20**|**Reconciling Methodological Paradigms: Employing Large Language Models as Novice Qualitative Research Assistants in Talent Management Research**|Sreyoshi Bhaduri et.al.|[2408.11043](http://arxiv.org/abs/2408.11043)|null|
 |**2024-08-20**|**Transfusion: Predict the Next Token and Diffuse Images with One Multi-Modal Model**|Chunting Zhou et.al.|[2408.11039](http://arxiv.org/abs/2408.11039)|null|
@@ -60,7 +60,7 @@
 |**2024-08-19**|**Transformers to SSMs: Distilling Quadratic Knowledge to Subquadratic Models**|Aviv Bick et.al.|[2408.10189](http://arxiv.org/abs/2408.10189)|null|
 |**2024-08-20**|**LongVILA: Scaling Long-Context Visual Language Models for Long Videos**|Fuzhao Xue et.al.|[2408.10188](http://arxiv.org/abs/2408.10188)|**[link](https://github.com/nvlabs/vila)**|
 |**2024-08-19**|**Customizing Language Models with Instance-wise LoRA for Sequential Recommendation**|Xiaoyu Kong et.al.|[2408.10159](http://arxiv.org/abs/2408.10159)|null|
-|**2024-08-19**|**Multilingual Needle in a Haystack: Investigating Long-Context Behavior of Multilingual Large Language Models**|Amey Hengle et.al.|[2408.10151](http://arxiv.org/abs/2408.10151)|null|
+|**2024-08-19**|**Multilingual Needle in a Haystack: Investigating Long-Context Behavior of Multilingual Large Language Models**|Amey Hengle et.al.|[2408.10151](http://arxiv.org/abs/2408.10151)|**[link](https://github.com/AmeyHengle/multilingual-needle-in-a-haystack)**|
 |**2024-08-19**|**In-Context Learning with Representations: Contextual Generalization of Trained Transformers**|Tong Yang et.al.|[2408.10147](http://arxiv.org/abs/2408.10147)|null|
 |**2024-08-19**|**Instruction Finetuning for Leaderboard Generation from Empirical AI Research**|Salomon Kabongo et.al.|[2408.10141](http://arxiv.org/abs/2408.10141)|null|
 |**2024-08-19**|**Advancing Voice Cloning for Nepali: Leveraging Transfer Learning in a Low-Resource Language**|Manjil Karki et.al.|[2408.10128](http://arxiv.org/abs/2408.10128)|null|
@@ -83,10 +83,10 @@
 |**2024-08-15**|**Autonomous Behavior Planning For Humanoid Loco-manipulation Through Grounded Language Model**|Jin Wang et.al.|[2408.08282](http://arxiv.org/abs/2408.08282)|null|
 |**2024-08-15**|**BAM! Just Like That: Simple and Efficient Parameter Upcycling for Mixture of Experts**|Qizhen Zhang et.al.|[2408.08274](http://arxiv.org/abs/2408.08274)|null|
 |**2024-08-15**|**InVAErt networks for amortized inference and identifiability analysis of lumped parameter hemodynamic models**|Guoxiang Grayson Tong et.al.|[2408.08264](http://arxiv.org/abs/2408.08264)|**[link](https://github.com/desreslab/invaert4cardio)**|
-|**2024-08-15**|**Derivative-Free Guidance in Continuous and Discrete Diffusion Models with Soft Value-Based Decoding**|Xiner Li et.al.|[2408.08252](http://arxiv.org/abs/2408.08252)|null|
+|**2024-08-15**|**Derivative-Free Guidance in Continuous and Discrete Diffusion Models with Soft Value-Based Decoding**|Xiner Li et.al.|[2408.08252](http://arxiv.org/abs/2408.08252)|**[link](https://github.com/masa-ue/svdd)**|
 |**2024-08-15**|**Bayesian Inference analysis of jet quenching using inclusive jet and hadron suppression measurements**|R. Ehlers et.al.|[2408.08247](http://arxiv.org/abs/2408.08247)|null|
 |**2024-08-14**|**The Death of Schema Linking? Text-to-SQL in the Age of Well-Reasoned Language Models**|Karime Maamari et.al.|[2408.07702](http://arxiv.org/abs/2408.07702)|null|
-|**2024-08-14**|**Profile Likelihoods in Cosmology: When, Why and How illustrated with $Λ$ CDM, Massive Neutrinos and Dark Energy**|Laura Herold et.al.|[2408.07700](http://arxiv.org/abs/2408.07700)|null|
+|**2024-08-14**|**Profile Likelihoods in Cosmology: When, Why and How illustrated with $Λ$ CDM, Massive Neutrinos and Dark Energy**|Laura Herold et.al.|[2408.07700](http://arxiv.org/abs/2408.07700)|**[link](https://github.com/LauraHerold/pinc)**|
 |**2024-08-14**|**Kilonova Emissions from Neutron Star Merger Remnants: Implications for Nuclear Equation of State**|Kelsey A. Lund et.al.|[2408.07686](http://arxiv.org/abs/2408.07686)|null|
 |**2024-08-15**|**Model Merging in LLMs, MLLMs, and Beyond: Methods, Theories, Applications and Opportunities**|Enneng Yang et.al.|[2408.07666](http://arxiv.org/abs/2408.07666)|**[link](https://github.com/ennengyang/awesome-model-merging-methods-theories-applications)**|
 |**2024-08-14**|**Spoken Stereoset: On Evaluating Social Bias Toward Speaker in Speech Large Language Models**|Yi-Cheng Lin et.al.|[2408.07665](http://arxiv.org/abs/2408.07665)|**[link](https://github.com/dlion168/spoken_stereoset)**|
@@ -100,15 +100,15 @@
 |**2024-08-13**|**Model Counting in the Wild**|Arijit Shaw et.al.|[2408.07059](http://arxiv.org/abs/2408.07059)|null|
 |**2024-08-13**|**LongWriter: Unleashing 10,000+ Word Generation from Long Context LLMs**|Yushi Bai et.al.|[2408.07055](http://arxiv.org/abs/2408.07055)|**[link](https://github.com/thudm/longwriter)**|
 |**2024-08-13**|**Multi-soliton solutions and data-driven discovery of higher-order Burgers' hierarchy equations with physics informed neural networks**|D. A. Kaltsas et.al.|[2408.07027](http://arxiv.org/abs/2408.07027)|null|
-|**2024-08-13**|**A new non-parametric method to infer galaxy cluster masses from weak lensing**|Tobias Mistele et.al.|[2408.07026](http://arxiv.org/abs/2408.07026)|null|
+|**2024-08-13**|**A new non-parametric method to infer galaxy cluster masses from weak lensing**|Tobias Mistele et.al.|[2408.07026](http://arxiv.org/abs/2408.07026)|**[link](https://github.com/tmistele/SphericalClusterMass.jl)**|
 |**2024-08-13**|**Efficient Human-Object-Interaction (EHOI) Detection via Interaction Label Coding and Conditional Decision**|Tsung-Shan Yang et.al.|[2408.07018](http://arxiv.org/abs/2408.07018)|null|
 |**2024-08-13**|**Casper: Prompt Sanitization for Protecting User Privacy in Web-Based Large Language Models**|Chun Jie Chong et.al.|[2408.07004](http://arxiv.org/abs/2408.07004)|null|
 |**2024-08-13**|**Generative AI for automatic topic labelling**|Diego Kozlowski et.al.|[2408.07003](http://arxiv.org/abs/2408.07003)|null|
 |**2024-08-13**|**Low-Bitwidth Floating Point Quantization for Efficient High-Quality Diffusion Models**|Cheng Chen et.al.|[2408.06995](http://arxiv.org/abs/2408.06995)|null|
-|**2024-08-12**|**Analytical Weak Lensing Shear Inference for Precision Cosmology**|Xiangchong Li et.al.|[2408.06337](http://arxiv.org/abs/2408.06337)|null|
+|**2024-08-12**|**Analytical Weak Lensing Shear Inference for Precision Cosmology**|Xiangchong Li et.al.|[2408.06337](http://arxiv.org/abs/2408.06337)|**[link](https://github.com/mr-superonion/anacal)**|
 |**2024-08-12**|**FastFiD: Improve Inference Efficiency of Open Domain Question Answering via Sentence Selection**|Yufei Huang et.al.|[2408.06333](http://arxiv.org/abs/2408.06333)|**[link](https://github.com/thunlp/fastfid)**|
 |**2024-08-12**|**Animate, or Inanimate, That is the Question for Large Language Models**|Leonardo Ranaldi et.al.|[2408.06332](http://arxiv.org/abs/2408.06332)|null|
-|**2024-08-12**|**Infer-and-widen versus split-and-condition: two tales of selective inference**|Ronan Perry et.al.|[2408.06323](http://arxiv.org/abs/2408.06323)|null|
+|**2024-08-12**|**Infer-and-widen versus split-and-condition: two tales of selective inference**|Ronan Perry et.al.|[2408.06323](http://arxiv.org/abs/2408.06323)|**[link](https://github.com/rflperry/two_tales_of_selective_inference)**|
 |**2024-08-12**|**Can We Rely on LLM Agents to Draft Long-Horizon Plans? Let's Take TravelPlanner as an Example**|Yanan Chen et.al.|[2408.06318](http://arxiv.org/abs/2408.06318)|null|
 |**2024-08-12**|**Synthetic Patient-Physician Dialogue Generation from Clinical Notes Using LLM**|Trisha Das et.al.|[2408.06285](http://arxiv.org/abs/2408.06285)|null|
 |**2024-08-12**|**PDRs4All. X. ALMA and JWST detection of neutral carbon in the externally irradiated disk d203-506: Undepleted gas-phase carbon**|Javier R. Goicoechea et.al.|[2408.06279](http://arxiv.org/abs/2408.06279)|null|
@@ -340,7 +340,7 @@
 |**2024-07-23**|**DreamVTON: Customizing 3D Virtual Try-on with Personalized Diffusion Models**|Zhenyu Xie et.al.|[2407.16511](http://arxiv.org/abs/2407.16511)|null|
 |**2024-07-23**|**Harmonizing Visual Text Comprehension and Generation**|Zhen Zhao et.al.|[2407.16364](http://arxiv.org/abs/2407.16364)|null|
 |**2024-07-23**|**FoRA: Low-Rank Adaptation Model beyond Multimodal Siamese Network**|Weiying Xie et.al.|[2407.16129](http://arxiv.org/abs/2407.16129)|**[link](https://github.com/zyszxhy/fora)**|
-|**2024-07-22**|**Test-Time Low Rank Adaptation via Confidence Maximization for Zero-Shot Generalization of Vision-Language Models**|Raza Imam et.al.|[2407.15913](http://arxiv.org/abs/2407.15913)|null|
+|**2024-07-22**|**Test-Time Low Rank Adaptation via Confidence Maximization for Zero-Shot Generalization of Vision-Language Models**|Raza Imam et.al.|[2407.15913](http://arxiv.org/abs/2407.15913)|**[link](https://github.com/razaimam45/ttl-test-time-low-rank-adaptation)**|
 |**2024-07-22**|**Zero-Shot Embeddings Inform Learning and Forgetting with Vision-Language Encoders**|Laura Niss et.al.|[2407.15731](http://arxiv.org/abs/2407.15731)|null|
 |**2024-07-22**|**LLaST: Improved End-to-end Speech Translation System Leveraged by Large Language Models**|Xi Chen et.al.|[2407.15415](http://arxiv.org/abs/2407.15415)|**[link](https://github.com/openaudiolab/llast)**|
 |**2024-07-21**|**Learn to Preserve and Diversify: Parameter-Efficient Group with Orthogonal Regularization for Domain Generalization**|Jiajun Hu et.al.|[2407.15085](http://arxiv.org/abs/2407.15085)|null|
@@ -402,19 +402,19 @@
 |**2024-08-21**|**MARLIN: Mixed-Precision Auto-Regressive Parallel Inference on Large Language Models**|Elias Frantar et.al.|[2408.11743](http://arxiv.org/abs/2408.11743)|null|
 |**2024-08-22**|**A Multiple Random Scan Strategy for Latent Space Models**|Roberto Casarin et.al.|[2408.11725](http://arxiv.org/abs/2408.11725)|null|
 |**2024-08-21**|**Iterative Object Count Optimization for Text-to-image Diffusion Models**|Oz Zafar et.al.|[2408.11721](http://arxiv.org/abs/2408.11721)|null|
-|**2024-08-21**|**MagicDec: Breaking the Latency-Throughput Tradeoff for Long Context Generation with Speculative Decoding**|Jian Chen et.al.|[2408.11049](http://arxiv.org/abs/2408.11049)|null|
+|**2024-08-21**|**MagicDec: Breaking the Latency-Throughput Tradeoff for Long Context Generation with Speculative Decoding**|Jian Chen et.al.|[2408.11049](http://arxiv.org/abs/2408.11049)|**[link](https://github.com/infini-ai-lab/magicdec)**|
 |**2024-08-20**|**SenPa-MAE: Sensor Parameter Aware Masked Autoencoder for Multi-Satellite Self-Supervised Pretraining**|Jonathan Prexl et.al.|[2408.11000](http://arxiv.org/abs/2408.11000)|null|
 |**2024-08-20**|**Hybrid Recurrent Models Support Emergent Descriptions for Hierarchical Planning and Control**|Poppy Collis et.al.|[2408.10970](http://arxiv.org/abs/2408.10970)|null|
 |**2024-08-20**|**HiRED: Attention-Guided Token Dropping for Efficient Inference of High-Resolution Vision-Language Models in Resource-Constrained Environments**|Kazi Hasan Ibn Arif et.al.|[2408.10945](http://arxiv.org/abs/2408.10945)|**[link](https://github.com/hasanar1f/hired)**|
 |**2024-08-20**|**Robust Regression with Ensembles Communicating over Noisy Channels**|Yuval Ben-Hur et.al.|[2408.10942](http://arxiv.org/abs/2408.10942)|null|
-|**2024-08-21**|**LBC: Language-Based-Classifier for Out-Of-Variable Generalization**|Kangjun Noh et.al.|[2408.10923](http://arxiv.org/abs/2408.10923)|null|
+|**2024-08-21**|**LBC: Language-Based-Classifier for Out-Of-Variable Generalization**|Kangjun Noh et.al.|[2408.10923](http://arxiv.org/abs/2408.10923)|**[link](https://github.com/sksmssh/lbcforoovgen)**|
 |**2024-08-20**|**Soda-Eval: Open-Domain Dialogue Evaluation in the age of LLMs**|John Mendonça et.al.|[2408.10902](http://arxiv.org/abs/2408.10902)|null|
 |**2024-08-20**|**Analytical and Empirical Study of Herding Effects in Recommendation Systems**|Hong Xie et.al.|[2408.10895](http://arxiv.org/abs/2408.10895)|null|
 |**2024-08-20**|**Conditional Delta-Method for Resampling Empirical Processes in Multiple Sample Problems**|Merle Munko et.al.|[2408.10856](http://arxiv.org/abs/2408.10856)|null|
 |**2024-08-20**|**Predicting Rewards Alongside Tokens: Non-disruptive Parameter Insertion for Efficient Inference Intervention in Large Language Model**|Chenhan Yuan et.al.|[2408.10764](http://arxiv.org/abs/2408.10764)|null|
 |**2024-08-19**|**Transformers to SSMs: Distilling Quadratic Knowledge to Subquadratic Models**|Aviv Bick et.al.|[2408.10189](http://arxiv.org/abs/2408.10189)|null|
 |**2024-08-20**|**LongVILA: Scaling Long-Context Visual Language Models for Long Videos**|Fuzhao Xue et.al.|[2408.10188](http://arxiv.org/abs/2408.10188)|**[link](https://github.com/nvlabs/vila)**|
-|**2024-08-19**|**Multilingual Needle in a Haystack: Investigating Long-Context Behavior of Multilingual Large Language Models**|Amey Hengle et.al.|[2408.10151](http://arxiv.org/abs/2408.10151)|null|
+|**2024-08-19**|**Multilingual Needle in a Haystack: Investigating Long-Context Behavior of Multilingual Large Language Models**|Amey Hengle et.al.|[2408.10151](http://arxiv.org/abs/2408.10151)|**[link](https://github.com/AmeyHengle/multilingual-needle-in-a-haystack)**|
 |**2024-08-19**|**In-Context Learning with Representations: Contextual Generalization of Trained Transformers**|Tong Yang et.al.|[2408.10147](http://arxiv.org/abs/2408.10147)|null|
 |**2024-08-19**|**Instruction Finetuning for Leaderboard Generation from Empirical AI Research**|Salomon Kabongo et.al.|[2408.10141](http://arxiv.org/abs/2408.10141)|null|
 |**2024-08-19**|**Advancing Voice Cloning for Nepali: Leveraging Transfer Learning in a Low-Resource Language**|Manjil Karki et.al.|[2408.10128](http://arxiv.org/abs/2408.10128)|null|
@@ -427,27 +427,27 @@
 |**2024-08-16**|**Xpikeformer: Hybrid Analog-Digital Hardware Acceleration for Spiking Transformers**|Zihang Song et.al.|[2408.08794](http://arxiv.org/abs/2408.08794)|null|
 |**2024-08-16**|**Generalized logistic model for $r$ largest order statistics, with hydrological application**|Yire Shin et.al.|[2408.08764](http://arxiv.org/abs/2408.08764)|null|
 |**2024-08-16**|**Quantifying Signal-to-Noise Ratio in Neural Latent Trajectories via Fisher Information**|Hyungju Jeon et.al.|[2408.08752](http://arxiv.org/abs/2408.08752)|null|
-|**2024-08-16**|**Task-Aware Dynamic Transformer for Efficient Arbitrary-Scale Image Super-Resolution**|Tianyi Xu et.al.|[2408.08736](http://arxiv.org/abs/2408.08736)|null|
+|**2024-08-16**|**Task-Aware Dynamic Transformer for Efficient Arbitrary-Scale Image Super-Resolution**|Tianyi Xu et.al.|[2408.08736](http://arxiv.org/abs/2408.08736)|**[link](https://github.com/Tillyhere/TADT)**|
 |**2024-08-16**|**A Novel Buffered Federated Learning Framework for Privacy-Driven Anomaly Detection in IIoT**|Samira Kamali Poorazad et.al.|[2408.08722](http://arxiv.org/abs/2408.08722)|null|
 |**2024-08-16**|**A soft-clamped topological waveguide for phonons**|Xiang Xi et.al.|[2408.08717](http://arxiv.org/abs/2408.08717)|null|
-|**2024-08-16**|**Beyond KAN: Introducing KarSein for Adaptive High-Order Feature Interaction Modeling in CTR Prediction**|Yunxiao Shi et.al.|[2408.08713](http://arxiv.org/abs/2408.08713)|null|
+|**2024-08-16**|**Beyond KAN: Introducing KarSein for Adaptive High-Order Feature Interaction Modeling in CTR Prediction**|Yunxiao Shi et.al.|[2408.08713](http://arxiv.org/abs/2408.08713)|**[link](https://github.com/ancientshi/karsein)**|
 |**2024-08-16**|**TsCA: On the Semantic Consistency Alignment via Conditional Transport for Compositional Zero-Shot Learning**|Miaoge Li et.al.|[2408.08703](http://arxiv.org/abs/2408.08703)|null|
 |**2024-08-15**|**SLCA++: Unleash the Power of Sequential Fine-tuning for Continual Learning with Pre-training**|Gengwei Zhang et.al.|[2408.08295](http://arxiv.org/abs/2408.08295)|**[link](https://github.com/gengdavid/slca)**|
 |**2024-08-15**|**BAM! Just Like That: Simple and Efficient Parameter Upcycling for Mixture of Experts**|Qizhen Zhang et.al.|[2408.08274](http://arxiv.org/abs/2408.08274)|null|
 |**2024-08-15**|**InVAErt networks for amortized inference and identifiability analysis of lumped parameter hemodynamic models**|Guoxiang Grayson Tong et.al.|[2408.08264](http://arxiv.org/abs/2408.08264)|**[link](https://github.com/desreslab/invaert4cardio)**|
-|**2024-08-15**|**Derivative-Free Guidance in Continuous and Discrete Diffusion Models with Soft Value-Based Decoding**|Xiner Li et.al.|[2408.08252](http://arxiv.org/abs/2408.08252)|null|
+|**2024-08-15**|**Derivative-Free Guidance in Continuous and Discrete Diffusion Models with Soft Value-Based Decoding**|Xiner Li et.al.|[2408.08252](http://arxiv.org/abs/2408.08252)|**[link](https://github.com/masa-ue/svdd)**|
 |**2024-08-15**|**Bayesian Inference analysis of jet quenching using inclusive jet and hadron suppression measurements**|R. Ehlers et.al.|[2408.08247](http://arxiv.org/abs/2408.08247)|null|
 |**2024-08-15**|**DeepSeek-Prover-V1.5: Harnessing Proof Assistant Feedback for Reinforcement Learning and Monte-Carlo Tree Search**|Huajian Xin et.al.|[2408.08152](http://arxiv.org/abs/2408.08152)|**[link](https://github.com/deepseek-ai/deepseek-prover-v1.5)**|
 |**2024-08-15**|**Unsupervised Variational Translator for Bridging Image Restoration and High-Level Vision Tasks**|Jiawei Wu et.al.|[2408.08149](http://arxiv.org/abs/2408.08149)|null|
 |**2024-08-15**|**KOALA: Enhancing Speculative Decoding for LLM via Multi-Layer Draft Heads with Adversarial Learning**|Kaiqi Zhang et.al.|[2408.08146](http://arxiv.org/abs/2408.08146)|null|
 |**2024-08-15**|**EXPLAIN, AGREE, LEARN: Scaling Learning for Neural Probabilistic Logic**|Victor Verreet et.al.|[2408.08133](http://arxiv.org/abs/2408.08133)|null|
 |**2024-08-15**|**The Unreasonable Effectiveness of Solving Inverse Problems with Neural Networks**|Philipp Holl et.al.|[2408.08119](http://arxiv.org/abs/2408.08119)|null|
-|**2024-08-14**|**Profile Likelihoods in Cosmology: When, Why and How illustrated with $Λ$ CDM, Massive Neutrinos and Dark Energy**|Laura Herold et.al.|[2408.07700](http://arxiv.org/abs/2408.07700)|null|
+|**2024-08-14**|**Profile Likelihoods in Cosmology: When, Why and How illustrated with $Λ$ CDM, Massive Neutrinos and Dark Energy**|Laura Herold et.al.|[2408.07700](http://arxiv.org/abs/2408.07700)|**[link](https://github.com/LauraHerold/pinc)**|
 |**2024-08-14**|**Kilonova Emissions from Neutron Star Merger Remnants: Implications for Nuclear Equation of State**|Kelsey A. Lund et.al.|[2408.07686](http://arxiv.org/abs/2408.07686)|null|
 |**2024-08-14**|**Properties of sunspot light bridges on a geometric height scale**|S. Esteban Pozuelo et.al.|[2408.07645](http://arxiv.org/abs/2408.07645)|null|
 |**2024-08-14**|**Crossover Designs in Software Engineering Experiments: Review of the State of Analysis**|Julian Frattini et.al.|[2408.07594](http://arxiv.org/abs/2408.07594)|null|
 |**2024-08-14**|**Multi-periodicity dependency Transformer based on spectrum offset for radio frequency fingerprint identification**|Jing Xiao et.al.|[2408.07592](http://arxiv.org/abs/2408.07592)|null|
-|**2024-08-14**|**Multi-task Heterogeneous Graph Learning on Electronic Health Records**|Tsai Hor Chan et.al.|[2408.07569](http://arxiv.org/abs/2408.07569)|null|
+|**2024-08-14**|**Multi-task Heterogeneous Graph Learning on Electronic Health Records**|Tsai Hor Chan et.al.|[2408.07569](http://arxiv.org/abs/2408.07569)|**[link](https://github.com/hku-medai/mult-ehr)**|
 |**2024-08-14**|**Variant Specific Treatment Effects with Applications in Vaccine Studies**|Gellert Perenyi et.al.|[2408.07560](http://arxiv.org/abs/2408.07560)|null|
 |**2024-08-14**|**Inverse Rendering of Fusion Plasmas: Inferring Plasma Composition from Imaging Systems**|Ekin Öztürk et.al.|[2408.07555](http://arxiv.org/abs/2408.07555)|null|
 |**2024-08-14**|**PeriodWave: Multi-Period Flow Matching for High-Fidelity Waveform Generation**|Sang-Hoon Lee et.al.|[2408.07547](http://arxiv.org/abs/2408.07547)|**[link](https://github.com/sh-lee-prml/periodwave)**|
@@ -455,16 +455,16 @@
 |**2024-08-13**|**Model Counting in the Wild**|Arijit Shaw et.al.|[2408.07059](http://arxiv.org/abs/2408.07059)|null|
 |**2024-08-13**|**LongWriter: Unleashing 10,000+ Word Generation from Long Context LLMs**|Yushi Bai et.al.|[2408.07055](http://arxiv.org/abs/2408.07055)|**[link](https://github.com/thudm/longwriter)**|
 |**2024-08-13**|**Multi-soliton solutions and data-driven discovery of higher-order Burgers' hierarchy equations with physics informed neural networks**|D. A. Kaltsas et.al.|[2408.07027](http://arxiv.org/abs/2408.07027)|null|
-|**2024-08-13**|**A new non-parametric method to infer galaxy cluster masses from weak lensing**|Tobias Mistele et.al.|[2408.07026](http://arxiv.org/abs/2408.07026)|null|
+|**2024-08-13**|**A new non-parametric method to infer galaxy cluster masses from weak lensing**|Tobias Mistele et.al.|[2408.07026](http://arxiv.org/abs/2408.07026)|**[link](https://github.com/tmistele/SphericalClusterMass.jl)**|
 |**2024-08-13**|**Efficient Human-Object-Interaction (EHOI) Detection via Interaction Label Coding and Conditional Decision**|Tsung-Shan Yang et.al.|[2408.07018](http://arxiv.org/abs/2408.07018)|null|
 |**2024-08-13**|**Low-Bitwidth Floating Point Quantization for Efficient High-Quality Diffusion Models**|Cheng Chen et.al.|[2408.06995](http://arxiv.org/abs/2408.06995)|null|
 |**2024-08-13**|**Endogeneity Corrections in Binary Outcome Models with Nonlinear Transformations: Identification and Inference**|Alexander Mayer et.al.|[2408.06977](http://arxiv.org/abs/2408.06977)|null|
-|**2024-08-14**|**Kilonova Light Curve Parameter Estimation Using Likelihood-Free Inference**|Malina Desai et.al.|[2408.06947](http://arxiv.org/abs/2408.06947)|null|
+|**2024-08-14**|**Kilonova Light Curve Parameter Estimation Using Likelihood-Free Inference**|Malina Desai et.al.|[2408.06947](http://arxiv.org/abs/2408.06947)|**[link](https://github.com/nuclear-multimessenger-astronomy/nmma)**|
 |**2024-08-13**|**Spherical-oblate shape coexistence in $^{94}$ Zr from a model-independent analysis**|N. Marchini et.al.|[2408.06940](http://arxiv.org/abs/2408.06940)|null|
 |**2024-08-13**|**Breaking Class Barriers: Efficient Dataset Distillation via Inter-Class Feature Compensator**|Xin Zhang et.al.|[2408.06927](http://arxiv.org/abs/2408.06927)|null|
-|**2024-08-12**|**Analytical Weak Lensing Shear Inference for Precision Cosmology**|Xiangchong Li et.al.|[2408.06337](http://arxiv.org/abs/2408.06337)|null|
+|**2024-08-12**|**Analytical Weak Lensing Shear Inference for Precision Cosmology**|Xiangchong Li et.al.|[2408.06337](http://arxiv.org/abs/2408.06337)|**[link](https://github.com/mr-superonion/anacal)**|
 |**2024-08-12**|**FastFiD: Improve Inference Efficiency of Open Domain Question Answering via Sentence Selection**|Yufei Huang et.al.|[2408.06333](http://arxiv.org/abs/2408.06333)|**[link](https://github.com/thunlp/fastfid)**|
-|**2024-08-12**|**Infer-and-widen versus split-and-condition: two tales of selective inference**|Ronan Perry et.al.|[2408.06323](http://arxiv.org/abs/2408.06323)|null|
+|**2024-08-12**|**Infer-and-widen versus split-and-condition: two tales of selective inference**|Ronan Perry et.al.|[2408.06323](http://arxiv.org/abs/2408.06323)|**[link](https://github.com/rflperry/two_tales_of_selective_inference)**|
 |**2024-08-12**|**Can We Rely on LLM Agents to Draft Long-Horizon Plans? Let's Take TravelPlanner as an Example**|Yanan Chen et.al.|[2408.06318](http://arxiv.org/abs/2408.06318)|null|
 |**2024-08-12**|**PDRs4All. X. ALMA and JWST detection of neutral carbon in the externally irradiated disk d203-506: Undepleted gas-phase carbon**|Javier R. Goicoechea et.al.|[2408.06279](http://arxiv.org/abs/2408.06279)|null|
 |**2024-08-12**|**Multi-marginal Schrödinger Bridges with Iterative Reference**|Yunyi Shen et.al.|[2408.06277](http://arxiv.org/abs/2408.06277)|null|
