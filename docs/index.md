@@ -7,14 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.27
+## Updated on 2024.08.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Quantization
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-08-26**|**Step-by-Step Unmasking for Parameter-Efficient Fine-tuning of Large Language Models**|Aradhye Agarwal et.al.|[2408.14470](http://arxiv.org/abs/2408.14470)|null|
+|**2024-08-27**|**Step-by-Step Unmasking for Parameter-Efficient Fine-tuning of Large Language Models**|Aradhye Agarwal et.al.|[2408.14470](http://arxiv.org/abs/2408.14470)|**[link](https://github.com/Aradhye2002/selective-peft-toolkit)**|
 |**2024-08-26**|**Explicit Inductive Inference using Large Language Models**|Tianyang Liu et.al.|[2408.14467](http://arxiv.org/abs/2408.14467)|null|
 |**2024-08-26**|**Bayesian functional data analysis in astronomy**|Thomas Loredo et.al.|[2408.14466](http://arxiv.org/abs/2408.14466)|null|
 |**2024-08-26**|**Eclipse mapping study of the eclipsing binary KIC~3858884 with hybrid $δ$~Sct/$γ$ ~Dor component**|A. Bókon et.al.|[2408.14464](http://arxiv.org/abs/2408.14464)|null|
