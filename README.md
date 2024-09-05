@@ -25,6 +25,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-04**|**Design of a Standard-Compliant Real-Time Neural Receiver for 5G NR**|Reinhard Wiesmayr et.al.|[2409.02912](http://arxiv.org/abs/2409.02912)|null|
+|**2024-09-04**|**LongCite: Enabling LLMs to Generate Fine-grained Citations in Long-context QA**|jiajie Zhang et.al.|[2409.02897](http://arxiv.org/abs/2409.02897)|null|
+|**2024-09-04**|**Follow the Mass -- A Concordance Picture of Tidal Disruption Events**|Julian Krolik et.al.|[2409.02894](http://arxiv.org/abs/2409.02894)|null|
+|**2024-09-04**|**LongLLaVA: Scaling Multi-modal LLMs to 1000 Images Efficiently via Hybrid Architecture**|Xidong Wang et.al.|[2409.02889](http://arxiv.org/abs/2409.02889)|**[link](https://github.com/freedomintelligence/longllava)**|
+|**2024-09-04**|**Based cluster algebras of infinite ranks**|Fan Qin et.al.|[2409.02881](http://arxiv.org/abs/2409.02881)|null|
+|**2024-09-04**|**Configurable Foundation Models: Building LLMs from a Modular Perspective**|Chaojun Xiao et.al.|[2409.02877](http://arxiv.org/abs/2409.02877)|null|
+|**2024-09-04**|**Four-dimensional phase space tomography from one-dimensional measurements in a high-power hadron ring**|Austin Hoover et.al.|[2409.02862](http://arxiv.org/abs/2409.02862)|null|
+|**2024-09-04**|**CMM-Math: A Chinese Multimodal Math Dataset To Evaluate and Enhance the Mathematics Reasoning of Large Multimodal Models**|Wentao Liu et.al.|[2409.02834](http://arxiv.org/abs/2409.02834)|null|
+|**2024-09-04**|**Design Contradictions: Help or Hindrance?**|Aron E. Owen et.al.|[2409.02823](http://arxiv.org/abs/2409.02823)|null|
+|**2024-09-04**|**Language Understanding as a Constraint on Consensus Size in LLM Societies**|Giordano De Marzo et.al.|[2409.02822](http://arxiv.org/abs/2409.02822)|null|
 |**2024-08-30**|**Signatures of topology in generic transport measurements for Rarita-Schwinger-Weyl semimetals**|Ipsita Mandal et.al.|[2408.17447](http://arxiv.org/abs/2408.17447)|null|
 |**2024-08-30**|**SYNTHEVAL: Hybrid Behavioral Testing of NLP Models with Synthetic CheckLists**|Raoyuan Zhao et.al.|[2408.17437](http://arxiv.org/abs/2408.17437)|**[link](https://github.com/loreley99/syntheval_checklist)**|
 |**2024-08-30**|**Advancing Multi-talker ASR Performance with Large Language Models**|Mohan Shi et.al.|[2408.17431](http://arxiv.org/abs/2408.17431)|null|
@@ -347,6 +357,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-02**|**Edge AI: Evaluation of Model Compression Techniques for Convolutional Neural Networks**|Samer Francy et.al.|[2409.02134](http://arxiv.org/abs/2409.02134)|null|
+|**2024-09-01**|**Research on LLM Acceleration Using the High-Performance RISC-V Processor "Xiangshan" (Nanhu Version) Based on the Open-Source Matrix Instruction Set Extension (Vector Dot Product)**|Xu-Hao Chen et.al.|[2409.00661](http://arxiv.org/abs/2409.00661)|null|
+|**2024-08-26**|**Towards Sustainable Personalized On-Device Human Activity Recognition with TinyML and Cloud-Enabled Auto Deployment**|Bidyut Saha et.al.|[2409.00093](http://arxiv.org/abs/2409.00093)|null|
 |**2024-08-29**|**TinyTNAS: GPU-Free, Time-Bound, Hardware-Aware Neural Architecture Search for TinyML Time Series Classification**|Bidyut Saha et.al.|[2408.16535](http://arxiv.org/abs/2408.16535)|**[link](https://github.com/bidyutsaha/tinytnas)**|
 |**2024-08-08**|**An Edge AI System Based on FPGA Platform for Railway Fault Detection**|Jiale Li et.al.|[2408.15245](http://arxiv.org/abs/2408.15245)|null|
 |**2024-08-23**|**S3Simulator: A benchmarking Side Scan Sonar Simulator dataset for Underwater Image Analysis**|Kamal Basha S et.al.|[2408.12833](http://arxiv.org/abs/2408.12833)|null|
@@ -455,6 +468,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-04**|**Design of a Standard-Compliant Real-Time Neural Receiver for 5G NR**|Reinhard Wiesmayr et.al.|[2409.02912](http://arxiv.org/abs/2409.02912)|null|
+|**2024-09-04**|**LongCite: Enabling LLMs to Generate Fine-grained Citations in Long-context QA**|jiajie Zhang et.al.|[2409.02897](http://arxiv.org/abs/2409.02897)|null|
+|**2024-09-04**|**Follow the Mass -- A Concordance Picture of Tidal Disruption Events**|Julian Krolik et.al.|[2409.02894](http://arxiv.org/abs/2409.02894)|null|
+|**2024-09-04**|**LongLLaVA: Scaling Multi-modal LLMs to 1000 Images Efficiently via Hybrid Architecture**|Xidong Wang et.al.|[2409.02889](http://arxiv.org/abs/2409.02889)|**[link](https://github.com/freedomintelligence/longllava)**|
+|**2024-09-04**|**Configurable Foundation Models: Building LLMs from a Modular Perspective**|Chaojun Xiao et.al.|[2409.02877](http://arxiv.org/abs/2409.02877)|null|
+|**2024-09-04**|**Four-dimensional phase space tomography from one-dimensional measurements in a high-power hadron ring**|Austin Hoover et.al.|[2409.02862](http://arxiv.org/abs/2409.02862)|null|
+|**2024-09-04**|**Obsidian: Cooperative State-Space Exploration for Performant Inference on Secure ML Accelerators**|Sarbartha Banerjee et.al.|[2409.02817](http://arxiv.org/abs/2409.02817)|null|
+|**2024-09-04**|**Federated Quantum-Train with Batched Parameter Generation**|Chen-Yu Liu et.al.|[2409.02763](http://arxiv.org/abs/2409.02763)|null|
+|**2024-09-04**|**A Comparative Study of Pre-training and Self-training**|Yiheng Wang et.al.|[2409.02751](http://arxiv.org/abs/2409.02751)|null|
+|**2024-09-04**|**A family of toroidal diffusions with exact likelihood inference**|Eduardo García-Portugués et.al.|[2409.02705](http://arxiv.org/abs/2409.02705)|null|
 |**2024-08-30**|**Advancing Multi-talker ASR Performance with Large Language Models**|Mohan Shi et.al.|[2408.17431](http://arxiv.org/abs/2408.17431)|null|
 |**2024-08-30**|**Family of multivariate extended skew-elliptical distributions: Statistical properties, inference and application**|Roberto Vila et.al.|[2408.17410](http://arxiv.org/abs/2408.17410)|null|
 |**2024-08-30**|**End-to-End Learning for Task-Oriented Semantic Communications Over MIMO Channels: An Information-Theoretic Framework**|Chang Cai et.al.|[2408.17397](http://arxiv.org/abs/2408.17397)|null|
@@ -702,6 +725,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-03**|**Optimal Power Grid Operations with Foundation Models**|Alban Puech et.al.|[2409.02148](http://arxiv.org/abs/2409.02148)|null|
+|**2024-09-03**|**Large Language Models for Anomaly and Out-of-Distribution Detection: A Survey**|Ruiyao Xu et.al.|[2409.01980](http://arxiv.org/abs/2409.01980)|null|
+|**2024-09-03**|**Modeling IoT Traffic Patterns: Insights from a Statistical Analysis of an MTC Dataset**|David E. Ruiz-Guirola et.al.|[2409.01932](http://arxiv.org/abs/2409.01932)|null|
+|**2024-09-02**|**Sample Complexity of the Sign-Perturbed Sums Method**|Szabolcs Szentpéteri et.al.|[2409.01243](http://arxiv.org/abs/2409.01243)|null|
+|**2024-09-02**|**PACSBO: Probably approximately correct safe Bayesian optimization**|Abdullah Tokmak et.al.|[2409.01163](http://arxiv.org/abs/2409.01163)|null|
+|**2024-09-01**|**Generalized Multi-hop Traffic Pressure for Heterogeneous Traffic Perimeter Control**|Xiaocan Li et.al.|[2409.00753](http://arxiv.org/abs/2409.00753)|null|
+|**2024-09-01**|**Abstaining Machine Learning -- Philosophical Considerations**|Daniela Schuster et.al.|[2409.00706](http://arxiv.org/abs/2409.00706)|null|
+|**2024-08-31**|**Sparse Mamba: Reinforcing Controllability In Structural State Space Models**|Emadeldeen Hamdan et.al.|[2409.00563](http://arxiv.org/abs/2409.00563)|null|
+|**2024-08-31**|**Evaluation of Prosumer Networks for Peak Load Management in Iran: A Distributed Contextual Stochastic Optimization Approach**|Amir Noori et.al.|[2409.00493](http://arxiv.org/abs/2409.00493)|null|
+|**2024-08-31**|**Lyapunov Neural ODE Feedback Control Policies**|Joshua Hang Sai Ip et.al.|[2409.00393](http://arxiv.org/abs/2409.00393)|null|
 |**2024-08-30**|**Learning and Verifying Maximal Taylor-Neural Lyapunov functions**|Matthieu Barreau et.al.|[2408.17246](http://arxiv.org/abs/2408.17246)|null|
 |**2024-08-29**|**A Catalog of Fairness-Aware Practices in Machine Learning Engineering**|Gianmario Voria et.al.|[2408.16683](http://arxiv.org/abs/2408.16683)|null|
 |**2024-08-28**|**Stability of Primal-Dual Gradient Flow Dynamics for Multi-Block Convex Optimization Problems**|Ibrahim K. Ozaslan et.al.|[2408.15969](http://arxiv.org/abs/2408.15969)|null|
