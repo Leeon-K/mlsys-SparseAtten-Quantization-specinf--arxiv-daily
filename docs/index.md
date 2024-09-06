@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.05
+## Updated on 2024.09.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Quantization
@@ -15,7 +15,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-09-04**|**Design of a Standard-Compliant Real-Time Neural Receiver for 5G NR**|Reinhard Wiesmayr et.al.|[2409.02912](http://arxiv.org/abs/2409.02912)|null|
-|**2024-09-04**|**LongCite: Enabling LLMs to Generate Fine-grained Citations in Long-context QA**|jiajie Zhang et.al.|[2409.02897](http://arxiv.org/abs/2409.02897)|null|
+|**2024-09-05**|**LongCite: Enabling LLMs to Generate Fine-grained Citations in Long-context QA**|Jiajie Zhang et.al.|[2409.02897](http://arxiv.org/abs/2409.02897)|**[link](https://github.com/THUDM/LongCite)**|
 |**2024-09-04**|**Follow the Mass -- A Concordance Picture of Tidal Disruption Events**|Julian Krolik et.al.|[2409.02894](http://arxiv.org/abs/2409.02894)|null|
 |**2024-09-04**|**LongLLaVA: Scaling Multi-modal LLMs to 1000 Images Efficiently via Hybrid Architecture**|Xidong Wang et.al.|[2409.02889](http://arxiv.org/abs/2409.02889)|**[link](https://github.com/freedomintelligence/longllava)**|
 |**2024-09-04**|**Based cluster algebras of infinite ranks**|Fan Qin et.al.|[2409.02881](http://arxiv.org/abs/2409.02881)|null|
@@ -444,7 +444,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-09-04**|**Design of a Standard-Compliant Real-Time Neural Receiver for 5G NR**|Reinhard Wiesmayr et.al.|[2409.02912](http://arxiv.org/abs/2409.02912)|null|
-|**2024-09-04**|**LongCite: Enabling LLMs to Generate Fine-grained Citations in Long-context QA**|jiajie Zhang et.al.|[2409.02897](http://arxiv.org/abs/2409.02897)|null|
+|**2024-09-05**|**LongCite: Enabling LLMs to Generate Fine-grained Citations in Long-context QA**|Jiajie Zhang et.al.|[2409.02897](http://arxiv.org/abs/2409.02897)|**[link](https://github.com/THUDM/LongCite)**|
 |**2024-09-04**|**Follow the Mass -- A Concordance Picture of Tidal Disruption Events**|Julian Krolik et.al.|[2409.02894](http://arxiv.org/abs/2409.02894)|null|
 |**2024-09-04**|**LongLLaVA: Scaling Multi-modal LLMs to 1000 Images Efficiently via Hybrid Architecture**|Xidong Wang et.al.|[2409.02889](http://arxiv.org/abs/2409.02889)|**[link](https://github.com/freedomintelligence/longllava)**|
 |**2024-09-04**|**Configurable Foundation Models: Building LLMs from a Modular Perspective**|Chaojun Xiao et.al.|[2409.02877](http://arxiv.org/abs/2409.02877)|null|
