@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-05**|**Attention Heads of Large Language Models: A Survey**|Zifan Zheng et.al.|[2409.03752](http://arxiv.org/abs/2409.03752)|**[link](https://github.com/iaar-shanghai/awesome-attention-heads)**|
+|**2024-09-05**|**Understanding Data Importance in Machine Learning Attacks: Does Valuable Data Pose Greater Harm?**|Rui Wen et.al.|[2409.03741](http://arxiv.org/abs/2409.03741)|null|
+|**2024-09-05**|**LLM-CI: Assessing Contextual Integrity Norms in Language Models**|Yan Shvartzshnaider et.al.|[2409.03735](http://arxiv.org/abs/2409.03735)|null|
+|**2024-09-05**|**Planning In Natural Language Improves LLM Search For Code Generation**|Evan Wang et.al.|[2409.03733](http://arxiv.org/abs/2409.03733)|null|
+|**2024-09-05**|**RAG based Question-Answering for Contextual Response Prediction System**|Sriram Veturi et.al.|[2409.03708](http://arxiv.org/abs/2409.03708)|null|
+|**2024-09-05**|**The Gaia Ultracool Dwarf Sample -- IV. GTC/OSIRIS optical spectra of Gaia late-M and L dwarfs**|W. J. Cooper et.al.|[2409.03706](http://arxiv.org/abs/2409.03706)|null|
+|**2024-09-05**|**LAST: Language Model Aware Speech Tokenization**|Arnon Turetzky et.al.|[2409.03701](http://arxiv.org/abs/2409.03701)|null|
+|**2024-09-05**|**TRACE-cs: Trustworthy Reasoning for Contrastive Explanations in Course Scheduling Problems**|Stylianos Loukas Vasileiou et.al.|[2409.03671](http://arxiv.org/abs/2409.03671)|null|
+|**2024-09-05**|**The representation landscape of few-shot learning and fine-tuning in large language models**|Diego Doimo et.al.|[2409.03662](http://arxiv.org/abs/2409.03662)|**[link](https://github.com/diegodoimo/geometry_icl_finetuning)**|
+|**2024-09-05**|**Ensemble noise properties of the European Pulsar Timing Array**|Boris Goncharov et.al.|[2409.03661](http://arxiv.org/abs/2409.03661)|null|
 |**2024-09-04**|**Design of a Standard-Compliant Real-Time Neural Receiver for 5G NR**|Reinhard Wiesmayr et.al.|[2409.02912](http://arxiv.org/abs/2409.02912)|null|
 |**2024-09-05**|**LongCite: Enabling LLMs to Generate Fine-grained Citations in Long-context QA**|Jiajie Zhang et.al.|[2409.02897](http://arxiv.org/abs/2409.02897)|**[link](https://github.com/THUDM/LongCite)**|
 |**2024-09-04**|**Follow the Mass -- A Concordance Picture of Tidal Disruption Events**|Julian Krolik et.al.|[2409.02894](http://arxiv.org/abs/2409.02894)|null|
@@ -295,6 +305,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-05**|**Libra: Architectural Support For Principled, Secure And Efficient Balanced Execution On High-End Processors (Extended Version)**|Hans Winderix et.al.|[2409.03743](http://arxiv.org/abs/2409.03743)|null|
+|**2024-09-05**|**Hardware Acceleration of LLMs: A comprehensive survey and comparison**|Nikoletta Koilia et.al.|[2409.03384](http://arxiv.org/abs/2409.03384)|null|
+|**2024-09-05**|**Towards training digitally-tied analog blocks via hybrid gradient computation**|Timothy Nest et.al.|[2409.03306](http://arxiv.org/abs/2409.03306)|null|
 |**2024-08-30**|**The picasso gas model: Painting intracluster gas on gravity-only simulations**|F. Kéruzoré et.al.|[2408.17445](http://arxiv.org/abs/2408.17445)|null|
 |**2024-08-29**|**Serial and Parallel Two-Column Probing for Mixed-Integer Programming**|Yongzheng Dai et.al.|[2408.16927](http://arxiv.org/abs/2408.16927)|null|
 |**2024-08-29**|**On-device AI: Quantization-aware Training of Transformers in Time-Series**|Tianheng Ling et.al.|[2408.16495](http://arxiv.org/abs/2408.16495)|null|
@@ -443,6 +456,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-05**|**Understanding Data Importance in Machine Learning Attacks: Does Valuable Data Pose Greater Harm?**|Rui Wen et.al.|[2409.03741](http://arxiv.org/abs/2409.03741)|null|
+|**2024-09-05**|**Planning In Natural Language Improves LLM Search For Code Generation**|Evan Wang et.al.|[2409.03733](http://arxiv.org/abs/2409.03733)|null|
+|**2024-09-05**|**The Gaia Ultracool Dwarf Sample -- IV. GTC/OSIRIS optical spectra of Gaia late-M and L dwarfs**|W. J. Cooper et.al.|[2409.03706](http://arxiv.org/abs/2409.03706)|null|
+|**2024-09-05**|**Ensemble noise properties of the European Pulsar Timing Array**|Boris Goncharov et.al.|[2409.03661](http://arxiv.org/abs/2409.03661)|null|
+|**2024-09-05**|**Mixed Source Region Signatures Inside Magnetic Switchback Patches Inferred by Heavy Ion Diagnostics**|Yeimy J. Rivera et.al.|[2409.03645](http://arxiv.org/abs/2409.03645)|null|
+|**2024-09-05**|**Costs Estimation in Unit Commitment Problems using Simulation-Based Inference**|Matthias Pirlet et.al.|[2409.03588](http://arxiv.org/abs/2409.03588)|null|
+|**2024-09-05**|**Magnetic Field Alignment Relative to Multiple Tracers in the High-mass Star-forming Region RCW 36**|Akanksha Bij et.al.|[2409.03558](http://arxiv.org/abs/2409.03558)|null|
+|**2024-09-05**|**DKDM: Data-Free Knowledge Distillation for Diffusion Models with Any Architecture**|Qianlong Xiang et.al.|[2409.03550](http://arxiv.org/abs/2409.03550)|null|
+|**2024-09-05**|**Diversity in hydrogen-rich envelope mass of type II supernovae (II): SN 2023ixf as explosion of partially-stripped intermediate massive star**|Qiliang Fang et.al.|[2409.03540](http://arxiv.org/abs/2409.03540)|null|
+|**2024-09-05**|**Bayesian inference of wall torques for active Brownian particles**|Sascha Lambert et.al.|[2409.03533](http://arxiv.org/abs/2409.03533)|null|
 |**2024-09-04**|**Design of a Standard-Compliant Real-Time Neural Receiver for 5G NR**|Reinhard Wiesmayr et.al.|[2409.02912](http://arxiv.org/abs/2409.02912)|null|
 |**2024-09-05**|**LongCite: Enabling LLMs to Generate Fine-grained Citations in Long-context QA**|Jiajie Zhang et.al.|[2409.02897](http://arxiv.org/abs/2409.02897)|**[link](https://github.com/THUDM/LongCite)**|
 |**2024-09-04**|**Follow the Mass -- A Concordance Picture of Tidal Disruption Events**|Julian Krolik et.al.|[2409.02894](http://arxiv.org/abs/2409.02894)|null|
@@ -698,6 +721,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-05**|**Differentiable Discrete Event Simulation for Queuing Network Control**|Ethan Che et.al.|[2409.03740](http://arxiv.org/abs/2409.03740)|null|
+|**2024-09-05**|**A Deep Generative Learning Approach for Two-stage Adaptive Robust Optimization**|Aron Brenner et.al.|[2409.03731](http://arxiv.org/abs/2409.03731)|null|
+|**2024-09-05**|**Wind turbine condition monitoring based on intra- and inter-farm federated learning**|Albin Grataloup et.al.|[2409.03672](http://arxiv.org/abs/2409.03672)|**[link](https://github.com/EnergyWeatherAI/FL-Wind-NBM)**|
+|**2024-09-05**|**Beyond Model Interpretability: Socio-Structural Explanations in Machine Learning**|Andrew Smart et.al.|[2409.03632](http://arxiv.org/abs/2409.03632)|null|
+|**2024-09-05**|**Maximum likelihood inference for high-dimensional problems with multiaffine variable relations**|Jean-Sébastien Brouillon et.al.|[2409.03495](http://arxiv.org/abs/2409.03495)|null|
+|**2024-09-05**|**Dual-TSST: A Dual-Branch Temporal-Spectral-Spatial Transformer Model for EEG Decoding**|Hongqi Li et.al.|[2409.03251](http://arxiv.org/abs/2409.03251)|null|
+|**2024-09-05**|**Robust Q-Learning under Corrupted Rewards**|Sreejeet Maity et.al.|[2409.03237](http://arxiv.org/abs/2409.03237)|null|
+|**2024-09-05**|**InfraLib: Enabling Reinforcement Learning and Decision Making for Large Scale Infrastructure Management**|Pranay Thangeda et.al.|[2409.03167](http://arxiv.org/abs/2409.03167)|null|
+|**2024-09-04**|**RoboKoop: Efficient Control Conditioned Representations from Visual Input in Robotics using Koopman Operator**|Hemant Kumawat et.al.|[2409.03107](http://arxiv.org/abs/2409.03107)|null|
+|**2024-09-04**|**PIETRA: Physics-Informed Evidential Learning for Traversing Out-of-Distribution Terrain**|Xiaoyi Cai et.al.|[2409.03005](http://arxiv.org/abs/2409.03005)|null|
 |**2024-09-03**|**Optimal Power Grid Operations with Foundation Models**|Alban Puech et.al.|[2409.02148](http://arxiv.org/abs/2409.02148)|null|
 |**2024-09-03**|**Large Language Models for Anomaly and Out-of-Distribution Detection: A Survey**|Ruiyao Xu et.al.|[2409.01980](http://arxiv.org/abs/2409.01980)|null|
 |**2024-09-03**|**Modeling IoT Traffic Patterns: Insights from a Statistical Analysis of an MTC Dataset**|David E. Ruiz-Guirola et.al.|[2409.01932](http://arxiv.org/abs/2409.01932)|null|
