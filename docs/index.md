@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-06**|**Theory, Analysis, and Best Practices for Sigmoid Self-Attention**|Jason Ramapuram et.al.|[2409.04431](http://arxiv.org/abs/2409.04431)|null|
+|**2024-09-06**|**RLPF: Reinforcement Learning from Prediction Feedback for User Summarization with LLMs**|Jiaxing Wu et.al.|[2409.04421](http://arxiv.org/abs/2409.04421)|null|
+|**2024-09-06**|**Origin of yield stress and mechanical plasticity in biological tissues**|Anh Q. Nguyen et.al.|[2409.04383](http://arxiv.org/abs/2409.04383)|null|
+|**2024-09-06**|**Connectivity-Inspired Network for Context-Aware Recognition**|Gianluca Carloni et.al.|[2409.04360](http://arxiv.org/abs/2409.04360)|null|
+|**2024-09-06**|**ZTF SN Ia DR2: Overview**|Mickael Rigault et.al.|[2409.04346](http://arxiv.org/abs/2409.04346)|null|
+|**2024-09-06**|**AGR: Age Group fairness Reward for Bias Mitigation in LLMs**|Shuirong Cao et.al.|[2409.04340](http://arxiv.org/abs/2409.04340)|null|
+|**2024-09-06**|**Amortized Bayesian Workflow (Extended Abstract)**|Marvin Schmitt et.al.|[2409.04332](http://arxiv.org/abs/2409.04332)|null|
+|**2024-09-06**|**Learning vs Retrieval: The Role of In-Context Examples in Regression with LLMs**|Aliakbar Nafar et.al.|[2409.04318](http://arxiv.org/abs/2409.04318)|null|
+|**2024-09-06**|**Safe and Efficient Path Planning under Uncertainty via Deep Collision Probability Fields**|Felix Herrmann et.al.|[2409.04306](http://arxiv.org/abs/2409.04306)|null|
+|**2024-09-06**|**A Unified Approach to Inferring Chemical Compounds with the Desired Aqueous Solubility**|Muniba Batool et.al.|[2409.04301](http://arxiv.org/abs/2409.04301)|**[link](https://github.com/ku-dml/mol-infer)**|
 |**2024-09-05**|**Attention Heads of Large Language Models: A Survey**|Zifan Zheng et.al.|[2409.03752](http://arxiv.org/abs/2409.03752)|**[link](https://github.com/iaar-shanghai/awesome-attention-heads)**|
 |**2024-09-05**|**Understanding Data Importance in Machine Learning Attacks: Does Valuable Data Pose Greater Harm?**|Rui Wen et.al.|[2409.03741](http://arxiv.org/abs/2409.03741)|null|
 |**2024-09-05**|**LLM-CI: Assessing Contextual Integrity Norms in Language Models**|Yan Shvartzshnaider et.al.|[2409.03735](http://arxiv.org/abs/2409.03735)|null|
@@ -456,6 +466,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-06**|**Theory, Analysis, and Best Practices for Sigmoid Self-Attention**|Jason Ramapuram et.al.|[2409.04431](http://arxiv.org/abs/2409.04431)|null|
+|**2024-09-06**|**Origin of yield stress and mechanical plasticity in biological tissues**|Anh Q. Nguyen et.al.|[2409.04383](http://arxiv.org/abs/2409.04383)|null|
+|**2024-09-06**|**Connectivity-Inspired Network for Context-Aware Recognition**|Gianluca Carloni et.al.|[2409.04360](http://arxiv.org/abs/2409.04360)|null|
+|**2024-09-06**|**ZTF SN Ia DR2: Overview**|Mickael Rigault et.al.|[2409.04346](http://arxiv.org/abs/2409.04346)|null|
+|**2024-09-06**|**Amortized Bayesian Workflow (Extended Abstract)**|Marvin Schmitt et.al.|[2409.04332](http://arxiv.org/abs/2409.04332)|null|
+|**2024-09-06**|**Safe and Efficient Path Planning under Uncertainty via Deep Collision Probability Fields**|Felix Herrmann et.al.|[2409.04306](http://arxiv.org/abs/2409.04306)|null|
+|**2024-09-06**|**A Unified Approach to Inferring Chemical Compounds with the Desired Aqueous Solubility**|Muniba Batool et.al.|[2409.04301](http://arxiv.org/abs/2409.04301)|**[link](https://github.com/ku-dml/mol-infer)**|
+|**2024-09-06**|**An "alien" called Oosterhoff dichotomy?**|E. Luongo et.al.|[2409.04259](http://arxiv.org/abs/2409.04259)|null|
+|**2024-09-06**|**Hermes: Memory-Efficient Pipeline Inference for Large Models on Edge Devices**|Xueyuan Han et.al.|[2409.04249](http://arxiv.org/abs/2409.04249)|null|
+|**2024-09-06**|**GST: Precise 3D Human Body from a Single Image with Gaussian Splatting Transformers**|Lorenza Prospero et.al.|[2409.04196](http://arxiv.org/abs/2409.04196)|null|
 |**2024-09-05**|**Understanding Data Importance in Machine Learning Attacks: Does Valuable Data Pose Greater Harm?**|Rui Wen et.al.|[2409.03741](http://arxiv.org/abs/2409.03741)|null|
 |**2024-09-05**|**Planning In Natural Language Improves LLM Search For Code Generation**|Evan Wang et.al.|[2409.03733](http://arxiv.org/abs/2409.03733)|null|
 |**2024-09-05**|**The Gaia Ultracool Dwarf Sample -- IV. GTC/OSIRIS optical spectra of Gaia late-M and L dwarfs**|W. J. Cooper et.al.|[2409.03706](http://arxiv.org/abs/2409.03706)|null|
@@ -721,6 +741,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-06**|**Unmasking Covert Intrusions: Detection of Fault-Masking Cyberattacks on Differential Protection Systems**|Ahmad Mohammad Saber et.al.|[2409.04242](http://arxiv.org/abs/2409.04242)|null|
+|**2024-09-06**|**Online Residual Learning from Offline Experts for Pedestrian Tracking**|Anastasios Vlachos et.al.|[2409.04069](http://arxiv.org/abs/2409.04069)|null|
 |**2024-09-05**|**Differentiable Discrete Event Simulation for Queuing Network Control**|Ethan Che et.al.|[2409.03740](http://arxiv.org/abs/2409.03740)|null|
 |**2024-09-05**|**A Deep Generative Learning Approach for Two-stage Adaptive Robust Optimization**|Aron Brenner et.al.|[2409.03731](http://arxiv.org/abs/2409.03731)|null|
 |**2024-09-05**|**Wind turbine condition monitoring based on intra- and inter-farm federated learning**|Albin Grataloup et.al.|[2409.03672](http://arxiv.org/abs/2409.03672)|**[link](https://github.com/EnergyWeatherAI/FL-Wind-NBM)**|
