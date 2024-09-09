@@ -64,7 +64,7 @@
 |**2024-08-29**|**VideoLLM-MoD: Efficient Video-Language Streaming with Mixture-of-Depths Vision Computation**|Shiwei Wu et.al.|[2408.16730](http://arxiv.org/abs/2408.16730)|null|
 |**2024-08-30**|**Mini-Omni: Language Models Can Hear, Talk While Thinking in Streaming**|Zhifei Xie et.al.|[2408.16725](http://arxiv.org/abs/2408.16725)|**[link](https://github.com/gpt-omni/mini-omni)**|
 |**2024-08-29**|**Orthosymplectic $R$ -matrices**|Kyungtak Hong et.al.|[2408.16720](http://arxiv.org/abs/2408.16720)|null|
-|**2024-08-29**|**Incremental Context-free Grammar Inference in Black Box Settings**|Feifei Li et.al.|[2408.16706](http://arxiv.org/abs/2408.16706)|null|
+|**2024-08-29**|**Incremental Context-free Grammar Inference in Black Box Settings**|Feifei Li et.al.|[2408.16706](http://arxiv.org/abs/2408.16706)|**[link](https://github.com/Sinpersrect/kedavra)**|
 |**2024-08-28**|**Eagle: Exploring The Design Space for Multimodal LLMs with Mixture of Encoders**|Min Shi et.al.|[2408.15998](http://arxiv.org/abs/2408.15998)|**[link](https://github.com/nvlabs/eagle)**|
 |**2024-08-28**|**CoGen: Learning from Feedback with Coupled Comprehension and Generation**|Mustafa Omer Gul et.al.|[2408.15992](http://arxiv.org/abs/2408.15992)|**[link](https://github.com/lil-lab/cogen)**|
 |**2024-08-28**|**Thoughtseeds: Evolutionary Priors, Nested Markov Blankets, and the Emergence of Embodied Cognition**|Prakash Chandra Kavi et.al.|[2408.15982](http://arxiv.org/abs/2408.15982)|null|
@@ -499,7 +499,7 @@
 |**2024-09-04**|**Four-dimensional phase space tomography from one-dimensional measurements in a high-power hadron ring**|Austin Hoover et.al.|[2409.02862](http://arxiv.org/abs/2409.02862)|null|
 |**2024-09-04**|**Obsidian: Cooperative State-Space Exploration for Performant Inference on Secure ML Accelerators**|Sarbartha Banerjee et.al.|[2409.02817](http://arxiv.org/abs/2409.02817)|null|
 |**2024-09-04**|**Federated Quantum-Train with Batched Parameter Generation**|Chen-Yu Liu et.al.|[2409.02763](http://arxiv.org/abs/2409.02763)|null|
-|**2024-09-04**|**A Comparative Study of Pre-training and Self-training**|Yiheng Wang et.al.|[2409.02751](http://arxiv.org/abs/2409.02751)|null|
+|**2024-09-04**|**A Comparative Study of Pre-training and Self-training**|Yiheng Wang et.al.|[2409.02751](http://arxiv.org/abs/2409.02751)|**[link](https://github.com/PKUAI-LINGroup/PAS)**|
 |**2024-09-04**|**A family of toroidal diffusions with exact likelihood inference**|Eduardo García-Portugués et.al.|[2409.02705](http://arxiv.org/abs/2409.02705)|null|
 |**2024-08-30**|**Advancing Multi-talker ASR Performance with Large Language Models**|Mohan Shi et.al.|[2408.17431](http://arxiv.org/abs/2408.17431)|null|
 |**2024-08-30**|**Family of multivariate extended skew-elliptical distributions: Statistical properties, inference and application**|Roberto Vila et.al.|[2408.17410](http://arxiv.org/abs/2408.17410)|null|
@@ -516,10 +516,10 @@
 |**2024-08-29**|**Post-innermost stable circular orbit ringdown of a rapidly spinning black hole: mass ratio dependence of higher harmonic quasi-normal mode excitation**|Daiki Watarai et.al.|[2408.16747](http://arxiv.org/abs/2408.16747)|null|
 |**2024-08-29**|**Smaller, Weaker, Yet Better: Training LLM Reasoners via Compute-Optimal Sampling**|Hritik Bansal et.al.|[2408.16737](http://arxiv.org/abs/2408.16737)|null|
 |**2024-08-30**|**Mini-Omni: Language Models Can Hear, Talk While Thinking in Streaming**|Zhifei Xie et.al.|[2408.16725](http://arxiv.org/abs/2408.16725)|**[link](https://github.com/gpt-omni/mini-omni)**|
-|**2024-08-29**|**Incremental Context-free Grammar Inference in Black Box Settings**|Feifei Li et.al.|[2408.16706](http://arxiv.org/abs/2408.16706)|null|
+|**2024-08-29**|**Incremental Context-free Grammar Inference in Black Box Settings**|Feifei Li et.al.|[2408.16706](http://arxiv.org/abs/2408.16706)|**[link](https://github.com/Sinpersrect/kedavra)**|
 |**2024-08-29**|**One-Shot Learning Meets Depth Diffusion in Multi-Object Videos**|Anisha Jain et.al.|[2408.16704](http://arxiv.org/abs/2408.16704)|null|
 |**2024-08-29**|**Jina-ColBERT-v2: A General-Purpose Multilingual Late Interaction Retriever**|Rohan Jha et.al.|[2408.16672](http://arxiv.org/abs/2408.16672)|null|
-|**2024-08-29**|**A machine learning approach for computing solar flare locations in X-rays on-board Solar Orbiter/STIX**|Paolo Massa et.al.|[2408.16642](http://arxiv.org/abs/2408.16642)|null|
+|**2024-08-29**|**A machine learning approach for computing solar flare locations in X-rays on-board Solar Orbiter/STIX**|Paolo Massa et.al.|[2408.16642](http://arxiv.org/abs/2408.16642)|**[link](https://github.com/paolomassa/STX_CFL_NN)**|
 |**2024-08-29**|**High-Dimensional Sparse Data Low-rank Representation via Accelerated Asynchronous Parallel Stochastic Gradient Descent**|Qicong Hu et.al.|[2408.16592](http://arxiv.org/abs/2408.16592)|null|
 |**2024-08-28**|**CoGen: Learning from Feedback with Coupled Comprehension and Generation**|Mustafa Omer Gul et.al.|[2408.15992](http://arxiv.org/abs/2408.15992)|**[link](https://github.com/lil-lab/cogen)**|
 |**2024-08-28**|**Thoughtseeds: Evolutionary Priors, Nested Markov Blankets, and the Emergence of Embodied Cognition**|Prakash Chandra Kavi et.al.|[2408.15982](http://arxiv.org/abs/2408.15982)|null|
@@ -578,7 +578,7 @@
 |**2024-08-21**|**Sum of Squares Circuits**|Lorenzo Loconte et.al.|[2408.11778](http://arxiv.org/abs/2408.11778)|null|
 |**2024-08-21**|**Leveraging Fine-Tuned Retrieval-Augmented Generation with Long-Context Support: For 3GPP Standards**|Omar Erak et.al.|[2408.11775](http://arxiv.org/abs/2408.11775)|**[link](https://github.com/Nouf-Alabbasi/oKUmura_AI_Telecom_challenge)**|
 |**2024-08-21**|**FocusLLM: Scaling LLM's Context by Parallel Decoding**|Zhenyu Li et.al.|[2408.11745](http://arxiv.org/abs/2408.11745)|null|
-|**2024-08-21**|**MARLIN: Mixed-Precision Auto-Regressive Parallel Inference on Large Language Models**|Elias Frantar et.al.|[2408.11743](http://arxiv.org/abs/2408.11743)|null|
+|**2024-08-21**|**MARLIN: Mixed-Precision Auto-Regressive Parallel Inference on Large Language Models**|Elias Frantar et.al.|[2408.11743](http://arxiv.org/abs/2408.11743)|**[link](https://github.com/ist-daslab/sparse-marlin)**|
 |**2024-08-22**|**A Multiple Random Scan Strategy for Latent Space Models**|Roberto Casarin et.al.|[2408.11725](http://arxiv.org/abs/2408.11725)|null|
 |**2024-08-21**|**Iterative Object Count Optimization for Text-to-image Diffusion Models**|Oz Zafar et.al.|[2408.11721](http://arxiv.org/abs/2408.11721)|null|
 |**2024-08-21**|**MagicDec: Breaking the Latency-Throughput Tradeoff for Long Context Generation with Speculative Decoding**|Jian Chen et.al.|[2408.11049](http://arxiv.org/abs/2408.11049)|**[link](https://github.com/infini-ai-lab/magicdec)**|
@@ -759,7 +759,7 @@
 |**2024-09-04**|**RoboKoop: Efficient Control Conditioned Representations from Visual Input in Robotics using Koopman Operator**|Hemant Kumawat et.al.|[2409.03107](http://arxiv.org/abs/2409.03107)|null|
 |**2024-09-04**|**PIETRA: Physics-Informed Evidential Learning for Traversing Out-of-Distribution Terrain**|Xiaoyi Cai et.al.|[2409.03005](http://arxiv.org/abs/2409.03005)|null|
 |**2024-09-03**|**Optimal Power Grid Operations with Foundation Models**|Alban Puech et.al.|[2409.02148](http://arxiv.org/abs/2409.02148)|null|
-|**2024-09-03**|**Large Language Models for Anomaly and Out-of-Distribution Detection: A Survey**|Ruiyao Xu et.al.|[2409.01980](http://arxiv.org/abs/2409.01980)|null|
+|**2024-09-03**|**Large Language Models for Anomaly and Out-of-Distribution Detection: A Survey**|Ruiyao Xu et.al.|[2409.01980](http://arxiv.org/abs/2409.01980)|**[link](https://github.com/rux001/Awesome-LLM-Anomaly-OOD-Detection)**|
 |**2024-09-03**|**Modeling IoT Traffic Patterns: Insights from a Statistical Analysis of an MTC Dataset**|David E. Ruiz-Guirola et.al.|[2409.01932](http://arxiv.org/abs/2409.01932)|null|
 |**2024-09-02**|**Sample Complexity of the Sign-Perturbed Sums Method**|Szabolcs Szentpéteri et.al.|[2409.01243](http://arxiv.org/abs/2409.01243)|null|
 |**2024-09-02**|**PACSBO: Probably approximately correct safe Bayesian optimization**|Abdullah Tokmak et.al.|[2409.01163](http://arxiv.org/abs/2409.01163)|null|
@@ -778,7 +778,7 @@
 |**2024-08-27**|**Earth Observation Satellite Scheduling with Graph Neural Networks**|Antoine Jacquet et.al.|[2408.15041](http://arxiv.org/abs/2408.15041)|null|
 |**2024-08-23**|**Extraction of Typical Operating Scenarios of New Power System Based on Deep Time Series Aggregation**|Zhaoyang Qu et.al.|[2408.14493](http://arxiv.org/abs/2408.14493)|null|
 |**2024-08-24**|**Learning a Factorized Orthogonal Latent Space using Encoder-only Architecture for Fault Detection; An Alarm management perspective**|Vahid MohammadZadeh Eivaghi et.al.|[2408.13526](http://arxiv.org/abs/2408.13526)|null|
-|**2024-08-23**|**MICM: Rethinking Unsupervised Pretraining for Enhanced Few-shot Learning**|Zhenyu Zhang et.al.|[2408.13385](http://arxiv.org/abs/2408.13385)|null|
+|**2024-08-23**|**MICM: Rethinking Unsupervised Pretraining for Enhanced Few-shot Learning**|Zhenyu Zhang et.al.|[2408.13385](http://arxiv.org/abs/2408.13385)|**[link](https://github.com/icgy96/micm)**|
 |**2024-08-23**|**Reduce, Reuse, Recycle: Categories for Compositional Reinforcement Learning**|Georgios Bakirtzis et.al.|[2408.13376](http://arxiv.org/abs/2408.13376)|null|
 |**2024-08-23**|**Stable Formulations in Optimistic Bilevel Optimization**|Johannes O. Royset et.al.|[2408.13323](http://arxiv.org/abs/2408.13323)|null|
 |**2024-08-23**|**An IoT Framework for Building Energy Optimization Using Machine Learning-based MPC**|Aryan Morteza et.al.|[2408.13294](http://arxiv.org/abs/2408.13294)|null|
@@ -816,7 +816,7 @@
 |**2024-07-31**|**Closed-loop Diffusion Control of Complex Physical Systems**|Long Wei et.al.|[2408.03124](http://arxiv.org/abs/2408.03124)|null|
 |**2024-08-05**|**Multi-level Traffic-Responsive Tilt Camera Surveillance through Predictive Correlated Online Learning**|Tao Li et.al.|[2408.02208](http://arxiv.org/abs/2408.02208)|null|
 |**2024-08-03**|**Real-time Hybrid System Identification with Online Deterministic Annealing**|Christos Mavridis et.al.|[2408.01730](http://arxiv.org/abs/2408.01730)|null|
-|**2024-08-03**|**Coordinating Planning and Tracking in Layered Control Policies via Actor-Critic Learning**|Fengjun Yang et.al.|[2408.01639](http://arxiv.org/abs/2408.01639)|null|
+|**2024-08-03**|**Coordinating Planning and Tracking in Layered Control Policies via Actor-Critic Learning**|Fengjun Yang et.al.|[2408.01639](http://arxiv.org/abs/2408.01639)|**[link](https://github.com/unstable-zeros/layered-ac)**|
 |**2024-08-02**|**Trustworthy Machine Learning under Social and Adversarial Data Sources**|Han Shao et.al.|[2408.01596](http://arxiv.org/abs/2408.01596)|null|
 |**2024-08-02**|**Certified Robust Invariant Polytope Training in Neural Controlled ODEs**|Akash Harapanahalli et.al.|[2408.01273](http://arxiv.org/abs/2408.01273)|**[link](https://github.com/gtfactslab/Polytope-Training)**|
 |**2024-07-31**|**Generalized Out-of-Distribution Detection and Beyond in Vision Language Model Era: A Survey**|Atsuyuki Miyai et.al.|[2407.21794](http://arxiv.org/abs/2407.21794)|null|
