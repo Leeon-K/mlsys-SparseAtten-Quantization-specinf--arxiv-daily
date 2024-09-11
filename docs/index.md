@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-10**|**Geometric-Averaged Preference Optimization for Soft Preference Labels**|Hiroki Furuta et.al.|[2409.06691](http://arxiv.org/abs/2409.06691)|null|
+|**2024-09-10**|**Sequential stratified inference for the mean**|Jacob V. Spertus et.al.|[2409.06680](http://arxiv.org/abs/2409.06680)|null|
+|**2024-09-10**|**E2LLM: Encoder Elongated Large Language Models for Long-Context Understanding and Reasoning**|Zihan Liao et.al.|[2409.06679](http://arxiv.org/abs/2409.06679)|null|
+|**2024-09-10**|**LLaMA-Omni: Seamless Speech Interaction with Large Language Models**|Qingkai Fang et.al.|[2409.06666](http://arxiv.org/abs/2409.06666)|**[link](https://github.com/ictnlp/llama-omni)**|
+|**2024-09-10**|**Quantizing the folded string in AdS $_2$**|David Vegh et.al.|[2409.06663](http://arxiv.org/abs/2409.06663)|null|
+|**2024-09-10**|**Estimation and Inference for Causal Functions with Multiway Clustered Data**|Nan Liu et.al.|[2409.06654](http://arxiv.org/abs/2409.06654)|null|
+|**2024-09-10**|**Human Perception of LLM-generated Text Content in Social Media Environments**|Kristina Radivojevic et.al.|[2409.06653](http://arxiv.org/abs/2409.06653)|null|
+|**2024-09-10**|**Image Vectorization with Depth: convexified shape layers with depth ordering**|Ho Law et.al.|[2409.06648](http://arxiv.org/abs/2409.06648)|null|
+|**2024-09-10**|**Optimal Workload Placement on Multi-Instance GPUs**|Bekir Turkkan et.al.|[2409.06646](http://arxiv.org/abs/2409.06646)|null|
+|**2024-09-10**|**Strategic management analysis: from data to strategy diagram by LLM**|Richard Brath et.al.|[2409.06643](http://arxiv.org/abs/2409.06643)|null|
 |**2024-09-10**|**Evaluating Multiview Object Consistency in Humans and Image Models**|Tyler Bonnen et.al.|[2409.05862](http://arxiv.org/abs/2409.05862)|**[link](https://github.com/tzler/mochi_code)**|
 |**2024-09-09**|**Are Large Language Models a Threat to Programming Platforms? An Exploratory Study**|Md Mustakim Billah et.al.|[2409.05824](http://arxiv.org/abs/2409.05824)|null|
 |**2024-09-09**|**Improving Pretraining Data Using Perplexity Correlations**|Tristan Thrush et.al.|[2409.05816](http://arxiv.org/abs/2409.05816)|null|
@@ -325,6 +335,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-10**|**Foragax: An Agent Based Modelling framework based on JAX**|Siddharth Chaturvedi et.al.|[2409.06345](http://arxiv.org/abs/2409.06345)|null|
+|**2024-09-10**|**PIM-MMU: A Memory Management Unit for Accelerating Data Transfers in Commercial PIM Systems**|Dongjae Lee et.al.|[2409.06204](http://arxiv.org/abs/2409.06204)|null|
+|**2024-09-06**|**Towards Narrowing the Generalization Gap in Deep Boolean Networks**|Youngsung Kim et.al.|[2409.05905](http://arxiv.org/abs/2409.05905)|null|
 |**2024-09-09**|**Supervised Learning for Stochastic Optimal Control**|Vince Kurtz et.al.|[2409.05792](http://arxiv.org/abs/2409.05792)|null|
 |**2024-09-08**|**BBS: Bi-directional Bit-level Sparsity for Deep Learning Acceleration**|Yuzong Chen et.al.|[2409.05227](http://arxiv.org/abs/2409.05227)|**[link](https://github.com/yc2367/bbs-micro)**|
 |**2024-09-05**|**Libra: Architectural Support For Principled, Secure And Efficient Balanced Execution On High-End Processors (Extended Version)**|Hans Winderix et.al.|[2409.03743](http://arxiv.org/abs/2409.03743)|null|
@@ -479,6 +492,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-10**|**Sequential stratified inference for the mean**|Jacob V. Spertus et.al.|[2409.06680](http://arxiv.org/abs/2409.06680)|null|
+|**2024-09-10**|**E2LLM: Encoder Elongated Large Language Models for Long-Context Understanding and Reasoning**|Zihan Liao et.al.|[2409.06679](http://arxiv.org/abs/2409.06679)|null|
+|**2024-09-10**|**Estimation and Inference for Causal Functions with Multiway Clustered Data**|Nan Liu et.al.|[2409.06654](http://arxiv.org/abs/2409.06654)|null|
+|**2024-09-10**|**Advancing Causal Inference: A Nonparametric Approach to ATE and CATE Estimation with Continuous Treatments**|Hugo Gobato Souto et.al.|[2409.06593](http://arxiv.org/abs/2409.06593)|null|
+|**2024-09-10**|**On Epistemic Properties in Discrete-Event Systems: A Uniform Framework and Its Applications**|Bohan Cui et.al.|[2409.06588](http://arxiv.org/abs/2409.06588)|null|
+|**2024-09-10**|**Universal End-to-End Neural Network for Lossy Image Compression**|Bouzid Arezki et.al.|[2409.06586](http://arxiv.org/abs/2409.06586)|null|
+|**2024-09-10**|**Exploring Differences between Human Perception and Model Inference in Audio Event Recognition**|Yizhou Tan et.al.|[2409.06580](http://arxiv.org/abs/2409.06580)|null|
+|**2024-09-10**|**Enzyme kinetic reactions as interacting particle systems: Stochastic averaging and parameter inference**|Arnab Ganguly et.al.|[2409.06565](http://arxiv.org/abs/2409.06565)|null|
+|**2024-09-10**|**A Primer on Variational Inference for Physics-Informed Deep Generative Modelling**|Alex Glyn-Davies et.al.|[2409.06560](http://arxiv.org/abs/2409.06560)|null|
+|**2024-09-10**|**Hierarchical Bayesian inference on an analytical model of the LISA massive black hole binary population**|Vivienne Langen et.al.|[2409.06527](http://arxiv.org/abs/2409.06527)|null|
 |**2024-09-10**|**Evaluating Multiview Object Consistency in Humans and Image Models**|Tyler Bonnen et.al.|[2409.05862](http://arxiv.org/abs/2409.05862)|**[link](https://github.com/tzler/mochi_code)**|
 |**2024-09-09**|**Environmental dependence on galaxy-halo connections for satellites using HSC weak lensing**|Amit Kumar et.al.|[2409.05795](http://arxiv.org/abs/2409.05795)|null|
 |**2024-09-09**|**Model Input Verification of Large Scale Simulations**|Rumyana Neykova et.al.|[2409.05768](http://arxiv.org/abs/2409.05768)|null|
@@ -764,6 +787,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-10**|**Superior Computer Chess with Model Predictive Control, Reinforcement Learning, and Rollout**|Atharva Gundawar et.al.|[2409.06477](http://arxiv.org/abs/2409.06477)|null|
+|**2024-09-10**|**A Short Information-Theoretic Analysis of Linear Auto-Regressive Learning**|Ingvar Ziemann et.al.|[2409.06437](http://arxiv.org/abs/2409.06437)|null|
+|**2024-09-06**|**Faster Q-Learning Algorithms for Restless Bandits**|Parvish Kakarapalli et.al.|[2409.05908](http://arxiv.org/abs/2409.05908)|null|
 |**2024-09-09**|**Towards Fast Rates for Federated and Multi-Task Reinforcement Learning**|Feng Zhu et.al.|[2409.05291](http://arxiv.org/abs/2409.05291)|null|
 |**2024-09-07**|**Urban traffic analysis and forecasting through shared Koopman eigenmodes**|Chuhan Yang et.al.|[2409.04728](http://arxiv.org/abs/2409.04728)|null|
 |**2024-09-06**|**Whittle Index Learning Algorithms for Restless Bandits with Constant Stepsizes**|Vishesh Mittal et.al.|[2409.04605](http://arxiv.org/abs/2409.04605)|null|
