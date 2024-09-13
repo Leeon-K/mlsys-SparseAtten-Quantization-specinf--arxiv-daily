@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.12
+## Updated on 2024.09.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Quantization
@@ -345,7 +345,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-09-10**|**Foragax: An Agent Based Modelling framework based on JAX**|Siddharth Chaturvedi et.al.|[2409.06345](http://arxiv.org/abs/2409.06345)|null|
+|**2024-09-12**|**Foragax: An Agent-Based Modelling framework based on JAX**|Siddharth Chaturvedi et.al.|[2409.06345](http://arxiv.org/abs/2409.06345)|null|
 |**2024-09-10**|**PIM-MMU: A Memory Management Unit for Accelerating Data Transfers in Commercial PIM Systems**|Dongjae Lee et.al.|[2409.06204](http://arxiv.org/abs/2409.06204)|null|
 |**2024-09-06**|**Towards Narrowing the Generalization Gap in Deep Boolean Networks**|Youngsung Kim et.al.|[2409.05905](http://arxiv.org/abs/2409.05905)|null|
 |**2024-09-09**|**Supervised Learning for Stochastic Optimal Control**|Vince Kurtz et.al.|[2409.05792](http://arxiv.org/abs/2409.05792)|null|
@@ -353,7 +353,7 @@ layout: default
 |**2024-09-05**|**Libra: Architectural Support For Principled, Secure And Efficient Balanced Execution On High-End Processors (Extended Version)**|Hans Winderix et.al.|[2409.03743](http://arxiv.org/abs/2409.03743)|null|
 |**2024-09-05**|**Hardware Acceleration of LLMs: A comprehensive survey and comparison**|Nikoletta Koilia et.al.|[2409.03384](http://arxiv.org/abs/2409.03384)|null|
 |**2024-09-05**|**Towards training digitally-tied analog blocks via hybrid gradient computation**|Timothy Nest et.al.|[2409.03306](http://arxiv.org/abs/2409.03306)|null|
-|**2024-08-30**|**The picasso gas model: Painting intracluster gas on gravity-only simulations**|F. Kéruzoré et.al.|[2408.17445](http://arxiv.org/abs/2408.17445)|null|
+|**2024-08-30**|**The picasso gas model: Painting intracluster gas on gravity-only simulations**|F. Kéruzoré et.al.|[2408.17445](http://arxiv.org/abs/2408.17445)|**[link](https://github.com/fkeruzore/picasso)**|
 |**2024-08-29**|**Serial and Parallel Two-Column Probing for Mixed-Integer Programming**|Yongzheng Dai et.al.|[2408.16927](http://arxiv.org/abs/2408.16927)|null|
 |**2024-08-29**|**On-device AI: Quantization-aware Training of Transformers in Time-Series**|Tianheng Ling et.al.|[2408.16495](http://arxiv.org/abs/2408.16495)|null|
 |**2024-08-29**|**Accelerating Image-based Pest Detection on a Heterogeneous Multi-core Microcontroller**|Luca Bompani et.al.|[2408.15911](http://arxiv.org/abs/2408.15911)|**[link](https://github.com/bomps4/tafe_pest_detection)**|
