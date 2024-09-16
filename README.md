@@ -25,6 +25,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-13**|**Agents in Software Engineering: Survey, Landscape, and Vision**|Yanxian Huang et.al.|[2409.09030](http://arxiv.org/abs/2409.09030)|**[link](https://github.com/deepsoftwareanalytics/awesome-agent4se)**|
+|**2024-09-13**|**Learning Theory Informed Priors for Bayesian Inference: A Case Study with Early Dark Energy**|Michael W. Toomey et.al.|[2409.09029](http://arxiv.org/abs/2409.09029)|null|
+|**2024-09-13**|**An Efficient and Streaming Audio Visual Active Speaker Detection System**|Arnav Kundu et.al.|[2409.09018](http://arxiv.org/abs/2409.09018)|null|
+|**2024-09-13**|**AI-LieDar: Examine the Trade-off Between Utility and Truthfulness in LLM Agents**|Zhe Su et.al.|[2409.09013](http://arxiv.org/abs/2409.09013)|null|
+|**2024-09-13**|**Contri(e)ve: Context + Retrieve for Scholarly Question Answering**|Kanchan Shivashankar et.al.|[2409.09010](http://arxiv.org/abs/2409.09010)|null|
+|**2024-09-13**|**SGFormer: Single-Layer Graph Transformers with Approximation-Free Linear Complexity**|Qitian Wu et.al.|[2409.09007](http://arxiv.org/abs/2409.09007)|**[link](https://github.com/qitianwu/sgformer)**|
+|**2024-09-13**|**Turbo Equalization with Coarse Quantization using the Information Bottleneck Method**|Philipp Mohr et.al.|[2409.09004](http://arxiv.org/abs/2409.09004)|null|
+|**2024-09-13**|**Clean Label Attacks against SLU Systems**|Henry Li Xinyuan et.al.|[2409.08985](http://arxiv.org/abs/2409.08985)|null|
+|**2024-09-13**|**Safeguarding Decentralized Social Media: LLM Agents for Automating Community Rule Compliance**|Lucio La Cava et.al.|[2409.08963](http://arxiv.org/abs/2409.08963)|null|
+|**2024-09-13**|**PINNfluence: Influence Functions for Physics-Informed Neural Networks**|Jonas R. Naujoks et.al.|[2409.08958](http://arxiv.org/abs/2409.08958)|**[link](https://github.com/aleks-krasowski/PINNfluence)**|
 |**2024-09-12**|**On the space of $2d$ integrable models**|Lukas W. Lindwasser et.al.|[2409.08266](http://arxiv.org/abs/2409.08266)|null|
 |**2024-09-12**|**Windows Agent Arena: Evaluating Multi-Modal OS Agents at Scale**|Rogerio Bonatti et.al.|[2409.08264](http://arxiv.org/abs/2409.08264)|**[link](https://github.com/microsoft/windowsagentarena)**|
 |**2024-09-12**|**Improving Text-guided Object Inpainting with Semantic Pre-inpainting**|Yifu Chen et.al.|[2409.08260](http://arxiv.org/abs/2409.08260)|**[link](https://github.com/nnn-s/catdiffusion)**|
@@ -370,6 +380,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-13**|**Automatic Generation of Fast and Accurate Performance Models for Deep Neural Network Accelerators**|Konstantin Lübeck et.al.|[2409.08595](http://arxiv.org/abs/2409.08595)|null|
 |**2024-09-12**|**Foragax: An Agent-Based Modelling framework based on JAX**|Siddharth Chaturvedi et.al.|[2409.06345](http://arxiv.org/abs/2409.06345)|**[link](https://github.com/i-m-iron-man/Foragax)**|
 |**2024-09-10**|**PIM-MMU: A Memory Management Unit for Accelerating Data Transfers in Commercial PIM Systems**|Dongjae Lee et.al.|[2409.06204](http://arxiv.org/abs/2409.06204)|null|
 |**2024-09-06**|**Towards Narrowing the Generalization Gap in Deep Boolean Networks**|Youngsung Kim et.al.|[2409.05905](http://arxiv.org/abs/2409.05905)|null|
@@ -425,6 +436,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-13**|**Pushing the boundaries of event subsampling in event-based video classification using CNNs**|Hesam Araghi et.al.|[2409.08953](http://arxiv.org/abs/2409.08953)|**[link](https://github.com/hesamaraghi/pushing-boundaries-event-subsampling)**|
+|**2024-09-12**|**E-QUARTIC: Energy Efficient Edge Ensemble of Convolutional Neural Networks for Resource-Optimized Learning**|Le Zhang et.al.|[2409.08369](http://arxiv.org/abs/2409.08369)|null|
+|**2024-09-12**|**DiReDi: Distillation and Reverse Distillation for AIoT Applications**|Chen Sun et.al.|[2409.08308](http://arxiv.org/abs/2409.08308)|null|
 |**2024-09-11**|**A Continual and Incremental Learning Approach for TinyML On-device Training Using Dataset Distillation and Model Size Adaption**|Marcus Rüb et.al.|[2409.07114](http://arxiv.org/abs/2409.07114)|null|
 |**2024-09-08**|**Transformer with Leveraged Masked Autoencoder for video-based Pain Assessment**|Minh-Duc Nguyen et.al.|[2409.05088](http://arxiv.org/abs/2409.05088)|null|
 |**2024-09-02**|**Edge AI: Evaluation of Model Compression Techniques for Convolutional Neural Networks**|Samer Francy et.al.|[2409.02134](http://arxiv.org/abs/2409.02134)|null|
@@ -538,6 +552,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-13**|**Learning Theory Informed Priors for Bayesian Inference: A Case Study with Early Dark Energy**|Michael W. Toomey et.al.|[2409.09029](http://arxiv.org/abs/2409.09029)|null|
+|**2024-09-13**|**An Efficient and Streaming Audio Visual Active Speaker Detection System**|Arnav Kundu et.al.|[2409.09018](http://arxiv.org/abs/2409.09018)|null|
+|**2024-09-13**|**SGFormer: Single-Layer Graph Transformers with Approximation-Free Linear Complexity**|Qitian Wu et.al.|[2409.09007](http://arxiv.org/abs/2409.09007)|**[link](https://github.com/qitianwu/sgformer)**|
+|**2024-09-13**|**Clean Label Attacks against SLU Systems**|Henry Li Xinyuan et.al.|[2409.08985](http://arxiv.org/abs/2409.08985)|null|
+|**2024-09-13**|**PINNfluence: Influence Functions for Physics-Informed Neural Networks**|Jonas R. Naujoks et.al.|[2409.08958](http://arxiv.org/abs/2409.08958)|**[link](https://github.com/aleks-krasowski/PINNfluence)**|
+|**2024-09-13**|**Proactive Recommendation in Social Networks: Steering User Interest via Neighbor Influence**|Hang Pan et.al.|[2409.08934](http://arxiv.org/abs/2409.08934)|null|
+|**2024-09-13**|**LLM-based Weak Supervision Framework for Query Intent Classification in Video Search**|Farnoosh Javadi et.al.|[2409.08931](http://arxiv.org/abs/2409.08931)|null|
+|**2024-09-13**|**Self-Organized State-Space Models with Artificial Dynamics**|Yuan Chen et.al.|[2409.08928](http://arxiv.org/abs/2409.08928)|null|
+|**2024-09-13**|**Regression-based proximal causal inference for right-censored time-to-event data**|Kendrick Li et.al.|[2409.08924](http://arxiv.org/abs/2409.08924)|null|
+|**2024-09-13**|**Inferring hyperuniformity from local structures via persistent homology**|Abel H. G. Milor et.al.|[2409.08899](http://arxiv.org/abs/2409.08899)|null|
 |**2024-09-12**|**Improving Text-guided Object Inpainting with Semantic Pre-inpainting**|Yifu Chen et.al.|[2409.08260](http://arxiv.org/abs/2409.08260)|**[link](https://github.com/nnn-s/catdiffusion)**|
 |**2024-09-12**|**OmniQuery: Contextually Augmenting Captured Multimodal Memory to Enable Personal Question Answering**|Jiahao Nick Li et.al.|[2409.08250](http://arxiv.org/abs/2409.08250)|null|
 |**2024-09-12**|**Reasoning Around Paradox with Grounded Deduction**|Bryan Ford et.al.|[2409.08243](http://arxiv.org/abs/2409.08243)|null|
@@ -855,6 +879,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-13**|**Input-to-State Stable Coupled Oscillator Networks for Closed-form Model-based Control in Latent Space**|Maximilian Stölzle et.al.|[2409.08439](http://arxiv.org/abs/2409.08439)|null|
+|**2024-09-12**|**Fitted Q-Iteration via Max-Plus-Linear Approximation**|Y. Liu et.al.|[2409.08422](http://arxiv.org/abs/2409.08422)|null|
+|**2024-09-12**|**Stochastic Reinforcement Learning with Stability Guarantees for Control of Unknown Nonlinear Systems**|Thanin Quartz et.al.|[2409.08382](http://arxiv.org/abs/2409.08382)|null|
 |**2024-09-12**|**Optimizing Falsification for Learning-Based Control Systems: A Multi-Fidelity Bayesian Approach**|Zahra Shahrooei et.al.|[2409.08097](http://arxiv.org/abs/2409.08097)|**[link](https://github.com/sailrit/mfbo_falsification)**|
 |**2024-09-12**|**Critically Damped Third-Order Langevin Dynamics**|Benjamin Sterling et.al.|[2409.07697](http://arxiv.org/abs/2409.07697)|null|
 |**2024-09-11**|**Deep Learning of Dynamic Systems using System Identification Toolbox(TM)**|Tianyu Dai et.al.|[2409.07642](http://arxiv.org/abs/2409.07642)|null|
