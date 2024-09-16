@@ -65,14 +65,14 @@
 |**2024-09-09**|**Model Input Verification of Large Scale Simulations**|Rumyana Neykova et.al.|[2409.05768](http://arxiv.org/abs/2409.05768)|null|
 |**2024-09-09**|**jaxspec : a fast and robust Python library for X-ray spectral fitting**|Simon Dupourqué et.al.|[2409.05757](http://arxiv.org/abs/2409.05757)|null|
 |**2024-09-09**|**A Novel Idea Generation Tool using a Structured Conversational AI (CAI) System**|B. Sankar et.al.|[2409.05747](http://arxiv.org/abs/2409.05747)|null|
-|**2024-09-06**|**Theory, Analysis, and Best Practices for Sigmoid Self-Attention**|Jason Ramapuram et.al.|[2409.04431](http://arxiv.org/abs/2409.04431)|null|
+|**2024-09-06**|**Theory, Analysis, and Best Practices for Sigmoid Self-Attention**|Jason Ramapuram et.al.|[2409.04431](http://arxiv.org/abs/2409.04431)|**[link](https://github.com/apple/ml-sigmoid-attention)**|
 |**2024-09-06**|**RLPF: Reinforcement Learning from Prediction Feedback for User Summarization with LLMs**|Jiaxing Wu et.al.|[2409.04421](http://arxiv.org/abs/2409.04421)|null|
 |**2024-09-06**|**Origin of yield stress and mechanical plasticity in biological tissues**|Anh Q. Nguyen et.al.|[2409.04383](http://arxiv.org/abs/2409.04383)|null|
-|**2024-09-06**|**Connectivity-Inspired Network for Context-Aware Recognition**|Gianluca Carloni et.al.|[2409.04360](http://arxiv.org/abs/2409.04360)|null|
+|**2024-09-06**|**Connectivity-Inspired Network for Context-Aware Recognition**|Gianluca Carloni et.al.|[2409.04360](http://arxiv.org/abs/2409.04360)|**[link](https://github.com/gianlucarloni/cocoreco)**|
 |**2024-09-06**|**ZTF SN Ia DR2: Overview**|Mickael Rigault et.al.|[2409.04346](http://arxiv.org/abs/2409.04346)|null|
 |**2024-09-06**|**AGR: Age Group fairness Reward for Bias Mitigation in LLMs**|Shuirong Cao et.al.|[2409.04340](http://arxiv.org/abs/2409.04340)|null|
 |**2024-09-06**|**Amortized Bayesian Workflow (Extended Abstract)**|Marvin Schmitt et.al.|[2409.04332](http://arxiv.org/abs/2409.04332)|null|
-|**2024-09-06**|**Learning vs Retrieval: The Role of In-Context Examples in Regression with LLMs**|Aliakbar Nafar et.al.|[2409.04318](http://arxiv.org/abs/2409.04318)|null|
+|**2024-09-06**|**Learning vs Retrieval: The Role of In-Context Examples in Regression with LLMs**|Aliakbar Nafar et.al.|[2409.04318](http://arxiv.org/abs/2409.04318)|**[link](https://github.com/HLR/LvsR-LLM)**|
 |**2024-09-06**|**Safe and Efficient Path Planning under Uncertainty via Deep Collision Probability Fields**|Felix Herrmann et.al.|[2409.04306](http://arxiv.org/abs/2409.04306)|null|
 |**2024-09-06**|**A Unified Approach to Inferring Chemical Compounds with the Desired Aqueous Solubility**|Muniba Batool et.al.|[2409.04301](http://arxiv.org/abs/2409.04301)|**[link](https://github.com/ku-dml/mol-infer)**|
 |**2024-09-05**|**Attention Heads of Large Language Models: A Survey**|Zifan Zheng et.al.|[2409.03752](http://arxiv.org/abs/2409.03752)|**[link](https://github.com/iaar-shanghai/awesome-attention-heads)**|
@@ -120,7 +120,7 @@
 |**2024-08-28**|**Thoughtseeds: Evolutionary Priors, Nested Markov Blankets, and the Emergence of Embodied Cognition**|Prakash Chandra Kavi et.al.|[2408.15982](http://arxiv.org/abs/2408.15982)|null|
 |**2024-08-28**|**WebPilot: A Versatile and Autonomous Multi-Agent System for Web Task Execution with Strategic Exploration**|Yao Zhang et.al.|[2408.15978](http://arxiv.org/abs/2408.15978)|null|
 |**2024-08-28**|**BattleAgentBench: A Benchmark for Evaluating Cooperation and Competition Capabilities of Language Models in Multi-Agent Systems**|Wei Wang et.al.|[2408.15971](http://arxiv.org/abs/2408.15971)|null|
-|**2024-08-28**|**More Text, Less Point: Towards 3D Data-Efficient Point-Language Understanding**|Yuan Tang et.al.|[2408.15966](http://arxiv.org/abs/2408.15966)|null|
+|**2024-08-28**|**More Text, Less Point: Towards 3D Data-Efficient Point-Language Understanding**|Yuan Tang et.al.|[2408.15966](http://arxiv.org/abs/2408.15966)|**[link](https://github.com/tangyuan96/greenplm)**|
 |**2024-08-28**|**On harmonic oscillator hazard functions**|J. A. Christen et.al.|[2408.15964](http://arxiv.org/abs/2408.15964)|**[link](https://github.com/fjrubio67/hoh)**|
 |**2024-08-28**|**InstanSeg: an embedding-based instance segmentation algorithm optimized for accurate, efficient and portable cell segmentation**|Thibaut Goldsborough et.al.|[2408.15954](http://arxiv.org/abs/2408.15954)|**[link](https://github.com/instanseg/instanseg)**|
 |**2024-08-28**|**Atari-GPT: Investigating the Capabilities of Multimodal Large Language Models as Low-Level Policies for Atari Games**|Nicholas R. Waytowich et.al.|[2408.15950](http://arxiv.org/abs/2408.15950)|null|
@@ -329,7 +329,7 @@
 |**2024-07-30**|**AI-Assisted Generation of Difficult Math Questions**|Vedant Shah et.al.|[2407.21009](http://arxiv.org/abs/2407.21009)|null|
 |**2024-07-31**|**MoFO: Momentum-Filtered Optimizer for Mitigating Forgetting in LLM Fine-Tuning**|Yupeng Chen et.al.|[2407.20999](http://arxiv.org/abs/2407.20999)|null|
 |**2024-07-30**|**Meteoritic Tutton salt, a naturally inspired reservoir of cometary and asteroidal ammonium**|Sergey N. Britvin et.al.|[2407.20997](http://arxiv.org/abs/2407.20997)|null|
-|**2024-07-30**|**From Feature Importance to Natural Language Explanations Using LLMs with RAG**|Sule Tekkesinoglu et.al.|[2407.20990](http://arxiv.org/abs/2407.20990)|null|
+|**2024-07-30**|**From Feature Importance to Natural Language Explanations Using LLMs with RAG**|Sule Tekkesinoglu et.al.|[2407.20990](http://arxiv.org/abs/2407.20990)|**[link](https://github.com/suletekkesinoglu/xai_llm_rag)**|
 |**2024-07-30**|**Analysis of Polarized Dust Emission from the First Flight of the SPIDER Balloon-Borne Telescope**|SPIDER Collaboration et.al.|[2407.20982](http://arxiv.org/abs/2407.20982)|null|
 |**2024-07-30**|**Large Language Models (LLMs) for Semantic Communication in Edge-based IoT Networks**|Alakesh Kalita et.al.|[2407.20970](http://arxiv.org/abs/2407.20970)|null|
 |**2024-07-30**|**MMTrail: A Multimodal Trailer Video Dataset with Language and Music Descriptions**|Xiaowei Chi et.al.|[2407.20962](http://arxiv.org/abs/2407.20962)|**[link](https://github.com/litwellchi/mmtrail)**|
@@ -379,7 +379,7 @@
 |**2024-09-05**|**Hardware Acceleration of LLMs: A comprehensive survey and comparison**|Nikoletta Koilia et.al.|[2409.03384](http://arxiv.org/abs/2409.03384)|null|
 |**2024-09-05**|**Towards training digitally-tied analog blocks via hybrid gradient computation**|Timothy Nest et.al.|[2409.03306](http://arxiv.org/abs/2409.03306)|null|
 |**2024-08-30**|**The picasso gas model: Painting intracluster gas on gravity-only simulations**|F. Kéruzoré et.al.|[2408.17445](http://arxiv.org/abs/2408.17445)|**[link](https://github.com/fkeruzore/picasso)**|
-|**2024-08-29**|**Serial and Parallel Two-Column Probing for Mixed-Integer Programming**|Yongzheng Dai et.al.|[2408.16927](http://arxiv.org/abs/2408.16927)|null|
+|**2024-08-29**|**Serial and Parallel Two-Column Probing for Mixed-Integer Programming**|Yongzheng Dai et.al.|[2408.16927](http://arxiv.org/abs/2408.16927)|**[link](https://github.com/foreverdyz/twocolumnprobing)**|
 |**2024-08-29**|**On-device AI: Quantization-aware Training of Transformers in Time-Series**|Tianheng Ling et.al.|[2408.16495](http://arxiv.org/abs/2408.16495)|null|
 |**2024-08-29**|**Accelerating Image-based Pest Detection on a Heterogeneous Multi-core Microcontroller**|Luca Bompani et.al.|[2408.15911](http://arxiv.org/abs/2408.15911)|**[link](https://github.com/bomps4/tafe_pest_detection)**|
 |**2024-08-28**|**FireFly-S: Exploiting Dual-Side Sparsity for Spiking Neural Networks Acceleration with Reconfigurable Spatial Architecture**|Tenglong Li et.al.|[2408.15578](http://arxiv.org/abs/2408.15578)|null|
@@ -529,7 +529,7 @@
 |**2024-07-24**|**CoMoTo: Unpaired Cross-Modal Lesion Distillation Improves Breast Lesion Detection in Tomosynthesis**|Muhammad Alberb et.al.|[2407.17620](http://arxiv.org/abs/2407.17620)|**[link](https://github.com/muhammad-al-barbary/comoto)**|
 |**2024-07-24**|**(PASS) Visual Prompt Locates Good Structure Sparsity through a Recurrent HyperNetwork**|Tianjin Huang et.al.|[2407.17412](http://arxiv.org/abs/2407.17412)|null|
 |**2024-07-23**|**Strike a Balance in Continual Panoptic Segmentation**|Jinpeng Chen et.al.|[2407.16354](http://arxiv.org/abs/2407.16354)|**[link](https://github.com/jinpeng0528/balconpas)**|
-|**2024-07-23**|**OriGen:Enhancing RTL Code Generation with Code-to-Code Augmentation and Self-Reflection**|Fan Cui et.al.|[2407.16237](http://arxiv.org/abs/2407.16237)|null|
+|**2024-07-23**|**OriGen:Enhancing RTL Code Generation with Code-to-Code Augmentation and Self-Reflection**|Fan Cui et.al.|[2407.16237](http://arxiv.org/abs/2407.16237)|**[link](https://github.com/pku-liang/origen)**|
 |**2024-07-23**|**DDK: Distilling Domain Knowledge for Efficient Large Language Models**|Jiaheng Liu et.al.|[2407.16154](http://arxiv.org/abs/2407.16154)|null|
 
 <p align=right>(<a href=#updated-on-20240916>back to top</a>)</p>
@@ -564,7 +564,7 @@
 |**2024-09-10**|**Advancing Causal Inference: A Nonparametric Approach to ATE and CATE Estimation with Continuous Treatments**|Hugo Gobato Souto et.al.|[2409.06593](http://arxiv.org/abs/2409.06593)|null|
 |**2024-09-10**|**On Epistemic Properties in Discrete-Event Systems: A Uniform Framework and Its Applications**|Bohan Cui et.al.|[2409.06588](http://arxiv.org/abs/2409.06588)|null|
 |**2024-09-10**|**Universal End-to-End Neural Network for Lossy Image Compression**|Bouzid Arezki et.al.|[2409.06586](http://arxiv.org/abs/2409.06586)|null|
-|**2024-09-10**|**Exploring Differences between Human Perception and Model Inference in Audio Event Recognition**|Yizhou Tan et.al.|[2409.06580](http://arxiv.org/abs/2409.06580)|null|
+|**2024-09-10**|**Exploring Differences between Human Perception and Model Inference in Audio Event Recognition**|Yizhou Tan et.al.|[2409.06580](http://arxiv.org/abs/2409.06580)|**[link](https://github.com/voltmeter00/mafar)**|
 |**2024-09-10**|**Enzyme kinetic reactions as interacting particle systems: Stochastic averaging and parameter inference**|Arnab Ganguly et.al.|[2409.06565](http://arxiv.org/abs/2409.06565)|null|
 |**2024-09-10**|**A Primer on Variational Inference for Physics-Informed Deep Generative Modelling**|Alex Glyn-Davies et.al.|[2409.06560](http://arxiv.org/abs/2409.06560)|null|
 |**2024-09-10**|**Hierarchical Bayesian inference on an analytical model of the LISA massive black hole binary population**|Vivienne Langen et.al.|[2409.06527](http://arxiv.org/abs/2409.06527)|null|
@@ -578,9 +578,9 @@
 |**2024-09-09**|**Implications of feedback solutions to the $S_8$ tension for the baryon fractions of galaxy groups and clusters**|Jaime Salcido et.al.|[2409.05716](http://arxiv.org/abs/2409.05716)|null|
 |**2024-09-09**|**Uniform Estimation and Inference for Nonparametric Partitioning-Based M-Estimators**|Matias D. Cattaneo et.al.|[2409.05715](http://arxiv.org/abs/2409.05715)|null|
 |**2024-09-09**|**Zero-shot Outlier Detection via Prior-data Fitted Networks: Model Selection Bygone!**|Yuchen Shen et.al.|[2409.05672](http://arxiv.org/abs/2409.05672)|null|
-|**2024-09-06**|**Theory, Analysis, and Best Practices for Sigmoid Self-Attention**|Jason Ramapuram et.al.|[2409.04431](http://arxiv.org/abs/2409.04431)|null|
+|**2024-09-06**|**Theory, Analysis, and Best Practices for Sigmoid Self-Attention**|Jason Ramapuram et.al.|[2409.04431](http://arxiv.org/abs/2409.04431)|**[link](https://github.com/apple/ml-sigmoid-attention)**|
 |**2024-09-06**|**Origin of yield stress and mechanical plasticity in biological tissues**|Anh Q. Nguyen et.al.|[2409.04383](http://arxiv.org/abs/2409.04383)|null|
-|**2024-09-06**|**Connectivity-Inspired Network for Context-Aware Recognition**|Gianluca Carloni et.al.|[2409.04360](http://arxiv.org/abs/2409.04360)|null|
+|**2024-09-06**|**Connectivity-Inspired Network for Context-Aware Recognition**|Gianluca Carloni et.al.|[2409.04360](http://arxiv.org/abs/2409.04360)|**[link](https://github.com/gianlucarloni/cocoreco)**|
 |**2024-09-06**|**ZTF SN Ia DR2: Overview**|Mickael Rigault et.al.|[2409.04346](http://arxiv.org/abs/2409.04346)|null|
 |**2024-09-06**|**Amortized Bayesian Workflow (Extended Abstract)**|Marvin Schmitt et.al.|[2409.04332](http://arxiv.org/abs/2409.04332)|null|
 |**2024-09-06**|**Safe and Efficient Path Planning under Uncertainty via Deep Collision Probability Fields**|Felix Herrmann et.al.|[2409.04306](http://arxiv.org/abs/2409.04306)|null|
