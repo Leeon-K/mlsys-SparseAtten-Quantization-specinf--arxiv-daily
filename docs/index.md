@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-16**|**RetrievalAttention: Accelerating Long-Context LLM Inference via Vector Retrieval**|Di Liu et.al.|[2409.10516](http://arxiv.org/abs/2409.10516)|null|
+|**2024-09-16**|**Constraints on axions from patchy screening of the cosmic microwave background**|Samuel Goldstein et.al.|[2409.10514](http://arxiv.org/abs/2409.10514)|null|
+|**2024-09-16**|**Context-aware Code Segmentation for C-to-Rust Translation using Large Language Models**|Momoko Shiraishi et.al.|[2409.10506](http://arxiv.org/abs/2409.10506)|null|
+|**2024-09-16**|**DILA: Dictionary Label Attention for Mechanistic Interpretability in High-dimensional Multi-label Medical Coding Prediction**|John Wu et.al.|[2409.10504](http://arxiv.org/abs/2409.10504)|null|
+|**2024-09-16**|**Causal Language Modeling Can Elicit Search and Reasoning Capabilities on Logic Puzzles**|Kulin Shah et.al.|[2409.10502](http://arxiv.org/abs/2409.10502)|null|
+|**2024-09-16**|**Code Vulnerability Detection: A Comparative Analysis of Emerging Large Language Models**|Shaznin Sultana et.al.|[2409.10490](http://arxiv.org/abs/2409.10490)|null|
+|**2024-09-16**|**XLM for Autonomous Driving Systems: A Comprehensive Review**|Sonda Fourati et.al.|[2409.10484](http://arxiv.org/abs/2409.10484)|null|
+|**2024-09-16**|**Schrodinger's Memory: Large Language Models**|Wei Wang et.al.|[2409.10482](http://arxiv.org/abs/2409.10482)|null|
+|**2024-09-16**|**Towards Semantic Versioning of Open Pre-trained Language Model Releases on Hugging Face**|Adekunle Ajibode et.al.|[2409.10472](http://arxiv.org/abs/2409.10472)|null|
+|**2024-09-16**|**Signed Graph Autoencoder for Explainable and Polarization-Aware Network Embeddings**|Nikolaos Nakis et.al.|[2409.10452](http://arxiv.org/abs/2409.10452)|null|
 |**2024-09-13**|**Agents in Software Engineering: Survey, Landscape, and Vision**|Yanxian Huang et.al.|[2409.09030](http://arxiv.org/abs/2409.09030)|**[link](https://github.com/deepsoftwareanalytics/awesome-agent4se)**|
 |**2024-09-13**|**Learning Theory Informed Priors for Bayesian Inference: A Case Study with Early Dark Energy**|Michael W. Toomey et.al.|[2409.09029](http://arxiv.org/abs/2409.09029)|null|
 |**2024-09-13**|**An Efficient and Streaming Audio Visual Active Speaker Detection System**|Arnav Kundu et.al.|[2409.09018](http://arxiv.org/abs/2409.09018)|null|
@@ -365,6 +375,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-16**|**Count2Multiply: Reliable In-memory High-Radix Counting**|João Paulo Cardoso de Lima et.al.|[2409.10136](http://arxiv.org/abs/2409.10136)|null|
+|**2024-09-16**|**Hardware-Accelerated Ray Tracing for Discrete and Continuous Collision Detection on GPUs**|Sizhe Sui et.al.|[2409.09918](http://arxiv.org/abs/2409.09918)|null|
+|**2024-09-13**|**Distributed Binary Optimization with In-Memory Computing: An Application for the SAT Problem**|Xiangyi Zhang et.al.|[2409.09152](http://arxiv.org/abs/2409.09152)|null|
 |**2024-09-13**|**Automatic Generation of Fast and Accurate Performance Models for Deep Neural Network Accelerators**|Konstantin Lübeck et.al.|[2409.08595](http://arxiv.org/abs/2409.08595)|null|
 |**2024-09-12**|**Foragax: An Agent-Based Modelling framework based on JAX**|Siddharth Chaturvedi et.al.|[2409.06345](http://arxiv.org/abs/2409.06345)|**[link](https://github.com/i-m-iron-man/Foragax)**|
 |**2024-09-10**|**PIM-MMU: A Memory Management Unit for Accelerating Data Transfers in Commercial PIM Systems**|Dongjae Lee et.al.|[2409.06204](http://arxiv.org/abs/2409.06204)|null|
@@ -527,6 +540,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-16**|**RetrievalAttention: Accelerating Long-Context LLM Inference via Vector Retrieval**|Di Liu et.al.|[2409.10516](http://arxiv.org/abs/2409.10516)|null|
+|**2024-09-16**|**Constraints on axions from patchy screening of the cosmic microwave background**|Samuel Goldstein et.al.|[2409.10514](http://arxiv.org/abs/2409.10514)|null|
+|**2024-09-16**|**Context-aware Code Segmentation for C-to-Rust Translation using Large Language Models**|Momoko Shiraishi et.al.|[2409.10506](http://arxiv.org/abs/2409.10506)|null|
+|**2024-09-16**|**Signed Graph Autoencoder for Explainable and Polarization-Aware Network Embeddings**|Nikolaos Nakis et.al.|[2409.10452](http://arxiv.org/abs/2409.10452)|null|
+|**2024-09-16**|**LLM as BT-Planner: Leveraging LLMs for Behavior Tree Generation in Robot Task Planning**|Jicong Ao et.al.|[2409.10444](http://arxiv.org/abs/2409.10444)|null|
+|**2024-09-16**|**Structure-preserving learning for multi-symplectic PDEs**|Süleyman Yıldız et.al.|[2409.10432](http://arxiv.org/abs/2409.10432)|null|
+|**2024-09-16**|**Mamba-ST: State Space Model for Efficient Style Transfer**|Filippo Botti et.al.|[2409.10385](http://arxiv.org/abs/2409.10385)|null|
+|**2024-09-16**|**J-UBIK: The JAX-accelerated Universal Bayesian Imaging Kit**|Vincent Eberle et.al.|[2409.10381](http://arxiv.org/abs/2409.10381)|null|
+|**2024-09-16**|**VAE-QWGAN: Improving Quantum GANs for High Resolution Image Generation**|Aaron Mark Thomas et.al.|[2409.10339](http://arxiv.org/abs/2409.10339)|null|
+|**2024-09-16**|**Systematic comparison of Bayesian basket trial designs with unequal sample sizes and proposal of a new method based on power priors**|Sabrina Schmitt et.al.|[2409.10318](http://arxiv.org/abs/2409.10318)|null|
 |**2024-09-13**|**Learning Theory Informed Priors for Bayesian Inference: A Case Study with Early Dark Energy**|Michael W. Toomey et.al.|[2409.09029](http://arxiv.org/abs/2409.09029)|null|
 |**2024-09-13**|**An Efficient and Streaming Audio Visual Active Speaker Detection System**|Arnav Kundu et.al.|[2409.09018](http://arxiv.org/abs/2409.09018)|null|
 |**2024-09-13**|**SGFormer: Single-Layer Graph Transformers with Approximation-Free Linear Complexity**|Qitian Wu et.al.|[2409.09007](http://arxiv.org/abs/2409.09007)|**[link](https://github.com/qitianwu/sgformer)**|
@@ -852,6 +875,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-16**|**Safe and Stable Closed-Loop Learning for Neural-Network-Supported Model Predictive Control**|Sebastian Hirt et.al.|[2409.10171](http://arxiv.org/abs/2409.10171)|null|
+|**2024-09-16**|**Efficient Network Embedding by Approximate Equitable Partitions**|Giuseppe Squillace et.al.|[2409.10160](http://arxiv.org/abs/2409.10160)|null|
+|**2024-09-13**|**Towards safe and tractable Gaussian process-based MPC: Efficient sampling within a sequential quadratic programming framework**|Manish Prajapat et.al.|[2409.08616](http://arxiv.org/abs/2409.08616)|null|
 |**2024-09-13**|**Input-to-State Stable Coupled Oscillator Networks for Closed-form Model-based Control in Latent Space**|Maximilian Stölzle et.al.|[2409.08439](http://arxiv.org/abs/2409.08439)|null|
 |**2024-09-12**|**Fitted Q-Iteration via Max-Plus-Linear Approximation**|Y. Liu et.al.|[2409.08422](http://arxiv.org/abs/2409.08422)|null|
 |**2024-09-12**|**Stochastic Reinforcement Learning with Stability Guarantees for Control of Unknown Nonlinear Systems**|Thanin Quartz et.al.|[2409.08382](http://arxiv.org/abs/2409.08382)|null|
