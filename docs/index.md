@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.18
+## Updated on 2024.09.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Quantization
@@ -559,8 +559,8 @@ layout: default
 |**2024-09-17**|**On the number of elements beyond the ones actually observed**|Eugenio Regazzini et.al.|[2409.11364](http://arxiv.org/abs/2409.11364)|null|
 |**2024-09-17**|**Fine-Tuning Image-Conditional Diffusion Models is Easier than You Think**|Gonzalo Martin Garcia et.al.|[2409.11355](http://arxiv.org/abs/2409.11355)|null|
 |**2024-09-17**|**Clinical Validation of a Real-Time Machine Learning-based System for the Detection of Acute Myeloid Leukemia by Flow Cytometry**|Lauren M. Zuromski et.al.|[2409.11350](http://arxiv.org/abs/2409.11350)|null|
-|**2024-09-17**|**Performance of Cross-Validated Targeted Maximum Likelihood Estimation**|Matthew J. Smith et.al.|[2409.11265](http://arxiv.org/abs/2409.11265)|null|
-|**2024-09-17**|**Annealed Winner-Takes-All for Motion Forecasting**|Yihong Xu et.al.|[2409.11172](http://arxiv.org/abs/2409.11172)|null|
+|**2024-09-18**|**Performance of Cross-Validated Targeted Maximum Likelihood Estimation**|Matthew J. Smith et.al.|[2409.11265](http://arxiv.org/abs/2409.11265)|**[link](https://github.com/mattyjsmith/CVTMLE)**|
+|**2024-09-18**|**Annealed Winner-Takes-All for Motion Forecasting**|Yihong Xu et.al.|[2409.11172](http://arxiv.org/abs/2409.11172)|**[link](https://github.com/valeoai/mf_awta)**|
 |**2024-09-17**|**Fast radio bursts as a probe of gravity on cosmological scales**|Dennis Neumann et.al.|[2409.11163](http://arxiv.org/abs/2409.11163)|null|
 |**2024-09-17**|**Chasing Shadows: How Implausible Assumptions Skew Our Understanding of Causal Estimands**|Stijn Vansteelandt et.al.|[2409.11162](http://arxiv.org/abs/2409.11162)|null|
 |**2024-09-16**|**RetrievalAttention: Accelerating Long-Context LLM Inference via Vector Retrieval**|Di Liu et.al.|[2409.10516](http://arxiv.org/abs/2409.10516)|null|
