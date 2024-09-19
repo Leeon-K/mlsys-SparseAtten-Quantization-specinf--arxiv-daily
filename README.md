@@ -25,6 +25,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-18**|**Gender Representation and Bias in Indian Civil Service Mock Interviews**|Somonnoy Banerjee et.al.|[2409.12194](http://arxiv.org/abs/2409.12194)|null|
+|**2024-09-18**|**To CoT or not to CoT? Chain-of-thought helps mainly on math and symbolic reasoning**|Zayne Sprague et.al.|[2409.12183](http://arxiv.org/abs/2409.12183)|null|
+|**2024-09-18**|**A Controlled Study on Long Context Extension and Generalization in LLMs**|Yi Lu et.al.|[2409.12181](http://arxiv.org/abs/2409.12181)|**[link](https://github.com/leooyii/lceg)**|
+|**2024-09-18**|**Finetuning Language Models to Emit Linguistic Expressions of Uncertainty**|Arslan Chaudhry et.al.|[2409.12180](http://arxiv.org/abs/2409.12180)|null|
+|**2024-09-18**|**Poisson approximate likelihood compared to the particle filter**|Yize Hao et.al.|[2409.12173](http://arxiv.org/abs/2409.12173)|null|
+|**2024-09-18**|**You Only Read Once (YORO): Learning to Internalize Database Knowledge for Text-to-SQL**|Hideo Kobayashi et.al.|[2409.12172](http://arxiv.org/abs/2409.12172)|null|
+|**2024-09-18**|**Decoding Style: Efficient Fine-Tuning of LLMs for Image-Guided Outfit Recommendation with Preference**|Najmeh Forouzandehmehr et.al.|[2409.12150](http://arxiv.org/abs/2409.12150)|null|
+|**2024-09-18**|**MAgICoRe: Multi-Agent, Iterative, Coarse-to-Fine Refinement for Reasoning**|Justin Chih-Yao Chen et.al.|[2409.12147](http://arxiv.org/abs/2409.12147)|**[link](https://github.com/dinobby/magicore)**|
+|**2024-09-18**|**Probing the cosmic sterile-neutrino background with IceCube**|Bhavesh Chauhan et.al.|[2409.12145](http://arxiv.org/abs/2409.12145)|null|
+|**2024-09-18**|**MoRAG -- Multi-Fusion Retrieval Augmented Generation for Human Motion**|Kalakonda Sai Shashank et.al.|[2409.12140](http://arxiv.org/abs/2409.12140)|null|
 |**2024-09-17**|**AraDiCE: Benchmarks for Dialectal and Cultural Capabilities in LLMs**|Basel Mousi et.al.|[2409.11404](http://arxiv.org/abs/2409.11404)|null|
 |**2024-09-17**|**UniLCD: Unified Local-Cloud Decision-Making via Reinforcement Learning**|Kathakoli Sengupta et.al.|[2409.11403](http://arxiv.org/abs/2409.11403)|null|
 |**2024-09-17**|**NVLM: Open Frontier-Class Multimodal LLMs**|Wenliang Dai et.al.|[2409.11402](http://arxiv.org/abs/2409.11402)|null|
@@ -400,6 +410,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-15**|**Pack my weights and run! Minimizing overheads for in-memory computing accelerators**|Pouya Houshmand et.al.|[2409.11437](http://arxiv.org/abs/2409.11437)|null|
+|**2024-09-11**|**Next-generation Probabilistic Computing Hardware with 3D MOSAICs, Illusion Scale-up, and Co-design**|Tathagata Srimani et.al.|[2409.11422](http://arxiv.org/abs/2409.11422)|null|
+|**2024-09-09**|**Hardware Acceleration of Kolmogorov-Arnold Network (KAN) for Lightweight Edge Inference**|Wei-Hsing Huang et.al.|[2409.11418](http://arxiv.org/abs/2409.11418)|null|
 |**2024-09-17**|**Dynamic Range Reduction via Branch-and-Bound**|Thore Gerlach et.al.|[2409.10863](http://arxiv.org/abs/2409.10863)|null|
 |**2024-09-16**|**Count2Multiply: Reliable In-memory High-Radix Counting**|João Paulo Cardoso de Lima et.al.|[2409.10136](http://arxiv.org/abs/2409.10136)|null|
 |**2024-09-16**|**Hardware-Accelerated Ray Tracing for Discrete and Continuous Collision Detection on GPUs**|Sizhe Sui et.al.|[2409.09918](http://arxiv.org/abs/2409.09918)|null|
@@ -578,6 +591,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-18**|**Gender Representation and Bias in Indian Civil Service Mock Interviews**|Somonnoy Banerjee et.al.|[2409.12194](http://arxiv.org/abs/2409.12194)|null|
+|**2024-09-18**|**To CoT or not to CoT? Chain-of-thought helps mainly on math and symbolic reasoning**|Zayne Sprague et.al.|[2409.12183](http://arxiv.org/abs/2409.12183)|null|
+|**2024-09-18**|**A Controlled Study on Long Context Extension and Generalization in LLMs**|Yi Lu et.al.|[2409.12181](http://arxiv.org/abs/2409.12181)|**[link](https://github.com/leooyii/lceg)**|
+|**2024-09-18**|**Poisson approximate likelihood compared to the particle filter**|Yize Hao et.al.|[2409.12173](http://arxiv.org/abs/2409.12173)|null|
+|**2024-09-18**|**You Only Read Once (YORO): Learning to Internalize Database Knowledge for Text-to-SQL**|Hideo Kobayashi et.al.|[2409.12172](http://arxiv.org/abs/2409.12172)|null|
+|**2024-09-18**|**Probing the cosmic sterile-neutrino background with IceCube**|Bhavesh Chauhan et.al.|[2409.12145](http://arxiv.org/abs/2409.12145)|null|
+|**2024-09-18**|**Qwen2.5-Math Technical Report: Toward Mathematical Expert Model via Self-Improvement**|An Yang et.al.|[2409.12122](http://arxiv.org/abs/2409.12122)|null|
+|**2024-09-18**|**Low Frame-rate Speech Codec: a Codec Designed for Fast High-quality Speech LLM Training and Inference**|Edresson Casanova et.al.|[2409.12117](http://arxiv.org/abs/2409.12117)|null|
+|**2024-09-18**|**Stronger Baseline Models -- A Key Requirement for Aligning Machine Learning Research with Clinical Utility**|Nathan Wolfrath et.al.|[2409.12116](http://arxiv.org/abs/2409.12116)|null|
+|**2024-09-18**|**An Efficient Projection-Based Next-best-view Planning Framework for Reconstruction of Unknown Objects**|Zhizhou Jia et.al.|[2409.12096](http://arxiv.org/abs/2409.12096)|null|
 |**2024-09-17**|**UniLCD: Unified Local-Cloud Decision-Making via Reinforcement Learning**|Kathakoli Sengupta et.al.|[2409.11403](http://arxiv.org/abs/2409.11403)|null|
 |**2024-09-17**|**Teaching dark matter simulations to speak the halo language**|Shivam Pandey et.al.|[2409.11401](http://arxiv.org/abs/2409.11401)|null|
 |**2024-09-17**|**OSV: One Step is Enough for High-Quality Image to Video Generation**|Xiaofeng Mao et.al.|[2409.11367](http://arxiv.org/abs/2409.11367)|null|
@@ -925,6 +948,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-18**|**Recent Advances in OOD Detection: Problems and Approaches**|Shuo Lu et.al.|[2409.11884](http://arxiv.org/abs/2409.11884)|null|
+|**2024-09-18**|**Optimizing Job Shop Scheduling in the Furniture Industry: A Reinforcement Learning Approach Considering Machine Setup, Batch Variability, and Intralogistics**|Malte Schneevogt et.al.|[2409.11820](http://arxiv.org/abs/2409.11820)|null|
+|**2024-09-18**|**From exponential to finite/fixed-time stability: Applications to optimization**|Ibrahim K. Ozaslan et.al.|[2409.11713](http://arxiv.org/abs/2409.11713)|null|
+|**2024-09-17**|**Fault Detection and Identification via Monitoring Modules Based on Clusters of Interacting Measurements**|Enrique Luna Villagomez et.al.|[2409.11444](http://arxiv.org/abs/2409.11444)|null|
 |**2024-09-17**|**Integrating Reinforcement Learning and Model Predictive Control with Applications to Microgrids**|Caio Fabio Oliveira da Silva et.al.|[2409.11267](http://arxiv.org/abs/2409.11267)|null|
 |**2024-09-17**|**Leveraging Symmetry to Accelerate Learning of Trajectory Tracking Controllers for Free-Flying Robotic Systems**|Jake Welde et.al.|[2409.11238](http://arxiv.org/abs/2409.11238)|null|
 |**2024-09-17**|**Sample Complexity Bounds for Linear System Identification from a Finite Set**|Nicolas Chatzikiriakos et.al.|[2409.11141](http://arxiv.org/abs/2409.11141)|**[link](https://github.com/col-tasas/2024-bounds-finite-set-id)**|
