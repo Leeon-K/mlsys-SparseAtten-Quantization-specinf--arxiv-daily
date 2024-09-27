@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.26
+## Updated on 2024.09.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Quantization
@@ -20,7 +20,7 @@ layout: default
 |**2024-09-25**|**Turn Every Application into an Agent: Towards Efficient Human-Agent-Computer Interaction with API-First LLM-Based Agents**|Junting Lu et.al.|[2409.17140](http://arxiv.org/abs/2409.17140)|null|
 |**2024-09-25**|**Bayesian Bivariate Conway-Maxwell-Poisson Regression Model for Correlated Count Data in Sports**|Mauro Florez et.al.|[2409.17129](http://arxiv.org/abs/2409.17129)|null|
 |**2024-09-25**|**Programming Every Example: Lifting Pre-training Data Quality like Experts at Scale**|Fan Zhou et.al.|[2409.17115](http://arxiv.org/abs/2409.17115)|**[link](https://github.com/gair-nlp/prox)**|
-|**2024-09-25**|**Characterizing stable regions in the residual stream of LLMs**|Jett Janiak et.al.|[2409.17113](http://arxiv.org/abs/2409.17113)|null|
+|**2024-09-26**|**Characterizing stable regions in the residual stream of LLMs**|Jett Janiak et.al.|[2409.17113](http://arxiv.org/abs/2409.17113)|null|
 |**2024-09-25**|**BitQ: Tailoring Block Floating Point Precision for Improved DNN Efficiency on Resource-Constrained Devices**|Yongqi Xu et.al.|[2409.17093](http://arxiv.org/abs/2409.17093)|**[link](https://github.com/cheliosoops/bitq)**|
 |**2024-09-25**|**Accumulator-Aware Post-Training Quantization**|Ian Colbert et.al.|[2409.17092](http://arxiv.org/abs/2409.17092)|null|
 |**2024-09-25**|**Parameter-efficient Bayesian Neural Networks for Uncertainty-aware Depth Estimation**|Richard D. Paul et.al.|[2409.17085](http://arxiv.org/abs/2409.17085)|null|
@@ -978,7 +978,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-09-25**|**Feedforward Controllers from Learned Dynamic Local Model Networks with Application to Excavator Assistance Functions**|Leon Greiser et.al.|[2409.16875](http://arxiv.org/abs/2409.16875)|null|
-|**2024-09-25**|**Mitigating Covariate Shift in Imitation Learning for Autonomous Vehicles Using Latent Space Generative World Models**|Alexander Popov et.al.|[2409.16663](http://arxiv.org/abs/2409.16663)|null|
+|**2024-09-26**|**Mitigating Covariate Shift in Imitation Learning for Autonomous Vehicles Using Latent Space Generative World Models**|Alexander Popov et.al.|[2409.16663](http://arxiv.org/abs/2409.16663)|null|
 |**2024-09-24**|**Learning Linear Dynamics from Bilinear Observations**|Yahya Sattar et.al.|[2409.16499](http://arxiv.org/abs/2409.16499)|null|
 |**2024-09-24**|**Transformer based time series prediction of the maximum power point for solar photovoltaic cells**|Palaash Agrawal et.al.|[2409.16342](http://arxiv.org/abs/2409.16342)|null|
 |**2024-09-24**|**Whole-body end-effector pose tracking**|Tifanny Portela et.al.|[2409.16048](http://arxiv.org/abs/2409.16048)|null|
