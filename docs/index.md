@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-27**|**PhysGen: Rigid-Body Physics-Grounded Image-to-Video Generation**|Shaowei Liu et.al.|[2409.18964](http://arxiv.org/abs/2409.18964)|**[link](https://github.com/stevenlsw/physgen)**|
+|**2024-09-27**|**ProMerge: Prompt and Merge for Unsupervised Instance Segmentation**|Dylan Li et.al.|[2409.18961](http://arxiv.org/abs/2409.18961)|null|
+|**2024-09-27**|**LML: Language Model Learning a Dataset for Data-Augmented Prediction**|Praneeth Vadlapati et.al.|[2409.18957](http://arxiv.org/abs/2409.18957)|**[link](https://github.com/pro-genai/lml-dap)**|
+|**2024-09-27**|**Ruler: A Model-Agnostic Method to Control Generated Length for Large Language Models**|Jiaming Li et.al.|[2409.18943](http://arxiv.org/abs/2409.18943)|**[link](https://github.com/geaming2002/ruler)**|
+|**2024-09-27**|**From Seconds to Hours: Reviewing MultiModal Large Language Models on Comprehensive Long Video Understanding**|Heqing Zou et.al.|[2409.18938](http://arxiv.org/abs/2409.18938)|null|
+|**2024-09-27**|**AIPatient: Simulating Patients with EHRs and LLM Powered Agentic Workflow**|Huizi Yu et.al.|[2409.18924](http://arxiv.org/abs/2409.18924)|null|
+|**2024-09-27**|**Soft Measures for Extracting Causal Collective Intelligence**|Maryam Berijanian et.al.|[2409.18911](http://arxiv.org/abs/2409.18911)|null|
+|**2024-09-27**|**Inference with Sequential Monte-Carlo Computation of $p$ -values: Fast and Valid Approaches**|Ivo V. Stoepker et.al.|[2409.18908](http://arxiv.org/abs/2409.18908)|null|
+|**2024-09-27**|**IDGen: Item Discrimination Induced Prompt Generation for LLM Evaluation**|Fan Lin et.al.|[2409.18892](http://arxiv.org/abs/2409.18892)|null|
+|**2024-09-27**|**Inferring Drug-induced Plasticity via Drug Screen Data**|Chenyu Wu et.al.|[2409.18879](http://arxiv.org/abs/2409.18879)|null|
 |**2024-09-26**|**FlowTurbo: Towards Real-time Flow-Based Image Generation with Velocity Refiner**|Wenliang Zhao et.al.|[2409.18128](http://arxiv.org/abs/2409.18128)|**[link](https://github.com/shiml20/flowturbo)**|
 |**2024-09-26**|**EgoLM: Multi-Modal Language Model of Egocentric Motions**|Fangzhou Hong et.al.|[2409.18127](http://arxiv.org/abs/2409.18127)|null|
 |**2024-09-26**|**Lotus: Diffusion-based Visual Foundation Model for High-quality Dense Prediction**|Jing He et.al.|[2409.18124](http://arxiv.org/abs/2409.18124)|null|
@@ -425,6 +435,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-26**|**Leader Selection and Follower Association for UE-centric Distributed Learning in Future Wireless Networks**|Saeedeh Parsaeefard et.al.|[2409.18268](http://arxiv.org/abs/2409.18268)|null|
 |**2024-09-26**|**A 5T-2MTJ STT-assisted Spin Orbit Torque based Ternary Content Addressable Memory for Hardware Accelerators**|Siri Narla et.al.|[2409.17863](http://arxiv.org/abs/2409.17863)|null|
 |**2024-09-24**|**Microsecond-Latency Feedback at a Particle Accelerator by Online Reinforcement Learning on Hardware**|Luca Scomparin et.al.|[2409.16177](http://arxiv.org/abs/2409.16177)|null|
 |**2024-09-25**|**Ultra-low latency quantum-inspired machine learning predictors implemented on FPGA**|Lorenzo Borella et.al.|[2409.16075](http://arxiv.org/abs/2409.16075)|null|
@@ -497,6 +508,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-26**|**Development of an Edge Resilient ML Ensemble to Tolerate ICS Adversarial Attacks**|Likai Yao et.al.|[2409.18244](http://arxiv.org/abs/2409.18244)|null|
 |**2024-09-25**|**Susceptibility Formulation of Density Matrix Perturbation Theory**|Anders M. N. Niklasson et.al.|[2409.17033](http://arxiv.org/abs/2409.17033)|null|
 |**2024-09-25**|**Ethical and Scalable Automation: A Governance and Compliance Framework for Business Applications**|Haocheng Lin et.al.|[2409.16872](http://arxiv.org/abs/2409.16872)|null|
 |**2024-09-25**|**Accelerating TinyML Inference on Microcontrollers through Approximate Kernels**|Giorgos Armeniakos et.al.|[2409.16815](http://arxiv.org/abs/2409.16815)|null|
@@ -613,6 +625,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-27**|**PhysGen: Rigid-Body Physics-Grounded Image-to-Video Generation**|Shaowei Liu et.al.|[2409.18964](http://arxiv.org/abs/2409.18964)|**[link](https://github.com/stevenlsw/physgen)**|
+|**2024-09-27**|**ProMerge: Prompt and Merge for Unsupervised Instance Segmentation**|Dylan Li et.al.|[2409.18961](http://arxiv.org/abs/2409.18961)|null|
+|**2024-09-27**|**Inference with Sequential Monte-Carlo Computation of $p$ -values: Fast and Valid Approaches**|Ivo V. Stoepker et.al.|[2409.18908](http://arxiv.org/abs/2409.18908)|null|
+|**2024-09-27**|**Inferring Drug-induced Plasticity via Drug Screen Data**|Chenyu Wu et.al.|[2409.18879](http://arxiv.org/abs/2409.18879)|null|
+|**2024-09-27**|**Emu3: Next-Token Prediction is All You Need**|Xinlong Wang et.al.|[2409.18869](http://arxiv.org/abs/2409.18869)|null|
+|**2024-09-27**|**Predicting and analyzing memorization within fine-tuned Large Language Models**|Jérémie Dentan et.al.|[2409.18858](http://arxiv.org/abs/2409.18858)|null|
+|**2024-09-27**|**Temperature anisotropy instabilities driven by intermittent velocity shears in the solar wind**|Simon Opie et.al.|[2409.18849](http://arxiv.org/abs/2409.18849)|null|
+|**2024-09-27**|**Lipschitz inextendibility of weak null singularities from curvature blow-up**|Jan Sbierski et.al.|[2409.18838](http://arxiv.org/abs/2409.18838)|null|
+|**2024-09-27**|**MECG-E: Mamba-based ECG Enhancer for Baseline Wander Removal**|Kuo-Hsuan Hung et.al.|[2409.18828](http://arxiv.org/abs/2409.18828)|null|
+|**2024-09-27**|**DualDn: Dual-domain Denoising via Differentiable ISP**|Ruikang Li et.al.|[2409.18783](http://arxiv.org/abs/2409.18783)|null|
 |**2024-09-26**|**FlowTurbo: Towards Real-time Flow-Based Image Generation with Velocity Refiner**|Wenliang Zhao et.al.|[2409.18128](http://arxiv.org/abs/2409.18128)|**[link](https://github.com/shiml20/flowturbo)**|
 |**2024-09-26**|**Lotus: Diffusion-based Visual Foundation Model for High-quality Dense Prediction**|Jing He et.al.|[2409.18124](http://arxiv.org/abs/2409.18124)|null|
 |**2024-09-26**|**MALPOLON: A Framework for Deep Species Distribution Modeling**|Theo Larcher et.al.|[2409.18102](http://arxiv.org/abs/2409.18102)|null|
@@ -998,6 +1020,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-27**|**CurricuLLM: Automatic Task Curricula Design for Learning Complex Robot Skills using Large Language Models**|Kanghyun Ryu et.al.|[2409.18382](http://arxiv.org/abs/2409.18382)|**[link](https://github.com/labicon/curricullm)**|
+|**2024-09-26**|**Causality-based Subject and Task Fingerprints using fMRI Time-series Data**|Dachuan Song et.al.|[2409.18298](http://arxiv.org/abs/2409.18298)|null|
 |**2024-09-26**|**Model-Free versus Model-Based Reinforcement Learning for Fixed-Wing UAV Attitude Control Under Varying Wind Conditions**|David Olivares et.al.|[2409.17896](http://arxiv.org/abs/2409.17896)|null|
 |**2024-09-25**|**Feedforward Controllers from Learned Dynamic Local Model Networks with Application to Excavator Assistance Functions**|Leon Greiser et.al.|[2409.16875](http://arxiv.org/abs/2409.16875)|null|
 |**2024-09-26**|**Mitigating Covariate Shift in Imitation Learning for Autonomous Vehicles Using Latent Space Generative World Models**|Alexander Popov et.al.|[2409.16663](http://arxiv.org/abs/2409.16663)|null|
