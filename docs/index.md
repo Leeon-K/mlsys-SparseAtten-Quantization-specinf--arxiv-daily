@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.02
+## Updated on 2024.10.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Quantization
@@ -23,7 +23,7 @@ layout: default
 |**2024-09-30**|**LLM Hallucinations in Practical Code Generation: Phenomena, Mechanism, and Mitigation**|Ziyao Zhang et.al.|[2409.20550](http://arxiv.org/abs/2409.20550)|null|
 |**2024-09-30**|**Robi Butler: Remote Multimodal Interactions with Household Robot Assistant**|Anxing Xiao et.al.|[2409.20548](http://arxiv.org/abs/2409.20548)|null|
 |**2024-09-30**|**Annealing Flow Generative Model Towards Sampling High-Dimensional and Multi-Modal Distributions**|Dongze Wu et.al.|[2409.20547](http://arxiv.org/abs/2409.20547)|null|
-|**2024-09-30**|**Best Practices for Responsible Machine Learning in Credit Scoring**|Giovani Valdrighi et.al.|[2409.20536](http://arxiv.org/abs/2409.20536)|null|
+|**2024-09-30**|**Best Practices for Responsible Machine Learning in Credit Scoring**|Giovani Valdrighi et.al.|[2409.20536](http://arxiv.org/abs/2409.20536)|**[link](https://github.com/hiaac-finance/credit_pipeline)**|
 |**2024-09-27**|**PhysGen: Rigid-Body Physics-Grounded Image-to-Video Generation**|Shaowei Liu et.al.|[2409.18964](http://arxiv.org/abs/2409.18964)|**[link](https://github.com/stevenlsw/physgen)**|
 |**2024-09-27**|**ProMerge: Prompt and Merge for Unsupervised Instance Segmentation**|Dylan Li et.al.|[2409.18961](http://arxiv.org/abs/2409.18961)|null|
 |**2024-09-27**|**LML: Language Model Learning a Dataset for Data-Augmented Prediction**|Praneeth Vadlapati et.al.|[2409.18957](http://arxiv.org/abs/2409.18957)|**[link](https://github.com/pro-genai/lml-dap)**|
@@ -523,7 +523,7 @@ layout: default
 |**2024-09-26**|**Development of an Edge Resilient ML Ensemble to Tolerate ICS Adversarial Attacks**|Likai Yao et.al.|[2409.18244](http://arxiv.org/abs/2409.18244)|null|
 |**2024-09-25**|**Susceptibility Formulation of Density Matrix Perturbation Theory**|Anders M. N. Niklasson et.al.|[2409.17033](http://arxiv.org/abs/2409.17033)|null|
 |**2024-09-25**|**Ethical and Scalable Automation: A Governance and Compliance Framework for Business Applications**|Haocheng Lin et.al.|[2409.16872](http://arxiv.org/abs/2409.16872)|null|
-|**2024-09-25**|**Accelerating TinyML Inference on Microcontrollers through Approximate Kernels**|Giorgos Armeniakos et.al.|[2409.16815](http://arxiv.org/abs/2409.16815)|null|
+|**2024-09-25**|**Accelerating TinyML Inference on Microcontrollers through Approximate Kernels**|Giorgos Armeniakos et.al.|[2409.16815](http://arxiv.org/abs/2409.16815)|**[link](https://github.com/GeorgeMentzos/ATAMAN-AuTo-driven-Approximation-and-Microcontroller-AcceleratioN-Toolkit)**|
 |**2024-09-23**|**Benchmarking Edge AI Platforms for High-Performance ML Inference**|Rakshith Jayanth et.al.|[2409.14803](http://arxiv.org/abs/2409.14803)|null|
 |**2024-09-03**|**Semantic Meta-Split Learning: A TinyML Scheme for Few-Shot Wireless Image Classification**|Eslam Eldeeb et.al.|[2409.12978](http://arxiv.org/abs/2409.12978)|null|
 |**2024-09-24**|**CamelEval: Advancing Culturally Aligned Arabic Language Models and Benchmarks**|Zhaozhi Qian et.al.|[2409.12623](http://arxiv.org/abs/2409.12623)|null|
@@ -640,7 +640,7 @@ layout: default
 |**2024-09-30**|**Predicting the rate of fast radio bursts in globular clusters from binary black hole observations**|Aryamann Rao et.al.|[2409.20564](http://arxiv.org/abs/2409.20564)|null|
 |**2024-09-30**|**UniAff: A Unified Representation of Affordances for Tool Usage and Articulation with Vision-Language Models**|Qiaojun Yu et.al.|[2409.20551](http://arxiv.org/abs/2409.20551)|null|
 |**2024-09-30**|**Annealing Flow Generative Model Towards Sampling High-Dimensional and Multi-Modal Distributions**|Dongze Wu et.al.|[2409.20547](http://arxiv.org/abs/2409.20547)|null|
-|**2024-09-30**|**Best Practices for Responsible Machine Learning in Credit Scoring**|Giovani Valdrighi et.al.|[2409.20536](http://arxiv.org/abs/2409.20536)|null|
+|**2024-09-30**|**Best Practices for Responsible Machine Learning in Credit Scoring**|Giovani Valdrighi et.al.|[2409.20536](http://arxiv.org/abs/2409.20536)|**[link](https://github.com/hiaac-finance/credit_pipeline)**|
 |**2024-09-30**|**The eventful life of a luminous galaxy at z = 14: metal enrichment, feedback, and low gas fraction?**|Stefano Carniani et.al.|[2409.20533](http://arxiv.org/abs/2409.20533)|null|
 |**2024-09-30**|**A physically-motivated template set for high-z galaxy SED fitting**|Judah Luberto et.al.|[2409.20519](http://arxiv.org/abs/2409.20519)|null|
 |**2024-09-30**|**Constraining Cosmology with Simulation-based inference and Optical Galaxy Cluster Abundance**|Moonzarin Reza et.al.|[2409.20507](http://arxiv.org/abs/2409.20507)|null|
