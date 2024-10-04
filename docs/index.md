@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-03**|**Loong: Generating Minute-level Long Videos with Autoregressive Language Models**|Yuqing Wang et.al.|[2410.02757](http://arxiv.org/abs/2410.02757)|null|
+|**2024-10-03**|**SIEVE: General Purpose Data Filtering System Matching GPT-4o Accuracy at 1% the Cost**|Jifan Zhang et.al.|[2410.02755](http://arxiv.org/abs/2410.02755)|null|
+|**2024-10-03**|**Training Language Models on Synthetic Edit Sequences Improves Code Synthesis**|Ulyana Piterbarg et.al.|[2410.02749](http://arxiv.org/abs/2410.02749)|null|
+|**2024-10-03**|**CriSPO: Multi-Aspect Critique-Suggestion-guided Automatic Prompt Optimization for Text Generation**|Han He et.al.|[2410.02748](http://arxiv.org/abs/2410.02748)|null|
+|**2024-10-03**|**MA-RLHF: Reinforcement Learning from Human Feedback with Macro Actions**|Yekun Chai et.al.|[2410.02743](http://arxiv.org/abs/2410.02743)|null|
+|**2024-10-03**|**Grounding Large Language Models In Embodied Environment With Imperfect World Models**|Haolan Liu et.al.|[2410.02742](http://arxiv.org/abs/2410.02742)|null|
+|**2024-10-03**|**Salient Information Prompting to Steer Content in Prompt-based Abstractive Summarization**|Lei Xu et.al.|[2410.02741](http://arxiv.org/abs/2410.02741)|null|
+|**2024-10-03**|**Revisit Large-Scale Image-Caption Data in Pre-training Multimodal Foundation Models**|Zhengfeng Lai et.al.|[2410.02740](http://arxiv.org/abs/2410.02740)|null|
+|**2024-10-03**|**On an Axiomatization of Path Integral Quantization and its Equivalence to Berezin's Quantization**|Joshua Lackman et.al.|[2410.02739](http://arxiv.org/abs/2410.02739)|null|
+|**2024-10-03**|**Justice or Prejudice? Quantifying Biases in LLM-as-a-Judge**|Jiayi Ye et.al.|[2410.02736](http://arxiv.org/abs/2410.02736)|null|
 |**2024-10-02**|**Locret: Enhancing Eviction in Long-Context LLM Inference with Trained Retaining Heads**|Yuxiang Huang et.al.|[2410.01805](http://arxiv.org/abs/2410.01805)|**[link](https://github.com/huangyuxiang03/Locret)**|
 |**2024-10-02**|**Knowledge-Driven Feature Selection and Engineering for Genotype Data with Large Language Models**|Joseph Lee et.al.|[2410.01795](http://arxiv.org/abs/2410.01795)|**[link](https://github.com/pennshenlab/freeform)**|
 |**2024-10-02**|**Thermodynamic Bayesian Inference**|Maxwell Aifer et.al.|[2410.01793](http://arxiv.org/abs/2410.01793)|null|
@@ -455,6 +465,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-03**|**CAX: Cellular Automata Accelerated in JAX**|Maxence Faldor et.al.|[2410.02651](http://arxiv.org/abs/2410.02651)|null|
+|**2024-10-03**|**Extracting the Potential of Emerging Hardware Accelerators for Symmetric Eigenvalue Decomposition**|Hansheng Wang et.al.|[2410.02170](http://arxiv.org/abs/2410.02170)|null|
 |**2024-10-01**|**Compressing Recurrent Neural Networks for FPGA-accelerated Implementation in Fluorescence Lifetime Imaging**|Ismail Erbas et.al.|[2410.00948](http://arxiv.org/abs/2410.00948)|null|
 |**2024-09-26**|**Leader Selection and Follower Association for UE-centric Distributed Learning in Future Wireless Networks**|Saeedeh Parsaeefard et.al.|[2409.18268](http://arxiv.org/abs/2409.18268)|null|
 |**2024-09-26**|**A 5T-2MTJ STT-assisted Spin Orbit Torque based Ternary Content Addressable Memory for Hardware Accelerators**|Siri Narla et.al.|[2409.17863](http://arxiv.org/abs/2409.17863)|null|
@@ -648,6 +660,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-03**|**Loong: Generating Minute-level Long Videos with Autoregressive Language Models**|Yuqing Wang et.al.|[2410.02757](http://arxiv.org/abs/2410.02757)|null|
+|**2024-10-03**|**Training Language Models on Synthetic Edit Sequences Improves Code Synthesis**|Ulyana Piterbarg et.al.|[2410.02749](http://arxiv.org/abs/2410.02749)|null|
+|**2024-10-03**|**MA-RLHF: Reinforcement Learning from Human Feedback with Macro Actions**|Yekun Chai et.al.|[2410.02743](http://arxiv.org/abs/2410.02743)|null|
+|**2024-10-03**|**Adaptive Inference-Time Compute: LLMs Can Predict if They Can Do Better, Even Mid-Generation**|Rohin Manvi et.al.|[2410.02725](http://arxiv.org/abs/2410.02725)|null|
+|**2024-10-03**|**Large Language Models as Markov Chains**|Oussama Zekri et.al.|[2410.02724](http://arxiv.org/abs/2410.02724)|null|
+|**2024-10-03**|**UncertaintyRAG: Span-Level Uncertainty Enhanced Long-Context Modeling for Retrieval-Augmented Generation**|Zixuan Li et.al.|[2410.02719](http://arxiv.org/abs/2410.02719)|null|
+|**2024-10-03**|**Selective Attention Improves Transformer**|Yaniv Leviathan et.al.|[2410.02703](http://arxiv.org/abs/2410.02703)|null|
+|**2024-10-03**|**Lie Algebra Canonicalization: Equivariant Neural Operators under arbitrary Lie Groups**|Zakhar Shumaylov et.al.|[2410.02698](http://arxiv.org/abs/2410.02698)|null|
+|**2024-10-03**|**HELMET: How to Evaluate Long-Context Language Models Effectively and Thoroughly**|Howard Yen et.al.|[2410.02694](http://arxiv.org/abs/2410.02694)|null|
+|**2024-10-03**|**How to Train Long-Context Language Models (Effectively)**|Tianyu Gao et.al.|[2410.02660](http://arxiv.org/abs/2410.02660)|**[link](https://github.com/princeton-nlp/prolong)**|
 |**2024-10-02**|**Locret: Enhancing Eviction in Long-Context LLM Inference with Trained Retaining Heads**|Yuxiang Huang et.al.|[2410.01805](http://arxiv.org/abs/2410.01805)|**[link](https://github.com/huangyuxiang03/Locret)**|
 |**2024-10-02**|**Thermodynamic Bayesian Inference**|Maxwell Aifer et.al.|[2410.01793](http://arxiv.org/abs/2410.01793)|null|
 |**2024-10-02**|**Open-RAG: Enhanced Retrieval-Augmented Reasoning with Open-Source Large Language Models**|Shayekh Bin Islam et.al.|[2410.01782](http://arxiv.org/abs/2410.01782)|null|
@@ -1063,6 +1085,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-03**|**IC3M: In-Car Multimodal Multi-object Monitoring for Abnormal Status of Both Driver and Passengers**|Zihan Fang et.al.|[2410.02592](http://arxiv.org/abs/2410.02592)|null|
+|**2024-10-03**|**Semantic Communication and Control Co-Design for Multi-Objective Correlated Dynamics**|Abanoub M. Girgis et.al.|[2410.02303](http://arxiv.org/abs/2410.02303)|null|
+|**2024-10-03**|**C-MORL: Multi-Objective Reinforcement Learning through Efficient Discovery of Pareto Front**|Ruohong Liu et.al.|[2410.02236](http://arxiv.org/abs/2410.02236)|null|
+|**2024-10-03**|**SEAL: SEmantic-Augmented Imitation Learning via Language Model**|Chengyang Gu et.al.|[2410.02231](http://arxiv.org/abs/2410.02231)|null|
+|**2024-10-03**|**Lossy Cooperative UAV Relaying Networks: Outage Probability Analysis and Location Optimization**|Ya Lian et.al.|[2410.02120](http://arxiv.org/abs/2410.02120)|null|
+|**2024-10-02**|**Simplifying complex machine learning by linearly separable network embedding spaces**|Alexandros Xenos et.al.|[2410.01865](http://arxiv.org/abs/2410.01865)|null|
 |**2024-10-02**|**Causal Inference Tools for a Better Evaluation of Machine Learning**|Michaël Soumm et.al.|[2410.01392](http://arxiv.org/abs/2410.01392)|null|
 |**2024-10-01**|**Uncertainty Modelling and Robust Observer Synthesis using the Koopman Operator**|Steven Dahdah et.al.|[2410.01057](http://arxiv.org/abs/2410.01057)|**[link](https://github.com/decargroup/robust_observer_koopman)**|
 |**2024-10-01**|**Improved Sample Complexity of Imitation Learning for Barrier Model Predictive Control**|Daniel Pfrommer et.al.|[2410.00859](http://arxiv.org/abs/2410.00859)|null|
