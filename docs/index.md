@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.04
+## Updated on 2024.10.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Quantization
@@ -1092,7 +1092,7 @@ layout: default
 |**2024-10-03**|**Lossy Cooperative UAV Relaying Networks: Outage Probability Analysis and Location Optimization**|Ya Lian et.al.|[2410.02120](http://arxiv.org/abs/2410.02120)|null|
 |**2024-10-02**|**Simplifying complex machine learning by linearly separable network embedding spaces**|Alexandros Xenos et.al.|[2410.01865](http://arxiv.org/abs/2410.01865)|null|
 |**2024-10-02**|**Causal Inference Tools for a Better Evaluation of Machine Learning**|Michaël Soumm et.al.|[2410.01392](http://arxiv.org/abs/2410.01392)|null|
-|**2024-10-01**|**Uncertainty Modelling and Robust Observer Synthesis using the Koopman Operator**|Steven Dahdah et.al.|[2410.01057](http://arxiv.org/abs/2410.01057)|**[link](https://github.com/decargroup/robust_observer_koopman)**|
+|**2024-10-01**|**Uncertainty Modelling and Robust Observer Synthesis using the Koopman Operator**|Steven Dahdah et.al.|[2410.01057](http://arxiv.org/abs/2410.01057)|**[link](https://github.com/decargroup/pykoop)**|
 |**2024-10-01**|**Improved Sample Complexity of Imitation Learning for Barrier Model Predictive Control**|Daniel Pfrommer et.al.|[2410.00859](http://arxiv.org/abs/2410.00859)|null|
 |**2024-10-01**|**Fast and Reliable $N-k$ Contingency Screening with Input-Convex Neural Networks**|Nicolas Christianson et.al.|[2410.00796](http://arxiv.org/abs/2410.00796)|null|
 |**2024-10-01**|**AARK: An Open Toolkit for Autonomous Racing Research**|James Bockman et.al.|[2410.00358](http://arxiv.org/abs/2410.00358)|null|
