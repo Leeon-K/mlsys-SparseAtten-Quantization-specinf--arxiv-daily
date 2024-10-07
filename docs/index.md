@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.06
+## Updated on 2024.10.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Quantization
@@ -23,7 +23,7 @@ layout: default
 |**2024-10-03**|**Salient Information Prompting to Steer Content in Prompt-based Abstractive Summarization**|Lei Xu et.al.|[2410.02741](http://arxiv.org/abs/2410.02741)|null|
 |**2024-10-03**|**Revisit Large-Scale Image-Caption Data in Pre-training Multimodal Foundation Models**|Zhengfeng Lai et.al.|[2410.02740](http://arxiv.org/abs/2410.02740)|null|
 |**2024-10-03**|**On an Axiomatization of Path Integral Quantization and its Equivalence to Berezin's Quantization**|Joshua Lackman et.al.|[2410.02739](http://arxiv.org/abs/2410.02739)|null|
-|**2024-10-03**|**Justice or Prejudice? Quantifying Biases in LLM-as-a-Judge**|Jiayi Ye et.al.|[2410.02736](http://arxiv.org/abs/2410.02736)|null|
+|**2024-10-04**|**Justice or Prejudice? Quantifying Biases in LLM-as-a-Judge**|Jiayi Ye et.al.|[2410.02736](http://arxiv.org/abs/2410.02736)|null|
 |**2024-10-02**|**Locret: Enhancing Eviction in Long-Context LLM Inference with Trained Retaining Heads**|Yuxiang Huang et.al.|[2410.01805](http://arxiv.org/abs/2410.01805)|**[link](https://github.com/huangyuxiang03/Locret)**|
 |**2024-10-02**|**Knowledge-Driven Feature Selection and Engineering for Genotype Data with Large Language Models**|Joseph Lee et.al.|[2410.01795](http://arxiv.org/abs/2410.01795)|**[link](https://github.com/pennshenlab/freeform)**|
 |**2024-10-02**|**Thermodynamic Bayesian Inference**|Maxwell Aifer et.al.|[2410.01793](http://arxiv.org/abs/2410.01793)|null|
