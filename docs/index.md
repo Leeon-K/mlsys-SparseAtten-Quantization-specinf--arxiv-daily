@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.13
+## Updated on 2024.10.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Quantization
@@ -715,7 +715,7 @@ layout: default
 |**2024-10-10**|**BOWIE-ALIGN: JWST reveals hints of planetesimal accretion and complex sulphur chemistry in the atmosphere of the misaligned hot Jupiter WASP-15b**|James Kirk et.al.|[2410.08116](http://arxiv.org/abs/2410.08116)|null|
 |**2024-10-10**|**Optima: Optimizing Effectiveness and Efficiency for LLM-Based Multi-Agent System**|Weize Chen et.al.|[2410.08115](http://arxiv.org/abs/2410.08115)|null|
 |**2024-10-10**|**Scaling Up Your Kernels: Large Kernel Design in ConvNets towards Universal Representations**|Yiyuan Zhang et.al.|[2410.08049](http://arxiv.org/abs/2410.08049)|**[link](https://github.com/ailab-cvc/unireplknet)**|
-|**2024-10-10**|**Towards Synergistic, Generalized, and Efficient Dual-System for Robotic Manipulation**|Qingwen Bu et.al.|[2410.08001](http://arxiv.org/abs/2410.08001)|null|
+|**2024-10-11**|**Towards Synergistic, Generalized, and Efficient Dual-System for Robotic Manipulation**|Qingwen Bu et.al.|[2410.08001](http://arxiv.org/abs/2410.08001)|null|
 |**2024-10-10**|**Mapping Hong Kong's Financial Ecosystem: A Network Analysis of the SFC's Licensed Professionals and Institutions**|Abdulla AlKetbi et.al.|[2410.07970](http://arxiv.org/abs/2410.07970)|null|
 |**2024-10-09**|**Stuffed Mamba: State Collapse and State Capacity of RNN-Based Long-Context Modeling**|Yingfa Chen et.al.|[2410.07145](http://arxiv.org/abs/2410.07145)|null|
 |**2024-10-09**|**Exploring the Readiness of Prominent Small Language Models for the Democratization of Financial Literacy**|Tagore Rao Kosireddy et.al.|[2410.07118](http://arxiv.org/abs/2410.07118)|**[link](https://github.com/Tagore-7/Small-Language-Models-for-the-Democratization-of-Financial-Literacy)**|
