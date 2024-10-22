@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.21
+## Updated on 2024.10.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Quantization
@@ -785,7 +785,7 @@ layout: default
 |**2024-10-18**|**Bridging the Training-Inference Gap in LLMs by Leveraging Self-Generated Tokens**|Zhepeng Cen et.al.|[2410.14655](http://arxiv.org/abs/2410.14655)|null|
 |**2024-10-18**|**Distance between Relevant Information Pieces Causes Bias in Long-Context LLMs**|Runchu Tian et.al.|[2410.14641](http://arxiv.org/abs/2410.14641)|**[link](https://github.com/Rachum-thu/LongPiBench)**|
 |**2024-10-18**|**On the Use of Proxies in Political Ad Targeting**|Piotr Sapiezynski et.al.|[2410.14617](http://arxiv.org/abs/2410.14617)|null|
-|**2024-10-18**|**Super-Jeans fragmentation in massive star-forming regions revealed by triangulation analysis**|Guang-Xing Li et.al.|[2410.14610](http://arxiv.org/abs/2410.14610)|null|
+|**2024-10-21**|**Super-Jeans fragmentation in massive star-forming regions revealed by triangulation analysis**|Guang-Xing Li et.al.|[2410.14610](http://arxiv.org/abs/2410.14610)|null|
 |**2024-10-18**|**DiSCo Meets LLMs: A Unified Approach for Sparse Retrieval and Contextual Distillation in Conversational Search**|Simon Lupart et.al.|[2410.14609](http://arxiv.org/abs/2410.14609)|null|
 |**2024-10-18**|**Bayesian Multi-wavelength Imaging of the LMC SN1987A with SRG/eROSITA**|Vincent Eberle et.al.|[2410.14599](http://arxiv.org/abs/2410.14599)|null|
 |**2024-10-18**|**The interplay of astrophysics and nuclear physics in determining the properties of neutron stars**|Jacob Golomb et.al.|[2410.14597](http://arxiv.org/abs/2410.14597)|null|
@@ -1306,7 +1306,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-10-18**|**Generalization Error in Quantum Machine Learning in the Presence of Sampling Noise**|Fangjun Hu et.al.|[2410.14654](http://arxiv.org/abs/2410.14654)|null|
-|**2024-10-18**|**Wireless Human-Machine Collaboration in Industry 5.0**|Gaoyang Pang et.al.|[2410.14153](http://arxiv.org/abs/2410.14153)|null|
+|**2024-10-21**|**Wireless Human-Machine Collaboration in Industry 5.0**|Gaoyang Pang et.al.|[2410.14153](http://arxiv.org/abs/2410.14153)|null|
 |**2024-10-17**|**Golyadkin's Torment: Doppelgängers and Adversarial Vulnerability**|George I. Kamberov et.al.|[2410.13193](http://arxiv.org/abs/2410.13193)|null|
 |**2024-10-16**|**Two-Timescale Linear Stochastic Approximation: Constant Stepsizes Go a Long Way**|Jeongyeol Kwon et.al.|[2410.13067](http://arxiv.org/abs/2410.13067)|null|
 |**2024-10-16**|**Systems with Switching Causal Relations: A Meta-Causal Perspective**|Moritz Willig et.al.|[2410.13054](http://arxiv.org/abs/2410.13054)|null|
