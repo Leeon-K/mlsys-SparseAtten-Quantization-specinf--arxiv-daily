@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.22
+## Updated on 2024.10.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Quantization
@@ -20,7 +20,7 @@ layout: default
 |**2024-10-21**|**Can Knowledge Editing Really Correct Hallucinations?**|Baixiang Huang et.al.|[2410.16251](http://arxiv.org/abs/2410.16251)|**[link](https://github.com/llm-editing/HalluEditBench)**|
 |**2024-10-21**|**Analyzing Context Contributions in LLM-based Machine Translation**|Emmanouil Zaranis et.al.|[2410.16246](http://arxiv.org/abs/2410.16246)|null|
 |**2024-10-21**|**Semiconductor Circuits for Quantum Computing with Electronic Wave Packets**|David Pomaranski et.al.|[2410.16244](http://arxiv.org/abs/2410.16244)|null|
-|**2024-10-21**|**MoRE: Multi-Modal Contrastive Pre-training with Transformers on X-Rays, ECGs, and Diagnostic Report**|Samrajya Thapa et.al.|[2410.16239](http://arxiv.org/abs/2410.16239)|null|
+|**2024-10-21**|**MoRE: Multi-Modal Contrastive Pre-training with Transformers on X-Rays, ECGs, and Diagnostic Report**|Samrajya Thapa et.al.|[2410.16239](http://arxiv.org/abs/2410.16239)|**[link](https://github.com/svthapa/more)**|
 |**2024-10-21**|**IBGP: Imperfect Byzantine Generals Problem for Zero-Shot Robustness in Communicative Multi-Agent Systems**|Yihuan Mao et.al.|[2410.16237](http://arxiv.org/abs/2410.16237)|null|
 |**2024-10-21**|**LLaVA-KD: A Framework of Distilling Multimodal Large Language Models**|Yuxuan Cai et.al.|[2410.16236](http://arxiv.org/abs/2410.16236)|null|
 |**2024-10-21**|**Building A Coding Assistant via the Retrieval-Augmented Language Model**|Xinze Li et.al.|[2410.16229](http://arxiv.org/abs/2410.16229)|null|
@@ -797,13 +797,13 @@ layout: default
 |**2024-10-21**|**A Trust-Region Method for Graphical Stein Variational Inference**|Liam Pavlovic et.al.|[2410.16195](http://arxiv.org/abs/2410.16195)|null|
 |**2024-10-21**|**RM-Bench: Benchmarking Reward Models of Language Models with Subtlety and Style**|Yantao Liu et.al.|[2410.16184](http://arxiv.org/abs/2410.16184)|**[link](https://github.com/thu-keg/rm-bench)**|
 |**2024-10-21**|**MagicPIG: LSH Sampling for Efficient LLM Generation**|Zhuoming Chen et.al.|[2410.16179](http://arxiv.org/abs/2410.16179)|null|
-|**2024-10-21**|**Correcting for Selection Biases in the Determination of the Hubble Constant from Time-Delay Cosmography**|ian Li et.al.|[2410.16171](http://arxiv.org/abs/2410.16171)|null|
+|**2024-10-22**|**Correcting for Selection Biases in the Determination of the Hubble Constant from Time-Delay Cosmography**|Tian Li et.al.|[2410.16171](http://arxiv.org/abs/2410.16171)|null|
 |**2024-10-21**|**Modelling Structured Data Learning with Restricted Boltzmann Machines in the Teacher-Student Setting**|Robin Thériault et.al.|[2410.16150](http://arxiv.org/abs/2410.16150)|null|
 |**2024-10-21**|**1-bit AI Infra: Part 1.1, Fast and Lossless BitNet b1.58 Inference on CPUs**|Jinheng Wang et.al.|[2410.16144](http://arxiv.org/abs/2410.16144)|**[link](https://github.com/microsoft/bitnet)**|
 |**2024-10-21**|**Beyond 2:4: exploring V:N:M sparsity for efficient transformer inference on GPUs**|Kang Zhao et.al.|[2410.16135](http://arxiv.org/abs/2410.16135)|null|
 |**2024-10-21**|**SMART: Self-learning Meta-strategy Agent for Reasoning Tasks**|Rongxing Liu et.al.|[2410.16128](http://arxiv.org/abs/2410.16128)|**[link](https://github.com/kumar-shridhar/smart)**|
 |**2024-10-21**|**Statistical Inference for Temporal Difference Learning with Linear Function Approximation**|Weichen Wu et.al.|[2410.16106](http://arxiv.org/abs/2410.16106)|null|
-|**2024-10-21**|**CartesianMoE: Boosting Knowledge Sharing among Experts via Cartesian Product Routing in Mixture-of-Experts**|Zhenpeng Su et.al.|[2410.16077](http://arxiv.org/abs/2410.16077)|null|
+|**2024-10-22**|**CartesianMoE: Boosting Knowledge Sharing among Experts via Cartesian Product Routing in Mixture-of-Experts**|Zhenpeng Su et.al.|[2410.16077](http://arxiv.org/abs/2410.16077)|null|
 |**2024-10-18**|**Effects of waveform systematics on inferences of neutron star population properties and the nuclear equation of state**|Anjali B. Yelikar et.al.|[2410.14674](http://arxiv.org/abs/2410.14674)|null|
 |**2024-10-18**|**Decomposing The Dark Matter of Sparse Autoencoders**|Joshua Engels et.al.|[2410.14670](http://arxiv.org/abs/2410.14670)|**[link](https://github.com/joshengels/sae-dark-matter)**|
 |**2024-10-18**|**Bridging the Training-Inference Gap in LLMs by Leveraging Self-Generated Tokens**|Zhepeng Cen et.al.|[2410.14655](http://arxiv.org/abs/2410.14655)|null|
