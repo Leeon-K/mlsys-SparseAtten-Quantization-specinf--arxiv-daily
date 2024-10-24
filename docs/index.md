@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.23
+## Updated on 2024.10.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Quantization
@@ -1360,7 +1360,7 @@ layout: default
 |**2024-10-21**|**Enhancing PAC Learning of Half spaces Through Robust Optimization Techniques**|Shirmohammad Tavangari et.al.|[2410.16573](http://arxiv.org/abs/2410.16573)|null|
 |**2024-10-21**|**Can Transformers In-Context Learn Behavior of a Linear Dynamical System?**|Usman Akram et.al.|[2410.16546](http://arxiv.org/abs/2410.16546)|null|
 |**2024-10-21**|**Vulnerabilities in Machine Learning-Based Voice Disorder Detection Systems**|Gianpaolo Perelli et.al.|[2410.16341](http://arxiv.org/abs/2410.16341)|null|
-|**2024-10-21**|**Distributed Thompson sampling under constrained communication**|Saba Zerefa et.al.|[2410.15543](http://arxiv.org/abs/2410.15543)|null|
+|**2024-10-21**|**Distributed Thompson sampling under constrained communication**|Saba Zerefa et.al.|[2410.15543](http://arxiv.org/abs/2410.15543)|**[link](https://github.com/sabzer/distributed-bo)**|
 |**2024-10-20**|**Exploring Curriculum Learning for Vision-Language Tasks: A Study on Small-Scale Multimodal Training**|Rohan Saha et.al.|[2410.15509](http://arxiv.org/abs/2410.15509)|null|
 |**2024-10-20**|**PEAS: A Strategy for Crafting Transferable Adversarial Examples**|Bar Avraham et.al.|[2410.15409](http://arxiv.org/abs/2410.15409)|null|
 |**2024-10-20**|**TRIZ Method for Urban Building Energy Optimization: GWO-SARIMA-LSTM Forecasting model**|Shirong Zheng et.al.|[2410.15283](http://arxiv.org/abs/2410.15283)|null|
