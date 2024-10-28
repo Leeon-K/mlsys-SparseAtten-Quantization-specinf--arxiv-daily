@@ -7,13 +7,23 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.27
+## Updated on 2024.10.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Quantization
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-25**|**Counting Ability of Large Language Models and Impact of Tokenization**|Xiang Zhang et.al.|[2410.19730](http://arxiv.org/abs/2410.19730)|null|
+|**2024-10-25**|**FISHNET: Financial Intelligence from Sub-querying, Harmonizing, Neural-Conditioning, Expert Swarms, and Task Planning**|Nicole Cho et.al.|[2410.19727](http://arxiv.org/abs/2410.19727)|null|
+|**2024-10-25**|**Sparse Decomposition of Graph Neural Networks**|Yaochen Hu et.al.|[2410.19723](http://arxiv.org/abs/2410.19723)|null|
+|**2024-10-25**|**2D-DPO: Scaling Direct Preference Optimization with 2-Dimensional Supervision**|Shilong Li et.al.|[2410.19720](http://arxiv.org/abs/2410.19720)|null|
+|**2024-10-25**|**TimeSuite: Improving MLLMs for Long Video Understanding via Grounded Tuning**|Xiangyu Zeng et.al.|[2410.19702](http://arxiv.org/abs/2410.19702)|null|
+|**2024-10-25**|**Less is More: Extreme Gradient Boost Rank-1 Adaption for Efficient Finetuning of LLMs**|Yifei Zhang et.al.|[2410.19694](http://arxiv.org/abs/2410.19694)|null|
+|**2024-10-25**|**AGENT-CQ: Automatic Generation and Evaluation of Clarifying Questions for Conversational Search with LLMs**|Clemencia Siro et.al.|[2410.19692](http://arxiv.org/abs/2410.19692)|null|
+|**2024-10-25**|**Inferring Neural Signed Distance Functions by Overfitting on Single Noisy Point Clouds through Finetuning Data-Driven based Priors**|Chao Chen et.al.|[2410.19680](http://arxiv.org/abs/2410.19680)|null|
+|**2024-10-25**|**Spatial Shortcuts in Graph Neural Controlled Differential Equations**|Michael Detzel et.al.|[2410.19673](http://arxiv.org/abs/2410.19673)|null|
+|**2024-10-25**|**APRICOT: Active Preference Learning and Constraint-Aware Task Planning with LLMs**|Huaxiaoyue Wang et.al.|[2410.19656](http://arxiv.org/abs/2410.19656)|null|
 |**2024-10-24**|**Unbounded: A Generative Infinite Game of Character Life Simulation**|Jialu Li et.al.|[2410.18975](http://arxiv.org/abs/2410.18975)|null|
 |**2024-10-24**|**Tuning-free coreset Markov chain Monte Carlo**|Naitong Chen et.al.|[2410.18973](http://arxiv.org/abs/2410.18973)|**[link](https://github.com/NaitongChen/automated-coreset-mcmc-experiments)**|
 |**2024-10-24**|**Detection of Undeclared EV Charging Events in a Green Energy Certification Scheme**|Luca Domenico Loiacono et.al.|[2410.18971](http://arxiv.org/abs/2410.18971)|null|
@@ -605,6 +615,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-24**|**Watermarking Large Language Models and the Generated Content: Opportunities and Challenges**|Ruisi Zhang et.al.|[2410.19096](http://arxiv.org/abs/2410.19096)|null|
 |**2024-10-21**|**Hacking the Fabric: Targeting Partial Reconfiguration for Fault Injection in FPGA Fabrics**|Jayeeta Chaudhuri et.al.|[2410.16497](http://arxiv.org/abs/2410.16497)|null|
 |**2024-10-21**|**Hyperparameter Optimisation in Deep Learning from Ensemble Methods: Applications to Proton Structure**|Juan Cruz-Martinez et.al.|[2410.16248](http://arxiv.org/abs/2410.16248)|null|
 |**2024-10-20**|**A Remedy to Compute-in-Memory with Dynamic Random Access Memory: 1FeFET-1C Technology for Neuro-Symbolic AI**|Xunzhao Yin et.al.|[2410.15296](http://arxiv.org/abs/2410.15296)|null|
@@ -694,6 +705,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-25**|**Neuromorphic IoT Architecture for Efficient Water Management: A Smart Village Case Study**|Mugdim Bublin et.al.|[2410.19562](http://arxiv.org/abs/2410.19562)|null|
 |**2024-10-17**|**SouLLMate: An Application Enhancing Diverse Mental Health Support with Adaptive LLMs, Prompt Engineering, and RAG Techniques**|Qiming Guo et.al.|[2410.16322](http://arxiv.org/abs/2410.16322)|null|
 |**2024-10-21**|**P-YOLOv8: Efficient and Accurate Real-Time Detection of Distracted Driving**|Mohamed R. Elshamy et.al.|[2410.15602](http://arxiv.org/abs/2410.15602)|null|
 |**2024-10-15**|**SHAKTI: A 2.5 Billion Parameter Small Language Model Optimized for Edge AI and Low-Resource Environments**|Syed Abdul Gaffar Shakhadri et.al.|[2410.11331](http://arxiv.org/abs/2410.11331)|null|
@@ -826,6 +838,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-25**|**Rethinking Visual Dependency in Long-Context Reasoning for Large Vision-Language Models**|Yucheng Zhou et.al.|[2410.19732](http://arxiv.org/abs/2410.19732)|null|
+|**2024-10-25**|**FISHNET: Financial Intelligence from Sub-querying, Harmonizing, Neural-Conditioning, Expert Swarms, and Task Planning**|Nicole Cho et.al.|[2410.19727](http://arxiv.org/abs/2410.19727)|null|
+|**2024-10-25**|**Sparse Decomposition of Graph Neural Networks**|Yaochen Hu et.al.|[2410.19723](http://arxiv.org/abs/2410.19723)|null|
+|**2024-10-25**|**Inferring Neural Signed Distance Functions by Overfitting on Single Noisy Point Clouds through Finetuning Data-Driven based Priors**|Chao Chen et.al.|[2410.19680](http://arxiv.org/abs/2410.19680)|null|
+|**2024-10-25**|**Spatial Shortcuts in Graph Neural Controlled Differential Equations**|Michael Detzel et.al.|[2410.19673](http://arxiv.org/abs/2410.19673)|null|
+|**2024-10-25**|**APRICOT: Active Preference Learning and Constraint-Aware Task Planning with LLMs**|Huaxiaoyue Wang et.al.|[2410.19656](http://arxiv.org/abs/2410.19656)|null|
+|**2024-10-25**|**Efficient Biological Data Acquisition through Inference Set Design**|Ihor Neporozhnii et.al.|[2410.19631](http://arxiv.org/abs/2410.19631)|null|
+|**2024-10-25**|**Uniqueness and Nondegeneracy of positive ground states of $-Δu + (-Δ)^s u+u = u^{p+1} \quad \hbox{in $\mathbb{R}^n$}$**|Xifeng Su et.al.|[2410.19616](http://arxiv.org/abs/2410.19616)|null|
+|**2024-10-25**|**FastPCI: Motion-Structure Guided Fast Point Cloud Frame Interpolation**|Tianyu Zhang et.al.|[2410.19573](http://arxiv.org/abs/2410.19573)|null|
+|**2024-10-25**|**FLiP: Privacy-Preserving Federated Learning based on the Principle of Least Privileg**|ShiMao Xu et.al.|[2410.19548](http://arxiv.org/abs/2410.19548)|null|
 |**2024-10-24**|**Tuning-free coreset Markov chain Monte Carlo**|Naitong Chen et.al.|[2410.18973](http://arxiv.org/abs/2410.18973)|**[link](https://github.com/NaitongChen/automated-coreset-mcmc-experiments)**|
 |**2024-10-24**|**Detection of Undeclared EV Charging Events in a Green Energy Certification Scheme**|Luca Domenico Loiacono et.al.|[2410.18971](http://arxiv.org/abs/2410.18971)|null|
 |**2024-10-24**|**Dynamic Vocabulary Pruning in Early-Exit LLMs**|Jort Vincenti et.al.|[2410.18952](http://arxiv.org/abs/2410.18952)|**[link](https://github.com/matteonulli/vocabulary_pruning)**|
@@ -1391,12 +1413,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-24**|**Cascading Failure Prediction via Causal Inference**|Shiuli Subhra Ghosh et.al.|[2410.19179](http://arxiv.org/abs/2410.19179)|null|
+|**2024-10-24**|**Large Language Models for Financial Aid in Financial Time-series Forecasting**|Md Khairul Islam et.al.|[2410.19025](http://arxiv.org/abs/2410.19025)|null|
 |**2024-10-23**|**Dreaming Learning**|Alessandro Londei et.al.|[2410.18156](http://arxiv.org/abs/2410.18156)|null|
 |**2024-10-23**|**Identifiable Representation and Model Learning for Latent Dynamic Systems**|Congxi Zhang et.al.|[2410.17882](http://arxiv.org/abs/2410.17882)|null|
 |**2024-10-23**|**LEADS: Lightweight Embedded Assisted Driving System**|Tianhao Fu et.al.|[2410.17554](http://arxiv.org/abs/2410.17554)|**[link](https://github.com/ProjectNeura/LEADS)**|
 |**2024-10-22**|**Graph Neural Network-Accelerated Network-Reconfigured Optimal Power Flow**|Thuan Pham et.al.|[2410.17460](http://arxiv.org/abs/2410.17460)|null|
 |**2024-10-22**|**Scalable spectral representations for network multiagent control**|Zhaolin Ren et.al.|[2410.17221](http://arxiv.org/abs/2410.17221)|null|
-|**2024-10-22**|**Hierarchical Upper Confidence Bounds for Constrained Online Learning**|Ali Baheri et.al.|[2410.17216](http://arxiv.org/abs/2410.17216)|null|
+|**2024-10-25**|**Hierarchical Upper Confidence Bounds for Constrained Online Learning**|Ali Baheri et.al.|[2410.17216](http://arxiv.org/abs/2410.17216)|null|
 |**2024-10-22**|**Learning Load Balancing with GNN in MPTCP-Enabled Heterogeneous Networks**|Han Ji et.al.|[2410.17118](http://arxiv.org/abs/2410.17118)|**[link](https://github.com/hanji-ucd/gnn-hetnet)**|
 |**2024-10-22**|**A Comparison of Baseline Models and a Transformer Network for SOC Prediction in Lithium-Ion Batteries**|Hadeel Aboueidah et.al.|[2410.17049](http://arxiv.org/abs/2410.17049)|null|
 |**2024-10-22**|**Universal approximation property of ODENet and ResNet with a single activation function**|Masato Kimura et.al.|[2410.16709](http://arxiv.org/abs/2410.16709)|null|
