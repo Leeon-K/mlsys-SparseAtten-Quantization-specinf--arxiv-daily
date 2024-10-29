@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-28**|**Arithmetic Without Algorithms: Language Models Solve Math With a Bag of Heuristics**|Yaniv Nikankin et.al.|[2410.21272](http://arxiv.org/abs/2410.21272)|null|
+|**2024-10-28**|**EoRA: Training-free Compensation for Compressed LLM with Eigenspace Low-Rank Approximation**|Shih-Yang Liu et.al.|[2410.21271](http://arxiv.org/abs/2410.21271)|null|
+|**2024-10-28**|**LARP: Tokenizing Videos with a Learned Autoregressive Generative Prior**|Hanyu Wang et.al.|[2410.21264](http://arxiv.org/abs/2410.21264)|null|
+|**2024-10-28**|**BLAST: Block-Level Adaptive Structured Matrices for Efficient Deep Neural Network Inference**|Changwoo Lee et.al.|[2410.21262](http://arxiv.org/abs/2410.21262)|**[link](https://github.com/changwoolee/blast)**|
+|**2024-10-28**|**One-Step Diffusion Policy: Fast Visuomotor Policies via Diffusion Distillation**|Zhendong Wang et.al.|[2410.21257](http://arxiv.org/abs/2410.21257)|null|
+|**2024-10-28**|**Are BabyLMs Second Language Learners?**|Lukas Edman et.al.|[2410.21254](http://arxiv.org/abs/2410.21254)|null|
+|**2024-10-28**|**LongReward: Improving Long-context Large Language Models with AI Feedback**|Jiajie Zhang et.al.|[2410.21252](http://arxiv.org/abs/2410.21252)|null|
+|**2024-10-28**|**Zero-Shot Dense Retrieval with Embeddings from Relevance Feedback**|Nour Jedidi et.al.|[2410.21242](http://arxiv.org/abs/2410.21242)|null|
+|**2024-10-28**|**Hierarchical Knowledge Graph Construction from Images for Scalable E-Commerce**|Zhantao Yang et.al.|[2410.21237](http://arxiv.org/abs/2410.21237)|null|
+|**2024-10-28**|**Flaming-hot Initiation with Regular Execution Sampling for Large Language Models**|Weizhe Chen et.al.|[2410.21236](http://arxiv.org/abs/2410.21236)|null|
 |**2024-10-25**|**Counting Ability of Large Language Models and Impact of Tokenization**|Xiang Zhang et.al.|[2410.19730](http://arxiv.org/abs/2410.19730)|**[link](https://github.com/juntaic7/impact-of-tokenization-in-the-counting-ability-of-language-models)**|
 |**2024-10-25**|**FISHNET: Financial Intelligence from Sub-querying, Harmonizing, Neural-Conditioning, Expert Swarms, and Task Planning**|Nicole Cho et.al.|[2410.19727](http://arxiv.org/abs/2410.19727)|null|
 |**2024-10-25**|**Sparse Decomposition of Graph Neural Networks**|Yaochen Hu et.al.|[2410.19723](http://arxiv.org/abs/2410.19723)|null|
@@ -705,6 +715,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-28**|**FusedInf: Efficient Swapping of DNN Models for On-Demand Serverless Inference Services on the Edge**|Sifat Ut Taki et.al.|[2410.21120](http://arxiv.org/abs/2410.21120)|**[link](https://github.com/sifattaj/fusedinf)**|
+|**2024-10-28**|**Edge Perception: Intelligent Wireless Sensing at Network Edge**|Yuanhao Cui et.al.|[2410.21017](http://arxiv.org/abs/2410.21017)|null|
 |**2024-10-25**|**Neuromorphic IoT Architecture for Efficient Water Management: A Smart Village Case Study**|Mugdim Bublin et.al.|[2410.19562](http://arxiv.org/abs/2410.19562)|null|
 |**2024-10-17**|**SouLLMate: An Application Enhancing Diverse Mental Health Support with Adaptive LLMs, Prompt Engineering, and RAG Techniques**|Qiming Guo et.al.|[2410.16322](http://arxiv.org/abs/2410.16322)|null|
 |**2024-10-21**|**P-YOLOv8: Efficient and Accurate Real-Time Detection of Distracted Driving**|Mohamed R. Elshamy et.al.|[2410.15602](http://arxiv.org/abs/2410.15602)|null|
@@ -838,6 +850,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-28**|**LARP: Tokenizing Videos with a Learned Autoregressive Generative Prior**|Hanyu Wang et.al.|[2410.21264](http://arxiv.org/abs/2410.21264)|null|
+|**2024-10-28**|**BLAST: Block-Level Adaptive Structured Matrices for Efficient Deep Neural Network Inference**|Changwoo Lee et.al.|[2410.21262](http://arxiv.org/abs/2410.21262)|**[link](https://github.com/changwoolee/blast)**|
+|**2024-10-28**|**One-Step Diffusion Policy: Fast Visuomotor Policies via Diffusion Distillation**|Zhendong Wang et.al.|[2410.21257](http://arxiv.org/abs/2410.21257)|null|
+|**2024-10-28**|**LongReward: Improving Long-context Large Language Models with AI Feedback**|Jiajie Zhang et.al.|[2410.21252](http://arxiv.org/abs/2410.21252)|null|
+|**2024-10-28**|**Flaming-hot Initiation with Regular Execution Sampling for Large Language Models**|Weizhe Chen et.al.|[2410.21236](http://arxiv.org/abs/2410.21236)|null|
+|**2024-10-28**|**ST-ITO: Controlling Audio Effects for Style Transfer with Inference-Time Optimization**|Christian J. Steinmetz et.al.|[2410.21233](http://arxiv.org/abs/2410.21233)|null|
+|**2024-10-28**|**Spatial causal inference in the presence of preferential sampling to study the impacts of marine protected areas**|Dongjae Son et.al.|[2410.21213](http://arxiv.org/abs/2410.21213)|null|
+|**2024-10-28**|**Exploring contextual modeling with linear complexity for point cloud segmentation**|Yong Xien Chng et.al.|[2410.21211](http://arxiv.org/abs/2410.21211)|null|
+|**2024-10-28**|**Resilience in Knowledge Graph Embeddings**|Arnab Sharma et.al.|[2410.21163](http://arxiv.org/abs/2410.21163)|null|
+|**2024-10-28**|**CURATe: Benchmarking Personalised Alignment of Conversational AI Assistants**|Lize Alberts et.al.|[2410.21159](http://arxiv.org/abs/2410.21159)|null|
 |**2024-10-25**|**Rethinking Visual Dependency in Long-Context Reasoning for Large Vision-Language Models**|Yucheng Zhou et.al.|[2410.19732](http://arxiv.org/abs/2410.19732)|null|
 |**2024-10-25**|**FISHNET: Financial Intelligence from Sub-querying, Harmonizing, Neural-Conditioning, Expert Swarms, and Task Planning**|Nicole Cho et.al.|[2410.19727](http://arxiv.org/abs/2410.19727)|null|
 |**2024-10-25**|**Sparse Decomposition of Graph Neural Networks**|Yaochen Hu et.al.|[2410.19723](http://arxiv.org/abs/2410.19723)|null|
@@ -1413,6 +1435,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-28**|**Stronger Regret Bounds for Safe Online Reinforcement Learning in the Linear Quadratic Regulator**|Benjamin Schiffer et.al.|[2410.21081](http://arxiv.org/abs/2410.21081)|null|
+|**2024-10-28**|**A Review of Graph-Powered Data Quality Applications for IoT Monitoring Sensor Networks**|Pau Ferrer-Cid et.al.|[2410.21006](http://arxiv.org/abs/2410.21006)|null|
+|**2024-10-28**|**Reference-Free Formula Drift with Reinforcement Learning: From Driving Data to Tire Energy-Inspired, Real-World Policies**|Franck Djeumou et.al.|[2410.20990](http://arxiv.org/abs/2410.20990)|null|
+|**2024-10-28**|**Constrained Optimal Fuel Consumption of HEV:Considering the Observational Perturbation**|Shuchang Yan et.al.|[2410.20913](http://arxiv.org/abs/2410.20913)|null|
+|**2024-10-26**|**Learning Approximated Maximal Safe Sets via Hypernetworks for MPC-Based Local Motion Planning**|Bojan Derajić et.al.|[2410.20267](http://arxiv.org/abs/2410.20267)|null|
+|**2024-10-26**|**Recursive Function Definitions in Static Dataflow Graphs and their Implementation in TensorFlow**|Kelly Kostopoulou et.al.|[2410.20225](http://arxiv.org/abs/2410.20225)|null|
+|**2024-10-25**|**Artificial Intelligence of Things: A Survey**|Shakhrul Iman Siam et.al.|[2410.19998](http://arxiv.org/abs/2410.19998)|**[link](https://github.com/aiot-mlsys-lab/aiot-survey)**|
 |**2024-10-24**|**Cascading Failure Prediction via Causal Inference**|Shiuli Subhra Ghosh et.al.|[2410.19179](http://arxiv.org/abs/2410.19179)|null|
 |**2024-10-24**|**Large Language Models for Financial Aid in Financial Time-series Forecasting**|Md Khairul Islam et.al.|[2410.19025](http://arxiv.org/abs/2410.19025)|**[link](https://github.com/uva-mlsys/financial-time-series)**|
 |**2024-10-23**|**Dreaming Learning**|Alessandro Londei et.al.|[2410.18156](http://arxiv.org/abs/2410.18156)|null|
