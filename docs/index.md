@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.30
+## Updated on 2024.10.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Quantization
@@ -16,10 +16,10 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-10-29**|**Absolute Dimensions of the Interferometric Binary HD 174881: A Test of Stellar Evolution Models for Evolved Stars**|Guillermo Torres et.al.|[2410.22334](http://arxiv.org/abs/2410.22334)|null|
 |**2024-10-29**|**A wiggling filamentary jet at the origin of the blazar multi-wavelength behaviour**|C. M. Raiteri et.al.|[2410.22319](http://arxiv.org/abs/2410.22319)|null|
-|**2024-10-29**|**Online Detecting LLM-Generated Texts via Sequential Hypothesis Testing by Betting**|Can Chen et.al.|[2410.22318](http://arxiv.org/abs/2410.22318)|null|
+|**2024-10-29**|**Online Detecting LLM-Generated Texts via Sequential Hypothesis Testing by Betting**|Can Chen et.al.|[2410.22318](http://arxiv.org/abs/2410.22318)|**[link](https://github.com/canchen-cc/online-llm-detection)**|
 |**2024-10-29**|**Understanding Synthetic Context Extension via Retrieval Heads**|Xinyu Zhao et.al.|[2410.22316](http://arxiv.org/abs/2410.22316)|null|
 |**2024-10-29**|**Natural Language Inference Improves Compositionality in Vision-Language Models**|Paola Cascante-Bonilla et.al.|[2410.22315](http://arxiv.org/abs/2410.22315)|null|
-|**2024-10-29**|**GPT-4o reads the mind in the eyes**|James W. A. Strachan et.al.|[2410.22309](http://arxiv.org/abs/2410.22309)|null|
+|**2024-10-30**|**GPT-4o reads the mind in the eyes**|James W. A. Strachan et.al.|[2410.22309](http://arxiv.org/abs/2410.22309)|null|
 |**2024-10-29**|**SVIP: Towards Verifiable Inference of Open-source Large Language Models**|Yifan Sun et.al.|[2410.22307](http://arxiv.org/abs/2410.22307)|null|
 |**2024-10-29**|**Flow-DPO: Improving LLM Mathematical Reasoning through Online Multi-Agent Learning**|Yihe Deng et.al.|[2410.22304](http://arxiv.org/abs/2410.22304)|null|
 |**2024-10-29**|**Foreground signals minimally affect inference of high-mass binary black holes in next generation gravitational-wave detectors**|Ish Gupta et.al.|[2410.22302](http://arxiv.org/abs/2410.22302)|null|
@@ -864,11 +864,11 @@ layout: default
 |**2024-10-29**|**A wiggling filamentary jet at the origin of the blazar multi-wavelength behaviour**|C. M. Raiteri et.al.|[2410.22319](http://arxiv.org/abs/2410.22319)|null|
 |**2024-10-29**|**Understanding Synthetic Context Extension via Retrieval Heads**|Xinyu Zhao et.al.|[2410.22316](http://arxiv.org/abs/2410.22316)|null|
 |**2024-10-29**|**Natural Language Inference Improves Compositionality in Vision-Language Models**|Paola Cascante-Bonilla et.al.|[2410.22315](http://arxiv.org/abs/2410.22315)|null|
-|**2024-10-29**|**GPT-4o reads the mind in the eyes**|James W. A. Strachan et.al.|[2410.22309](http://arxiv.org/abs/2410.22309)|null|
+|**2024-10-30**|**GPT-4o reads the mind in the eyes**|James W. A. Strachan et.al.|[2410.22309](http://arxiv.org/abs/2410.22309)|null|
 |**2024-10-29**|**SVIP: Towards Verifiable Inference of Open-source Large Language Models**|Yifan Sun et.al.|[2410.22307](http://arxiv.org/abs/2410.22307)|null|
 |**2024-10-29**|**Flow-DPO: Improving LLM Mathematical Reasoning through Online Multi-Agent Learning**|Yihe Deng et.al.|[2410.22304](http://arxiv.org/abs/2410.22304)|null|
 |**2024-10-29**|**Foreground signals minimally affect inference of high-mass binary black holes in next generation gravitational-wave detectors**|Ish Gupta et.al.|[2410.22302](http://arxiv.org/abs/2410.22302)|null|
-|**2024-10-29**|**Batch, match, and patch: low-rank approximations for score-based variational inference**|Chirag Modi et.al.|[2410.22292](http://arxiv.org/abs/2410.22292)|null|
+|**2024-10-29**|**Batch, match, and patch: low-rank approximations for score-based variational inference**|Chirag Modi et.al.|[2410.22292](http://arxiv.org/abs/2410.22292)|**[link](https://github.com/modichirag/gsm-vi)**|
 |**2024-10-29**|**Bayesian analyses of the A2HDM with low-mass scalars**|Antonio M. Coutinho et.al.|[2410.22274](http://arxiv.org/abs/2410.22274)|null|
 |**2024-10-28**|**LARP: Tokenizing Videos with a Learned Autoregressive Generative Prior**|Hanyu Wang et.al.|[2410.21264](http://arxiv.org/abs/2410.21264)|null|
 |**2024-10-28**|**BLAST: Block-Level Adaptive Structured Matrices for Efficient Deep Neural Network Inference**|Changwoo Lee et.al.|[2410.21262](http://arxiv.org/abs/2410.21262)|**[link](https://github.com/changwoolee/blast)**|
@@ -1455,7 +1455,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-10-29**|**LipKernel: Lipschitz-Bounded Convolutional Neural Networks via Dissipative Layers**|Patricia Pauli et.al.|[2410.22258](http://arxiv.org/abs/2410.22258)|null|
+|**2024-10-29**|**LipKernel: Lipschitz-Bounded Convolutional Neural Networks via Dissipative Layers**|Patricia Pauli et.al.|[2410.22258](http://arxiv.org/abs/2410.22258)|**[link](https://github.com/ppauli/2D-LipCNNs)**|
 |**2024-10-29**|**DISCERN: Decoding Systematic Errors in Natural Language for Text Classifiers**|Rakesh R. Menon et.al.|[2410.22239](http://arxiv.org/abs/2410.22239)|null|
 |**2024-10-29**|**Stochastic Approximation with Unbounded Markovian Noise: A General-Purpose Theorem**|Shaan Ul Haque et.al.|[2410.21704](http://arxiv.org/abs/2410.21704)|null|
 |**2024-10-28**|**Stronger Regret Bounds for Safe Online Reinforcement Learning in the Linear Quadratic Regulator**|Benjamin Schiffer et.al.|[2410.21081](http://arxiv.org/abs/2410.21081)|null|
