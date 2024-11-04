@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.03
+## Updated on 2024.11.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Quantization
@@ -20,7 +20,7 @@ layout: default
 |**2024-10-31**|**ARQ: A Mixed-Precision Quantization Framework for Accurate and Certifiably Robust DNNs**|Yuchen Yang et.al.|[2410.24214](http://arxiv.org/abs/2410.24214)|null|
 |**2024-10-31**|**No Pose, No Problem: Surprisingly Simple 3D Gaussian Splats from Sparse Unposed Images**|Botao Ye et.al.|[2410.24207](http://arxiv.org/abs/2410.24207)|**[link](https://github.com/cvg/NoPoSplat)**|
 |**2024-10-31**|**Multi-Attribute Linguistic Tuning for Controlled Paraphrase Generation**|Mohamed Elgaar et.al.|[2410.24199](http://arxiv.org/abs/2410.24199)|null|
-|**2024-10-31**|**SelfCodeAlign: Self-Alignment for Code Generation**|Yuxiang Wei et.al.|[2410.24198](http://arxiv.org/abs/2410.24198)|null|
+|**2024-11-01**|**SelfCodeAlign: Self-Alignment for Code Generation**|Yuxiang Wei et.al.|[2410.24198](http://arxiv.org/abs/2410.24198)|null|
 |**2024-10-31**|**Generative modelling for mass-mapping with fast uncertainty quantification**|Jessica J. Whitney et.al.|[2410.24197](http://arxiv.org/abs/2410.24197)|null|
 |**2024-10-31**|**Hidden Persuaders: LLMs' Political Leaning and Their Influence on Voters**|Yujin Potter et.al.|[2410.24190](http://arxiv.org/abs/2410.24190)|null|
 |**2024-10-31**|**Constraint Back-translation Improves Complex Instruction Following of Large Language Models**|Yunjia Qi et.al.|[2410.24175](http://arxiv.org/abs/2410.24175)|null|
@@ -888,7 +888,7 @@ layout: default
 |**2024-10-31**|**No Pose, No Problem: Surprisingly Simple 3D Gaussian Splats from Sparse Unposed Images**|Botao Ye et.al.|[2410.24207](http://arxiv.org/abs/2410.24207)|**[link](https://github.com/cvg/NoPoSplat)**|
 |**2024-10-31**|**Length-Induced Embedding Collapse in Transformer-based Models**|Yuqi Zhou et.al.|[2410.24200](http://arxiv.org/abs/2410.24200)|null|
 |**2024-10-31**|**Multi-Attribute Linguistic Tuning for Controlled Paraphrase Generation**|Mohamed Elgaar et.al.|[2410.24199](http://arxiv.org/abs/2410.24199)|null|
-|**2024-10-31**|**SelfCodeAlign: Self-Alignment for Code Generation**|Yuxiang Wei et.al.|[2410.24198](http://arxiv.org/abs/2410.24198)|null|
+|**2024-11-01**|**SelfCodeAlign: Self-Alignment for Code Generation**|Yuxiang Wei et.al.|[2410.24198](http://arxiv.org/abs/2410.24198)|null|
 |**2024-10-31**|**Generative modelling for mass-mapping with fast uncertainty quantification**|Jessica J. Whitney et.al.|[2410.24197](http://arxiv.org/abs/2410.24197)|null|
 |**2024-10-31**|**The Importance of Being Scalable: Improving the Speed and Accuracy of Neural Network Interatomic Potentials Across Chemical Domains**|Eric Qu et.al.|[2410.24169](http://arxiv.org/abs/2410.24169)|null|
 |**2024-10-31**|**In-Context Fine-Tuning for Time-Series Foundation Models**|Abhimanyu Das et.al.|[2410.24087](http://arxiv.org/abs/2410.24087)|null|
