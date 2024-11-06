@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-05**|**Inference Optimal VLMs Need Only One Visual Token but Larger Models**|Kevin Y. Li et.al.|[2411.03312](http://arxiv.org/abs/2411.03312)|**[link](https://github.com/locuslab/llava-token-compression)**|
+|**2024-11-05**|**LLMs for Domain Generation Algorithm Detection**|Reynier Leyva La O et.al.|[2411.03307](http://arxiv.org/abs/2411.03307)|null|
+|**2024-11-05**|**VERITAS: A Unified Approach to Reliability Evaluation**|Rajkumar Ramamurthy et.al.|[2411.03300](http://arxiv.org/abs/2411.03300)|null|
+|**2024-11-05**|**Examining Human-AI Collaboration for Co-Writing Constructive Comments Online**|Farhana Shahid et.al.|[2411.03295](http://arxiv.org/abs/2411.03295)|null|
+|**2024-11-05**|**Out-of-Distribution Recovery with Object-Centric Keypoint Inverse Policy For Visuomotor Imitation Learning**|George Jiayuan Gao et.al.|[2411.03294](http://arxiv.org/abs/2411.03294)|null|
+|**2024-11-05**|**Genuine tripartite entanglement in graviton-matter interactions**|Pablo Guillermo Carmona Rufo et.al.|[2411.03293](http://arxiv.org/abs/2411.03293)|null|
+|**2024-11-05**|**The Future of Intelligent Healthcare: A Systematic Analysis and Discussion on the Integration and Impact of Robots Using Large Language Models for Healthcare**|Souren Pashangpour et.al.|[2411.03287](http://arxiv.org/abs/2411.03287)|null|
+|**2024-11-05**|**SMoA: Improving Multi-agent Large Language Models with Sparse Mixture-of-Agents**|Dawei Li et.al.|[2411.03284](http://arxiv.org/abs/2411.03284)|**[link](https://github.com/david-li0406/smoa)**|
+|**2024-11-05**|**Line of Sight Bias in Dark Matter Inferences from Galaxy Cluster Mergers**|David Wittman et.al.|[2411.03276](http://arxiv.org/abs/2411.03276)|null|
+|**2024-11-05**|**Spatio-temporal topology of plasmonic spin meron pairs revealed by polarimetric photo-emission microscopy**|Pascal Dreher et.al.|[2411.03262](http://arxiv.org/abs/2411.03262)|null|
 |**2024-11-04**|**Prompting with Phonemes: Enhancing LLM Multilinguality for non-Latin Script Languages**|Hoang Nguyen et.al.|[2411.02398](http://arxiv.org/abs/2411.02398)|null|
 |**2024-11-04**|**Adaptive Caching for Faster Video Generation with Diffusion Transformers**|Kumara Kahatapitiya et.al.|[2411.02397](http://arxiv.org/abs/2411.02397)|null|
 |**2024-11-04**|**AutoVFX: Physically Realistic Video Editing from Natural Language Instructions**|Hao-Yu Hsu et.al.|[2411.02394](http://arxiv.org/abs/2411.02394)|null|
@@ -668,13 +678,13 @@ layout: default
 |**2024-11-03**|**Stochastic Communication Avoidance for Recommendation Systems**|Lutfi Eren Erdogan et.al.|[2411.01611](http://arxiv.org/abs/2411.01611)|null|
 |**2024-11-01**|**Inducing Semi-Structured Sparsity by Masking for Efficient Model Inference in Convolutional Networks**|David A. Danhofer et.al.|[2411.00288](http://arxiv.org/abs/2411.00288)|null|
 |**2024-10-31**|**LLM-Inference-Bench: Inference Benchmarking of Large Language Models on AI Accelerators**|Krishna Teja Chitty-Venkata et.al.|[2411.00136](http://arxiv.org/abs/2411.00136)|null|
-|**2024-10-30**|**Kinetix: Investigating the Training of General Agents through Open-Ended Physics-Based Control Tasks**|Michael Matthews et.al.|[2410.23208](http://arxiv.org/abs/2410.23208)|null|
+|**2024-10-30**|**Kinetix: Investigating the Training of General Agents through Open-Ended Physics-Based Control Tasks**|Michael Matthews et.al.|[2410.23208](http://arxiv.org/abs/2410.23208)|**[link](https://github.com/michaeltmatthews/jax2d)**|
 |**2024-10-24**|**Watermarking Large Language Models and the Generated Content: Opportunities and Challenges**|Ruisi Zhang et.al.|[2410.19096](http://arxiv.org/abs/2410.19096)|null|
 |**2024-10-21**|**Hacking the Fabric: Targeting Partial Reconfiguration for Fault Injection in FPGA Fabrics**|Jayeeta Chaudhuri et.al.|[2410.16497](http://arxiv.org/abs/2410.16497)|null|
 |**2024-10-21**|**Hyperparameter Optimisation in Deep Learning from Ensemble Methods: Applications to Proton Structure**|Juan Cruz-Martinez et.al.|[2410.16248](http://arxiv.org/abs/2410.16248)|null|
 |**2024-10-20**|**A Remedy to Compute-in-Memory with Dynamic Random Access Memory: 1FeFET-1C Technology for Neuro-Symbolic AI**|Xunzhao Yin et.al.|[2410.15296](http://arxiv.org/abs/2410.15296)|null|
 |**2024-10-18**|**Self-Satisfied: An end-to-end framework for SAT generation and prediction**|Christopher R. Serrano et.al.|[2410.14888](http://arxiv.org/abs/2410.14888)|null|
-|**2024-10-17**|**Quamba: A Post-Training Quantization Recipe for Selective State Space Models**|Hung-Yueh Chiang et.al.|[2410.13229](http://arxiv.org/abs/2410.13229)|null|
+|**2024-10-17**|**Quamba: A Post-Training Quantization Recipe for Selective State Space Models**|Hung-Yueh Chiang et.al.|[2410.13229](http://arxiv.org/abs/2410.13229)|**[link](https://github.com/enyac-group/quamba)**|
 |**2024-10-16**|**Mixed-precision finite element kernels and assembly: Rounding error analysis and hardware acceleration**|M. Croci et.al.|[2410.12614](http://arxiv.org/abs/2410.12614)|**[link](https://github.com/croci/mpfem-paper-experiments-2024)**|
 |**2024-10-15**|**Fast Local Neural Regression for Low-Cost, Path Traced Lambertian Global Illumination**|Arturo Salmi et.al.|[2410.11625](http://arxiv.org/abs/2410.11625)|null|
 |**2024-10-15**|**Efficiera Residual Networks: Hardware-Friendly Fully Binary Weight with 2-bit Activation Model Achieves Practical ImageNet Accuracy**|Shuntaro Takahashi et.al.|[2410.11553](http://arxiv.org/abs/2410.11553)|**[link](https://github.com/leapmind/ern)**|
@@ -763,7 +773,7 @@ layout: default
 |**2024-11-01**|**On the Impact of White-box Deployment Strategies for Edge AI on Latency and Model Performance**|Jaskirat Singh et.al.|[2411.00907](http://arxiv.org/abs/2411.00907)|null|
 |**2024-10-30**|**Profiling AI Models: Towards Efficient Computation Offloading in Heterogeneous Edge AI Systems**|Juan Marcelo Parra-Ullauri et.al.|[2411.00859](http://arxiv.org/abs/2411.00859)|null|
 |**2024-11-01**|**GPT for Games: An Updated Scoping Review (2020-2024)**|Daijin Yang et.al.|[2411.00308](http://arxiv.org/abs/2411.00308)|null|
-|**2024-10-31**|**Cough-E: A multimodal, privacy-preserving cough detection algorithm for the edge**|Stefano Albini et.al.|[2410.24066](http://arxiv.org/abs/2410.24066)|null|
+|**2024-10-31**|**Cough-E: A multimodal, privacy-preserving cough detection algorithm for the edge**|Stefano Albini et.al.|[2410.24066](http://arxiv.org/abs/2410.24066)|**[link](https://github.com/esl-epfl/Cough-E)**|
 |**2024-10-28**|**FusedInf: Efficient Swapping of DNN Models for On-Demand Serverless Inference Services on the Edge**|Sifat Ut Taki et.al.|[2410.21120](http://arxiv.org/abs/2410.21120)|**[link](https://github.com/sifattaj/fusedinf)**|
 |**2024-10-28**|**Edge Perception: Intelligent Wireless Sensing at Network Edge**|Yuanhao Cui et.al.|[2410.21017](http://arxiv.org/abs/2410.21017)|null|
 |**2024-10-25**|**Neuromorphic IoT Architecture for Efficient Water Management: A Smart Village Case Study**|Mugdim Bublin et.al.|[2410.19562](http://arxiv.org/abs/2410.19562)|null|
@@ -899,6 +909,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-05**|**Inference Optimal VLMs Need Only One Visual Token but Larger Models**|Kevin Y. Li et.al.|[2411.03312](http://arxiv.org/abs/2411.03312)|**[link](https://github.com/locuslab/llava-token-compression)**|
+|**2024-11-05**|**Out-of-Distribution Recovery with Object-Centric Keypoint Inverse Policy For Visuomotor Imitation Learning**|George Jiayuan Gao et.al.|[2411.03294](http://arxiv.org/abs/2411.03294)|null|
+|**2024-11-05**|**Line of Sight Bias in Dark Matter Inferences from Galaxy Cluster Mergers**|David Wittman et.al.|[2411.03276](http://arxiv.org/abs/2411.03276)|null|
+|**2024-11-05**|**Spatio-temporal topology of plasmonic spin meron pairs revealed by polarimetric photo-emission microscopy**|Pascal Dreher et.al.|[2411.03262](http://arxiv.org/abs/2411.03262)|null|
+|**2024-11-05**|**How the StarDICE photometric calibration of standard stars can improve cosmological constraints?**|T. Souverin et.al.|[2411.03256](http://arxiv.org/abs/2411.03256)|null|
+|**2024-11-05**|**Enhancing Transformer Training Efficiency with Dynamic Dropout**|Hanrui Yan et.al.|[2411.03236](http://arxiv.org/abs/2411.03236)|null|
+|**2024-11-05**|**Formal Logic-guided Robust Federated Learning against Poisoning Attacks**|Dung Thuy Nguyen et.al.|[2411.03231](http://arxiv.org/abs/2411.03231)|null|
+|**2024-11-05**|**Online Data Collection for Efficient Semiparametric Inference**|Shantanu Gupta et.al.|[2411.03195](http://arxiv.org/abs/2411.03195)|**[link](https://github.com/shantanu95/online-moment-selection)**|
+|**2024-11-05**|**The Soltan argument at $z=6$ : UV-luminous quasars contribute less than 10% to early black hole mass growth**|Knud Jahnke et.al.|[2411.03184](http://arxiv.org/abs/2411.03184)|null|
+|**2024-11-05**|**Efficient Hamiltonian, structure and trace distance learning of Gaussian states**|Marco Fanizza et.al.|[2411.03163](http://arxiv.org/abs/2411.03163)|null|
 |**2024-11-04**|**Adaptive Caching for Faster Video Generation with Diffusion Transformers**|Kumara Kahatapitiya et.al.|[2411.02397](http://arxiv.org/abs/2411.02397)|null|
 |**2024-11-04**|**Addressing Uncertainty in LLMs to Enhance Reliability in Generative AI**|Ramneet Kaur et.al.|[2411.02381](http://arxiv.org/abs/2411.02381)|null|
 |**2024-11-04**|**Robust Bayesian regression in astronomy**|William Martin et.al.|[2411.02380](http://arxiv.org/abs/2411.02380)|null|
@@ -1524,8 +1544,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-11-04**|**Towards safe Bayesian optimization with Wiener kernel regression**|Oleksii Molodchyk et.al.|[2411.02253](http://arxiv.org/abs/2411.02253)|null|
-|**2024-11-04**|**Risk-sensitive control as inference with Rényi divergence**|Kaito Ito et.al.|[2411.01827](http://arxiv.org/abs/2411.01827)|null|
+|**2024-11-05**|**Oblivious Defense in ML Models: Backdoor Removal without Detection**|Shafi Goldwasser et.al.|[2411.03279](http://arxiv.org/abs/2411.03279)|null|
+|**2024-11-05**|**FEDLAD: Federated Evaluation of Deep Leakage Attacks and Defenses**|Isaac Baglin et.al.|[2411.03019](http://arxiv.org/abs/2411.03019)|null|
+|**2024-11-05**|**Transformer-Based Fault-Tolerant Control for Fixed-Wing UAVs Using Knowledge Distillation and In-Context Adaptation**|Francisco Giral et.al.|[2411.02975](http://arxiv.org/abs/2411.02975)|null|
+|**2024-11-05**|**Embedding Safety into RL: A New Take on Trust Region Methods**|Nikola Milosevic et.al.|[2411.02957](http://arxiv.org/abs/2411.02957)|null|
+|**2024-11-05**|**Layer-Adaptive State Pruning for Deep State Space Models**|Minseon Gwak et.al.|[2411.02824](http://arxiv.org/abs/2411.02824)|**[link](https://github.com/msgwak/last)**|
+|**2024-11-04**|**You are out of context!**|Giancarlo Cobino et.al.|[2411.02464](http://arxiv.org/abs/2411.02464)|null|
+|**2024-11-04**|**Towards safe Bayesian optimization with Wiener kernel regression**|Oleksii Molodchyk et.al.|[2411.02253](http://arxiv.org/abs/2411.02253)|**[link](https://github.com/OptCon/SafeBO_WKR)**|
+|**2024-11-04**|**Risk-sensitive control as inference with Rényi divergence**|Kaito Ito et.al.|[2411.01827](http://arxiv.org/abs/2411.01827)|**[link](https://github.com/kaito-1111/risk-sensitive-sac)**|
 |**2024-11-01**|**Combining Physics-based and Data-driven Modeling for Building Energy Systems**|Leandro Von Krannichfeldt et.al.|[2411.01055](http://arxiv.org/abs/2411.01055)|null|
 |**2024-10-31**|**MESS+: Energy-Optimal Inferencing in Language Model Zoos with Service Level Guarantees**|Ryan Zhang et.al.|[2411.00889](http://arxiv.org/abs/2411.00889)|null|
 |**2024-11-01**|**A KAN-based Interpretable Framework for Process-Informed Prediction of Global Warming Potential**|Jaewook Lee et.al.|[2411.00426](http://arxiv.org/abs/2411.00426)|null|
