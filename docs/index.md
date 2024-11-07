@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.06
+## Updated on 2024.11.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Quantization
@@ -18,12 +18,12 @@ layout: default
 |**2024-11-05**|**LLMs for Domain Generation Algorithm Detection**|Reynier Leyva La O et.al.|[2411.03307](http://arxiv.org/abs/2411.03307)|null|
 |**2024-11-05**|**VERITAS: A Unified Approach to Reliability Evaluation**|Rajkumar Ramamurthy et.al.|[2411.03300](http://arxiv.org/abs/2411.03300)|null|
 |**2024-11-05**|**Examining Human-AI Collaboration for Co-Writing Constructive Comments Online**|Farhana Shahid et.al.|[2411.03295](http://arxiv.org/abs/2411.03295)|null|
-|**2024-11-05**|**Out-of-Distribution Recovery with Object-Centric Keypoint Inverse Policy For Visuomotor Imitation Learning**|George Jiayuan Gao et.al.|[2411.03294](http://arxiv.org/abs/2411.03294)|null|
+|**2024-11-06**|**Out-of-Distribution Recovery with Object-Centric Keypoint Inverse Policy For Visuomotor Imitation Learning**|George Jiayuan Gao et.al.|[2411.03294](http://arxiv.org/abs/2411.03294)|null|
 |**2024-11-05**|**Genuine tripartite entanglement in graviton-matter interactions**|Pablo Guillermo Carmona Rufo et.al.|[2411.03293](http://arxiv.org/abs/2411.03293)|null|
 |**2024-11-05**|**The Future of Intelligent Healthcare: A Systematic Analysis and Discussion on the Integration and Impact of Robots Using Large Language Models for Healthcare**|Souren Pashangpour et.al.|[2411.03287](http://arxiv.org/abs/2411.03287)|null|
 |**2024-11-05**|**SMoA: Improving Multi-agent Large Language Models with Sparse Mixture-of-Agents**|Dawei Li et.al.|[2411.03284](http://arxiv.org/abs/2411.03284)|**[link](https://github.com/david-li0406/smoa)**|
 |**2024-11-05**|**Line of Sight Bias in Dark Matter Inferences from Galaxy Cluster Mergers**|David Wittman et.al.|[2411.03276](http://arxiv.org/abs/2411.03276)|null|
-|**2024-11-05**|**Spatio-temporal topology of plasmonic spin meron pairs revealed by polarimetric photo-emission microscopy**|Pascal Dreher et.al.|[2411.03262](http://arxiv.org/abs/2411.03262)|null|
+|**2024-11-06**|**Spatio-temporal topology of plasmonic spin meron pairs revealed by polarimetric photo-emission microscopy**|Pascal Dreher et.al.|[2411.03262](http://arxiv.org/abs/2411.03262)|null|
 |**2024-11-04**|**Prompting with Phonemes: Enhancing LLM Multilinguality for non-Latin Script Languages**|Hoang Nguyen et.al.|[2411.02398](http://arxiv.org/abs/2411.02398)|null|
 |**2024-11-04**|**Adaptive Caching for Faster Video Generation with Diffusion Transformers**|Kumara Kahatapitiya et.al.|[2411.02397](http://arxiv.org/abs/2411.02397)|null|
 |**2024-11-04**|**AutoVFX: Physically Realistic Video Editing from Natural Language Instructions**|Hao-Yu Hsu et.al.|[2411.02394](http://arxiv.org/abs/2411.02394)|null|
@@ -910,12 +910,12 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-11-05**|**Inference Optimal VLMs Need Only One Visual Token but Larger Models**|Kevin Y. Li et.al.|[2411.03312](http://arxiv.org/abs/2411.03312)|**[link](https://github.com/locuslab/llava-token-compression)**|
-|**2024-11-05**|**Out-of-Distribution Recovery with Object-Centric Keypoint Inverse Policy For Visuomotor Imitation Learning**|George Jiayuan Gao et.al.|[2411.03294](http://arxiv.org/abs/2411.03294)|null|
+|**2024-11-06**|**Out-of-Distribution Recovery with Object-Centric Keypoint Inverse Policy For Visuomotor Imitation Learning**|George Jiayuan Gao et.al.|[2411.03294](http://arxiv.org/abs/2411.03294)|null|
 |**2024-11-05**|**Line of Sight Bias in Dark Matter Inferences from Galaxy Cluster Mergers**|David Wittman et.al.|[2411.03276](http://arxiv.org/abs/2411.03276)|null|
-|**2024-11-05**|**Spatio-temporal topology of plasmonic spin meron pairs revealed by polarimetric photo-emission microscopy**|Pascal Dreher et.al.|[2411.03262](http://arxiv.org/abs/2411.03262)|null|
+|**2024-11-06**|**Spatio-temporal topology of plasmonic spin meron pairs revealed by polarimetric photo-emission microscopy**|Pascal Dreher et.al.|[2411.03262](http://arxiv.org/abs/2411.03262)|null|
 |**2024-11-05**|**How the StarDICE photometric calibration of standard stars can improve cosmological constraints?**|T. Souverin et.al.|[2411.03256](http://arxiv.org/abs/2411.03256)|null|
 |**2024-11-05**|**Enhancing Transformer Training Efficiency with Dynamic Dropout**|Hanrui Yan et.al.|[2411.03236](http://arxiv.org/abs/2411.03236)|null|
-|**2024-11-05**|**Formal Logic-guided Robust Federated Learning against Poisoning Attacks**|Dung Thuy Nguyen et.al.|[2411.03231](http://arxiv.org/abs/2411.03231)|null|
+|**2024-11-06**|**Formal Logic-guided Robust Federated Learning against Poisoning Attacks**|Dung Thuy Nguyen et.al.|[2411.03231](http://arxiv.org/abs/2411.03231)|null|
 |**2024-11-05**|**Online Data Collection for Efficient Semiparametric Inference**|Shantanu Gupta et.al.|[2411.03195](http://arxiv.org/abs/2411.03195)|**[link](https://github.com/shantanu95/online-moment-selection)**|
 |**2024-11-05**|**The Soltan argument at $z=6$ : UV-luminous quasars contribute less than 10% to early black hole mass growth**|Knud Jahnke et.al.|[2411.03184](http://arxiv.org/abs/2411.03184)|null|
 |**2024-11-05**|**Efficient Hamiltonian, structure and trace distance learning of Gaussian states**|Marco Fanizza et.al.|[2411.03163](http://arxiv.org/abs/2411.03163)|null|
