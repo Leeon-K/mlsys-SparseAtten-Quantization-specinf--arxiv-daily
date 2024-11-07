@@ -25,6 +25,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-06**|**On the (Classical and Quantum) Fine-Grained Complexity of Log-Approximate CVP and Max-Cut**|Jeremy Ahrens Huang et.al.|[2411.04124](http://arxiv.org/abs/2411.04124)|null|
+|**2024-11-06**|**Medical Adaptation of Large Language and Vision-Language Models: Are We Making Progress?**|Daniel P. Jeong et.al.|[2411.04118](http://arxiv.org/abs/2411.04118)|null|
+|**2024-11-06**|**Self-Consistency Preference Optimization**|Archiki Prasad et.al.|[2411.04109](http://arxiv.org/abs/2411.04109)|null|
+|**2024-11-06**|**How Transformers Solve Propositional Logic Problems: A Mechanistic Analysis**|Guan Zhe Hong et.al.|[2411.04105](http://arxiv.org/abs/2411.04105)|null|
+|**2024-11-06**|**On the Kostant-Souriau prequantization of scalar fields with polysymplectic structures**|Tom McClain et.al.|[2411.04087](http://arxiv.org/abs/2411.04087)|null|
+|**2024-11-06**|**A unified approach to quantum de Finetti theorems and SoS rounding via geometric quantization**|Sujit Rao et.al.|[2411.04057](http://arxiv.org/abs/2411.04057)|null|
+|**2024-11-06**|**Impurities in Schrödinger field theories and s-wave resonance**|Avia Raviv-Moshe et.al.|[2411.04040](http://arxiv.org/abs/2411.04040)|null|
+|**2024-11-06**|**Stepping Forward on the Last Mile**|Chen Feng et.al.|[2411.04036](http://arxiv.org/abs/2411.04036)|null|
+|**2024-11-06**|**Beemo: Benchmark of Expert-edited Machine-generated Outputs**|Ekaterina Artemova et.al.|[2411.04032](http://arxiv.org/abs/2411.04032)|null|
+|**2024-11-06**|**Space-Time Spectral Element Tensor Network Approach for Time Dependent Convection Diffusion Reaction Equation with Variable Coefficients**|Dibyendu Adak et.al.|[2411.04026](http://arxiv.org/abs/2411.04026)|null|
 |**2024-11-05**|**Inference Optimal VLMs Need Only One Visual Token but Larger Models**|Kevin Y. Li et.al.|[2411.03312](http://arxiv.org/abs/2411.03312)|**[link](https://github.com/locuslab/llava-token-compression)**|
 |**2024-11-05**|**LLMs for Domain Generation Algorithm Detection**|Reynier Leyva La O et.al.|[2411.03307](http://arxiv.org/abs/2411.03307)|null|
 |**2024-11-05**|**VERITAS: A Unified Approach to Reliability Evaluation**|Rajkumar Ramamurthy et.al.|[2411.03300](http://arxiv.org/abs/2411.03300)|null|
@@ -934,6 +944,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-06**|**Self-Consistency Preference Optimization**|Archiki Prasad et.al.|[2411.04109](http://arxiv.org/abs/2411.04109)|null|
+|**2024-11-06**|**Stepping Forward on the Last Mile**|Chen Feng et.al.|[2411.04036](http://arxiv.org/abs/2411.04036)|null|
+|**2024-11-06**|**$k$ NN Attention Demystified: A Theoretical Exploration for Scalable Transformers**|Themistoklis Haris et.al.|[2411.04013](http://arxiv.org/abs/2411.04013)|null|
+|**2024-11-06**|**HRDecoder: High-Resolution Decoder Network for Fundus Image Lesion Segmentation**|Ziyuan Ding et.al.|[2411.03976](http://arxiv.org/abs/2411.03976)|**[link](https://github.com/cviu-csu/hrdecoder)**|
+|**2024-11-06**|**A Causal Framework for Precision Rehabilitation**|R. James Cotton et.al.|[2411.03919](http://arxiv.org/abs/2411.03919)|null|
+|**2024-11-06**|**Game-Theoretic Machine Unlearning: Mitigating Extra Privacy Leakage**|Hengzhu Liu et.al.|[2411.03914](http://arxiv.org/abs/2411.03914)|null|
+|**2024-11-06**|**Lexicalization Is All You Need: Examining the Impact of Lexical Knowledge in a Compositional QALD System**|David Maria Schmidt et.al.|[2411.03906](http://arxiv.org/abs/2411.03906)|null|
+|**2024-11-06**|**Retentive Neural Quantum States: Efficient Ansätze for Ab Initio Quantum Chemistry**|Oliver Knitter et.al.|[2411.03900](http://arxiv.org/abs/2411.03900)|null|
+|**2024-11-06**|**EXPLORA: Efficient Exemplar Subset Selection for Complex Reasoning**|Kiran Purohit et.al.|[2411.03877](http://arxiv.org/abs/2411.03877)|**[link](https://github.com/kiranpurohit/explora)**|
+|**2024-11-06**|**Hidden Cooling Flows in Elliptical Galaxies**|L. R. Ivey et.al.|[2411.03864](http://arxiv.org/abs/2411.03864)|null|
 |**2024-11-05**|**Inference Optimal VLMs Need Only One Visual Token but Larger Models**|Kevin Y. Li et.al.|[2411.03312](http://arxiv.org/abs/2411.03312)|**[link](https://github.com/locuslab/llava-token-compression)**|
 |**2024-11-06**|**Out-of-Distribution Recovery with Object-Centric Keypoint Inverse Policy For Visuomotor Imitation Learning**|George Jiayuan Gao et.al.|[2411.03294](http://arxiv.org/abs/2411.03294)|null|
 |**2024-11-05**|**Line of Sight Bias in Dark Matter Inferences from Galaxy Cluster Mergers**|David Wittman et.al.|[2411.03276](http://arxiv.org/abs/2411.03276)|null|
@@ -1571,6 +1591,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-06**|**A Comparative Study of Deep Reinforcement Learning for Crop Production Management**|Joseph Balderas et.al.|[2411.04106](http://arxiv.org/abs/2411.04106)|null|
+|**2024-11-06**|**Predicting and Publishing Accurate Imbalance Prices Using Monte Carlo Tree Search**|Fabio Pavirani et.al.|[2411.04011](http://arxiv.org/abs/2411.04011)|null|
+|**2024-11-06**|**No Culture Left Behind: ArtELingo-28, a Benchmark of WikiArt with Captions in 28 Languages**|Youssef Mohamed et.al.|[2411.03769](http://arxiv.org/abs/2411.03769)|null|
 |**2024-11-05**|**Oblivious Defense in ML Models: Backdoor Removal without Detection**|Shafi Goldwasser et.al.|[2411.03279](http://arxiv.org/abs/2411.03279)|null|
 |**2024-11-05**|**FEDLAD: Federated Evaluation of Deep Leakage Attacks and Defenses**|Isaac Baglin et.al.|[2411.03019](http://arxiv.org/abs/2411.03019)|null|
 |**2024-11-05**|**Transformer-Based Fault-Tolerant Control for Fixed-Wing UAVs Using Knowledge Distillation and In-Context Adaptation**|Francisco Giral et.al.|[2411.02975](http://arxiv.org/abs/2411.02975)|null|
