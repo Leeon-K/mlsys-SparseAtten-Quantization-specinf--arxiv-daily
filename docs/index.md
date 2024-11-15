@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-14**|**LLM Hallucination Reasoning with Zero-shot Knowledge Test**|Seongmin Lee et.al.|[2411.09689](http://arxiv.org/abs/2411.09689)|null|
+|**2024-11-14**|**Squeezed Attention: Accelerating Long Context Length LLM Inference**|Coleman Hooper et.al.|[2411.09688](http://arxiv.org/abs/2411.09688)|null|
+|**2024-11-14**|**Adaptive Decoding via Latent Preference Optimization**|Shehzaad Dhuliawala et.al.|[2411.09661](http://arxiv.org/abs/2411.09661)|null|
+|**2024-11-14**|**Motion Before Action: Diffusing Object Motion as Manipulation Condition**|Yup Su et.al.|[2411.09658](http://arxiv.org/abs/2411.09658)|null|
+|**2024-11-14**|**Differentiable Land Model Reveals Global Environmental Controls on Ecological Parameters**|Jianing Fang et.al.|[2411.09654](http://arxiv.org/abs/2411.09654)|null|
+|**2024-11-14**|**Med-Bot: An AI-Powered Assistant to Provide Accurate and Reliable Medical Information**|Ahan Bhatt et.al.|[2411.09648](http://arxiv.org/abs/2411.09648)|null|
+|**2024-11-14**|**Local deployment of large-scale music AI models on commodity hardware**|Xun Zhou et.al.|[2411.09625](http://arxiv.org/abs/2411.09625)|null|
+|**2024-11-14**|**Photonic frequency multiplexed next-generation reservoir computer**|Nicholas Cox et.al.|[2411.09624](http://arxiv.org/abs/2411.09624)|null|
+|**2024-11-14**|**PTR: Precision-Driven Tool Recommendation for Large Language Models**|Hang Gao et.al.|[2411.09613](http://arxiv.org/abs/2411.09613)|null|
+|**2024-11-14**|**Accelerating Knowledge Graph and Ontology Engineering with Large Language Models**|Cogan Shimizu et.al.|[2411.09601](http://arxiv.org/abs/2411.09601)|null|
 |**2024-11-13**|**The Limited Impact of Medical Adaptation of Large Language and Vision-Language Models**|Daniel P. Jeong et.al.|[2411.08870](http://arxiv.org/abs/2411.08870)|null|
 |**2024-11-13**|**LLMStinger: Jailbreaking LLMs using RL fine-tuned LLMs**|Piyush Jha et.al.|[2411.08862](http://arxiv.org/abs/2411.08862)|null|
 |**2024-11-13**|**Rational solutions of Painlevé V from Hankel determinants and the asymptotics of their pole locations**|Malik Balogoun et.al.|[2411.08853](http://arxiv.org/abs/2411.08853)|null|
@@ -735,6 +745,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-14**|**OpenGeMM: A High-Utilization GeMM Accelerator Generator with Lightweight RISC-V Control and Tight Memory Coupling**|Xiaoling Yi et.al.|[2411.09543](http://arxiv.org/abs/2411.09543)|null|
+|**2024-11-14**|**Communication Compression for Tensor Parallel LLM Inference**|Jan Hansen-Palmus et.al.|[2411.09510](http://arxiv.org/abs/2411.09510)|null|
 |**2024-11-12**|**RPCAcc: A High-Performance and Reconfigurable PCIe-attached RPC Accelerator**|Jie Zhang et.al.|[2411.07632](http://arxiv.org/abs/2411.07632)|null|
 |**2024-11-11**|**Spiking Transformer Hardware Accelerators in 3D Integration**|Boxun Xu et.al.|[2411.07397](http://arxiv.org/abs/2411.07397)|null|
 |**2024-11-10**|**AMAZE: Accelerated MiMC Hardware Architecture for Zero-Knowledge Applications on the Edge**|Anees Ahmed et.al.|[2411.06350](http://arxiv.org/abs/2411.06350)|null|
@@ -832,6 +844,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-14**|**ABCI 3.0: Evolution of the leading AI infrastructure in Japan**|Ryousei Takano et.al.|[2411.09134](http://arxiv.org/abs/2411.09134)|null|
 |**2024-11-13**|**A Cost-effective, Stand-alone, and Real-time TinyML-Based Gait Diagnosis Unit Aimed at Lower-limb Robotic Prostheses and Exoskeletons**|Zarin Anjum Madhiha et.al.|[2411.08474](http://arxiv.org/abs/2411.08474)|null|
 |**2024-11-12**|**Towards Vision Mixture of Experts for Wildlife Monitoring on the Edge**|Emmanuel Azuh Mensah et.al.|[2411.07834](http://arxiv.org/abs/2411.07834)|null|
 |**2024-11-11**|**Enhancing Predictive Maintenance in Mining Mobile Machinery through a TinyML-enabled Hierarchical Inference Network**|Raúl de la Fuente et.al.|[2411.07168](http://arxiv.org/abs/2411.07168)|null|
@@ -979,6 +992,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-14**|**Squeezed Attention: Accelerating Long Context Length LLM Inference**|Coleman Hooper et.al.|[2411.09688](http://arxiv.org/abs/2411.09688)|null|
+|**2024-11-14**|**Adaptive Decoding via Latent Preference Optimization**|Shehzaad Dhuliawala et.al.|[2411.09661](http://arxiv.org/abs/2411.09661)|null|
+|**2024-11-14**|**Motion Before Action: Diffusing Object Motion as Manipulation Condition**|Yup Su et.al.|[2411.09658](http://arxiv.org/abs/2411.09658)|null|
+|**2024-11-14**|**Differentiable Land Model Reveals Global Environmental Controls on Ecological Parameters**|Jianing Fang et.al.|[2411.09654](http://arxiv.org/abs/2411.09654)|null|
+|**2024-11-14**|**Local deployment of large-scale music AI models on commodity hardware**|Xun Zhou et.al.|[2411.09625](http://arxiv.org/abs/2411.09625)|null|
+|**2024-11-14**|**Photonic frequency multiplexed next-generation reservoir computer**|Nicholas Cox et.al.|[2411.09624](http://arxiv.org/abs/2411.09624)|null|
+|**2024-11-14**|**Communication Compression for Tensor Parallel LLM Inference**|Jan Hansen-Palmus et.al.|[2411.09510](http://arxiv.org/abs/2411.09510)|null|
+|**2024-11-14**|**Golden Noise for Diffusion Models: A Learning Framework**|Zikai Zhou et.al.|[2411.09502](http://arxiv.org/abs/2411.09502)|null|
+|**2024-11-14**|**Sparse Bayesian Generative Modeling for Compressive Sensing**|Benedikt Böck et.al.|[2411.09483](http://arxiv.org/abs/2411.09483)|null|
+|**2024-11-14**|**LLM-assisted Explicit and Implicit Multi-interest Learning Framework for Sequential Recommendation**|Shutong Qiao et.al.|[2411.09410](http://arxiv.org/abs/2411.09410)|null|
 |**2024-11-13**|**Multimodal Instruction Tuning with Hybrid State Space Models**|Jianing Zhou et.al.|[2411.08840](http://arxiv.org/abs/2411.08840)|null|
 |**2024-11-13**|**A probabilistic reduced-order modeling framework for patient-specific cardio-mechanical analysis**|Robin Willems et.al.|[2411.08822](http://arxiv.org/abs/2411.08822)|null|
 |**2024-11-13**|**Which Viewpoint Shows it Best? Language for Weakly Supervising View Selection in Multi-view Videos**|Sagnik Majumder et.al.|[2411.08753](http://arxiv.org/abs/2411.08753)|null|
