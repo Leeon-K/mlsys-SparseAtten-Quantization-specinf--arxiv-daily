@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.23
+## Updated on 2024.11.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Quantization
@@ -19,7 +19,7 @@ layout: default
 |**2024-11-21**|**Combining summary statistics with simulation-based inference for the 21 cm signal from the Epoch of Reionization**|Benoit Semelin et.al.|[2411.14419](http://arxiv.org/abs/2411.14419)|null|
 |**2024-11-21**|**Lightweight Safety Guardrails Using Fine-tuned BERT Embeddings**|Aaron Zheng et.al.|[2411.14398](http://arxiv.org/abs/2411.14398)|null|
 |**2024-11-21**|**Discrete Schrodinger equation on graphs: An effective model for branched quantum lattice**|M. Akramov et.al.|[2411.14397](http://arxiv.org/abs/2411.14397)|null|
-|**2024-11-21**|**Convolutional Vision Transformer for Cosmology Parameter Inference**|Yash Gondhalekar et.al.|[2411.14392](http://arxiv.org/abs/2411.14392)|null|
+|**2024-11-21**|**Convolutional Vision Transformer for Cosmology Parameter Inference**|Yash Gondhalekar et.al.|[2411.14392](http://arxiv.org/abs/2411.14392)|**[link](https://github.com/yash-10/cvt-cosmo-inference)**|
 |**2024-11-21**|**Phase Space Representation of the Density Operator: Bopp Pseudodifferential Calculus and Moyal Product**|Maurice de Gosson et.al.|[2411.14391](http://arxiv.org/abs/2411.14391)|null|
 |**2024-11-21**|**Learning Humanoid Locomotion with Perceptive Internal Model**|Junfeng Long et.al.|[2411.14386](http://arxiv.org/abs/2411.14386)|null|
 |**2024-11-21**|**Indiscriminate Disruption of Conditional Inference on Multivariate Gaussians**|William N. Caballero et.al.|[2411.14351](http://arxiv.org/abs/2411.14351)|**[link](https://github.com/mrlarosa/distruptingmvgs)**|
@@ -1053,7 +1053,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-11-21**|**Unleashing the Potential of Multi-modal Foundation Models and Video Diffusion for 4D Dynamic Physical Scene Simulation**|Zhuoman Liu et.al.|[2411.14423](http://arxiv.org/abs/2411.14423)|null|
 |**2024-11-21**|**Combining summary statistics with simulation-based inference for the 21 cm signal from the Epoch of Reionization**|Benoit Semelin et.al.|[2411.14419](http://arxiv.org/abs/2411.14419)|null|
-|**2024-11-21**|**Convolutional Vision Transformer for Cosmology Parameter Inference**|Yash Gondhalekar et.al.|[2411.14392](http://arxiv.org/abs/2411.14392)|null|
+|**2024-11-21**|**Convolutional Vision Transformer for Cosmology Parameter Inference**|Yash Gondhalekar et.al.|[2411.14392](http://arxiv.org/abs/2411.14392)|**[link](https://github.com/yash-10/cvt-cosmo-inference)**|
 |**2024-11-21**|**Learning Humanoid Locomotion with Perceptive Internal Model**|Junfeng Long et.al.|[2411.14386](http://arxiv.org/abs/2411.14386)|null|
 |**2024-11-21**|**Indiscriminate Disruption of Conditional Inference on Multivariate Gaussians**|William N. Caballero et.al.|[2411.14351](http://arxiv.org/abs/2411.14351)|**[link](https://github.com/mrlarosa/distruptingmvgs)**|
 |**2024-11-21**|**Logarithmic Neyman Regret for Adaptive Estimation of the Average Treatment Effect**|Ojash Neopane et.al.|[2411.14341](http://arxiv.org/abs/2411.14341)|null|
