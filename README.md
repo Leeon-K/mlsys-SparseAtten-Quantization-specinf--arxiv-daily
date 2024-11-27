@@ -25,6 +25,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-26**|**StableAnimator: High-Quality Identity-Preserving Human Image Animation**|Shuyuan Tu et.al.|[2411.17697](http://arxiv.org/abs/2411.17697)|**[link](https://github.com/Francis-Rings/StableAnimator)**|
+|**2024-11-26**|**Adaptive Deployment of Untrusted LLMs Reduces Distributed Threats**|Jiaxin Wen et.al.|[2411.17693](http://arxiv.org/abs/2411.17693)|null|
+|**2024-11-26**|**Low-Bit Quantization Favors Undertrained LLMs: Scaling Laws for Quantized LLMs with 100T Training Tokens**|Xu Ouyang et.al.|[2411.17691](http://arxiv.org/abs/2411.17691)|null|
+|**2024-11-26**|**Rethinking Token Reduction in MLLMs: Towards a Unified Paradigm for Training-Free Acceleration**|Yuhang Han et.al.|[2411.17686](http://arxiv.org/abs/2411.17686)|null|
+|**2024-11-26**|**Enhancing Character-Level Understanding in LLMs through Token Internal Structure Learning**|Zhu Xu et.al.|[2411.17679](http://arxiv.org/abs/2411.17679)|null|
+|**2024-11-26**|**Instance-Aware Graph Prompt Learning**|Jiazheng Li et.al.|[2411.17676](http://arxiv.org/abs/2411.17676)|null|
+|**2024-11-26**|**Push the Limit of Multi-modal Emotion Recognition by Prompting LLMs with Receptive-Field-Aware Attention Weighting**|Liyun Zhang et.al.|[2411.17674](http://arxiv.org/abs/2411.17674)|null|
+|**2024-11-26**|**SketchAgent: Language-Driven Sequential Sketch Generation**|Yael Vinker et.al.|[2411.17673](http://arxiv.org/abs/2411.17673)|null|
+|**2024-11-26**|**Synthetic Data Generation with LLM for Improved Depression Prediction**|Andrea Kang et.al.|[2411.17672](http://arxiv.org/abs/2411.17672)|null|
+|**2024-11-26**|**Accelerated nested sampling with $β$ -flows for gravitational waves**|Metha Prathaban et.al.|[2411.17663](http://arxiv.org/abs/2411.17663)|null|
 |**2024-11-25**|**Factorized Visual Tokenization and Generation**|Zechen Bai et.al.|[2411.16681](http://arxiv.org/abs/2411.16681)|null|
 |**2024-11-25**|**Do Large Language Models Perform Latent Multi-Hop Reasoning without Exploiting Shortcuts?**|Sohee Yang et.al.|[2411.16679](http://arxiv.org/abs/2411.16679)|null|
 |**2024-11-25**|**DreamRunner: Fine-Grained Storytelling Video Generation with Retrieval-Augmented Motion Adaptation**|Zun Wang et.al.|[2411.16657](http://arxiv.org/abs/2411.16657)|null|
@@ -1099,6 +1109,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-26**|**StableAnimator: High-Quality Identity-Preserving Human Image Animation**|Shuyuan Tu et.al.|[2411.17697](http://arxiv.org/abs/2411.17697)|**[link](https://github.com/Francis-Rings/StableAnimator)**|
+|**2024-11-26**|**Rethinking Token Reduction in MLLMs: Towards a Unified Paradigm for Training-Free Acceleration**|Yuhang Han et.al.|[2411.17686](http://arxiv.org/abs/2411.17686)|null|
+|**2024-11-26**|**Accelerated nested sampling with $β$ -flows for gravitational waves**|Metha Prathaban et.al.|[2411.17663](http://arxiv.org/abs/2411.17663)|null|
+|**2024-11-26**|**RoboPEPP: Vision-Based Robot Pose and Joint Angle Estimation through Embedding Predictive Pre-Training**|Raktim Gautam Goswami et.al.|[2411.17662](http://arxiv.org/abs/2411.17662)|null|
+|**2024-11-26**|**DROID-Splat: Combining end-to-end SLAM with 3D Gaussian Splatting**|Christian Homeyer et.al.|[2411.17660](http://arxiv.org/abs/2411.17660)|**[link](https://github.com/chenhoy/droid-splat)**|
+|**2024-11-26**|**Intrepid MCMC: Metropolis-Hastings with Exploration**|Promit Chakroborty et.al.|[2411.17639](http://arxiv.org/abs/2411.17639)|null|
+|**2024-11-26**|**Valid Bayesian Inference based on Variance Weighted Projection for High-Dimensional Logistic Regression with Binary Covariates**|Abhishek Ojha et.al.|[2411.17618](http://arxiv.org/abs/2411.17618)|null|
+|**2024-11-26**|**Accelerating Vision Diffusion Transformers with Skip Branches**|Guanjie Chen et.al.|[2411.17616](http://arxiv.org/abs/2411.17616)|**[link](https://github.com/opensparsellms/skip-dit)**|
+|**2024-11-26**|**Distractor-free Generalizable 3D Gaussian Splatting**|Yanqi Bao et.al.|[2411.17605](http://arxiv.org/abs/2411.17605)|**[link](https://github.com/bbbbby-99/dggs)**|
+|**2024-11-26**|**Belief patterns with information processing**|Federico Vaccari et.al.|[2411.17597](http://arxiv.org/abs/2411.17597)|null|
 |**2024-11-25**|**Inference-Time Policy Steering through Human Interactions**|Yanwei Wang et.al.|[2411.16627](http://arxiv.org/abs/2411.16627)|null|
 |**2024-11-25**|**Location-Based Service (LBS) Data Quality Metrics and Effects on Mobility Inference**|Xinhua Wu et.al.|[2411.16595](http://arxiv.org/abs/2411.16595)|null|
 |**2024-11-25**|**MarketGPT: Developing a Pre-trained transformer (GPT) for Modeling Financial Time Series**|Aaron Wheeler et.al.|[2411.16585](http://arxiv.org/abs/2411.16585)|null|
@@ -1876,10 +1896,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-26**|**RealSeal: Revolutionizing Media Authentication with Real-Time Realism Scoring**|Bhaktipriya Radharapu et.al.|[2411.17684](http://arxiv.org/abs/2411.17684)|null|
+|**2024-11-26**|**Anytime Acceleration of Gradient Descent**|Zihan Zhang et.al.|[2411.17668](http://arxiv.org/abs/2411.17668)|null|
 |**2024-11-25**|**NonSysId: A nonlinear system identification package with improved model term selection for NARMAX models**|Rajintha Gunawardena et.al.|[2411.16475](http://arxiv.org/abs/2411.16475)|null|
 |**2024-11-25**|**Deep Learning for Motion Classification in Ankle Exoskeletons Using Surface EMG and IMU Signals**|Silas Ruhrberg Estévez et.al.|[2411.16273](http://arxiv.org/abs/2411.16273)|null|
 |**2024-11-25**|**Local Bayesian Optimization for Controller Tuning with Crash Constraints**|Alexander von Rohr et.al.|[2411.16267](http://arxiv.org/abs/2411.16267)|null|
-|**2024-11-25**|**Binary Search with Distributional Predictions**|Michael Dinitz et.al.|[2411.16030](http://arxiv.org/abs/2411.16030)|null|
+|**2024-11-25**|**Binary Search with Distributional Predictions**|Michael Dinitz et.al.|[2411.16030](http://arxiv.org/abs/2411.16030)|**[link](https://github.com/AidinNiaparast/Learned-BST)**|
 |**2024-11-24**|**Stability properties of gradient flow dynamics for the symmetric low-rank matrix factorization problem**|Hesameddin Mohammadi et.al.|[2411.15972](http://arxiv.org/abs/2411.15972)|null|
 |**2024-11-24**|**ExAL: An Exploration Enhanced Adversarial Learning Algorithm**|A Vinil et.al.|[2411.15878](http://arxiv.org/abs/2411.15878)|null|
 |**2024-11-24**|**FedQP: Towards Accurate Federated Learning using Quadratic Programming Guided Mutation**|Jiawen Weng et.al.|[2411.15847](http://arxiv.org/abs/2411.15847)|null|
