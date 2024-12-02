@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-29**|**T2Vid: Translating Long Text into Multi-Image is the Catalyst for Video-LLMs**|Shukang Yin et.al.|[2411.19951](http://arxiv.org/abs/2411.19951)|**[link](https://github.com/xjtupanda/t2vid)**|
+|**2024-11-29**|**Critical Tokens Matter: Token-Level Contrastive Estimation Enhence LLM's Reasoning Capability**|Zicheng Lin et.al.|[2411.19943](http://arxiv.org/abs/2411.19943)|null|
+|**2024-11-29**|**Transfer Learning for High-dimensional Quantile Regression with Distribution Shift**|Ruiqi Bai et.al.|[2411.19933](http://arxiv.org/abs/2411.19933)|null|
+|**2024-11-29**|**SIMS: Simulating Human-Scene Interactions with Real World Script Planning**|Wenjia Wang et.al.|[2411.19921](http://arxiv.org/abs/2411.19921)|null|
+|**2024-11-29**|**The scalar angular Teukolsky equation and its solution for the Taub-NUT spacetime**|Felix Willenborg et.al.|[2411.19919](http://arxiv.org/abs/2411.19919)|null|
+|**2024-11-29**|**Another look at inference after prediction**|Jessica Gronsbell et.al.|[2411.19908](http://arxiv.org/abs/2411.19908)|null|
+|**2024-11-29**|**Classical and Quantum Algorithms for the Deterministic L-system Inductive Inference Problem**|Ali Lotfi et.al.|[2411.19906](http://arxiv.org/abs/2411.19906)|null|
+|**2024-11-29**|**PDDLFuse: A Tool for Generating Diverse Planning Domains**|Vedant Khandelwal et.al.|[2411.19886](http://arxiv.org/abs/2411.19886)|null|
+|**2024-11-29**|**LUMIA: Linear probing for Unimodal and MultiModal Membership Inference A!acks leveraging internal LLM states**|Luis Ibanez-Lissen et.al.|[2411.19876](http://arxiv.org/abs/2411.19876)|null|
+|**2024-11-29**|**AIDetx: a compression-based method for identification of machine-learning generated text**|Leonardo Almeida et.al.|[2411.19869](http://arxiv.org/abs/2411.19869)|**[link](https://github.com/aidetx/aidetx)**|
 |**2024-11-27**|**Automated Literature Review Using NLP Techniques and LLM-Based Retrieval-Augmented Generation**|Nurshat Fateh Ali et.al.|[2411.18583](http://arxiv.org/abs/2411.18583)|null|
 |**2024-11-27**|**Challenges in Adapting Multilingual LLMs to Low-Resource Languages using LoRA PEFT Tuning**|Omkar Khade et.al.|[2411.18571](http://arxiv.org/abs/2411.18571)|null|
 |**2024-11-27**|**A Flexible Defense Against the Winner's Curse**|Tijana Zrnic et.al.|[2411.18569](http://arxiv.org/abs/2411.18569)|null|
@@ -835,6 +845,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-27**|**Deterministic and Probabilistic Rounding Error Analysis for Mixed-Precision Arithmetic on Modern Computing Units**|Sahil Bhola et.al.|[2411.18747](http://arxiv.org/abs/2411.18747)|null|
 |**2024-11-26**|**Scalable iterative pruning of large language and vision models using block coordinate descent**|Gili Rosenberg et.al.|[2411.17796](http://arxiv.org/abs/2411.17796)|null|
 |**2024-11-25**|**Limitations of tensor network approaches for optimization and sampling: A comparison against quantum and classical Ising machines**|Anna Maria Dziubyna et.al.|[2411.16431](http://arxiv.org/abs/2411.16431)|null|
 |**2024-11-25**|**MixPE: Quantization and Hardware Co-design for Efficient LLM Inference**|Yu Zhang et.al.|[2411.16158](http://arxiv.org/abs/2411.16158)|null|
@@ -942,6 +953,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-28**|**Co-Learning: Towards Semi-Supervised Object Detection with Road-side Cameras**|Jicheng Yuan et.al.|[2411.19143](http://arxiv.org/abs/2411.19143)|null|
+|**2024-11-28**|**Towards an Implementation of the Knowledge-Based Control Plane for Intelligent Swarm Networks**|Xuanchi Guo et.al.|[2411.19068](http://arxiv.org/abs/2411.19068)|null|
 |**2024-11-24**|**Space-ground Fluid AI for 6G Edge Intelligence**|Qian Chen et.al.|[2411.15845](http://arxiv.org/abs/2411.15845)|null|
 |**2024-11-20**|**Federated Continual Learning for Edge-AI: A Comprehensive Survey**|Zi Wang et.al.|[2411.13740](http://arxiv.org/abs/2411.13740)|null|
 |**2024-11-16**|**Enhanced FIWARE-Based Architecture for Cyberphysical Systems With Tiny Machine Learning and Machine Learning Operations: A Case Study on Urban Mobility Systems**|Javier Conde et.al.|[2411.13583](http://arxiv.org/abs/2411.13583)|null|
@@ -1095,6 +1108,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-29**|**T2Vid: Translating Long Text into Multi-Image is the Catalyst for Video-LLMs**|Shukang Yin et.al.|[2411.19951](http://arxiv.org/abs/2411.19951)|**[link](https://github.com/xjtupanda/t2vid)**|
+|**2024-11-29**|**Transfer Learning for High-dimensional Quantile Regression with Distribution Shift**|Ruiqi Bai et.al.|[2411.19933](http://arxiv.org/abs/2411.19933)|null|
+|**2024-11-29**|**Another look at inference after prediction**|Jessica Gronsbell et.al.|[2411.19908](http://arxiv.org/abs/2411.19908)|null|
+|**2024-11-29**|**Classical and Quantum Algorithms for the Deterministic L-system Inductive Inference Problem**|Ali Lotfi et.al.|[2411.19906](http://arxiv.org/abs/2411.19906)|null|
+|**2024-11-29**|**LUMIA: Linear probing for Unimodal and MultiModal Membership Inference A!acks leveraging internal LLM states**|Luis Ibanez-Lissen et.al.|[2411.19876](http://arxiv.org/abs/2411.19876)|null|
+|**2024-11-29**|**Classical transport in a maximally chaotic chain**|William Alderson et.al.|[2411.19828](http://arxiv.org/abs/2411.19828)|null|
+|**2024-11-29**|**SAT-HMR: Real-Time Multi-Person 3D Mesh Estimation via Scale-Adaptive Tokens**|Chi Su et.al.|[2411.19824](http://arxiv.org/abs/2411.19824)|null|
+|**2024-11-29**|**GradAlign for Training-free Model Performance Inference**|Yuxuan Li et.al.|[2411.19819](http://arxiv.org/abs/2411.19819)|null|
+|**2024-11-29**|**Adjusting auxiliary variables under approximate neighborhood interference**|Xin Lu et.al.|[2411.19789](http://arxiv.org/abs/2411.19789)|null|
+|**2024-11-29**|**JetFormer: An Autoregressive Generative Model of Raw Images and Text**|Michael Tschannen et.al.|[2411.19722](http://arxiv.org/abs/2411.19722)|null|
 |**2024-11-27**|**A Flexible Defense Against the Winner's Curse**|Tijana Zrnic et.al.|[2411.18569](http://arxiv.org/abs/2411.18569)|null|
 |**2024-11-27**|**A Pipeline of Neural-Symbolic Integration to Enhance Spatial Reasoning in Large Language Models**|Rong Wang et.al.|[2411.18564](http://arxiv.org/abs/2411.18564)|null|
 |**2024-11-27**|**Retrofitting (Large) Language Models with Dynamic Tokenization**|Darius Feher et.al.|[2411.18553](http://arxiv.org/abs/2411.18553)|null|
@@ -1890,6 +1913,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-28**|**Global Tensor Motion Planning**|An T. Le et.al.|[2411.19393](http://arxiv.org/abs/2411.19393)|null|
+|**2024-11-28**|**Large width penalization for neural network-based prediction interval estimation**|Worachit Amnuaypongsa et.al.|[2411.19181](http://arxiv.org/abs/2411.19181)|null|
+|**2024-11-28**|**Neural Operators for Predictor Feedback Control of Nonlinear Delay Systems**|Luke Bhan et.al.|[2411.18964](http://arxiv.org/abs/2411.18964)|null|
+|**2024-11-27**|**One-Step Early Stopping Strategy using Neural Tangent Kernel Theory and Rademacher Complexity**|Daniel Martin Xavier et.al.|[2411.18806](http://arxiv.org/abs/2411.18806)|null|
 |**2024-11-27**|**Concentration of Cumulative Reward in Markov Decision Processes**|Borna Sayedana et.al.|[2411.18551](http://arxiv.org/abs/2411.18551)|null|
 |**2024-11-27**|**Application of Soft Actor-Critic Algorithms in Optimizing Wastewater Treatment with Time Delays Integration**|Esmaeel Mohammadi et.al.|[2411.18305](http://arxiv.org/abs/2411.18305)|null|
 |**2024-11-27**|**A Runtime-Adaptive Transformer Neural Network Accelerator on FPGAs**|Ehsan Kabir et.al.|[2411.18148](http://arxiv.org/abs/2411.18148)|**[link](https://github.com/Kabir-Ehsan/Transformer_on_FPGA)**|
