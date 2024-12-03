@@ -30,8 +30,8 @@
 |**2024-11-29**|**Transfer Learning for High-dimensional Quantile Regression with Distribution Shift**|Ruiqi Bai et.al.|[2411.19933](http://arxiv.org/abs/2411.19933)|null|
 |**2024-11-29**|**SIMS: Simulating Human-Scene Interactions with Real World Script Planning**|Wenjia Wang et.al.|[2411.19921](http://arxiv.org/abs/2411.19921)|null|
 |**2024-11-29**|**The scalar angular Teukolsky equation and its solution for the Taub-NUT spacetime**|Felix Willenborg et.al.|[2411.19919](http://arxiv.org/abs/2411.19919)|null|
-|**2024-11-29**|**Another look at inference after prediction**|Jessica Gronsbell et.al.|[2411.19908](http://arxiv.org/abs/2411.19908)|null|
-|**2024-11-29**|**Classical and Quantum Algorithms for the Deterministic L-system Inductive Inference Problem**|Ali Lotfi et.al.|[2411.19906](http://arxiv.org/abs/2411.19906)|null|
+|**2024-11-29**|**Another look at inference after prediction**|Jessica Gronsbell et.al.|[2411.19908](http://arxiv.org/abs/2411.19908)|**[link](https://github.com/SelinaS37/PBInference)**|
+|**2024-11-29**|**Classical and Quantum Algorithms for the Deterministic L-system Inductive Inference Problem**|Ali Lotfi et.al.|[2411.19906](http://arxiv.org/abs/2411.19906)|**[link](https://github.com/alilotfi90/D0L-Quant-and-Classical-Solver)**|
 |**2024-11-29**|**PDDLFuse: A Tool for Generating Diverse Planning Domains**|Vedant Khandelwal et.al.|[2411.19886](http://arxiv.org/abs/2411.19886)|null|
 |**2024-12-02**|**LUMIA: Linear probing for Unimodal and MultiModal Membership Inference Attacks leveraging internal LLM states**|Luis Ibanez-Lissen et.al.|[2411.19876](http://arxiv.org/abs/2411.19876)|null|
 |**2024-11-29**|**AIDetx: a compression-based method for identification of machine-learning generated text**|Leonardo Almeida et.al.|[2411.19869](http://arxiv.org/abs/2411.19869)|**[link](https://github.com/aidetx/aidetx)**|
@@ -869,6 +869,7 @@
 |**2024-11-19**|**FGP: Feature-Gradient-Prune for Efficient Convolutional Layer Pruning**|Qingsong Lv et.al.|[2411.12781](http://arxiv.org/abs/2411.12781)|**[link](https://github.com/fgp-code/fgp)**|
 |**2024-11-19**|**Design of an FPGA-Based Neutral Atom Rearrangement Accelerator for Quantum Computing**|Xiaorang Guo et.al.|[2411.12401](http://arxiv.org/abs/2411.12401)|null|
 |**2024-11-18**|**SILVIA: Automated Superword-Level Parallelism Exploitation via HLS-Specific LLVM Passes for Compute-Intensive FPGA Accelerators**|Giovanni Brignone et.al.|[2411.11384](http://arxiv.org/abs/2411.11384)|**[link](https://github.com/brigio345/SILVIA)**|
+|**2024-12-01**|**InvestESG: A multi-agent reinforcement learning benchmark for studying climate investment as a social dilemma**|Xiaoxuan Hou et.al.|[2411.09856](http://arxiv.org/abs/2411.09856)|**[link](https://github.com/yuanjiayiy/InvestESG)**|
 |**2024-11-21**|**OpenGeMM: A High-Utilization GeMM Accelerator Generator with Lightweight RISC-V Control and Tight Memory Coupling**|Xiaoling Yi et.al.|[2411.09543](http://arxiv.org/abs/2411.09543)|null|
 |**2024-11-15**|**Communication Compression for Tensor Parallel LLM Inference**|Jan Hansen-Palmus et.al.|[2411.09510](http://arxiv.org/abs/2411.09510)|null|
 |**2024-11-18**|**RPCAcc: A High-Performance and Reconfigurable PCIe-attached RPC Accelerator**|Jie Zhang et.al.|[2411.07632](http://arxiv.org/abs/2411.07632)|null|
@@ -1135,8 +1136,8 @@
 |---|---|---|---|---|
 |**2024-12-02**|**T2Vid: Translating Long Text into Multi-Image is the Catalyst for Video-LLMs**|Shukang Yin et.al.|[2411.19951](http://arxiv.org/abs/2411.19951)|**[link](https://github.com/xjtupanda/t2vid)**|
 |**2024-11-29**|**Transfer Learning for High-dimensional Quantile Regression with Distribution Shift**|Ruiqi Bai et.al.|[2411.19933](http://arxiv.org/abs/2411.19933)|null|
-|**2024-11-29**|**Another look at inference after prediction**|Jessica Gronsbell et.al.|[2411.19908](http://arxiv.org/abs/2411.19908)|null|
-|**2024-11-29**|**Classical and Quantum Algorithms for the Deterministic L-system Inductive Inference Problem**|Ali Lotfi et.al.|[2411.19906](http://arxiv.org/abs/2411.19906)|null|
+|**2024-11-29**|**Another look at inference after prediction**|Jessica Gronsbell et.al.|[2411.19908](http://arxiv.org/abs/2411.19908)|**[link](https://github.com/SelinaS37/PBInference)**|
+|**2024-11-29**|**Classical and Quantum Algorithms for the Deterministic L-system Inductive Inference Problem**|Ali Lotfi et.al.|[2411.19906](http://arxiv.org/abs/2411.19906)|**[link](https://github.com/alilotfi90/D0L-Quant-and-Classical-Solver)**|
 |**2024-12-02**|**LUMIA: Linear probing for Unimodal and MultiModal Membership Inference Attacks leveraging internal LLM states**|Luis Ibanez-Lissen et.al.|[2411.19876](http://arxiv.org/abs/2411.19876)|null|
 |**2024-11-29**|**Classical transport in a maximally chaotic chain**|William Alderson et.al.|[2411.19828](http://arxiv.org/abs/2411.19828)|null|
 |**2024-11-29**|**SAT-HMR: Real-Time Multi-Person 3D Mesh Estimation via Scale-Adaptive Tokens**|Chi Su et.al.|[2411.19824](http://arxiv.org/abs/2411.19824)|null|
@@ -1941,7 +1942,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-11-28**|**Global Tensor Motion Planning**|An T. Le et.al.|[2411.19393](http://arxiv.org/abs/2411.19393)|null|
-|**2024-11-28**|**Large width penalization for neural network-based prediction interval estimation**|Worachit Amnuaypongsa et.al.|[2411.19181](http://arxiv.org/abs/2411.19181)|null|
+|**2024-11-28**|**Large width penalization for neural network-based prediction interval estimation**|Worachit Amnuaypongsa et.al.|[2411.19181](http://arxiv.org/abs/2411.19181)|**[link](https://github.com/energyCUEE/PIestim_sumk)**|
 |**2024-11-28**|**Neural Operators for Predictor Feedback Control of Nonlinear Delay Systems**|Luke Bhan et.al.|[2411.18964](http://arxiv.org/abs/2411.18964)|null|
 |**2024-11-27**|**One-Step Early Stopping Strategy using Neural Tangent Kernel Theory and Rademacher Complexity**|Daniel Martin Xavier et.al.|[2411.18806](http://arxiv.org/abs/2411.18806)|null|
 |**2024-11-27**|**Concentration of Cumulative Reward in Markov Decision Processes**|Borna Sayedana et.al.|[2411.18551](http://arxiv.org/abs/2411.18551)|null|
