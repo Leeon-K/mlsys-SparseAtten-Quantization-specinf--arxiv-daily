@@ -25,6 +25,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-04**|**Sparse-view Pose Estimation and Reconstruction via Analysis by Generative Synthesis**|Qitao Zhao et.al.|[2412.03570](http://arxiv.org/abs/2412.03570)|null|
+|**2024-12-04**|**From Individual to Society: A Survey on Social Simulation Driven by Large Language Model-based Agents**|Xinyi Mou et.al.|[2412.03563](http://arxiv.org/abs/2412.03563)|null|
+|**2024-12-04**|**BinSparX: Sparsified Binary Neural Networks for Reduced Hardware Non-Idealities in Xbar Arrays**|Akul Malhotra et.al.|[2412.03553](http://arxiv.org/abs/2412.03553)|null|
+|**2024-12-04**|**Learning from galactic rotation curves: a neural network approach**|Bihag Dave et.al.|[2412.03547](http://arxiv.org/abs/2412.03547)|null|
+|**2024-12-04**|**Revisiting the impact of neutrino mass hierarchies on neutrino mass constraints in light of recent DESI data**|Laura Herold et.al.|[2412.03546](http://arxiv.org/abs/2412.03546)|null|
+|**2024-12-04**|**Evaluating Gender Bias Transfer between Pre-trained and Prompt-Adapted Language Models**|Natalie Mackraz et.al.|[2412.03537](http://arxiv.org/abs/2412.03537)|null|
+|**2024-12-04**|**A Review on Scientific Knowledge Extraction using Large Language Models in Biomedical Sciences**|Gabriel Lino Garcia et.al.|[2412.03531](http://arxiv.org/abs/2412.03531)|null|
+|**2024-12-04**|**The R.O.A.D. to clinical trial emulation**|Dimitris Bertsimas et.al.|[2412.03528](http://arxiv.org/abs/2412.03528)|null|
+|**2024-12-04**|**NVComposer: Boosting Generative Novel View Synthesis with Multiple Sparse and Unposed Images**|Lingen Li et.al.|[2412.03517](http://arxiv.org/abs/2412.03517)|null|
+|**2024-12-04**|**You're (Not) My Type -- Can LLMs Generate Feedback of Specific Types for Introductory Programming Tasks?**|Dominic Lohr et.al.|[2412.03516](http://arxiv.org/abs/2412.03516)|null|
 |**2024-12-03**|**Taming Scalable Visual Tokenizer for Autoregressive Image Generation**|Fengyuan Shi et.al.|[2412.02692](http://arxiv.org/abs/2412.02692)|null|
 |**2024-12-04**|**SNOOPI: Supercharged One-step Diffusion Distillation with Proper Guidance**|Viet Nguyen et.al.|[2412.02687](http://arxiv.org/abs/2412.02687)|null|
 |**2024-12-03**|**T-REG: Preference Optimization with Token-Level Reward Regularization**|Wenxuan Zhou et.al.|[2412.02685](http://arxiv.org/abs/2412.02685)|null|
@@ -1148,6 +1158,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-04**|**Sparse-view Pose Estimation and Reconstruction via Analysis by Generative Synthesis**|Qitao Zhao et.al.|[2412.03570](http://arxiv.org/abs/2412.03570)|null|
+|**2024-12-04**|**BinSparX: Sparsified Binary Neural Networks for Reduced Hardware Non-Idealities in Xbar Arrays**|Akul Malhotra et.al.|[2412.03553](http://arxiv.org/abs/2412.03553)|null|
+|**2024-12-04**|**Learning from galactic rotation curves: a neural network approach**|Bihag Dave et.al.|[2412.03547](http://arxiv.org/abs/2412.03547)|null|
+|**2024-12-04**|**Revisiting the impact of neutrino mass hierarchies on neutrino mass constraints in light of recent DESI data**|Laura Herold et.al.|[2412.03546](http://arxiv.org/abs/2412.03546)|null|
+|**2024-12-04**|**The R.O.A.D. to clinical trial emulation**|Dimitris Bertsimas et.al.|[2412.03528](http://arxiv.org/abs/2412.03528)|null|
+|**2024-12-04**|**NVComposer: Boosting Generative Novel View Synthesis with Multiple Sparse and Unposed Images**|Lingen Li et.al.|[2412.03517](http://arxiv.org/abs/2412.03517)|null|
+|**2024-12-04**|**Reducing nuisance prior sensitivity via non-linear reparameterization, with application to EFT analyses of large-scale structure**|S. Paradiso et.al.|[2412.03503](http://arxiv.org/abs/2412.03503)|null|
+|**2024-12-04**|**A High Incidence of Central Star Formation Inferred from the Color Gradients of Galaxies at $z>4$**|Bingcheng Jin et.al.|[2412.03455](http://arxiv.org/abs/2412.03455)|null|
+|**2024-12-04**|**Decoding Long-duration Gravitational Waves from Binary Neutron Stars with Machine Learning: Parameter Estimation and Equations of State**|Qian Hu et.al.|[2412.03454](http://arxiv.org/abs/2412.03454)|null|
+|**2024-12-04**|**Automated Test-Case Generation for REST APIs Using Model Inference Search Heuristic**|Clinton Cao et.al.|[2412.03420](http://arxiv.org/abs/2412.03420)|null|
 |**2024-12-04**|**SNOOPI: Supercharged One-step Diffusion Distillation with Proper Guidance**|Viet Nguyen et.al.|[2412.02687](http://arxiv.org/abs/2412.02687)|null|
 |**2024-12-03**|**AniGS: Animatable Gaussian Avatar from a Single Image with Inconsistent Gaussian Reconstruction**|Lingteng Qiu et.al.|[2412.02684](http://arxiv.org/abs/2412.02684)|null|
 |**2024-12-03**|**Mind the Gap: Examining the Self-Improvement Capabilities of Large Language Models**|Yuda Song et.al.|[2412.02674](http://arxiv.org/abs/2412.02674)|null|
@@ -1965,6 +1985,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-04**|**Data Acquisition for Improving Model Fairness using Reinforcement Learning**|Jahid Hasan et.al.|[2412.03009](http://arxiv.org/abs/2412.03009)|null|
+|**2024-12-03**|**Learning Koopman-based Stability Certificates for Unknown Nonlinear Systems**|Ruikun Zhou et.al.|[2412.02807](http://arxiv.org/abs/2412.02807)|null|
 |**2024-12-03**|**The Asymptotic Behavior of Attention in Transformers**|Álvaro Rodríguez Abella et.al.|[2412.02682](http://arxiv.org/abs/2412.02682)|null|
 |**2024-12-03**|**Cooperative Cruising: Reinforcement Learning based Time-Headway Control for Increased Traffic Efficiency**|Yaron Veksler et.al.|[2412.02520](http://arxiv.org/abs/2412.02520)|null|
 |**2024-12-03**|**Time-Series-Informed Closed-loop Learning for Sequential Decision Making and Control**|Sebastian Hirt et.al.|[2412.02423](http://arxiv.org/abs/2412.02423)|null|
