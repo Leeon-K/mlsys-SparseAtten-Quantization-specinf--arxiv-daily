@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.06
+## Updated on 2024.12.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Quantization
@@ -15,15 +15,15 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-12-05**|**QUEEN: QUantized Efficient ENcoding of Dynamic Gaussians for Streaming Free-viewpoint Videos**|Sharath Girish et.al.|[2412.04469](http://arxiv.org/abs/2412.04469)|null|
-|**2024-12-05**|**VisionZip: Longer is Better but Not Necessary in Vision Language Models**|Senqiao Yang et.al.|[2412.04467](http://arxiv.org/abs/2412.04467)|null|
+|**2024-12-05**|**VisionZip: Longer is Better but Not Necessary in Vision Language Models**|Senqiao Yang et.al.|[2412.04467](http://arxiv.org/abs/2412.04467)|**[link](https://github.com/dvlab-research/visionzip)**|
 |**2024-12-05**|**MegaSaM: Accurate, Fast, and Robust Structure and Motion from Casual Dynamic Videos**|Zhengqi Li et.al.|[2412.04463](http://arxiv.org/abs/2412.04463)|null|
 |**2024-12-05**|**4Real-Video: Learning Generalizable Photo-Realistic 4D Video Diffusion**|Chaoyang Wang et.al.|[2412.04462](http://arxiv.org/abs/2412.04462)|null|
 |**2024-12-05**|**Four-Plane Factorized Video Autoencoders**|Mohammed Suhail et.al.|[2412.04452](http://arxiv.org/abs/2412.04452)|null|
 |**2024-12-05**|**Interfacial and density fluctuations in a lattice model of motility-induced phase separation**|Liheng Yao et.al.|[2412.04450](http://arxiv.org/abs/2412.04450)|null|
-|**2024-12-05**|**p-MoD: Building Mixture-of-Depths MLLMs via Progressive Ratio Decay**|Jun Zhang et.al.|[2412.04449](http://arxiv.org/abs/2412.04449)|null|
+|**2024-12-05**|**p-MoD: Building Mixture-of-Depths MLLMs via Progressive Ratio Decay**|Jun Zhang et.al.|[2412.04449](http://arxiv.org/abs/2412.04449)|**[link](https://github.com/mcg-nju/p-mod)**|
 |**2024-12-05**|**Block Lanczos for lattice QCD spectroscopy and matrix elements**|Daniel C. Hackett et.al.|[2412.04444](http://arxiv.org/abs/2412.04444)|null|
 |**2024-12-05**|**Diagnosing Systematic Effects Using the Inferred Initial Power Spectrum**|Tristan Hoellinger et.al.|[2412.04443](http://arxiv.org/abs/2412.04443)|null|
-|**2024-12-05**|**Divot: Diffusion Powers Video Tokenizer for Comprehension and Generation**|Yuying Ge et.al.|[2412.04432](http://arxiv.org/abs/2412.04432)|null|
+|**2024-12-05**|**Divot: Diffusion Powers Video Tokenizer for Comprehension and Generation**|Yuying Ge et.al.|[2412.04432](http://arxiv.org/abs/2412.04432)|**[link](https://github.com/tencentarc/divot)**|
 |**2024-12-04**|**Sparse-view Pose Estimation and Reconstruction via Analysis by Generative Synthesis**|Qitao Zhao et.al.|[2412.03570](http://arxiv.org/abs/2412.03570)|null|
 |**2024-12-04**|**From Individual to Society: A Survey on Social Simulation Driven by Large Language Model-based Agents**|Xinyi Mou et.al.|[2412.03563](http://arxiv.org/abs/2412.03563)|null|
 |**2024-12-04**|**BinSparX: Sparsified Binary Neural Networks for Reduced Hardware Non-Idealities in Xbar Arrays**|Akul Malhotra et.al.|[2412.03553](http://arxiv.org/abs/2412.03553)|null|
@@ -987,7 +987,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-12-02**|**Optimizing LoRa for Edge Computing with TinyML Pipeline for Channel Hopping**|Marla Grunewald et.al.|[2412.01609](http://arxiv.org/abs/2412.01609)|null|
-|**2024-12-01**|**Toward Real-Time Edge AI: Model-Agnostic Task-Oriented Communication with Visual Feature Alignment**|Songjie Xie et.al.|[2412.00862](http://arxiv.org/abs/2412.00862)|null|
+|**2024-12-01**|**Toward Real-Time Edge AI: Model-Agnostic Task-Oriented Communication with Visual Feature Alignment**|Songjie Xie et.al.|[2412.00862](http://arxiv.org/abs/2412.00862)|**[link](https://github.com/SongjieXie/feature-alignment-TOC)**|
 |**2024-11-28**|**Co-Learning: Towards Semi-Supervised Object Detection with Road-side Cameras**|Jicheng Yuan et.al.|[2411.19143](http://arxiv.org/abs/2411.19143)|null|
 |**2024-11-28**|**Towards an Implementation of the Knowledge-Based Control Plane for Intelligent Swarm Networks**|Xuanchi Guo et.al.|[2411.19068](http://arxiv.org/abs/2411.19068)|null|
 |**2024-11-24**|**Space-ground Fluid AI for 6G Edge Intelligence**|Qian Chen et.al.|[2411.15845](http://arxiv.org/abs/2411.15845)|null|
@@ -1143,12 +1143,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-12-05**|**VisionZip: Longer is Better but Not Necessary in Vision Language Models**|Senqiao Yang et.al.|[2412.04467](http://arxiv.org/abs/2412.04467)|null|
+|**2024-12-05**|**VisionZip: Longer is Better but Not Necessary in Vision Language Models**|Senqiao Yang et.al.|[2412.04467](http://arxiv.org/abs/2412.04467)|**[link](https://github.com/dvlab-research/visionzip)**|
 |**2024-12-05**|**MegaSaM: Accurate, Fast, and Robust Structure and Motion from Casual Dynamic Videos**|Zhengqi Li et.al.|[2412.04463](http://arxiv.org/abs/2412.04463)|null|
 |**2024-12-05**|**4Real-Video: Learning Generalizable Photo-Realistic 4D Video Diffusion**|Chaoyang Wang et.al.|[2412.04462](http://arxiv.org/abs/2412.04462)|null|
 |**2024-12-05**|**Four-Plane Factorized Video Autoencoders**|Mohammed Suhail et.al.|[2412.04452](http://arxiv.org/abs/2412.04452)|null|
 |**2024-12-05**|**Interfacial and density fluctuations in a lattice model of motility-induced phase separation**|Liheng Yao et.al.|[2412.04450](http://arxiv.org/abs/2412.04450)|null|
-|**2024-12-05**|**p-MoD: Building Mixture-of-Depths MLLMs via Progressive Ratio Decay**|Jun Zhang et.al.|[2412.04449](http://arxiv.org/abs/2412.04449)|null|
+|**2024-12-05**|**p-MoD: Building Mixture-of-Depths MLLMs via Progressive Ratio Decay**|Jun Zhang et.al.|[2412.04449](http://arxiv.org/abs/2412.04449)|**[link](https://github.com/mcg-nju/p-mod)**|
 |**2024-12-05**|**Block Lanczos for lattice QCD spectroscopy and matrix elements**|Daniel C. Hackett et.al.|[2412.04444](http://arxiv.org/abs/2412.04444)|null|
 |**2024-12-05**|**Diagnosing Systematic Effects Using the Inferred Initial Power Spectrum**|Tristan Hoellinger et.al.|[2412.04443](http://arxiv.org/abs/2412.04443)|null|
 |**2024-12-05**|**ACE2-SOM: Coupling to a slab ocean and learning the sensitivity of climate to changes in CO $_2$**|Spencer K. Clark et.al.|[2412.04418](http://arxiv.org/abs/2412.04418)|null|
@@ -1985,7 +1985,7 @@ layout: default
 |**2024-12-04**|**Asymptotics of Linear Regression with Linearly Dependent Data**|Behrad Moniri et.al.|[2412.03702](http://arxiv.org/abs/2412.03702)|null|
 |**2024-12-04**|**Good practices for evaluation of machine learning systems**|Luciana Ferrer et.al.|[2412.03700](http://arxiv.org/abs/2412.03700)|null|
 |**2024-12-04**|**Data Acquisition for Improving Model Fairness using Reinforcement Learning**|Jahid Hasan et.al.|[2412.03009](http://arxiv.org/abs/2412.03009)|null|
-|**2024-12-03**|**Learning Koopman-based Stability Certificates for Unknown Nonlinear Systems**|Ruikun Zhou et.al.|[2412.02807](http://arxiv.org/abs/2412.02807)|null|
+|**2024-12-03**|**Learning Koopman-based Stability Certificates for Unknown Nonlinear Systems**|Ruikun Zhou et.al.|[2412.02807](http://arxiv.org/abs/2412.02807)|**[link](https://github.com/RuikunZhou/Unknown_Zubov_Koopman)**|
 |**2024-12-03**|**The Asymptotic Behavior of Attention in Transformers**|Álvaro Rodríguez Abella et.al.|[2412.02682](http://arxiv.org/abs/2412.02682)|null|
 |**2024-12-03**|**Cooperative Cruising: Reinforcement Learning based Time-Headway Control for Increased Traffic Efficiency**|Yaron Veksler et.al.|[2412.02520](http://arxiv.org/abs/2412.02520)|null|
 |**2024-12-03**|**Time-Series-Informed Closed-loop Learning for Sequential Decision Making and Control**|Sebastian Hirt et.al.|[2412.02423](http://arxiv.org/abs/2412.02423)|null|
