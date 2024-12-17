@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.16
+## Updated on 2024.12.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Quantization
@@ -936,7 +936,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-12-13**|**Strong Structural Bounds for MaxSAT: The Fine Details of Using Neuromorphic and Quantum Hardware Accelerators**|Max Bannach et.al.|[2412.10289](http://arxiv.org/abs/2412.10289)|null|
-|**2024-12-13**|**MVQ:Towards Efficient DNN Compression and Acceleration with Masked Vector Quantization**|Shuaiting Li et.al.|[2412.10261](http://arxiv.org/abs/2412.10261)|null|
+|**2024-12-16**|**MVQ:Towards Efficient DNN Compression and Acceleration with Masked Vector Quantization**|Shuaiting Li et.al.|[2412.10261](http://arxiv.org/abs/2412.10261)|null|
 |**2024-12-12**|**MPAX: Mathematical Programming in JAX**|Haihao Lu et.al.|[2412.09734](http://arxiv.org/abs/2412.09734)|**[link](https://github.com/mit-lu-lab/mpax)**|
 |**2024-12-12**|**Evaluating the Potential of In-Memory Processing to Accelerate Homomorphic Encryption**|Mpoki Mwaisela et.al.|[2412.09144](http://arxiv.org/abs/2412.09144)|null|
 |**2024-12-12**|**Analyzing Practical Policies for Multiresource Job Scheduling**|Zhongrui Chen et.al.|[2412.08915](http://arxiv.org/abs/2412.08915)|null|
