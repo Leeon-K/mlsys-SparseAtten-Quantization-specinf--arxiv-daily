@@ -25,6 +25,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-16**|**PanSplat: 4K Panorama Synthesis with Feed-Forward Gaussian Splatting**|Cheng Zhang et.al.|[2412.12096](http://arxiv.org/abs/2412.12096)|null|
+|**2024-12-16**|**SepLLM: Accelerate Large Language Models by Compressing One Segment into One Separator**|Guoxuan Chen et.al.|[2412.12094](http://arxiv.org/abs/2412.12094)|null|
+|**2024-12-16**|**Making FETCH! Happen: Finding Emergent Dog Whistles Through Common Habitats**|Kuleen Sasse et.al.|[2412.12072](http://arxiv.org/abs/2412.12072)|**[link](https://github.com/kuleens/fetch-dog-whistle)**|
+|**2024-12-16**|**Can LLM Prompting Serve as a Proxy for Static Analysis in Vulnerability Detection**|Ira Ceka et.al.|[2412.12039](http://arxiv.org/abs/2412.12039)|null|
+|**2024-12-16**|**LLMs for Cold-Start Cutting Plane Separator Configuration**|Connor Lawless et.al.|[2412.12038](http://arxiv.org/abs/2412.12038)|null|
+|**2024-12-16**|**Quantized Hall conductivity in monolayer 1T^{\prime}-MoS_2**|Mohammad Mortezaei Nobahari et.al.|[2412.12010](http://arxiv.org/abs/2412.12010)|null|
+|**2024-12-16**|**SpeechPrune: Context-aware Token Pruning for Speech Information Retrieval**|Yueqian Lin et.al.|[2412.12009](http://arxiv.org/abs/2412.12009)|null|
+|**2024-12-16**|**The Open Source Advantage in Large Language Models (LLMs)**|Jiya Manchanda et.al.|[2412.12004](http://arxiv.org/abs/2412.12004)|null|
+|**2024-12-16**|**LLM-RG4: Flexible and Factual Radiology Report Generation across Diverse Input Contexts**|Zhuhao Wang et.al.|[2412.12001](http://arxiv.org/abs/2412.12001)|null|
+|**2024-12-16**|**Combining Large Language Models with Tutoring System Intelligence: A Case Study in Caregiver Homework Support**|Devika Venugopalan et.al.|[2412.11995](http://arxiv.org/abs/2412.11995)|**[link](https://github.com/devika-prog/caregiver-conversational-support-tool)**|
 |**2024-12-13**|**GaussianWorld: Gaussian World Model for Streaming 3D Occupancy Prediction**|Sicheng Zuo et.al.|[2412.10373](http://arxiv.org/abs/2412.10373)|**[link](https://github.com/zuosc19/gaussianworld)**|
 |**2024-12-13**|**UniMed-CLIP: Towards a Unified Image-Text Pretraining Paradigm for Diverse Medical Imaging Modalities**|Muhammad Uzair Khattak et.al.|[2412.10372](http://arxiv.org/abs/2412.10372)|**[link](https://github.com/mbzuai-oryx/unimed-clip)**|
 |**2024-12-13**|**OP-LoRA: The Blessing of Dimensionality**|Piotr Teterwak et.al.|[2412.10362](http://arxiv.org/abs/2412.10362)|null|
@@ -1069,6 +1079,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-16**|**Flex-PE: Flexible and SIMD Multi-Precision Processing Element for AI Workloads**|Mukul Lokhande et.al.|[2412.11702](http://arxiv.org/abs/2412.11702)|null|
+|**2024-12-13**|**Edge AI-based Radio Frequency Fingerprinting for IoT Networks**|Ahmed Mohamed Hussain et.al.|[2412.10553](http://arxiv.org/abs/2412.10553)|null|
 |**2024-12-13**|**EI-Drive: A Platform for Cooperative Perception with Realistic Communication Models**|Hanchu Zhou et.al.|[2412.09782](http://arxiv.org/abs/2412.09782)|null|
 |**2024-12-12**|**Optimising TinyML with Quantization and Distillation of Transformer and Mamba Models for Indoor Localisation on Edge Devices**|Thanaphon Suwannaphong et.al.|[2412.09289](http://arxiv.org/abs/2412.09289)|null|
 |**2024-12-10**|**Performance Evaluation of ROS2-DDS middleware implementations facilitating Cooperative Driving in Autonomous Vehicle**|Sumit Paul et.al.|[2412.07485](http://arxiv.org/abs/2412.07485)|null|
@@ -1240,6 +1252,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-16**|**PanSplat: 4K Panorama Synthesis with Feed-Forward Gaussian Splatting**|Cheng Zhang et.al.|[2412.12096](http://arxiv.org/abs/2412.12096)|null|
+|**2024-12-16**|**SepLLM: Accelerate Large Language Models by Compressing One Segment into One Separator**|Guoxuan Chen et.al.|[2412.12094](http://arxiv.org/abs/2412.12094)|null|
+|**2024-12-16**|**SpeechPrune: Context-aware Token Pruning for Speech Information Retrieval**|Yueqian Lin et.al.|[2412.12009](http://arxiv.org/abs/2412.12009)|null|
+|**2024-12-16**|**AlphaZero Neural Scaling and Zipf's Law: a Tale of Board Games and Power Laws**|Oren Neumann et.al.|[2412.11979](http://arxiv.org/abs/2412.11979)|**[link](https://github.com/orenneumann/alphazero_zipfs_law)**|
+|**2024-12-16**|**Inferring Functionality of Attention Heads from their Parameters**|Amit Elhelo et.al.|[2412.11965](http://arxiv.org/abs/2412.11965)|**[link](https://github.com/amitelhelo/maps)**|
+|**2024-12-16**|**BetaExplainer: A Probabilistic Method to Explain Graph Neural Networks**|Whitney Sloneker et.al.|[2412.11964](http://arxiv.org/abs/2412.11964)|**[link](https://github.com/wsloneker/betaexplainerdemo)**|
+|**2024-12-16**|**The Impact of Generalization Techniques on the Interplay Among Privacy, Utility, and Fairness in Image Classification**|Ahmad Hassanpour et.al.|[2412.11951](http://arxiv.org/abs/2412.11951)|null|
+|**2024-12-16**|**Euclid: Field-level inference of primordial non-Gaussianity and cosmic initial conditions**|A. Andrews et.al.|[2412.11945](http://arxiv.org/abs/2412.11945)|null|
+|**2024-12-16**|**Explainable Procedural Mistake Detection**|Shane Storks et.al.|[2412.11927](http://arxiv.org/abs/2412.11927)|null|
+|**2024-12-16**|**Learning Human-Aware Robot Policies for Adaptive Assistance**|Jason Qin et.al.|[2412.11913](http://arxiv.org/abs/2412.11913)|null|
 |**2024-12-13**|**GaussianWorld: Gaussian World Model for Streaming 3D Occupancy Prediction**|Sicheng Zuo et.al.|[2412.10373](http://arxiv.org/abs/2412.10373)|**[link](https://github.com/zuosc19/gaussianworld)**|
 |**2024-12-13**|**OP-LoRA: The Blessing of Dimensionality**|Piotr Teterwak et.al.|[2412.10362](http://arxiv.org/abs/2412.10362)|null|
 |**2024-12-13**|**VibrantVS: A high-resolution multi-task transformer for forest canopy height estimation**|Tony Chang et.al.|[2412.10351](http://arxiv.org/abs/2412.10351)|null|
@@ -2137,6 +2159,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-16**|**A Digital twin for Diesel Engines: Operator-infused PINNs with Transfer Learning for Engine Health Monitoring**|Kamaljyoti Nath et.al.|[2412.11967](http://arxiv.org/abs/2412.11967)|null|
+|**2024-12-16**|**Asynchronous Distributed Gaussian Process Regression for Online Learning and Dynamical Systems: Complementary Document**|Zewen Yang et.al.|[2412.11950](http://arxiv.org/abs/2412.11950)|null|
+|**2024-12-16**|**Dual Unscented Kalman Filter Architecture for Sensor Fusion in Water Networks Leak Localization**|Luis Romero-Ben et.al.|[2412.11687](http://arxiv.org/abs/2412.11687)|**[link](https://github.com/luisromeroben/d-ukf-aw-gsi)**|
+|**2024-12-16**|**Capacity of Hierarchical Secure Coded Gradient Aggregation with Straggling Communication Links**|Qinyi Lu et.al.|[2412.11496](http://arxiv.org/abs/2412.11496)|null|
+|**2024-12-16**|**Mining In-distribution Attributes in Outliers for Out-of-distribution Detection**|Yutian Lei et.al.|[2412.11466](http://arxiv.org/abs/2412.11466)|null|
+|**2024-12-14**|**Cluster-Based Multi-Agent Task Scheduling for Space-Air-Ground Integrated Networks**|Zhiying Wang et.al.|[2412.10700](http://arxiv.org/abs/2412.10700)|null|
 |**2024-12-13**|**Shape error prediction in 5-axis machining using graph neural networks**|Julia Huuk et.al.|[2412.10341](http://arxiv.org/abs/2412.10341)|null|
 |**2024-12-13**|**Controlling dynamical systems into unseen target states using machine learning**|Daniel Köglmayr et.al.|[2412.10251](http://arxiv.org/abs/2412.10251)|null|
 |**2024-12-13**|**One Filter to Deploy Them All: Robust Safety for Quadrupedal Navigation in Unknown Environments**|Albert Lin et.al.|[2412.09989](http://arxiv.org/abs/2412.09989)|null|
