@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-18**|**Autoregressive Video Generation without Vector Quantization**|Haoge Deng et.al.|[2412.14169](http://arxiv.org/abs/2412.14169)|**[link](https://github.com/baaivision/nova)**|
+|**2024-12-18**|**MetaMorph: Multimodal Understanding and Generation via Instruction Tuning**|Shengbang Tong et.al.|[2412.14164](http://arxiv.org/abs/2412.14164)|null|
+|**2024-12-18**|**TheAgentCompany: Benchmarking LLM Agents on Consequential Real World Tasks**|Frank F. Xu et.al.|[2412.14161](http://arxiv.org/abs/2412.14161)|**[link](https://github.com/theagentcompany/experiments)**|
+|**2024-12-18**|**Measuring the Transverse Velocity of Strongly Lensed Gravitational Wave Sources with Ground Based Detectors**|Johan Samsing et.al.|[2412.14159](http://arxiv.org/abs/2412.14159)|null|
+|**2024-12-18**|**Revisiting the Immirzi parameter: Landauer's principle and alternative entropy frameworks in Loop Quantum Gravity**|Jorge Ananias Neto et.al.|[2412.14156](http://arxiv.org/abs/2412.14156)|null|
+|**2024-12-18**|**Advanced Reasoning and Transformation Engine for Multi-Step Insight Synthesis in Data Analytics with Large Language Models**|Atin Sakkeer Hussain et.al.|[2412.14146](http://arxiv.org/abs/2412.14146)|null|
+|**2024-12-18**|**LLMs can realize combinatorial creativity: generating creative ideas via LLMs for scientific research**|Tianyang Gu et.al.|[2412.14141](http://arxiv.org/abs/2412.14141)|null|
+|**2024-12-18**|**GLIDER: Grading LLM Interactions and Decisions using Explainable Ranking**|Darshan Deshpande et.al.|[2412.14140](http://arxiv.org/abs/2412.14140)|null|
+|**2024-12-18**|**Design choices made by LLM-based test generators prevent them from finding bugs**|Noble Saji Mathews et.al.|[2412.14137](http://arxiv.org/abs/2412.14137)|null|
+|**2024-12-18**|**Scaling of Search and Learning: A Roadmap to Reproduce o1 from Reinforcement Learning Perspective**|Zhiyuan Zeng et.al.|[2412.14135](http://arxiv.org/abs/2412.14135)|null|
 |**2024-12-18**|**SafeAgentBench: A Benchmark for Safe Task Planning of Embodied LLM Agents**|Sheng Yin et.al.|[2412.13178](http://arxiv.org/abs/2412.13178)|**[link](https://github.com/shengyin1224/safeagentbench)**|
 |**2024-12-17**|**DnDScore: Decontextualization and Decomposition for Factuality Verification in Long-Form Text Generation**|Miriam Wanner et.al.|[2412.13175](http://arxiv.org/abs/2412.13175)|null|
 |**2024-12-17**|**Compressed Chain of Thought: Efficient Reasoning Through Dense Representations**|Jeffrey Cheng et.al.|[2412.13171](http://arxiv.org/abs/2412.13171)|null|
@@ -955,6 +965,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-18**|**Pattern Matching in AI Compilers and its Formalization (Extended Version)**|Joseph W. Cutler et.al.|[2412.13398](http://arxiv.org/abs/2412.13398)|null|
 |**2024-12-17**|**if-ZKP: Intel FPGA-Based Acceleration of Zero Knowledge Proofs**|Shahzad Ahmad Butt et.al.|[2412.12481](http://arxiv.org/abs/2412.12481)|null|
 |**2024-12-13**|**Strong Structural Bounds for MaxSAT: The Fine Details of Using Neuromorphic and Quantum Hardware Accelerators**|Max Bannach et.al.|[2412.10289](http://arxiv.org/abs/2412.10289)|null|
 |**2024-12-16**|**MVQ:Towards Efficient DNN Compression and Acceleration with Masked Vector Quantization**|Shuaiting Li et.al.|[2412.10261](http://arxiv.org/abs/2412.10261)|null|
@@ -1238,6 +1249,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-18**|**Autoregressive Video Generation without Vector Quantization**|Haoge Deng et.al.|[2412.14169](http://arxiv.org/abs/2412.14169)|**[link](https://github.com/baaivision/nova)**|
+|**2024-12-18**|**Measuring the Transverse Velocity of Strongly Lensed Gravitational Wave Sources with Ground Based Detectors**|Johan Samsing et.al.|[2412.14159](http://arxiv.org/abs/2412.14159)|null|
+|**2024-12-18**|**Model-free Approach to Evaluate a Censored Intermediate Outcome as a Surrogate for Overall Survival**|Xuan Wang et.al.|[2412.14129](http://arxiv.org/abs/2412.14129)|null|
+|**2024-12-18**|**High-purity quantum optomechanics at room temperature**|Lorenzo Dania et.al.|[2412.14117](http://arxiv.org/abs/2412.14117)|null|
+|**2024-12-18**|**Alignment faking in large language models**|Ryan Greenblatt et.al.|[2412.14093](http://arxiv.org/abs/2412.14093)|**[link](https://github.com/redwoodresearch/alignment_faking_public)**|
+|**2024-12-18**|**On the Robustness of Distributed Machine Learning against Transfer Attacks**|Sébastien Andreina et.al.|[2412.14080](http://arxiv.org/abs/2412.14080)|null|
+|**2024-12-18**|**Discovering maximally consistent distribution of causal tournaments with Large Language Models**|Federico Baldo et.al.|[2412.14019](http://arxiv.org/abs/2412.14019)|null|
+|**2024-12-18**|**Cognition Chain for Explainable Psychological Stress Detection on Social Media**|Xin Wang et.al.|[2412.14009](http://arxiv.org/abs/2412.14009)|null|
+|**2024-12-18**|**Few-shot Steerable Alignment: Adapting Rewards and LLM Policies with Neural Processes**|Katarzyna Kobalczyk et.al.|[2412.13998](http://arxiv.org/abs/2412.13998)|**[link](https://github.com/kasia-kobalczyk/few-shot-steerable-alignment)**|
+|**2024-12-18**|**Model-Agnostic Cosmological Inference with SDSS-IV eBOSS: Simultaneous Probing for Background and Perturbed Universe**|Purba Mukherjee et.al.|[2412.13973](http://arxiv.org/abs/2412.13973)|null|
 |**2024-12-17**|**Compressed Chain of Thought: Efficient Reasoning Through Dense Representations**|Jeffrey Cheng et.al.|[2412.13171](http://arxiv.org/abs/2412.13171)|null|
 |**2024-12-17**|**S2S2: Semantic Stacking for Robust Semantic Segmentation in Medical Imaging**|Yimu Pan et.al.|[2412.13156](http://arxiv.org/abs/2412.13156)|null|
 |**2024-12-17**|**Continuous Patient Monitoring with AI: Real-Time Analysis of Video in Hospital Care Settings**|Paolo Gabriel et.al.|[2412.13152](http://arxiv.org/abs/2412.13152)|null|
@@ -2153,6 +2174,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-18**|**Gauss-Newton Dynamics for Neural Networks: A Riemannian Optimization Perspective**|Semih Cayci et.al.|[2412.14031](http://arxiv.org/abs/2412.14031)|null|
+|**2024-12-18**|**Harvesting energy from turbulent winds with Reinforcement Learning**|Lorenzo Basile et.al.|[2412.13961](http://arxiv.org/abs/2412.13961)|null|
 |**2024-12-17**|**TIMESAFE: Timing Interruption Monitoring and Security Assessment for Fronthaul Environments**|Joshua Groen et.al.|[2412.13049](http://arxiv.org/abs/2412.13049)|null|
 |**2024-12-17**|**Neighbor-Aware Reinforcement Learning for Mixed Traffic Optimization in Large-scale Networks**|Iftekharul Islam et.al.|[2412.12622](http://arxiv.org/abs/2412.12622)|null|
 |**2024-12-17**|**Optimal Control Operator Perspective and a Neural Adaptive Spectral Method**|Mingquan Feng et.al.|[2412.12469](http://arxiv.org/abs/2412.12469)|**[link](https://github.com/FengMingquan-sjtu/NASM)**|
