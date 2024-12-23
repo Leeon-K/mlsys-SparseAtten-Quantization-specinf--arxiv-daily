@@ -25,6 +25,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-20**|**HoVLE: Unleashing the Power of Monolithic Vision-Language Models with Holistic Vision-Language Embedding**|Chenxin Tao et.al.|[2412.16158](http://arxiv.org/abs/2412.16158)|null|
+|**2024-12-20**|**Can Generative Video Models Help Pose Estimation?**|Ruojin Cai et.al.|[2412.16155](http://arxiv.org/abs/2412.16155)|null|
+|**2024-12-20**|**Offline Reinforcement Learning for LLM Multi-Step Reasoning**|Huaijie Wang et.al.|[2412.16145](http://arxiv.org/abs/2412.16145)|null|
+|**2024-12-20**|**Can LLMs Obfuscate Code? A Systematic Analysis of Large Language Models into Assembly Code Obfuscation**|Seyedreza Mohseni et.al.|[2412.16135](http://arxiv.org/abs/2412.16135)|null|
+|**2024-12-20**|**Data-Driven Mechanism Design: Jointly Eliciting Preferences and Information**|Dirk Bergemann et.al.|[2412.16132](http://arxiv.org/abs/2412.16132)|null|
+|**2024-12-20**|**PromptOptMe: Error-Aware Prompt Compression for LLM-based MT Evaluation Metrics**|Daniil Larionov et.al.|[2412.16120](http://arxiv.org/abs/2412.16120)|null|
+|**2024-12-20**|**Deciphering the Underserved: Benchmarking LLM OCR for Low-Resource Scripts**|Muhammad Abdullah Sohail et.al.|[2412.16119](http://arxiv.org/abs/2412.16119)|**[link](https://github.com/abdullahsohaill/cs6303-researchproject)**|
+|**2024-12-20**|**PruneVid: Visual Token Pruning for Efficient Video Large Language Models**|Xiaohu Huang et.al.|[2412.16117](http://arxiv.org/abs/2412.16117)|**[link](https://github.com/visual-ai/prunevid)**|
+|**2024-12-20**|**CLEAR: Conv-Like Linearization Revs Pre-Trained Diffusion Transformers Up**|Songhua Liu et.al.|[2412.16112](http://arxiv.org/abs/2412.16112)|**[link](https://github.com/huage001/clear)**|
+|**2024-12-20**|**Logical Consistency of Large Language Models in Fact-checking**|Bishwamittra Ghosh et.al.|[2412.16100](http://arxiv.org/abs/2412.16100)|null|
 |**2024-12-19**|**OpenEMMA: Open-Source Multimodal Model for End-to-End Autonomous Driving**|Shuo Xing et.al.|[2412.15208](http://arxiv.org/abs/2412.15208)|**[link](https://github.com/taco-group/openemma)**|
 |**2024-12-19**|**LongBench v2: Towards Deeper Understanding and Reasoning on Realistic Long-context Multitasks**|Yushi Bai et.al.|[2412.15204](http://arxiv.org/abs/2412.15204)|**[link](https://github.com/thudm/longbench)**|
 |**2024-12-19**|**Preventing Local Pitfalls in Vector Quantization via Optimal Transport**|Borui Zhang et.al.|[2412.15195](http://arxiv.org/abs/2412.15195)|**[link](https://github.com/zbr17/OptVQ)**|
@@ -990,6 +1000,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-20**|**Designing Visual Explanations and Learner Controls to Engage Adolescents in AI-Supported Exercise Selection**|Jeroen Ooge et.al.|[2412.16034](http://arxiv.org/abs/2412.16034)|null|
+|**2024-12-20**|**A survey on FPGA-based accelerator for ML models**|Feng Yan et.al.|[2412.15666](http://arxiv.org/abs/2412.15666)|null|
 |**2024-12-19**|**LiDAR-RT: Gaussian-based Ray Tracing for Dynamic LiDAR Re-simulation**|Chenxu Zhou et.al.|[2412.15199](http://arxiv.org/abs/2412.15199)|null|
 |**2024-12-18**|**Pattern Matching in AI Compilers and its Formalization (Extended Version)**|Joseph W. Cutler et.al.|[2412.13398](http://arxiv.org/abs/2412.13398)|null|
 |**2024-12-17**|**if-ZKP: Intel FPGA-Based Acceleration of Zero Knowledge Proofs**|Shahzad Ahmad Butt et.al.|[2412.12481](http://arxiv.org/abs/2412.12481)|null|
@@ -1287,6 +1299,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-20**|**Can Generative Video Models Help Pose Estimation?**|Ruojin Cai et.al.|[2412.16155](http://arxiv.org/abs/2412.16155)|null|
+|**2024-12-20**|**CLEAR: Conv-Like Linearization Revs Pre-Trained Diffusion Transformers Up**|Songhua Liu et.al.|[2412.16112](http://arxiv.org/abs/2412.16112)|**[link](https://github.com/huage001/clear)**|
+|**2024-12-20**|**Efficient MedSAMs: Segment Anything in Medical Images on Laptop**|Jun Ma et.al.|[2412.16085](http://arxiv.org/abs/2412.16085)|**[link](https://github.com/bowang-lab/medsam)**|
+|**2024-12-20**|**VaulTor: Putting the TEE in Tor**|Humza Ikram et.al.|[2412.16064](http://arxiv.org/abs/2412.16064)|null|
+|**2024-12-20**|**Segmentation of arbitrary features in very high resolution remote sensing imagery**|Henry Cording et.al.|[2412.16046](http://arxiv.org/abs/2412.16046)|null|
+|**2024-12-20**|**Never Reset Again: A Mathematical Framework for Continual Inference in Recurrent Neural Networks**|Bojian Yin et.al.|[2412.15983](http://arxiv.org/abs/2412.15983)|null|
+|**2024-12-20**|**Mamba-based Deep Learning Approaches for Sleep Staging on a Wireless Multimodal Wearable System without Electroencephalography**|Andrew H. Zhang et.al.|[2412.15947](http://arxiv.org/abs/2412.15947)|null|
+|**2024-12-20**|**Reproducibility of machine learning analyses of 21 cm reionization maps**|Kimeel Sooknunan et.al.|[2412.15893](http://arxiv.org/abs/2412.15893)|null|
+|**2024-12-20**|**Recovering the properties of the interstellar medium through integrated spectroscopy: application to the z~0 ECO volume-limited star-forming galaxy sample**|V. Lebouteiller et.al.|[2412.15860](http://arxiv.org/abs/2412.15860)|null|
+|**2024-12-20**|**AIFS-CRPS: Ensemble forecasting using a model trained with a loss function based on the Continuous Ranked Probability Score**|Simon Lang et.al.|[2412.15832](http://arxiv.org/abs/2412.15832)|null|
 |**2024-12-19**|**OpenEMMA: Open-Source Multimodal Model for End-to-End Autonomous Driving**|Shuo Xing et.al.|[2412.15208](http://arxiv.org/abs/2412.15208)|**[link](https://github.com/taco-group/openemma)**|
 |**2024-12-19**|**LongBench v2: Towards Deeper Understanding and Reasoning on Realistic Long-context Multitasks**|Yushi Bai et.al.|[2412.15204](http://arxiv.org/abs/2412.15204)|**[link](https://github.com/thudm/longbench)**|
 |**2024-12-19**|**SqueezeMe: Efficient Gaussian Avatars for VR**|Shunsuke Saito et.al.|[2412.15171](http://arxiv.org/abs/2412.15171)|null|
@@ -2224,6 +2246,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-20**|**Probabilistic Latent Variable Modeling for Dynamic Friction Identification and Estimation**|Victor Vantilborgh et.al.|[2412.15756](http://arxiv.org/abs/2412.15756)|null|
 |**2024-12-19**|**STRAP: Robot Sub-Trajectory Retrieval for Augmented Policy Learning**|Marius Memmel et.al.|[2412.15182](http://arxiv.org/abs/2412.15182)|null|
 |**2024-12-19**|**FaultExplainer: Leveraging Large Language Models for Interpretable Fault Detection and Diagnosis**|Abdullah Khan et.al.|[2412.14492](http://arxiv.org/abs/2412.14492)|**[link](https://github.com/li-group/faultexplainer)**|
 |**2024-12-18**|**Nemesis: Noise-randomized Encryption with Modular Efficiency and Secure Integration in Machine Learning Systems**|Dongfang Zhao et.al.|[2412.14392](http://arxiv.org/abs/2412.14392)|null|
