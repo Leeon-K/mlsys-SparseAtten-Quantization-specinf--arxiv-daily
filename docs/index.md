@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-24**|**Long-Form Speech Generation with Spoken Language Models**|Se Jin Park et.al.|[2412.18603](http://arxiv.org/abs/2412.18603)|**[link](https://github.com/google-deepmind/librispeech-long)**|
+|**2024-12-24**|**Decentralized Intelligence in GameFi: Embodied AI Agents and the Convergence of DeFi and Virtual Ecosystems**|Fernando Jia et.al.|[2412.18601](http://arxiv.org/abs/2412.18601)|null|
+|**2024-12-24**|**LatentCRF: Continuous CRF for Efficient Latent Diffusion**|Kanchana Ranasinghe et.al.|[2412.18596](http://arxiv.org/abs/2412.18596)|null|
+|**2024-12-24**|**A Paragraph is All It Takes: Rich Robot Behaviors from Interacting, Trusted LLMs**|OpenMind et.al.|[2412.18588](http://arxiv.org/abs/2412.18588)|null|
+|**2024-12-24**|**Inferring intermediate states by leveraging the many-body Arrhenius law**|Vishwajeet Kumar et.al.|[2412.18574](http://arxiv.org/abs/2412.18574)|null|
+|**2024-12-24**|**How Well Do LLMs Generate Code for Different Application Domains? Benchmark and Evaluation**|Dewu Zheng et.al.|[2412.18573](http://arxiv.org/abs/2412.18573)|**[link](https://github.com/deepsoftwareanalytics/multicodebench)**|
+|**2024-12-24**|**HNCI: High-Dimensional Network Causal Inference**|Wenqin Du et.al.|[2412.18568](http://arxiv.org/abs/2412.18568)|**[link](https://github.com/WenqinDu/HNCI)**|
+|**2024-12-24**|**Zero-resource Speech Translation and Recognition with LLMs**|Karel Mundnich et.al.|[2412.18566](http://arxiv.org/abs/2412.18566)|null|
+|**2024-12-24**|**Distilling Fine-grained Sentiment Understanding from Large Language Models**|Yice Zhang et.al.|[2412.18552](http://arxiv.org/abs/2412.18552)|**[link](https://github.com/hitsz-hlt/fsa-distillation)**|
+|**2024-12-24**|**Libra-Leaderboard: Towards Responsible AI through a Balanced Leaderboard of Safety and Capability**|Haonan Li et.al.|[2412.18551](http://arxiv.org/abs/2412.18551)|null|
 |**2024-12-23**|**Ergodic Network Stochastic Differential Equations**|Francesco Iafrate et.al.|[2412.17779](http://arxiv.org/abs/2412.17779)|null|
 |**2024-12-23**|**ResearchTown: Simulator of Human Research Community**|Haofei Yu et.al.|[2412.17767](http://arxiv.org/abs/2412.17767)|**[link](https://github.com/ulab-uiuc/research-town)**|
 |**2024-12-23**|**Topological Properties of Bilayer $α-T_{3}$ Lattice Induced by Polarized Light**|O. Benhaida et.al.|[2412.17763](http://arxiv.org/abs/2412.17763)|null|
@@ -995,6 +1005,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-24**|**GCN-ABFT: Low-Cost Online Error Checking for Graph Convolutional Networks**|Christodoulos Peltekis et.al.|[2412.18534](http://arxiv.org/abs/2412.18534)|null|
 |**2024-12-23**|**Advantages of density in tensor network geometries for gradient based training**|Sergi Masot-Llima et.al.|[2412.17497](http://arxiv.org/abs/2412.17497)|null|
 |**2024-12-20**|**Chorba: A novel CRC32 implementation**|Sam Russell et.al.|[2412.16398](http://arxiv.org/abs/2412.16398)|null|
 |**2024-12-20**|**Designing Visual Explanations and Learner Controls to Engage Adolescents in AI-Supported Exercise Selection**|Jeroen Ooge et.al.|[2412.16034](http://arxiv.org/abs/2412.16034)|null|
@@ -1119,6 +1130,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-23**|**tuGEMM: Area-Power-Efficient Temporal Unary GEMM Architecture for Low-Precision Edge AI**|Harideep Nair et.al.|[2412.17966](http://arxiv.org/abs/2412.17966)|null|
 |**2024-12-22**|**Fatigue Monitoring Using Wearables and AI: Trends, Challenges, and Future Opportunities**|Kourosh Kakhi et.al.|[2412.16847](http://arxiv.org/abs/2412.16847)|null|
 |**2024-12-19**|**ElectraSight: Smart Glasses with Fully Onboard Non-Invasive Eye Tracking Using Hybrid Contact and Contactless EOG**|Nicolas Schärer et.al.|[2412.14848](http://arxiv.org/abs/2412.14848)|null|
 |**2024-12-17**|**Design of an AI-Enhanced Digital Stethoscope: Advancing Cardiovascular Diagnostics Through Smart Auscultation**|Abraham G. Taye et.al.|[2412.14206](http://arxiv.org/abs/2412.14206)|null|
@@ -1287,6 +1299,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-24**|**Long-Form Speech Generation with Spoken Language Models**|Se Jin Park et.al.|[2412.18603](http://arxiv.org/abs/2412.18603)|**[link](https://github.com/google-deepmind/librispeech-long)**|
+|**2024-12-24**|**LatentCRF: Continuous CRF for Efficient Latent Diffusion**|Kanchana Ranasinghe et.al.|[2412.18596](http://arxiv.org/abs/2412.18596)|null|
+|**2024-12-24**|**Inferring intermediate states by leveraging the many-body Arrhenius law**|Vishwajeet Kumar et.al.|[2412.18574](http://arxiv.org/abs/2412.18574)|null|
+|**2024-12-24**|**HNCI: High-Dimensional Network Causal Inference**|Wenqin Du et.al.|[2412.18568](http://arxiv.org/abs/2412.18568)|**[link](https://github.com/WenqinDu/HNCI)**|
+|**2024-12-24**|**Distilling Fine-grained Sentiment Understanding from Large Language Models**|Yice Zhang et.al.|[2412.18552](http://arxiv.org/abs/2412.18552)|**[link](https://github.com/hitsz-hlt/fsa-distillation)**|
+|**2024-12-24**|**Convergence of Statistical Estimators via Mutual Information Bounds**|El Mahdi Khribch et.al.|[2412.18539](http://arxiv.org/abs/2412.18539)|null|
+|**2024-12-24**|**Think or Remember? Detecting and Directing LLMs Towards Memorization or Generalization**|Yi-Fu Fu et.al.|[2412.18497](http://arxiv.org/abs/2412.18497)|null|
+|**2024-12-24**|**PrettiSmart: Visual Interpretation of Smart Contracts via Simulation**|Xiaolin Wen et.al.|[2412.18484](http://arxiv.org/abs/2412.18484)|null|
+|**2024-12-24**|**Is Large Language Model Good at Triple Set Prediction? An Empirical Study**|Yuan Yuan et.al.|[2412.18443](http://arxiv.org/abs/2412.18443)|null|
+|**2024-12-24**|**RDPM: Solve Diffusion Probabilistic Models via Recurrent Token Prediction**|Wu Xiaoping et.al.|[2412.18390](http://arxiv.org/abs/2412.18390)|null|
 |**2024-12-23**|**Ergodic Network Stochastic Differential Equations**|Francesco Iafrate et.al.|[2412.17779](http://arxiv.org/abs/2412.17779)|null|
 |**2024-12-23**|**ResearchTown: Simulator of Human Research Community**|Haofei Yu et.al.|[2412.17767](http://arxiv.org/abs/2412.17767)|**[link](https://github.com/ulab-uiuc/research-town)**|
 |**2024-12-23**|**The Superposition of Diffusion Models Using the Itô Density Estimator**|Marta Skreta et.al.|[2412.17762](http://arxiv.org/abs/2412.17762)|null|
@@ -2242,6 +2264,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-24**|**Accelerating process control and optimization via machine learning: A review**|Ilias Mitrai et.al.|[2412.18529](http://arxiv.org/abs/2412.18529)|null|
+|**2024-12-24**|**Navigating Data Corruption in Machine Learning: Balancing Quality, Quantity, and Imputation Strategies**|Qi Liu et.al.|[2412.18296](http://arxiv.org/abs/2412.18296)|null|
+|**2024-12-24**|**KunServe: Elastic and Efficient Large Language Model Serving with Parameter-centric Memory Management**|Rongxin Cheng et.al.|[2412.18169](http://arxiv.org/abs/2412.18169)|null|
 |**2024-12-23**|**Asynchronous Federated Learning: A Scalable Approach for Decentralized Machine Learning**|Ali Forootani et.al.|[2412.17723](http://arxiv.org/abs/2412.17723)|**[link](https://github.com/ali-forootani/asynchronous-federated-learning)**|
 |**2024-12-22**|**A Backdoor Attack Scheme with Invisible Triggers Based on Model Architecture Modification**|Yuan Ma et.al.|[2412.16905](http://arxiv.org/abs/2412.16905)|null|
 |**2024-12-20**|**SOUS VIDE: Cooking Visual Drone Navigation Policies in a Gaussian Splatting Vacuum**|JunEn Low et.al.|[2412.16346](http://arxiv.org/abs/2412.16346)|null|
