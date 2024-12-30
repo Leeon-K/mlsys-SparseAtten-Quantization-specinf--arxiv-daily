@@ -47,7 +47,7 @@
 |**2024-12-23**|**Reasoning to Attend: Try to Understand How <SEG> Token Works**|Rui Qian et.al.|[2412.17741](http://arxiv.org/abs/2412.17741)|null|
 |**2024-12-20**|**HoVLE: Unleashing the Power of Monolithic Vision-Language Models with Holistic Vision-Language Embedding**|Chenxin Tao et.al.|[2412.16158](http://arxiv.org/abs/2412.16158)|null|
 |**2024-12-20**|**Can Generative Video Models Help Pose Estimation?**|Ruojin Cai et.al.|[2412.16155](http://arxiv.org/abs/2412.16155)|null|
-|**2024-12-20**|**Offline Reinforcement Learning for LLM Multi-Step Reasoning**|Huaijie Wang et.al.|[2412.16145](http://arxiv.org/abs/2412.16145)|null|
+|**2024-12-20**|**Offline Reinforcement Learning for LLM Multi-Step Reasoning**|Huaijie Wang et.al.|[2412.16145](http://arxiv.org/abs/2412.16145)|**[link](https://github.com/jwhj/oreo)**|
 |**2024-12-20**|**Can LLMs Obfuscate Code? A Systematic Analysis of Large Language Models into Assembly Code Obfuscation**|Seyedreza Mohseni et.al.|[2412.16135](http://arxiv.org/abs/2412.16135)|null|
 |**2024-12-20**|**Data-Driven Mechanism Design: Jointly Eliciting Preferences and Information**|Dirk Bergemann et.al.|[2412.16132](http://arxiv.org/abs/2412.16132)|null|
 |**2024-12-20**|**PromptOptMe: Error-Aware Prompt Compression for LLM-based MT Evaluation Metrics**|Daniil Larionov et.al.|[2412.16120](http://arxiv.org/abs/2412.16120)|null|
@@ -319,7 +319,7 @@
 |**2024-11-11**|**Tooling or Not Tooling? The Impact of Tools on Language Agents for Chemistry Problem Solving**|Botao Yu et.al.|[2411.07228](http://arxiv.org/abs/2411.07228)|null|
 |**2024-11-11**|**Gravitational production of massive vectors non-minimally coupled to gravity**|Bohdan Grzadkowski et.al.|[2411.07222](http://arxiv.org/abs/2411.07222)|null|
 |**2024-11-11**|**Comparing Bottom-Up and Top-Down Steering Approaches on In-Context Learning Tasks**|Madeline Brumley et.al.|[2411.07213](http://arxiv.org/abs/2411.07213)|null|
-|**2024-11-11**|**General Geospatial Inference with a Population Dynamics Foundation Model**|Mohit Agarwal et.al.|[2411.07207](http://arxiv.org/abs/2411.07207)|null|
+|**2024-11-11**|**General Geospatial Inference with a Population Dynamics Foundation Model**|Mohit Agarwal et.al.|[2411.07207](http://arxiv.org/abs/2411.07207)|**[link](https://github.com/google-research/population-dynamics)**|
 |**2024-11-11**|**DLCR: A Generative Data Expansion Framework via Diffusion for Clothes-Changing Person Re-ID**|Nyle Siddiqui et.al.|[2411.07205](http://arxiv.org/abs/2411.07205)|**[link](https://github.com/croitorualin/dlcr)**|
 |**2024-11-11**|**Data-Driven Predictive Control of Nonholonomic Robots Based on a Bilinear Koopman Realization: Data Does Not Replace Geometry**|Mario Rosenfelder et.al.|[2411.07192](http://arxiv.org/abs/2411.07192)|null|
 |**2024-11-11**|**The Super Weight in Large Language Models**|Mengxia Yu et.al.|[2411.07191](http://arxiv.org/abs/2411.07191)|**[link](https://github.com/mengxiayu/llmsuperweight)**|
@@ -330,7 +330,7 @@
 |**2024-11-08**|**LLMs as Method Actors: A Model for Prompt Engineering and Architecture**|Colin Doyle et.al.|[2411.05778](http://arxiv.org/abs/2411.05778)|**[link](https://github.com/colindoyle0000/llms-as-method-actors)**|
 |**2024-11-08**|**Quantitative Assessment of Intersectional Empathetic Bias and Understanding**|Vojtech Formanek et.al.|[2411.05777](http://arxiv.org/abs/2411.05777)|**[link](https://github.com/xforman/jaem_st)**|
 |**2024-11-08**|**Fact or Fiction? Can LLMs be Reliable Annotators for Political Truths?**|Veronica Chatrath et.al.|[2411.05775](http://arxiv.org/abs/2411.05775)|null|
-|**2024-11-08**|**FinDVer: Explainable Claim Verification over Long and Hybrid-Content Financial Documents**|Yilun Zhao et.al.|[2411.05764](http://arxiv.org/abs/2411.05764)|null|
+|**2024-11-08**|**FinDVer: Explainable Claim Verification over Long and Hybrid-Content Financial Documents**|Yilun Zhao et.al.|[2411.05764](http://arxiv.org/abs/2411.05764)|**[link](https://github.com/yilunzhao/FinDVer)**|
 |**2024-11-08**|**Multi-hop Evidence Pursuit Meets the Web: Team Papelo at FEVER 2024**|Christopher Malon et.al.|[2411.05762](http://arxiv.org/abs/2411.05762)|null|
 |**2024-11-08**|**Free Record-Level Privacy Risk Evaluation Through Artifact-Based Methods**|Joseph Pollock et.al.|[2411.05743](http://arxiv.org/abs/2411.05743)|**[link](https://github.com/computationalprivacy/loss_traces)**|
 |**2024-11-08**|**Graph-Dictionary Signal Model for Sparse Representations of Multivariate Data**|William Cappelletti et.al.|[2411.05729](http://arxiv.org/abs/2411.05729)|null|
@@ -956,7 +956,7 @@
 |**2024-08-02**|**Prompt Refinement or Fine-tuning? Best Practices for using LLMs in Computational Social Science Tasks**|Anders Giovanni Møller et.al.|[2408.01346](http://arxiv.org/abs/2408.01346)|null|
 |**2024-08-02**|**A Backbone for Long-Horizon Robot Task Understanding**|Xiaoshuai Chen et.al.|[2408.01334](http://arxiv.org/abs/2408.01334)|null|
 |**2024-08-01**|**Optimizing Diffusion Models for Joint Trajectory Prediction and Controllable Generation**|Yixiao Wang et.al.|[2408.00766](http://arxiv.org/abs/2408.00766)|null|
-|**2024-08-01**|**AgentGen: Enhancing Planning Abilities for Large Language Model based Agent via Environment and Task Generation**|Mengkang Hu et.al.|[2408.00764](http://arxiv.org/abs/2408.00764)|null|
+|**2024-08-01**|**AgentGen: Enhancing Planning Abilities for Large Language Model based Agent via Environment and Task Generation**|Mengkang Hu et.al.|[2408.00764](http://arxiv.org/abs/2408.00764)|**[link](https://github.com/lazychih114/AgentGen-Reproduction)**|
 |**2024-08-01**|**Quantized electrical, thermal, and spin transports of non-Hermitian clean and dirty two-dimensional topological insulators and superconductors**|Sanjib Kumar Das et.al.|[2408.00763](http://arxiv.org/abs/2408.00763)|null|
 |**2024-08-01**|**Tamper-Resistant Safeguards for Open-Weight LLMs**|Rishub Tamirisa et.al.|[2408.00761](http://arxiv.org/abs/2408.00761)|**[link](https://github.com/rishub-tamirisa/tamper-resistance)**|
 |**2024-08-01**|**Coarse Correspondence Elicit 3D Spacetime Understanding in Multimodal Language Model**|Benlin Liu et.al.|[2408.00754](http://arxiv.org/abs/2408.00754)|null|
@@ -1338,9 +1338,9 @@
 |**2024-12-23**|**ResearchTown: Simulator of Human Research Community**|Haofei Yu et.al.|[2412.17767](http://arxiv.org/abs/2412.17767)|**[link](https://github.com/ulab-uiuc/research-town)**|
 |**2024-12-23**|**The Superposition of Diffusion Models Using the Itô Density Estimator**|Marta Skreta et.al.|[2412.17762](http://arxiv.org/abs/2412.17762)|null|
 |**2024-12-24**|**YuLan-Mini: An Open Data-efficient Language Model**|Yiwen Hu et.al.|[2412.17743](http://arxiv.org/abs/2412.17743)|**[link](https://github.com/ruc-gsai/yulan-mini)**|
-|**2024-12-23**|**Fourier Position Embedding: Enhancing Attention's Periodic Extension for Length Generalization**|Ermo Hua et.al.|[2412.17739](http://arxiv.org/abs/2412.17739)|null|
-|**2024-12-24**|**Contextual Backpropagation Loops: Amplifying Deep Reasoning with Iterative Top-Down Feedback**|Jacob Fein-Ashley et.al.|[2412.17737](http://arxiv.org/abs/2412.17737)|null|
-|**2024-12-23**|**LASE: Learned Adjacency Spectral Embeddings**|Sofía Pérez Casulo et.al.|[2412.17734](http://arxiv.org/abs/2412.17734)|null|
+|**2024-12-23**|**Fourier Position Embedding: Enhancing Attention's Periodic Extension for Length Generalization**|Ermo Hua et.al.|[2412.17739](http://arxiv.org/abs/2412.17739)|**[link](https://github.com/tsinghuac3i/fourier-position-embedding)**|
+|**2024-12-24**|**Contextual Backpropagation Loops: Amplifying Deep Reasoning with Iterative Top-Down Feedback**|Jacob Fein-Ashley et.al.|[2412.17737](http://arxiv.org/abs/2412.17737)|**[link](https://github.com/contextualbackpropagationloops/cbl)**|
+|**2024-12-23**|**LASE: Learned Adjacency Spectral Embeddings**|Sofía Pérez Casulo et.al.|[2412.17734](http://arxiv.org/abs/2412.17734)|**[link](https://github.com/sofiperez91/lase)**|
 |**2024-12-23**|**Euclid: Early Release Observations of diffuse stellar structures and globular clusters as probes of the mass assembly of galaxies in the Dorado group**|M. Urbano et.al.|[2412.17672](http://arxiv.org/abs/2412.17672)|null|
 |**2024-12-23**|**DreamFit: Garment-Centric Human Generation via a Lightweight Anything-Dressing Encoder**|Ente Lin et.al.|[2412.17644](http://arxiv.org/abs/2412.17644)|null|
 |**2024-12-23**|**Leveraging Memory Retrieval to Enhance LLM-based Generative Recommendation**|Chengbing Wang et.al.|[2412.17593](http://arxiv.org/abs/2412.17593)|null|
@@ -1348,10 +1348,10 @@
 |**2024-12-20**|**CLEAR: Conv-Like Linearization Revs Pre-Trained Diffusion Transformers Up**|Songhua Liu et.al.|[2412.16112](http://arxiv.org/abs/2412.16112)|**[link](https://github.com/huage001/clear)**|
 |**2024-12-20**|**Efficient MedSAMs: Segment Anything in Medical Images on Laptop**|Jun Ma et.al.|[2412.16085](http://arxiv.org/abs/2412.16085)|**[link](https://github.com/bowang-lab/medsam)**|
 |**2024-12-20**|**VaulTor: Putting the TEE in Tor**|Humza Ikram et.al.|[2412.16064](http://arxiv.org/abs/2412.16064)|null|
-|**2024-12-20**|**Segmentation of arbitrary features in very high resolution remote sensing imagery**|Henry Cording et.al.|[2412.16046](http://arxiv.org/abs/2412.16046)|null|
+|**2024-12-20**|**Segmentation of arbitrary features in very high resolution remote sensing imagery**|Henry Cording et.al.|[2412.16046](http://arxiv.org/abs/2412.16046)|**[link](https://github.com/hcording/ecomapper)**|
 |**2024-12-20**|**Never Reset Again: A Mathematical Framework for Continual Inference in Recurrent Neural Networks**|Bojian Yin et.al.|[2412.15983](http://arxiv.org/abs/2412.15983)|null|
 |**2024-12-20**|**Mamba-based Deep Learning Approaches for Sleep Staging on a Wireless Multimodal Wearable System without Electroencephalography**|Andrew H. Zhang et.al.|[2412.15947](http://arxiv.org/abs/2412.15947)|null|
-|**2024-12-20**|**Reproducibility of machine learning analyses of 21 cm reionization maps**|Kimeel Sooknunan et.al.|[2412.15893](http://arxiv.org/abs/2412.15893)|null|
+|**2024-12-20**|**Reproducibility of machine learning analyses of 21 cm reionization maps**|Kimeel Sooknunan et.al.|[2412.15893](http://arxiv.org/abs/2412.15893)|**[link](https://github.com/kimeels/21cm)**|
 |**2024-12-20**|**Recovering the properties of the interstellar medium through integrated spectroscopy: application to the z~0 ECO volume-limited star-forming galaxy sample**|V. Lebouteiller et.al.|[2412.15860](http://arxiv.org/abs/2412.15860)|null|
 |**2024-12-20**|**AIFS-CRPS: Ensemble forecasting using a model trained with a loss function based on the Continuous Ranked Probability Score**|Simon Lang et.al.|[2412.15832](http://arxiv.org/abs/2412.15832)|null|
 |**2024-12-19**|**OpenEMMA: Open-Source Multimodal Model for End-to-End Autonomous Driving**|Shuo Xing et.al.|[2412.15208](http://arxiv.org/abs/2412.15208)|**[link](https://github.com/taco-group/openemma)**|
@@ -1614,7 +1614,7 @@
 |**2024-11-12**|**A Stochastic Optimization Framework for Private and Fair Learning From Decentralized Data**|Devansh Gupta et.al.|[2411.07889](http://arxiv.org/abs/2411.07889)|**[link](https://github.com/justaguyalways/stochastic-federated-differentially-private-and-fair-learning)**|
 |**2024-11-12**|**Diverse capability and scaling of diffusion and auto-regressive models when learning abstract rules**|Binxu Wang et.al.|[2411.07873](http://arxiv.org/abs/2411.07873)|null|
 |**2024-11-12**|**Towards Vision Mixture of Experts for Wildlife Monitoring on the Edge**|Emmanuel Azuh Mensah et.al.|[2411.07834](http://arxiv.org/abs/2411.07834)|null|
-|**2024-11-11**|**General Geospatial Inference with a Population Dynamics Foundation Model**|Mohit Agarwal et.al.|[2411.07207](http://arxiv.org/abs/2411.07207)|null|
+|**2024-11-11**|**General Geospatial Inference with a Population Dynamics Foundation Model**|Mohit Agarwal et.al.|[2411.07207](http://arxiv.org/abs/2411.07207)|**[link](https://github.com/google-research/population-dynamics)**|
 |**2024-11-11**|**Data-Driven Predictive Control of Nonholonomic Robots Based on a Bilinear Koopman Realization: Data Does Not Replace Geometry**|Mario Rosenfelder et.al.|[2411.07192](http://arxiv.org/abs/2411.07192)|null|
 |**2024-11-11**|**Gradual Fine-Tuning with Graph Routing for Multi-Source Unsupervised Domain Adaptation**|Yao Ma et.al.|[2411.07185](http://arxiv.org/abs/2411.07185)|null|
 |**2024-11-11**|**Counterfactual Generation from Language Models**|Shauli Ravfogel et.al.|[2411.07180](http://arxiv.org/abs/2411.07180)|**[link](https://github.com/shauli-ravfogel/lm-counterfactuals)**|
@@ -1625,7 +1625,7 @@
 |**2024-11-11**|**ZT-RIC:A Zero Trust RIC Framework for ensuring data Privacy and Confidentiality in Open RAN**|Diana Lin et.al.|[2411.07128](http://arxiv.org/abs/2411.07128)|null|
 |**2024-11-11**|**TinyML Security: Exploring Vulnerabilities in Resource-Constrained Machine Learning Systems**|Jacob Huckelberry et.al.|[2411.07114](http://arxiv.org/abs/2411.07114)|null|
 |**2024-11-08**|**Recycled Attention: Efficient inference for long-context language models**|Fangyuan Xu et.al.|[2411.05787](http://arxiv.org/abs/2411.05787)|null|
-|**2024-11-08**|**FinDVer: Explainable Claim Verification over Long and Hybrid-Content Financial Documents**|Yilun Zhao et.al.|[2411.05764](http://arxiv.org/abs/2411.05764)|null|
+|**2024-11-08**|**FinDVer: Explainable Claim Verification over Long and Hybrid-Content Financial Documents**|Yilun Zhao et.al.|[2411.05764](http://arxiv.org/abs/2411.05764)|**[link](https://github.com/yilunzhao/FinDVer)**|
 |**2024-11-08**|**Free Record-Level Privacy Risk Evaluation Through Artifact-Based Methods**|Joseph Pollock et.al.|[2411.05743](http://arxiv.org/abs/2411.05743)|**[link](https://github.com/computationalprivacy/loss_traces)**|
 |**2024-11-08**|**Graph-Dictionary Signal Model for Sparse Representations of Multivariate Data**|William Cappelletti et.al.|[2411.05729](http://arxiv.org/abs/2411.05729)|null|
 |**2024-11-08**|**A Survey of AI-Related Cyber Security Risks and Countermeasures in Mobility-as-a-Service**|Kai-Fung Chu et.al.|[2411.05681](http://arxiv.org/abs/2411.05681)|null|
