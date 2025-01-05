@@ -25,6 +25,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-02**|**GPT4Scene: Understand 3D Scenes from Videos with Vision-Language Models**|Zhangyang Qi et.al.|[2501.01428](http://arxiv.org/abs/2501.01428)|null|
+|**2025-01-02**|**Unifying Specialized Visual Encoders for Video Language Models**|Jihoon Chung et.al.|[2501.01426](http://arxiv.org/abs/2501.01426)|null|
+|**2025-01-02**|**Object-level Visual Prompts for Compositional Image Generation**|Gaurav Parmar et.al.|[2501.01424](http://arxiv.org/abs/2501.01424)|null|
+|**2025-01-02**|**Three-dimensional quantum anomalous Hall effect in Weyl semimetals**|Zhi-Qiang Zhang et.al.|[2501.01399](http://arxiv.org/abs/2501.01399)|null|
+|**2025-01-02**|**ViGiL3D: A Linguistically Diverse Dataset for 3D Visual Grounding**|Austin T. Wang et.al.|[2501.01366](http://arxiv.org/abs/2501.01366)|null|
+|**2025-01-02**|**Large Vision-Language Model Alignment and Misalignment: A Survey Through the Lens of Explainability**|Dong Shu et.al.|[2501.01346](http://arxiv.org/abs/2501.01346)|null|
+|**2025-01-02**|**Aligning Large Language Models for Faithful Integrity Against Opposing Argument**|Yong Zhao et.al.|[2501.01336](http://arxiv.org/abs/2501.01336)|null|
+|**2025-01-02**|**CySecBench: Generative AI-based CyberSecurity-focused Prompt Dataset for Benchmarking Large Language Models**|Johan Wahréus et.al.|[2501.01335](http://arxiv.org/abs/2501.01335)|null|
+|**2025-01-02**|**Decoding Knowledge in Large Language Models: A Framework for Categorization and Comprehension**|Yanbo Fang et.al.|[2501.01332](http://arxiv.org/abs/2501.01332)|null|
+|**2025-01-02**|**The Prompt Alchemist: Automated LLM-Tailored Prompt Optimization for Test Case Generation**|Shuzheng Gao et.al.|[2501.01329](http://arxiv.org/abs/2501.01329)|null|
 |**2024-12-30**|**Distributed Mixture-of-Agents for Edge Inference with Large Language Models**|Purbesh Mitra et.al.|[2412.21200](http://arxiv.org/abs/2412.21200)|**[link](https://github.com/purbeshmitra/distributed_moa)**|
 |**2024-12-31**|**HumanEval Pro and MBPP Pro: Evaluating Large Language Models on Self-invoking Code Generation**|Zhaojian Yu et.al.|[2412.21199](http://arxiv.org/abs/2412.21199)|**[link](https://github.com/CodeEval-Pro/CodeEval-Pro)**|
 |**2024-12-30**|**Do NOT Think That Much for 2+3=? On the Overthinking of o1-Like LLMs**|Xingyu Chen et.al.|[2412.21187](http://arxiv.org/abs/2412.21187)|null|
@@ -1040,6 +1050,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-02**|**Harnessing Hardware Acceleration in High-Energy Physics through High-Level Synthesis Techniques**|Pelayo Leguina López et.al.|[2501.01338](http://arxiv.org/abs/2501.01338)|null|
+|**2024-12-30**|**DeepLL: Considering Linear Logic for the Analysis of Deep Learning Experiments**|Nick Papoulias et.al.|[2501.00169](http://arxiv.org/abs/2501.00169)|null|
 |**2024-12-29**|**A Novel FPGA-based CNN Hardware Accelerator: Optimization for Convolutional Layers using Karatsuba Ofman Multiplier**|Amit Sarkar et.al.|[2412.20393](http://arxiv.org/abs/2412.20393)|null|
 |**2024-12-29**|**Open-Source Heterogeneous SoCs for AI: The PULP Platform Experience**|Francesco Conti et.al.|[2412.20391](http://arxiv.org/abs/2412.20391)|null|
 |**2024-12-27**|**HADES: Hardware Accelerated Decoding for Efficient Speculation in Large Language Models**|Ze Yang et.al.|[2412.19925](http://arxiv.org/abs/2412.19925)|null|
@@ -1350,6 +1362,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-02**|**GPT4Scene: Understand 3D Scenes from Videos with Vision-Language Models**|Zhangyang Qi et.al.|[2501.01428](http://arxiv.org/abs/2501.01428)|null|
+|**2025-01-02**|**Object-level Visual Prompts for Compositional Image Generation**|Gaurav Parmar et.al.|[2501.01424](http://arxiv.org/abs/2501.01424)|null|
+|**2025-01-02**|**Large Vision-Language Model Alignment and Misalignment: A Survey Through the Lens of Explainability**|Dong Shu et.al.|[2501.01346](http://arxiv.org/abs/2501.01346)|null|
+|**2025-01-02**|**Think More, Hallucinate Less: Mitigating Hallucinations via Dual Process of Fast and Slow Thinking**|Xiaoxue Cheng et.al.|[2501.01306](http://arxiv.org/abs/2501.01306)|null|
+|**2025-01-02**|**ToolComp: A Multi-Tool Reasoning & Process Supervision Benchmark**|Vaskar Nath et.al.|[2501.01290](http://arxiv.org/abs/2501.01290)|null|
+|**2025-01-02**|**Large Language Model-Enhanced Symbolic Reasoning for Knowledge Base Completion**|Qiyuan He et.al.|[2501.01246](http://arxiv.org/abs/2501.01246)|null|
+|**2025-01-02**|**SVFR: A Unified Framework for Generalized Video Face Restoration**|Zhiyao Wang et.al.|[2501.01235](http://arxiv.org/abs/2501.01235)|null|
+|**2025-01-02**|**Real-time Cross-modal Cybersickness Prediction in Virtual Reality**|Yitong Zhu et.al.|[2501.01212](http://arxiv.org/abs/2501.01212)|null|
+|**2025-01-02**|**Adaptive posterior distributions for uncertainty analysis of covariance matrices in Bayesian inversion problems for multioutput signals**|E. Curbelo et.al.|[2501.01148](http://arxiv.org/abs/2501.01148)|null|
+|**2025-01-02**|**BlockDialect: Block-wise Fine-grained Mixed Format for Energy-Efficient LLM Inference**|Wonsuk Jang et.al.|[2501.01144](http://arxiv.org/abs/2501.01144)|null|
 |**2024-12-30**|**Distributed Mixture-of-Agents for Edge Inference with Large Language Models**|Purbesh Mitra et.al.|[2412.21200](http://arxiv.org/abs/2412.21200)|**[link](https://github.com/purbeshmitra/distributed_moa)**|
 |**2024-12-30**|**Do NOT Think That Much for 2+3=? On the Overthinking of o1-Like LLMs**|Xingyu Chen et.al.|[2412.21187](http://arxiv.org/abs/2412.21187)|null|
 |**2024-12-30**|**Aviary: training language agents on challenging scientific tasks**|Siddharth Narayanan et.al.|[2412.21154](http://arxiv.org/abs/2412.21154)|null|
@@ -2337,6 +2359,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-02**|**Change Detection-Based Procedures for Piecewise Stationary MABs: A Modular Approach**|Yu-Han Huang et.al.|[2501.01291](http://arxiv.org/abs/2501.01291)|null|
+|**2025-01-02**|**HPC Application Parameter Autotuning on Edge Devices: A Bandit Learning Approach**|Abrar Hossain et.al.|[2501.01057](http://arxiv.org/abs/2501.01057)|null|
+|**2025-01-01**|**Diffusion Policies for Generative Modeling of Spacecraft Trajectories**|Julia Briden et.al.|[2501.00915](http://arxiv.org/abs/2501.00915)|null|
+|**2024-12-31**|**Outlier-Robust Linear System Identification Under Heavy-tailed Noise**|Vinay Kanakeri et.al.|[2501.00421](http://arxiv.org/abs/2501.00421)|null|
 |**2024-12-28**|**Global Search of Optimal Spacecraft Trajectories using Amortization and Deep Generative Models**|Ryne Beeson et.al.|[2412.20023](http://arxiv.org/abs/2412.20023)|null|
 |**2024-12-26**|**Latenrgy: Model Agnostic Latency and Energy Consumption Prediction for Binary Classifiers**|Jason M. Pittman et.al.|[2412.19241](http://arxiv.org/abs/2412.19241)|null|
 |**2024-12-24**|**Accelerating process control and optimization via machine learning: A review**|Ilias Mitrai et.al.|[2412.18529](http://arxiv.org/abs/2412.18529)|null|
