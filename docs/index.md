@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-06**|**BoostStep: Boosting mathematical capability of Large Language Models via improved single-step reasoning**|Beichen Zhang et.al.|[2501.03226](http://arxiv.org/abs/2501.03226)|**[link](https://github.com/beichenzbc/booststep)**|
+|**2025-01-06**|**Dispider: Enabling Video LLMs with Active Real-Time Interaction via Disentangled Perception, Decision, and Reaction**|Rui Qian et.al.|[2501.03218](http://arxiv.org/abs/2501.03218)|**[link](https://github.com/mark12ding/dispider)**|
+|**2025-01-06**|**$q$ -deformed Perelomov-Popov measures and quantized free probability**|Panagiotis Zografos et.al.|[2501.03213](http://arxiv.org/abs/2501.03213)|null|
+|**2025-01-06**|**Leveraging Explainable AI for LLM Text Attribution: Differentiating Human-Written and Multiple LLMs-Generated Text**|Ayat Najjar et.al.|[2501.03212](http://arxiv.org/abs/2501.03212)|null|
+|**2025-01-06**|**Local data of elliptic curves under quadratic twist**|Alexander J. Barrios et.al.|[2501.03209](http://arxiv.org/abs/2501.03209)|null|
+|**2025-01-06**|**Detecting AI-Generated Text in Educational Content: Leveraging Machine Learning and Explainable AI for Academic Integrity**|Ayat A. Najjar et.al.|[2501.03203](http://arxiv.org/abs/2501.03203)|null|
+|**2025-01-06**|**The FACTS Grounding Leaderboard: Benchmarking LLMs' Ability to Ground Responses to Long-Form Input**|Alon Jacovi et.al.|[2501.03200](http://arxiv.org/abs/2501.03200)|null|
+|**2025-01-06**|**Universality in quantum critical flow of charge and heat in ultra-clean graphene**|Aniket Majumdar et.al.|[2501.03193](http://arxiv.org/abs/2501.03193)|null|
+|**2025-01-06**|**Semantic Captioning: Benchmark Dataset and Graph-Aware Few-Shot In-Context Learning for SQL2Text**|Ali Al-Lawati et.al.|[2501.03166](http://arxiv.org/abs/2501.03166)|**[link](https://github.com/aliwister/ast-icl)**|
+|**2025-01-06**|**Large language models for artificial general intelligence (AGI): A survey of foundational principles and approaches**|Alhassan Mumuni et.al.|[2501.03151](http://arxiv.org/abs/2501.03151)|null|
 |**2025-01-03**|**VITA-1.5: Towards GPT-4o Level Real-Time Vision and Speech Interaction**|Chaoyou Fu et.al.|[2501.01957](http://arxiv.org/abs/2501.01957)|**[link](https://github.com/VITA-MLLM/VITA)**|
 |**2025-01-03**|**Metadata Conditioning Accelerates Language Model Pre-training**|Tianyu Gao et.al.|[2501.01956](http://arxiv.org/abs/2501.01956)|null|
 |**2025-01-03**|**Cold-Start Recommendation towards the Era of Large Language Models (LLMs): A Comprehensive Survey and Roadmap**|Weizhi Zhang et.al.|[2501.01945](http://arxiv.org/abs/2501.01945)|null|
@@ -1045,6 +1055,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-04**|**Optimizing Small Language Models for In-Vehicle Function-Calling**|Yahya Sowti Khiabani et.al.|[2501.02342](http://arxiv.org/abs/2501.02342)|null|
 |**2025-01-03**|**DSLR-CNN: Efficient CNN Acceleration using Digit-Serial Left-to-Right Arithmetic**|Malik Zohaib Nisar et.al.|[2501.01737](http://arxiv.org/abs/2501.01737)|null|
 |**2025-01-02**|**Harnessing Hardware Acceleration in High-Energy Physics through High-Level Synthesis Techniques**|Pelayo Leguina López et.al.|[2501.01338](http://arxiv.org/abs/2501.01338)|null|
 |**2024-12-30**|**DeepLL: Considering Linear Logic for the Analysis of Deep Learning Experiments**|Nick Papoulias et.al.|[2501.00169](http://arxiv.org/abs/2501.00169)|null|
@@ -1177,11 +1188,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-01**|**Communication Efficient Cooperative Edge AI via Event-Triggered Computation Offloading**|You Zhou et.al.|[2501.02001](http://arxiv.org/abs/2501.02001)|null|
 |**2024-12-25**|**Tempus Core: Area-Power Efficient Temporal-Unary Convolution Core for Low-Precision Edge DLAs**|Prabhu Vellaisamy et.al.|[2412.19002](http://arxiv.org/abs/2412.19002)|null|
 |**2024-12-23**|**Edge-AI for Agriculture: Lightweight Vision Models for Disease Detection in Resource-Limited Settings**|Harsh Joshi et.al.|[2412.18635](http://arxiv.org/abs/2412.18635)|null|
 |**2024-12-23**|**tuGEMM: Area-Power-Efficient Temporal Unary GEMM Architecture for Low-Precision Edge AI**|Harideep Nair et.al.|[2412.17966](http://arxiv.org/abs/2412.17966)|null|
 |**2024-12-22**|**Fatigue Monitoring Using Wearables and AI: Trends, Challenges, and Future Opportunities**|Kourosh Kakhi et.al.|[2412.16847](http://arxiv.org/abs/2412.16847)|null|
 |**2024-12-19**|**ElectraSight: Smart Glasses with Fully Onboard Non-Invasive Eye Tracking Using Hybrid Contact and Contactless EOG**|Nicolas Schärer et.al.|[2412.14848](http://arxiv.org/abs/2412.14848)|null|
+|**2025-01-05**|**Overview of AI and Communication for 6G Network: Fundamentals, Challenges, and Future Research Opportunities**|Qimei Cui et.al.|[2412.14538](http://arxiv.org/abs/2412.14538)|null|
 |**2024-12-17**|**Design of an AI-Enhanced Digital Stethoscope: Advancing Cardiovascular Diagnostics Through Smart Auscultation**|Abraham G. Taye et.al.|[2412.14206](http://arxiv.org/abs/2412.14206)|null|
 |**2024-12-16**|**Flex-PE: Flexible and SIMD Multi-Precision Processing Element for AI Workloads**|Mukul Lokhande et.al.|[2412.11702](http://arxiv.org/abs/2412.11702)|**[link](https://github.com/mukullokhande99/cordic-code)**|
 |**2024-12-13**|**Edge AI-based Radio Frequency Fingerprinting for IoT Networks**|Ahmed Mohamed Hussain et.al.|[2412.10553](http://arxiv.org/abs/2412.10553)|null|
@@ -1348,6 +1361,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-06**|**Local data of elliptic curves under quadratic twist**|Alexander J. Barrios et.al.|[2501.03209](http://arxiv.org/abs/2501.03209)|null|
+|**2025-01-06**|**Coarsened confounding for causal effects: a large-sample framework**|Debashis Ghosh et.al.|[2501.03129](http://arxiv.org/abs/2501.03129)|null|
+|**2025-01-06**|**CAT: Content-Adaptive Image Tokenization**|Junhong Shen et.al.|[2501.03120](http://arxiv.org/abs/2501.03120)|null|
+|**2025-01-06**|**From Models to Network Topologies: A Topology Inference Attack in Decentralized Federated Learning**|Chao Feng et.al.|[2501.03119](http://arxiv.org/abs/2501.03119)|null|
+|**2025-01-06**|**Shock and SEP Modeling Study for the 5 September 2022 SEP Event**|A. Kouloumvakos et.al.|[2501.03066](http://arxiv.org/abs/2501.03066)|null|
+|**2025-01-06**|**Single-Channel Distance-Based Source Separation for Mobile GPU in Outdoor and Indoor Environments**|Hanbin Bae et.al.|[2501.03045](http://arxiv.org/abs/2501.03045)|null|
+|**2025-01-06**|**Comparing the Extrinsic Orbital Hall Effect in Centrosymmetric and Noncentrosymmetric Systems: Insights from Bilayer Transition Metal Dichalcogenides**|Azadeh Faridi et.al.|[2501.02996](http://arxiv.org/abs/2501.02996)|null|
+|**2025-01-06**|**A Point Process Model for Optimizing Repeated Personalized Action Delivery to Users**|Alexander Merkov et.al.|[2501.02961](http://arxiv.org/abs/2501.02961)|null|
+|**2025-01-06**|**Evolution of the Sérsic Index up to z=2.5 from JWST and HST**|Marco Martorano et.al.|[2501.02956](http://arxiv.org/abs/2501.02956)|null|
+|**2025-01-06**|**A Bayesian Approach for Discovering Time- Delayed Differential Equation from Data**|Debangshu Chowdhury et.al.|[2501.02934](http://arxiv.org/abs/2501.02934)|null|
 |**2025-01-03**|**Metadata Conditioning Accelerates Language Model Pre-training**|Tianyu Gao et.al.|[2501.01956](http://arxiv.org/abs/2501.01956)|null|
 |**2025-01-03**|**Abstractive Text Summarization for Contemporary Sanskrit Prose: Issues and Challenges**|Shagun Sinha et.al.|[2501.01933](http://arxiv.org/abs/2501.01933)|null|
 |**2025-01-03**|**Mitigating Hallucination for Large Vision Language Model by Inter-Modality Correlation Calibration Decoding**|Jiaming Li et.al.|[2501.01926](http://arxiv.org/abs/2501.01926)|null|
@@ -2353,6 +2376,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-06**|**Key-value memory in the brain**|Samuel J. Gershman et.al.|[2501.02950](http://arxiv.org/abs/2501.02950)|**[link](https://github.com/kazuki-irie/kv-memory-brain)**|
+|**2025-01-04**|**SMDP-Based Dynamic Batching for Improving Responsiveness and Energy Efficiency of Batch Services**|Yaodan Xu et.al.|[2501.02181](http://arxiv.org/abs/2501.02181)|null|
 |**2025-01-02**|**Change Detection-Based Procedures for Piecewise Stationary MABs: A Modular Approach**|Yu-Han Huang et.al.|[2501.01291](http://arxiv.org/abs/2501.01291)|null|
 |**2025-01-02**|**HPC Application Parameter Autotuning on Edge Devices: A Bandit Learning Approach**|Abrar Hossain et.al.|[2501.01057](http://arxiv.org/abs/2501.01057)|null|
 |**2025-01-01**|**Diffusion Policies for Generative Modeling of Spacecraft Trajectories**|Julia Briden et.al.|[2501.00915](http://arxiv.org/abs/2501.00915)|null|
