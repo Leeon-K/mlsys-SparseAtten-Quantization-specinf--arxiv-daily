@@ -25,6 +25,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-10**|**LlamaV-o1: Rethinking Step-by-step Visual Reasoning in LLMs**|Omkar Thawakar et.al.|[2501.06186](http://arxiv.org/abs/2501.06186)|**[link](https://github.com/mbzuai-oryx/llamav-o1)**|
+|**2025-01-10**|**Precoding Design for Limited-Feedback MISO Systems via Character-Polynomial Codes**|Siva Aditya Gooty et.al.|[2501.06178](http://arxiv.org/abs/2501.06178)|null|
+|**2025-01-10**|**Understanding what helium absorption tells us about atmospheric escape from exoplanets**|Giulia Ballabio et.al.|[2501.06149](http://arxiv.org/abs/2501.06149)|null|
+|**2025-01-10**|**Supervision policies can shape long-term risk management in general-purpose AI models**|Manuel Cebrian et.al.|[2501.06137](http://arxiv.org/abs/2501.06137)|**[link](https://github.com/manuelcebrianramos/llm_supervision_policies)**|
+|**2025-01-10**|**Contextual ASR Error Handling with LLMs Augmentation for Goal-Oriented Conversational AI**|Yuya Asano et.al.|[2501.06129](http://arxiv.org/abs/2501.06129)|null|
+|**2025-01-10**|**Benchmarking Different Application Types across Heterogeneous Cloud Compute Services**|Nivedhitha Duggi et.al.|[2501.06128](http://arxiv.org/abs/2501.06128)|null|
+|**2025-01-10**|**kANNolo: Sweet and Smooth Approximate k-Nearest Neighbors Search**|Leonardo Delfino et.al.|[2501.06121](http://arxiv.org/abs/2501.06121)|**[link](https://github.com/tuskanny/kannolo)**|
+|**2025-01-10**|**Inferring High-Order Couplings with Neural Networks**|Aurélien Decelle et.al.|[2501.06108](http://arxiv.org/abs/2501.06108)|null|
+|**2025-01-10**|**From Conversation to Automation: Leveraging Large Language Models to Analyze Strategies in Problem Solving Therapy**|Elham Aghakhani et.al.|[2501.06101](http://arxiv.org/abs/2501.06101)|null|
+|**2025-01-10**|**Molecular Communication-Inspired Particle Collector-Transmitter (PaCoT) for Heavy Metal Removal from Human Circulatory System**|Hilal Esra Yaldiz et.al.|[2501.06092](http://arxiv.org/abs/2501.06092)|null|
 |**2025-01-09**|**An Empirical Study of Autoregressive Pre-training from Videos**|Jathushan Rajasegaran et.al.|[2501.05453](http://arxiv.org/abs/2501.05453)|null|
 |**2025-01-09**|**ReFocus: Visual Editing as a Chain of Thought for Structured Image Understanding**|Xingyu Fu et.al.|[2501.05452](http://arxiv.org/abs/2501.05452)|null|
 |**2025-01-10**|**Decentralized Diffusion Models**|David McAllister et.al.|[2501.05450](http://arxiv.org/abs/2501.05450)|null|
@@ -1100,6 +1110,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-10**|**Axon: A novel systolic array architecture for improved run time and energy efficient GeMM and Conv operation with on-chip im2col**|Md Mizanur Rahaman Nayan et.al.|[2501.06043](http://arxiv.org/abs/2501.06043)|null|
+|**2025-01-10**|**EDNet: Edge-Optimized Small Target Detection in UAV Imagery -- Faster Context Attention, Better Feature Fusion, and Hardware Acceleration**|Zhifan Song et.al.|[2501.05885](http://arxiv.org/abs/2501.05885)|null|
+|**2025-01-10**|**TakuNet: an Energy-Efficient CNN for Real-Time Inference on Embedded UAV systems in Emergency Response Scenarios**|Daniel Rossi et.al.|[2501.05880](http://arxiv.org/abs/2501.05880)|**[link](https://github.com/danielrossi1/takunet)**|
 |**2025-01-09**|**JAQ: Joint Efficient Architecture Design and Low-Bit Quantization with Hardware-Software Co-Exploration**|Mingzi Wang et.al.|[2501.05339](http://arxiv.org/abs/2501.05339)|**[link](https://github.com/wmz-opensource/JAQ)**|
 |**2025-01-08**|**IQPopt: Fast optimization of instantaneous quantum polynomial circuits in JAX**|Erik Recio-Armengol et.al.|[2501.04776](http://arxiv.org/abs/2501.04776)|null|
 |**2025-01-08**|**Probabilistic Greedy Algorithm Solver Using Magnetic Tunneling Junctions for Traveling Salesman Problem**|Ran Zhang et.al.|[2501.04447](http://arxiv.org/abs/2501.04447)|null|
@@ -1239,6 +1252,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-10**|**Distilling Calibration via Conformalized Credal Inference**|Jiayi Huang et.al.|[2501.06066](http://arxiv.org/abs/2501.06066)|null|
 |**2025-01-08**|**Decentralised Resource Sharing in TinyML: Wireless Bilayer Gossip Parallel SGD for Collaborative Learning**|Ziyuan Bao et.al.|[2501.04817](http://arxiv.org/abs/2501.04817)|null|
 |**2025-01-07**|**ChronoLLM: A Framework for Customizing Large Language Model for Digital Twins generalization based on PyChrono**|Jingquan Wang et.al.|[2501.04062](http://arxiv.org/abs/2501.04062)|null|
 |**2025-01-04**|**Optimizing Edge AI: A Comprehensive Survey on Data, Model, and System Strategies**|Xubin Wang et.al.|[2501.03265](http://arxiv.org/abs/2501.03265)|**[link](https://github.com/wangxb96/awesome-ai-on-the-edge)**|
@@ -1424,6 +1438,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-10**|**LlamaV-o1: Rethinking Step-by-step Visual Reasoning in LLMs**|Omkar Thawakar et.al.|[2501.06186](http://arxiv.org/abs/2501.06186)|**[link](https://github.com/mbzuai-oryx/llamav-o1)**|
+|**2025-01-10**|**Understanding what helium absorption tells us about atmospheric escape from exoplanets**|Giulia Ballabio et.al.|[2501.06149](http://arxiv.org/abs/2501.06149)|null|
+|**2025-01-10**|**Benchmarking Different Application Types across Heterogeneous Cloud Compute Services**|Nivedhitha Duggi et.al.|[2501.06128](http://arxiv.org/abs/2501.06128)|null|
+|**2025-01-10**|**Inferring High-Order Couplings with Neural Networks**|Aurélien Decelle et.al.|[2501.06108](http://arxiv.org/abs/2501.06108)|null|
+|**2025-01-10**|**Molecular Communication-Inspired Particle Collector-Transmitter (PaCoT) for Heavy Metal Removal from Human Circulatory System**|Hilal Esra Yaldiz et.al.|[2501.06092](http://arxiv.org/abs/2501.06092)|null|
+|**2025-01-10**|**Explainable Federated Bayesian Causal Inference and Its Application in Advanced Manufacturing**|Xiaofeng Xiao et.al.|[2501.06077](http://arxiv.org/abs/2501.06077)|**[link](https://github.com/xx987/xfbci)**|
+|**2025-01-10**|**Distilling Calibration via Conformalized Credal Inference**|Jiayi Huang et.al.|[2501.06066](http://arxiv.org/abs/2501.06066)|null|
+|**2025-01-10**|**Personalized Language Model Learning on Text Data Without User Identifiers**|Yucheng Ding et.al.|[2501.06062](http://arxiv.org/abs/2501.06062)|**[link](https://github.com/sjtu-yc/idfree-personalized-learning)**|
+|**2025-01-10**|**Axon: A novel systolic array architecture for improved run time and energy efficient GeMM and Conv operation with on-chip im2col**|Md Mizanur Rahaman Nayan et.al.|[2501.06043](http://arxiv.org/abs/2501.06043)|null|
+|**2025-01-10**|**Generate, Transduct, Adapt: Iterative Transduction with VLMs**|Oindrila Saha et.al.|[2501.06031](http://arxiv.org/abs/2501.06031)|null|
 |**2025-01-09**|**An Empirical Study of Autoregressive Pre-training from Videos**|Jathushan Rajasegaran et.al.|[2501.05453](http://arxiv.org/abs/2501.05453)|null|
 |**2025-01-10**|**Decentralized Diffusion Models**|David McAllister et.al.|[2501.05450](http://arxiv.org/abs/2501.05450)|null|
 |**2025-01-09**|**Neuro-Symbolic AI in 2024: A Systematic Review**|Brandon C. Colelough et.al.|[2501.05435](http://arxiv.org/abs/2501.05435)|null|
@@ -2471,6 +2495,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-10**|**Meta-Learning for Physically-Constrained Neural System Identification**|Ankush Chakrabarty et.al.|[2501.06167](http://arxiv.org/abs/2501.06167)|null|
+|**2025-01-10**|**Investigating the Impact of Observation Space Design Choices On Training Reinforcement Learning Solutions for Spacecraft Problems**|Nathaniel Hamilton et.al.|[2501.06016](http://arxiv.org/abs/2501.06016)|null|
+|**2025-01-10**|**Orthogonal projection-based regularization for efficient model augmentation**|Bendegúz M. Györök et.al.|[2501.05842](http://arxiv.org/abs/2501.05842)|**[link](https://github.com/aimotionlab-sztaki/orthogonal-augmentation)**|
 |**2025-01-09**|**Regret Analysis: a control perspective**|Travis E. Gibson et.al.|[2501.04572](http://arxiv.org/abs/2501.04572)|null|
 |**2025-01-07**|**A Multimodal Lightweight Approach to Fault Diagnosis of Induction Motors in High-Dimensional Dataset**|Usman Ali et.al.|[2501.03746](http://arxiv.org/abs/2501.03746)|null|
 |**2025-01-07**|**Imitation Learning of MPC with Neural Networks: Error Guarantees and Sparsification**|Hendrik Alsmeier et.al.|[2501.03671](http://arxiv.org/abs/2501.03671)|null|
