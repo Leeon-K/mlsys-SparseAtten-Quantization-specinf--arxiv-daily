@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.15
+## Updated on 2025.01.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Quantization
@@ -23,7 +23,7 @@ layout: default
 |**2025-01-14**|**Enhancing Automated Interpretability with Output-Centric Feature Descriptions**|Yoav Gur-Arieh et.al.|[2501.08319](http://arxiv.org/abs/2501.08319)|**[link](https://github.com/yoavgur/feature-descriptions)**|
 |**2025-01-14**|**MiniMax-01: Scaling Foundation Models with Lightning Attention**|MiniMax et.al.|[2501.08313](http://arxiv.org/abs/2501.08313)|null|
 |**2025-01-14**|**HALoGEN: Fantastic LLM Hallucinations and Where to Find Them**|Abhilasha Ravichander et.al.|[2501.08292](http://arxiv.org/abs/2501.08292)|null|
-|**2025-01-14**|**AfriHate: A Multilingual Collection of Hate Speech and Abusive Language Datasets for African Languages**|Shamsuddeen Hassan Muhammad et.al.|[2501.08284](http://arxiv.org/abs/2501.08284)|null|
+|**2025-01-15**|**AfriHate: A Multilingual Collection of Hate Speech and Abusive Language Datasets for African Languages**|Shamsuddeen Hassan Muhammad et.al.|[2501.08284](http://arxiv.org/abs/2501.08284)|**[link](https://github.com/afrihate/afrihate)**|
 |**2025-01-14**|**WebWalker: Benchmarking LLMs in Web Traversal**|Jialong Wu et.al.|[2501.07572](http://arxiv.org/abs/2501.07572)|**[link](https://github.com/alibaba-nlp/webwalker)**|
 |**2025-01-13**|**Training-Free Motion-Guided Video Generation with Enhanced Temporal Consistency Using Motion Consistency Loss**|Xinyu Zhang et.al.|[2501.07563](http://arxiv.org/abs/2501.07563)|null|
 |**2025-01-13**|**SST-EM: Advanced Metrics for Evaluating Semantic, Spatial and Temporal Aspects in Video Editing**|Varun Biyyala et.al.|[2501.07554](http://arxiv.org/abs/2501.07554)|**[link](https://github.com/custommetrics-sst/sst_customevaluationmetrics)**|
@@ -2520,7 +2520,7 @@ layout: default
 |**2025-01-13**|**Pre-Trained Large Language Model Based Remaining Useful Life Transfer Prediction of Bearing**|Laifa Tao et.al.|[2501.07191](http://arxiv.org/abs/2501.07191)|null|
 |**2025-01-13**|**Erasing Noise in Signal Detection with Diffusion Model: From Theory to Application**|Xiucheng Wang et.al.|[2501.07030](http://arxiv.org/abs/2501.07030)|null|
 |**2025-01-13**|**Global Search for Optimal Low Thrust Spacecraft Trajectories using Diffusion Models and the Indirect Method**|Jannik Graebner et.al.|[2501.07005](http://arxiv.org/abs/2501.07005)|null|
-|**2025-01-08**|**Scalable Cosmic AI Inference using Cloud Serverless Computing with FMI**|Mills Staylor et.al.|[2501.06249](http://arxiv.org/abs/2501.06249)|null|
+|**2025-01-08**|**Scalable Cosmic AI Inference using Cloud Serverless Computing with FMI**|Mills Staylor et.al.|[2501.06249](http://arxiv.org/abs/2501.06249)|**[link](https://github.com/UVA-MLSys/AI-for-Astronomy)**|
 |**2025-01-10**|**Meta-Learning for Physically-Constrained Neural System Identification**|Ankush Chakrabarty et.al.|[2501.06167](http://arxiv.org/abs/2501.06167)|null|
 |**2025-01-10**|**Investigating the Impact of Observation Space Design Choices On Training Reinforcement Learning Solutions for Spacecraft Problems**|Nathaniel Hamilton et.al.|[2501.06016](http://arxiv.org/abs/2501.06016)|null|
 |**2025-01-10**|**Orthogonal projection-based regularization for efficient model augmentation**|Bendegúz M. Györök et.al.|[2501.05842](http://arxiv.org/abs/2501.05842)|**[link](https://github.com/aimotionlab-sztaki/orthogonal-augmentation)**|
