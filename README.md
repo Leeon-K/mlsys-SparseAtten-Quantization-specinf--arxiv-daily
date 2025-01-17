@@ -25,6 +25,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-16**|**Distilling Multi-modal Large Language Models for Autonomous Driving**|Deepti Hegde et.al.|[2501.09757](http://arxiv.org/abs/2501.09757)|null|
+|**2025-01-16**|**SynthLight: Portrait Relighting with Diffusion Model by Learning to Re-render Synthetic Faces**|Sumit Chaturvedi et.al.|[2501.09756](http://arxiv.org/abs/2501.09756)|null|
+|**2025-01-16**|**Lost in Translation, Found in Context: Sign Language Translation with Contextual Cues**|Youngjoon Jang et.al.|[2501.09754](http://arxiv.org/abs/2501.09754)|null|
+|**2025-01-16**|**Enhancing Lexicon-Based Text Embeddings with Large Language Models**|Yibin Lei et.al.|[2501.09749](http://arxiv.org/abs/2501.09749)|null|
+|**2025-01-16**|**Suggesting Code Edits in Interactive Machine Learning Notebooks Using Large Language Models**|Bihui Jin et.al.|[2501.09745](http://arxiv.org/abs/2501.09745)|null|
+|**2025-01-16**|**Inference-Time Scaling for Diffusion Models beyond Scaling Denoising Steps**|Nanye Ma et.al.|[2501.09732](http://arxiv.org/abs/2501.09732)|null|
+|**2025-01-16**|**Predictions as Surrogates: Revisiting Surrogate Outcomes in the Age of AI**|Wenlong Ji et.al.|[2501.09731](http://arxiv.org/abs/2501.09731)|null|
+|**2025-01-16**|**CyberMentor: AI Powered Learning Tool Platform to Address Diverse Student Needs in Cybersecurity Education**|Tianyu Wang et.al.|[2501.09709](http://arxiv.org/abs/2501.09709)|null|
+|**2025-01-16**|**Domain Adaptation of Foundation LLMs for e-Commerce**|Christian Herold et.al.|[2501.09706](http://arxiv.org/abs/2501.09706)|null|
+|**2025-01-16**|**Towards Large Reasoning Models: A Survey of Reinforced Reasoning with Large Language Models**|Fengli Xu et.al.|[2501.09686](http://arxiv.org/abs/2501.09686)|null|
 |**2025-01-15**|**Family-wise Error Rate Control with E-values**|Will Hartog et.al.|[2501.09015](http://arxiv.org/abs/2501.09015)|null|
 |**2025-01-15**|**Multimodal LLMs Can Reason about Aesthetics in Zero-Shot**|Ruixiang Jiang et.al.|[2501.09012](http://arxiv.org/abs/2501.09012)|**[link](https://github.com/songrise/mllm4art)**|
 |**2025-01-15**|**Towards Fast, Specialized Machine Learning Force Fields: Distilling Foundation Models via Energy Hessians**|Ishan Amin et.al.|[2501.09009](http://arxiv.org/abs/2501.09009)|null|
@@ -1476,6 +1486,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-16**|**Distilling Multi-modal Large Language Models for Autonomous Driving**|Deepti Hegde et.al.|[2501.09757](http://arxiv.org/abs/2501.09757)|null|
+|**2025-01-16**|**SynthLight: Portrait Relighting with Diffusion Model by Learning to Re-render Synthetic Faces**|Sumit Chaturvedi et.al.|[2501.09756](http://arxiv.org/abs/2501.09756)|null|
+|**2025-01-16**|**Inference-Time Scaling for Diffusion Models beyond Scaling Denoising Steps**|Nanye Ma et.al.|[2501.09732](http://arxiv.org/abs/2501.09732)|null|
+|**2025-01-16**|**Predictions as Surrogates: Revisiting Surrogate Outcomes in the Age of AI**|Wenlong Ji et.al.|[2501.09731](http://arxiv.org/abs/2501.09731)|null|
+|**2025-01-16**|**Towards Large Reasoning Models: A Survey of Reinforced Reasoning with Large Language Models**|Fengli Xu et.al.|[2501.09686](http://arxiv.org/abs/2501.09686)|null|
+|**2025-01-16**|**Reward-Guided Controlled Generation for Inference-Time Alignment in Diffusion Models: Tutorial and Review**|Masatoshi Uehara et.al.|[2501.09685](http://arxiv.org/abs/2501.09685)|null|
+|**2025-01-16**|**Statistical inference for interacting innovation processes and related general results**|Giacomo Aletti et.al.|[2501.09648](http://arxiv.org/abs/2501.09648)|null|
+|**2025-01-16**|**Beyond Reward Hacking: Causal Rewards for Large Language Model Alignment**|Chaoqi Wang et.al.|[2501.09620](http://arxiv.org/abs/2501.09620)|null|
+|**2025-01-16**|**Managed-Retention Memory: A New Class of Memory for the AI Era**|Sergey Legtchenko et.al.|[2501.09605](http://arxiv.org/abs/2501.09605)|null|
+|**2025-01-16**|**Atleus: Accelerating Transformers on the Edge Enabled by 3D Heterogeneous Manycore Architectures**|Pratyush Dhingra et.al.|[2501.09588](http://arxiv.org/abs/2501.09588)|null|
 |**2025-01-15**|**Family-wise Error Rate Control with E-values**|Will Hartog et.al.|[2501.09015](http://arxiv.org/abs/2501.09015)|null|
 |**2025-01-15**|**Towards Fast, Specialized Machine Learning Force Fields: Distilling Foundation Models via Energy Hessians**|Ishan Amin et.al.|[2501.09009](http://arxiv.org/abs/2501.09009)|null|
 |**2025-01-15**|**Aegis2.0: A Diverse AI Safety Dataset and Risks Taxonomy for Alignment of LLM Guardrails**|Shaona Ghosh et.al.|[2501.09004](http://arxiv.org/abs/2501.09004)|null|
@@ -2563,6 +2583,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-16**|**Weight for Robustness: A Comprehensive Approach towards Optimal Fault-Tolerant Asynchronous ML**|Tehila Dahan et.al.|[2501.09621](http://arxiv.org/abs/2501.09621)|**[link](https://github.com/dahan198/asynchronous-fault-tolerant-ml)**|
+|**2025-01-16**|**Intra-day Solar and Power Forecast for Optimization of Intraday Market Participation**|Nelson Salazar-Peña et.al.|[2501.09551](http://arxiv.org/abs/2501.09551)|null|
+|**2025-01-16**|**Comprehensive Survey of QML: From Data Analysis to Algorithmic Advancements**|Sahil Tomar et.al.|[2501.09528](http://arxiv.org/abs/2501.09528)|null|
 |**2025-01-14**|**Prediction Interval Construction Method for Electricity Prices**|Xin Lu et.al.|[2501.07827](http://arxiv.org/abs/2501.07827)|null|
 |**2025-01-13**|**Finite Sample Identification of Partially Observed Bilinear Dynamical Systems**|Yahya Sattar et.al.|[2501.07652](http://arxiv.org/abs/2501.07652)|null|
 |**2025-01-13**|**Interpretable machine-learning for predicting molecular weight of PLA based on artificial bee colony optimization algorithm and adaptive neurofuzzy inference system**|Amir Pouya Masoumi et.al.|[2501.07247](http://arxiv.org/abs/2501.07247)|null|
