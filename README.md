@@ -25,6 +25,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-17**|**FaceXBench: Evaluating Multimodal LLMs on Face Understanding**|Kartik Narayan et.al.|[2501.10360](http://arxiv.org/abs/2501.10360)|**[link](https://github.com/kartik-3004/facexbench)**|
+|**2025-01-17**|**Principled model selection for stochastic dynamics**|Andonis Gerardos et.al.|[2501.10339](http://arxiv.org/abs/2501.10339)|null|
+|**2025-01-17**|**Agent4Edu: Generating Learner Response Data by Generative Agents for Intelligent Education Systems**|Weibo Gao et.al.|[2501.10332](http://arxiv.org/abs/2501.10332)|null|
+|**2025-01-17**|**Large language models for automated scholarly paper review: A survey**|Zhenzhen Zhuang et.al.|[2501.10326](http://arxiv.org/abs/2501.10326)|null|
+|**2025-01-17**|**Towards Human-Guided, Data-Centric LLM Co-Pilots**|Evgeny Saveliev et.al.|[2501.10321](http://arxiv.org/abs/2501.10321)|null|
+|**2025-01-17**|**Towards Preventing Overreliance on Task-Oriented Conversational AI Through Accountability Modeling**|Suvodip Dey et.al.|[2501.10316](http://arxiv.org/abs/2501.10316)|**[link](https://github.com/uiuc-conversational-ai-lab/accountable-dst)**|
+|**2025-01-17**|**Addressing Popularity Bias in Third-Party Library Recommendations Using LLMs**|Claudio Di Sipio et.al.|[2501.10313](http://arxiv.org/abs/2501.10313)|null|
+|**2025-01-17**|**An optimal transport based embedding to quantify the distance between playing styles in collective sports**|Ali Baouan et.al.|[2501.10299](http://arxiv.org/abs/2501.10299)|null|
+|**2025-01-17**|**Cheap Subsampling bootstrap confidence intervals for fast and robust inference in biostatistics**|Johan Sebastian Ohlendorff et.al.|[2501.10289](http://arxiv.org/abs/2501.10289)|null|
+|**2025-01-17**|**Computational Protein Science in the Era of Large Language Models (LLMs)**|Wenqi Fan et.al.|[2501.10282](http://arxiv.org/abs/2501.10282)|null|
 |**2025-01-16**|**Distilling Multi-modal Large Language Models for Autonomous Driving**|Deepti Hegde et.al.|[2501.09757](http://arxiv.org/abs/2501.09757)|null|
 |**2025-01-16**|**SynthLight: Portrait Relighting with Diffusion Model by Learning to Re-render Synthetic Faces**|Sumit Chaturvedi et.al.|[2501.09756](http://arxiv.org/abs/2501.09756)|null|
 |**2025-01-16**|**Lost in Translation, Found in Context: Sign Language Translation with Contextual Cues**|Youngjoon Jang et.al.|[2501.09754](http://arxiv.org/abs/2501.09754)|null|
@@ -1150,6 +1160,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-17**|**Optimizing Structured-Sparse Matrix Multiplication in RISC-V Vector Processors**|Vasileios Titopoulos et.al.|[2501.10189](http://arxiv.org/abs/2501.10189)|null|
+|**2025-01-17**|**AIRCHITECT v2: Learning the Hardware Accelerator Design Space through Unified Representations**|Jamin Seo et.al.|[2501.09954](http://arxiv.org/abs/2501.09954)|**[link](https://github.com/maestro-project/airchitect-v2)**|
 |**2025-01-15**|**RouteNet-Gauss: Hardware-Enhanced Network Modeling with Machine Learning**|Carlos Güemes-Palau et.al.|[2501.08848](http://arxiv.org/abs/2501.08848)|null|
 |**2025-01-15**|**Detecting Wildfire Flame and Smoke through Edge Computing using Transfer Learning Enhanced Deep Learning Models**|Giovanny Vazquez et.al.|[2501.08639](http://arxiv.org/abs/2501.08639)|null|
 |**2025-01-14**|**An Efficient Sparse Hardware Accelerator for Spike-Driven Transformer**|Zhengke Li et.al.|[2501.07825](http://arxiv.org/abs/2501.07825)|null|
@@ -1297,6 +1309,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-17**|**Michscan: Black-Box Neural Network Integrity Checking at Runtime Through Power Analysis**|Robi Paul et.al.|[2501.10174](http://arxiv.org/abs/2501.10174)|null|
 |**2025-01-13**|**QuantuneV2: Compiler-Based Local Metric-Driven Mixed Precision Quantization for Practical Embedded AI Applications**|Jeongseok Kim et.al.|[2501.07161](http://arxiv.org/abs/2501.07161)|null|
 |**2025-01-12**|**Integrated Sensing and Edge AI: Realizing Intelligent Perception in 6G**|Zhiyan Liu et.al.|[2501.06726](http://arxiv.org/abs/2501.06726)|null|
 |**2025-01-09**|**Towards smart and adaptive agents for active sensing on edge devices**|Devendra Vyas et.al.|[2501.06262](http://arxiv.org/abs/2501.06262)|null|
@@ -1486,6 +1499,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-17**|**Principled model selection for stochastic dynamics**|Andonis Gerardos et.al.|[2501.10339](http://arxiv.org/abs/2501.10339)|null|
+|**2025-01-17**|**Cheap Subsampling bootstrap confidence intervals for fast and robust inference in biostatistics**|Johan Sebastian Ohlendorff et.al.|[2501.10289](http://arxiv.org/abs/2501.10289)|null|
+|**2025-01-17**|**A data-driven approach for extracting tidal information from neutron star binary mergers observed with the Einstein Telescope**|Adrian Abac et.al.|[2501.10272](http://arxiv.org/abs/2501.10272)|null|
+|**2025-01-17**|**Prior distributions for structured semi-orthogonal matrices**|Michael Jauch et.al.|[2501.10263](http://arxiv.org/abs/2501.10263)|null|
+|**2025-01-17**|**Over-the-Air Multi-Sensor Inference with Neural Networks Using Memristor-Based Analog Computing**|Busra Tegin et.al.|[2501.10245](http://arxiv.org/abs/2501.10245)|null|
+|**2025-01-17**|**DeepSSM: an emulator of gravitational wave spectra from sound waves during cosmological first-order phase transitions**|Chi Tian et.al.|[2501.10244](http://arxiv.org/abs/2501.10244)|null|
+|**2025-01-17**|**Underestimation of systolic pressure in cuff-based blood pressure measurement**|Kate Bassil et.al.|[2501.10232](http://arxiv.org/abs/2501.10232)|null|
+|**2025-01-17**|**Amortized Bayesian Mixture Models**|Šimon Kucharský et.al.|[2501.10229](http://arxiv.org/abs/2501.10229)|null|
+|**2025-01-17**|**Adaptive Clustering for Efficient Phenotype Segmentation of UAV Hyperspectral Data**|Ciem Cornelissen et.al.|[2501.10199](http://arxiv.org/abs/2501.10199)|null|
+|**2025-01-17**|**Time-Resolved Measurements of Cumulative Effects in Gas Dynamics Induced by High-Repetition-Rate Femtosecond Laser Filamentation**|Robin Löscher et.al.|[2501.10198](http://arxiv.org/abs/2501.10198)|null|
 |**2025-01-16**|**Distilling Multi-modal Large Language Models for Autonomous Driving**|Deepti Hegde et.al.|[2501.09757](http://arxiv.org/abs/2501.09757)|null|
 |**2025-01-16**|**SynthLight: Portrait Relighting with Diffusion Model by Learning to Re-render Synthetic Faces**|Sumit Chaturvedi et.al.|[2501.09756](http://arxiv.org/abs/2501.09756)|null|
 |**2025-01-16**|**Inference-Time Scaling for Diffusion Models beyond Scaling Denoising Steps**|Nanye Ma et.al.|[2501.09732](http://arxiv.org/abs/2501.09732)|null|
@@ -2583,6 +2606,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-17**|**Explainable artificial intelligence (XAI): from inherent explainability to large language models**|Fuseini Mumuni et.al.|[2501.09967](http://arxiv.org/abs/2501.09967)|null|
 |**2025-01-16**|**Weight for Robustness: A Comprehensive Approach towards Optimal Fault-Tolerant Asynchronous ML**|Tehila Dahan et.al.|[2501.09621](http://arxiv.org/abs/2501.09621)|**[link](https://github.com/dahan198/asynchronous-fault-tolerant-ml)**|
 |**2025-01-16**|**Intra-day Solar and Power Forecast for Optimization of Intraday Market Participation**|Nelson Salazar-Peña et.al.|[2501.09551](http://arxiv.org/abs/2501.09551)|null|
 |**2025-01-16**|**Comprehensive Survey of QML: From Data Analysis to Algorithmic Advancements**|Sahil Tomar et.al.|[2501.09528](http://arxiv.org/abs/2501.09528)|null|
