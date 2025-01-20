@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.19
+## Updated on 2025.01.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Quantization
@@ -23,7 +23,7 @@ layout: default
 |**2025-01-16**|**Predictions as Surrogates: Revisiting Surrogate Outcomes in the Age of AI**|Wenlong Ji et.al.|[2501.09731](http://arxiv.org/abs/2501.09731)|null|
 |**2025-01-16**|**CyberMentor: AI Powered Learning Tool Platform to Address Diverse Student Needs in Cybersecurity Education**|Tianyu Wang et.al.|[2501.09709](http://arxiv.org/abs/2501.09709)|null|
 |**2025-01-16**|**Domain Adaptation of Foundation LLMs for e-Commerce**|Christian Herold et.al.|[2501.09706](http://arxiv.org/abs/2501.09706)|null|
-|**2025-01-16**|**Towards Large Reasoning Models: A Survey of Reinforced Reasoning with Large Language Models**|Fengli Xu et.al.|[2501.09686](http://arxiv.org/abs/2501.09686)|null|
+|**2025-01-17**|**Towards Large Reasoning Models: A Survey on Scaling LLM Reasoning Capabilities**|Fengli Xu et.al.|[2501.09686](http://arxiv.org/abs/2501.09686)|null|
 |**2025-01-15**|**Family-wise Error Rate Control with E-values**|Will Hartog et.al.|[2501.09015](http://arxiv.org/abs/2501.09015)|null|
 |**2025-01-15**|**Multimodal LLMs Can Reason about Aesthetics in Zero-Shot**|Ruixiang Jiang et.al.|[2501.09012](http://arxiv.org/abs/2501.09012)|**[link](https://github.com/songrise/mllm4art)**|
 |**2025-01-15**|**Towards Fast, Specialized Machine Learning Force Fields: Distilling Foundation Models via Energy Hessians**|Ishan Amin et.al.|[2501.09009](http://arxiv.org/abs/2501.09009)|null|
@@ -1142,7 +1142,7 @@ layout: default
 |**2025-01-12**|**Turing-Completeness and Undecidability in Coupled Nonlinear Optical Resonators**|Gordon Li et.al.|[2501.06966](http://arxiv.org/abs/2501.06966)|null|
 |**2025-01-10**|**Axon: A novel systolic array architecture for improved run time and energy efficient GeMM and Conv operation with on-chip im2col**|Md Mizanur Rahaman Nayan et.al.|[2501.06043](http://arxiv.org/abs/2501.06043)|null|
 |**2025-01-10**|**EDNet: Edge-Optimized Small Target Detection in UAV Imagery -- Faster Context Attention, Better Feature Fusion, and Hardware Acceleration**|Zhifan Song et.al.|[2501.05885](http://arxiv.org/abs/2501.05885)|**[link](https://github.com/zsniko/ednet)**|
-|**2025-01-10**|**TakuNet: an Energy-Efficient CNN for Real-Time Inference on Embedded UAV systems in Emergency Response Scenarios**|Daniel Rossi et.al.|[2501.05880](http://arxiv.org/abs/2501.05880)|**[link](https://github.com/danielrossi1/takunet)**|
+|**2025-01-16**|**TakuNet: an Energy-Efficient CNN for Real-Time Inference on Embedded UAV systems in Emergency Response Scenarios**|Daniel Rossi et.al.|[2501.05880](http://arxiv.org/abs/2501.05880)|**[link](https://github.com/danielrossi1/takunet)**|
 |**2025-01-09**|**JAQ: Joint Efficient Architecture Design and Low-Bit Quantization with Hardware-Software Co-Exploration**|Mingzi Wang et.al.|[2501.05339](http://arxiv.org/abs/2501.05339)|null|
 |**2025-01-08**|**IQPopt: Fast optimization of instantaneous quantum polynomial circuits in JAX**|Erik Recio-Armengol et.al.|[2501.04776](http://arxiv.org/abs/2501.04776)|null|
 |**2025-01-08**|**Probabilistic Greedy Algorithm Solver Using Magnetic Tunneling Junctions for Traveling Salesman Problem**|Ran Zhang et.al.|[2501.04447](http://arxiv.org/abs/2501.04447)|null|
@@ -1465,7 +1465,7 @@ layout: default
 |**2025-01-16**|**SynthLight: Portrait Relighting with Diffusion Model by Learning to Re-render Synthetic Faces**|Sumit Chaturvedi et.al.|[2501.09756](http://arxiv.org/abs/2501.09756)|null|
 |**2025-01-16**|**Inference-Time Scaling for Diffusion Models beyond Scaling Denoising Steps**|Nanye Ma et.al.|[2501.09732](http://arxiv.org/abs/2501.09732)|null|
 |**2025-01-16**|**Predictions as Surrogates: Revisiting Surrogate Outcomes in the Age of AI**|Wenlong Ji et.al.|[2501.09731](http://arxiv.org/abs/2501.09731)|null|
-|**2025-01-16**|**Towards Large Reasoning Models: A Survey of Reinforced Reasoning with Large Language Models**|Fengli Xu et.al.|[2501.09686](http://arxiv.org/abs/2501.09686)|null|
+|**2025-01-17**|**Towards Large Reasoning Models: A Survey on Scaling LLM Reasoning Capabilities**|Fengli Xu et.al.|[2501.09686](http://arxiv.org/abs/2501.09686)|null|
 |**2025-01-16**|**Reward-Guided Controlled Generation for Inference-Time Alignment in Diffusion Models: Tutorial and Review**|Masatoshi Uehara et.al.|[2501.09685](http://arxiv.org/abs/2501.09685)|null|
 |**2025-01-16**|**Statistical inference for interacting innovation processes and related general results**|Giacomo Aletti et.al.|[2501.09648](http://arxiv.org/abs/2501.09648)|null|
 |**2025-01-16**|**Beyond Reward Hacking: Causal Rewards for Large Language Model Alignment**|Chaoqi Wang et.al.|[2501.09620](http://arxiv.org/abs/2501.09620)|null|
