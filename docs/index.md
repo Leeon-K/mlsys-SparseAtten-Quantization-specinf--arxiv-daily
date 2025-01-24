@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-23**|**Fast3R: Towards 3D Reconstruction of 1000+ Images in One Forward Pass**|Jianing Yang et.al.|[2501.13928](http://arxiv.org/abs/2501.13928)|null|
+|**2025-01-23**|**CRPO: Confidence-Reward Driven Preference Optimization for Machine Translation**|Guofeng Cui et.al.|[2501.13927](http://arxiv.org/abs/2501.13927)|null|
+|**2025-01-23**|**The Breeze 2 Herd of Models: Traditional Chinese LLMs Based on Llama with Vision-Aware and Function-Calling Capabilities**|Chan-Jan Hsu et.al.|[2501.13921](http://arxiv.org/abs/2501.13921)|null|
+|**2025-01-23**|**Improving Video Generation with Human Feedback**|Jie Liu et.al.|[2501.13918](http://arxiv.org/abs/2501.13918)|null|
+|**2025-01-23**|**Binary Diffusion Probabilistic Model**|Vitaliy Kinakh et.al.|[2501.13915](http://arxiv.org/abs/2501.13915)|null|
+|**2025-01-23**|**Analysis of Indic Language Capabilities in LLMs**|Aatman Vaidya et.al.|[2501.13912](http://arxiv.org/abs/2501.13912)|null|
+|**2025-01-23**|**Localization and wall-crossing of giant graviton expansions in AdS $_5$**|Giorgos Eleftheriou et.al.|[2501.13910](http://arxiv.org/abs/2501.13910)|null|
+|**2025-01-23**|**Privacy-Preserving Personalized Federated Prompt Learning for Multimodal Large Language Models**|Linh Tran et.al.|[2501.13904](http://arxiv.org/abs/2501.13904)|null|
+|**2025-01-23**|**The simplest 2D quantum walk detects chaoticity**|C. Alonso-Lobo et.al.|[2501.13900](http://arxiv.org/abs/2501.13900)|null|
+|**2025-01-23**|**GUI-Bee: Align GUI Action Grounding to Novel Environments via Autonomous Exploration**|Yue Fan et.al.|[2501.13896](http://arxiv.org/abs/2501.13896)|null|
 |**2025-01-23**|**Accelerate High-Quality Diffusion Models with Inner Loop Feedback**|Matthew Gwilliam et.al.|[2501.13107](http://arxiv.org/abs/2501.13107)|null|
 |**2025-01-23**|**VideoLLaMA 3: Frontier Multimodal Foundation Models for Image and Video Understanding**|Boqiang Zhang et.al.|[2501.13106](http://arxiv.org/abs/2501.13106)|**[link](https://github.com/damo-nlp-sg/videollama3)**|
 |**2025-01-22**|**Robust Representation Consistency Model via Contrastive Denoising**|Jiachen Lei et.al.|[2501.13094](http://arxiv.org/abs/2501.13094)|**[link](https://github.com/jiachenlei/rrcm)**|
@@ -1501,6 +1511,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-23**|**Fast3R: Towards 3D Reconstruction of 1000+ Images in One Forward Pass**|Jianing Yang et.al.|[2501.13928](http://arxiv.org/abs/2501.13928)|null|
+|**2025-01-23**|**The Breeze 2 Herd of Models: Traditional Chinese LLMs Based on Llama with Vision-Aware and Function-Calling Capabilities**|Chan-Jan Hsu et.al.|[2501.13921](http://arxiv.org/abs/2501.13921)|null|
+|**2025-01-23**|**Improving Video Generation with Human Feedback**|Jie Liu et.al.|[2501.13918](http://arxiv.org/abs/2501.13918)|null|
+|**2025-01-23**|**Binary Diffusion Probabilistic Model**|Vitaliy Kinakh et.al.|[2501.13915](http://arxiv.org/abs/2501.13915)|null|
+|**2025-01-23**|**GUI-Bee: Align GUI Action Grounding to Novel Environments via Autonomous Exploration**|Yue Fan et.al.|[2501.13896](http://arxiv.org/abs/2501.13896)|null|
+|**2025-01-23**|**Multimodal Sensor Dataset for Monitoring Older Adults Post Lower-Limb Fractures in Community Settings**|Ali Abedi et.al.|[2501.13888](http://arxiv.org/abs/2501.13888)|null|
+|**2025-01-23**|**Finite mixture representations of zero-&- $N$ -inflated distributions for count-compositional data**|André F. B. Menezes et.al.|[2501.13879](http://arxiv.org/abs/2501.13879)|null|
+|**2025-01-23**|**Dual-Modal Prototype Joint Learning for Compositional Zero-Shot Learning**|Shiyu Zhang et.al.|[2501.13859](http://arxiv.org/abs/2501.13859)|null|
+|**2025-01-23**|**MV-GMN: State Space Model for Multi-View Action Recognition**|Yuhui Lin et.al.|[2501.13829](http://arxiv.org/abs/2501.13829)|null|
+|**2025-01-23**|**Modelling superspreading dynamics and circadian rhythms in online discussion boards using Hawkes processes**|Joe Meagher et.al.|[2501.13823](http://arxiv.org/abs/2501.13823)|null|
 |**2025-01-23**|**Accelerate High-Quality Diffusion Models with Inner Loop Feedback**|Matthew Gwilliam et.al.|[2501.13107](http://arxiv.org/abs/2501.13107)|null|
 |**2025-01-22**|**Robust Representation Consistency Model via Contrastive Denoising**|Jiachen Lei et.al.|[2501.13094](http://arxiv.org/abs/2501.13094)|**[link](https://github.com/jiachenlei/rrcm)**|
 |**2025-01-22**|**Attention-Driven Hierarchical Reinforcement Learning with Particle Filtering for Source Localization in Dynamic Fields**|Yiwei Shi et.al.|[2501.13084](http://arxiv.org/abs/2501.13084)|null|
@@ -2626,6 +2646,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-23**|**The machine learning platform for developers of large systems**|Alexey Naikov et.al.|[2501.13881](http://arxiv.org/abs/2501.13881)|null|
+|**2025-01-23**|**GenTL: A General Transfer Learning Model for Building Thermal Dynamics**|Fabian Raisch et.al.|[2501.13703](http://arxiv.org/abs/2501.13703)|null|
+|**2025-01-23**|**Communication-Efficient Stochastic Distributed Learning**|Xiaoxing Ren et.al.|[2501.13516](http://arxiv.org/abs/2501.13516)|null|
+|**2025-01-23**|**Zero-Shot Trajectory Planning for Signal Temporal Logic Tasks**|Ruijia Liu et.al.|[2501.13457](http://arxiv.org/abs/2501.13457)|null|
 |**2025-01-22**|**Practical quantum federated learning and its experimental demonstration**|Zhi-Ping Liu et.al.|[2501.12709](http://arxiv.org/abs/2501.12709)|null|
 |**2025-01-21**|**Fast sparse optimization via adaptive shrinkage**|Vito Cerone et.al.|[2501.12236](http://arxiv.org/abs/2501.12236)|null|
 |**2025-01-21**|**Dual NUP Representations and Min-Maximization in Factor Graphs**|Yun-Peng Li et.al.|[2501.12113](http://arxiv.org/abs/2501.12113)|null|
