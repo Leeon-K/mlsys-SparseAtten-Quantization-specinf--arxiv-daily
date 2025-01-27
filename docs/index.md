@@ -60,8 +60,8 @@ layout: default
 |**2025-01-16**|**Enhancing Lexicon-Based Text Embeddings with Large Language Models**|Yibin Lei et.al.|[2501.09749](http://arxiv.org/abs/2501.09749)|null|
 |**2025-01-16**|**Suggesting Code Edits in Interactive Machine Learning Notebooks Using Large Language Models**|Bihui Jin et.al.|[2501.09745](http://arxiv.org/abs/2501.09745)|null|
 |**2025-01-16**|**Inference-Time Scaling for Diffusion Models beyond Scaling Denoising Steps**|Nanye Ma et.al.|[2501.09732](http://arxiv.org/abs/2501.09732)|null|
-|**2025-01-16**|**Predictions as Surrogates: Revisiting Surrogate Outcomes in the Age of AI**|Wenlong Ji et.al.|[2501.09731](http://arxiv.org/abs/2501.09731)|null|
-|**2025-01-16**|**CyberMentor: AI Powered Learning Tool Platform to Address Diverse Student Needs in Cybersecurity Education**|Tianyu Wang et.al.|[2501.09709](http://arxiv.org/abs/2501.09709)|null|
+|**2025-01-16**|**Predictions as Surrogates: Revisiting Surrogate Outcomes in the Age of AI**|Wenlong Ji et.al.|[2501.09731](http://arxiv.org/abs/2501.09731)|**[link](https://github.com/wenlong2000/reppi)**|
+|**2025-01-16**|**CyberMentor: AI Powered Learning Tool Platform to Address Diverse Student Needs in Cybersecurity Education**|Tianyu Wang et.al.|[2501.09709](http://arxiv.org/abs/2501.09709)|**[link](https://github.com/tisage/cybermentor)**|
 |**2025-01-16**|**Domain Adaptation of Foundation LLMs for e-Commerce**|Christian Herold et.al.|[2501.09706](http://arxiv.org/abs/2501.09706)|null|
 |**2025-01-17**|**Towards Large Reasoning Models: A Survey on Scaling LLM Reasoning Capabilities**|Fengli Xu et.al.|[2501.09686](http://arxiv.org/abs/2501.09686)|null|
 |**2025-01-15**|**Family-wise Error Rate Control with E-values**|Will Hartog et.al.|[2501.09015](http://arxiv.org/abs/2501.09015)|null|
@@ -78,7 +78,7 @@ layout: default
 |**2025-01-14**|**PokerBench: Training Large Language Models to become Professional Poker Players**|Richard Zhuang et.al.|[2501.08328](http://arxiv.org/abs/2501.08328)|**[link](https://github.com/pokerllm/pokerbench)**|
 |**2025-01-14**|**ADAM-1: AI and Bioinformatics for Alzheimer's Detection and Microbiome-Clinical Data Integrations**|Ziyuan Huang et.al.|[2501.08324](http://arxiv.org/abs/2501.08324)|null|
 |**2025-01-14**|**Exploring Robustness of Multilingual LLMs on Real-World Noisy Data**|Amirhossein Aliakbarzadeh et.al.|[2501.08322](http://arxiv.org/abs/2501.08322)|**[link](https://github.com/caisa-lab/llms-real-world-noise-robustness)**|
-|**2025-01-14**|**FCC-ee Sensitivity to Flavor-Agnostic Standard Model Effective Field Theory Operators**|Ben Allanach et.al.|[2501.08321](http://arxiv.org/abs/2501.08321)|null|
+|**2025-01-14**|**FCC-ee Sensitivity to Flavor-Agnostic Standard Model Effective Field Theory Operators**|Ben Allanach et.al.|[2501.08321](http://arxiv.org/abs/2501.08321)|**[link](https://github.com/eetuloisa/flavio_fcc)**|
 |**2025-01-14**|**COMBO and COMMA: R packages for regression modeling and inference in the presence of misclassified binary mediator or outcome variables**|Kimberly A. Hochstedler Webb et.al.|[2501.08320](http://arxiv.org/abs/2501.08320)|null|
 |**2025-01-14**|**Enhancing Automated Interpretability with Output-Centric Feature Descriptions**|Yoav Gur-Arieh et.al.|[2501.08319](http://arxiv.org/abs/2501.08319)|**[link](https://github.com/yoavgur/feature-descriptions)**|
 |**2025-01-14**|**MiniMax-01: Scaling Foundation Models with Lightning Attention**|MiniMax et.al.|[2501.08313](http://arxiv.org/abs/2501.08313)|null|
@@ -117,7 +117,7 @@ layout: default
 |**2025-01-08**|**Re-ranking the Context for Multimodal Retrieval Augmented Generation**|Matin Mortaheb et.al.|[2501.04695](http://arxiv.org/abs/2501.04695)|null|
 |**2025-01-08**|**EpiCoder: Encompassing Diversity and Complexity in Code Generation**|Yaoxiang Wang et.al.|[2501.04694](http://arxiv.org/abs/2501.04694)|null|
 |**2025-01-08**|**SPAR3D: Stable Point-Aware Reconstruction of 3D Objects from Single Images**|Zixuan Huang et.al.|[2501.04689](http://arxiv.org/abs/2501.04689)|null|
-|**2025-01-08**|**URSA: Understanding and Verifying Chain-of-thought Reasoning in Multimodal Mathematics**|Ruilin Luo et.al.|[2501.04686](http://arxiv.org/abs/2501.04686)|null|
+|**2025-01-08**|**URSA: Understanding and Verifying Chain-of-thought Reasoning in Multimodal Mathematics**|Ruilin Luo et.al.|[2501.04686](http://arxiv.org/abs/2501.04686)|**[link](https://github.com/URSA-MATH/URSA-MATH)**|
 |**2025-01-08**|**Towards System 2 Reasoning in LLMs: Learning How to Think With Meta Chain-of-Thought**|Violet Xiang et.al.|[2501.04682](http://arxiv.org/abs/2501.04682)|null|
 |**2025-01-08**|**Enhancing Financial VQA in Vision Language Models using Intermediate Structured Representations**|Archita Srivastava et.al.|[2501.04675](http://arxiv.org/abs/2501.04675)|null|
 |**2025-01-08**|**Are They the Same? Exploring Visual Correspondence Shortcomings of Multimodal LLMs**|Yikang Zhou et.al.|[2501.04670](http://arxiv.org/abs/2501.04670)|**[link](https://github.com/zhouyiks/colva)**|
@@ -133,7 +133,7 @@ layout: default
 |**2025-01-07**|**VLM-driven Behavior Tree for Context-aware Task Planning**|Naoki Wake et.al.|[2501.03968](http://arxiv.org/abs/2501.03968)|**[link](https://github.com/microsoft/scene-aware-robot-BT-planner)**|
 |**2025-01-07**|**Vision Language Models as Values Detectors**|Giulio Antonio Abbo et.al.|[2501.03957](http://arxiv.org/abs/2501.03957)|null|
 |**2025-01-07**|**Localizing AI: Evaluating Open-Weight Language Models for Languages of Baltic States**|Jurgita Kapočiūtė-Dzikienė et.al.|[2501.03952](http://arxiv.org/abs/2501.03952)|null|
-|**2025-01-07**|**Scalable calibration for partially observed individual-based epidemic models through categorical approximations**|Lorenzo Rimella et.al.|[2501.03950](http://arxiv.org/abs/2501.03950)|null|
+|**2025-01-07**|**Scalable calibration for partially observed individual-based epidemic models through categorical approximations**|Lorenzo Rimella et.al.|[2501.03950](http://arxiv.org/abs/2501.03950)|**[link](https://github.com/lorenzorimella/cal)**|
 |**2025-01-06**|**BoostStep: Boosting mathematical capability of Large Language Models via improved single-step reasoning**|Beichen Zhang et.al.|[2501.03226](http://arxiv.org/abs/2501.03226)|**[link](https://github.com/beichenzbc/booststep)**|
 |**2025-01-06**|**Dispider: Enabling Video LLMs with Active Real-Time Interaction via Disentangled Perception, Decision, and Reaction**|Rui Qian et.al.|[2501.03218](http://arxiv.org/abs/2501.03218)|**[link](https://github.com/mark12ding/dispider)**|
 |**2025-01-06**|**$q$ -deformed Perelomov-Popov measures and quantized free probability**|Panagiotis Zografos et.al.|[2501.03213](http://arxiv.org/abs/2501.03213)|null|
@@ -1191,7 +1191,7 @@ layout: default
 |**2025-01-10**|**EDNet: Edge-Optimized Small Target Detection in UAV Imagery -- Faster Context Attention, Better Feature Fusion, and Hardware Acceleration**|Zhifan Song et.al.|[2501.05885](http://arxiv.org/abs/2501.05885)|**[link](https://github.com/zsniko/ednet)**|
 |**2025-01-16**|**TakuNet: an Energy-Efficient CNN for Real-Time Inference on Embedded UAV systems in Emergency Response Scenarios**|Daniel Rossi et.al.|[2501.05880](http://arxiv.org/abs/2501.05880)|**[link](https://github.com/danielrossi1/takunet)**|
 |**2025-01-09**|**JAQ: Joint Efficient Architecture Design and Low-Bit Quantization with Hardware-Software Co-Exploration**|Mingzi Wang et.al.|[2501.05339](http://arxiv.org/abs/2501.05339)|null|
-|**2025-01-08**|**IQPopt: Fast optimization of instantaneous quantum polynomial circuits in JAX**|Erik Recio-Armengol et.al.|[2501.04776](http://arxiv.org/abs/2501.04776)|null|
+|**2025-01-08**|**IQPopt: Fast optimization of instantaneous quantum polynomial circuits in JAX**|Erik Recio-Armengol et.al.|[2501.04776](http://arxiv.org/abs/2501.04776)|**[link](https://github.com/xanaduai/iqpopt)**|
 |**2025-01-08**|**Probabilistic Greedy Algorithm Solver Using Magnetic Tunneling Junctions for Traveling Salesman Problem**|Ran Zhang et.al.|[2501.04447](http://arxiv.org/abs/2501.04447)|null|
 |**2025-01-04**|**Optimizing Edge AI: A Comprehensive Survey on Data, Model, and System Strategies**|Xubin Wang et.al.|[2501.03265](http://arxiv.org/abs/2501.03265)|**[link](https://github.com/wangxb96/awesome-ai-on-the-edge)**|
 |**2025-01-04**|**Optimizing Small Language Models for In-Vehicle Function-Calling**|Yahya Sowti Khiabani et.al.|[2501.02342](http://arxiv.org/abs/2501.02342)|null|
@@ -1546,7 +1546,7 @@ layout: default
 |**2025-01-17**|**A data-driven approach for extracting tidal information from neutron star binary mergers observed with the Einstein Telescope**|Adrian Abac et.al.|[2501.10272](http://arxiv.org/abs/2501.10272)|null|
 |**2025-01-17**|**Prior distributions for structured semi-orthogonal matrices**|Michael Jauch et.al.|[2501.10263](http://arxiv.org/abs/2501.10263)|null|
 |**2025-01-17**|**Over-the-Air Multi-Sensor Inference with Neural Networks Using Memristor-Based Analog Computing**|Busra Tegin et.al.|[2501.10245](http://arxiv.org/abs/2501.10245)|null|
-|**2025-01-17**|**DeepSSM: an emulator of gravitational wave spectra from sound waves during cosmological first-order phase transitions**|Chi Tian et.al.|[2501.10244](http://arxiv.org/abs/2501.10244)|null|
+|**2025-01-17**|**DeepSSM: an emulator of gravitational wave spectra from sound waves during cosmological first-order phase transitions**|Chi Tian et.al.|[2501.10244](http://arxiv.org/abs/2501.10244)|**[link](https://github.com/ctian282/deepssm)**|
 |**2025-01-17**|**Underestimation of systolic pressure in cuff-based blood pressure measurement**|Kate Bassil et.al.|[2501.10232](http://arxiv.org/abs/2501.10232)|null|
 |**2025-01-17**|**Amortized Bayesian Mixture Models**|Šimon Kucharský et.al.|[2501.10229](http://arxiv.org/abs/2501.10229)|null|
 |**2025-01-17**|**Adaptive Clustering for Efficient Phenotype Segmentation of UAV Hyperspectral Data**|Ciem Cornelissen et.al.|[2501.10199](http://arxiv.org/abs/2501.10199)|null|
@@ -1554,11 +1554,11 @@ layout: default
 |**2025-01-16**|**Distilling Multi-modal Large Language Models for Autonomous Driving**|Deepti Hegde et.al.|[2501.09757](http://arxiv.org/abs/2501.09757)|null|
 |**2025-01-16**|**SynthLight: Portrait Relighting with Diffusion Model by Learning to Re-render Synthetic Faces**|Sumit Chaturvedi et.al.|[2501.09756](http://arxiv.org/abs/2501.09756)|null|
 |**2025-01-16**|**Inference-Time Scaling for Diffusion Models beyond Scaling Denoising Steps**|Nanye Ma et.al.|[2501.09732](http://arxiv.org/abs/2501.09732)|null|
-|**2025-01-16**|**Predictions as Surrogates: Revisiting Surrogate Outcomes in the Age of AI**|Wenlong Ji et.al.|[2501.09731](http://arxiv.org/abs/2501.09731)|null|
+|**2025-01-16**|**Predictions as Surrogates: Revisiting Surrogate Outcomes in the Age of AI**|Wenlong Ji et.al.|[2501.09731](http://arxiv.org/abs/2501.09731)|**[link](https://github.com/wenlong2000/reppi)**|
 |**2025-01-17**|**Towards Large Reasoning Models: A Survey on Scaling LLM Reasoning Capabilities**|Fengli Xu et.al.|[2501.09686](http://arxiv.org/abs/2501.09686)|null|
 |**2025-01-16**|**Reward-Guided Controlled Generation for Inference-Time Alignment in Diffusion Models: Tutorial and Review**|Masatoshi Uehara et.al.|[2501.09685](http://arxiv.org/abs/2501.09685)|null|
 |**2025-01-16**|**Statistical inference for interacting innovation processes and related general results**|Giacomo Aletti et.al.|[2501.09648](http://arxiv.org/abs/2501.09648)|null|
-|**2025-01-16**|**Beyond Reward Hacking: Causal Rewards for Large Language Model Alignment**|Chaoqi Wang et.al.|[2501.09620](http://arxiv.org/abs/2501.09620)|null|
+|**2025-01-16**|**Beyond Reward Hacking: Causal Rewards for Large Language Model Alignment**|Chaoqi Wang et.al.|[2501.09620](http://arxiv.org/abs/2501.09620)|**[link](https://github.com/tatsu-lab/alpaca_farm)**|
 |**2025-01-16**|**Managed-Retention Memory: A New Class of Memory for the AI Era**|Sergey Legtchenko et.al.|[2501.09605](http://arxiv.org/abs/2501.09605)|null|
 |**2025-01-16**|**Atleus: Accelerating Transformers on the Edge Enabled by 3D Heterogeneous Manycore Architectures**|Pratyush Dhingra et.al.|[2501.09588](http://arxiv.org/abs/2501.09588)|null|
 |**2025-01-15**|**Family-wise Error Rate Control with E-values**|Will Hartog et.al.|[2501.09015](http://arxiv.org/abs/2501.09015)|null|
@@ -1573,7 +1573,7 @@ layout: default
 |**2025-01-15**|**Multi-View Transformers for Airway-To-Lung Ratio Inference on Cardiac CT Scans: The C4R Study**|Sneha N. Naik et.al.|[2501.08902](http://arxiv.org/abs/2501.08902)|null|
 |**2025-01-14**|**Predicting 4D Hand Trajectory from Monocular Videos**|Yufei Ye et.al.|[2501.08329](http://arxiv.org/abs/2501.08329)|null|
 |**2025-01-14**|**Exploring Robustness of Multilingual LLMs on Real-World Noisy Data**|Amirhossein Aliakbarzadeh et.al.|[2501.08322](http://arxiv.org/abs/2501.08322)|**[link](https://github.com/caisa-lab/llms-real-world-noise-robustness)**|
-|**2025-01-14**|**FCC-ee Sensitivity to Flavor-Agnostic Standard Model Effective Field Theory Operators**|Ben Allanach et.al.|[2501.08321](http://arxiv.org/abs/2501.08321)|null|
+|**2025-01-14**|**FCC-ee Sensitivity to Flavor-Agnostic Standard Model Effective Field Theory Operators**|Ben Allanach et.al.|[2501.08321](http://arxiv.org/abs/2501.08321)|**[link](https://github.com/eetuloisa/flavio_fcc)**|
 |**2025-01-14**|**COMBO and COMMA: R packages for regression modeling and inference in the presence of misclassified binary mediator or outcome variables**|Kimberly A. Hochstedler Webb et.al.|[2501.08320](http://arxiv.org/abs/2501.08320)|null|
 |**2025-01-14**|**MiniMax-01: Scaling Foundation Models with Lightning Attention**|MiniMax et.al.|[2501.08313](http://arxiv.org/abs/2501.08313)|null|
 |**2025-01-14**|**Constructing optimal dynamic monitoring and treatment regimes: An application to hypertension care**|Janie Coulombe et.al.|[2501.08274](http://arxiv.org/abs/2501.08274)|null|
@@ -1623,7 +1623,7 @@ layout: default
 |**2025-01-08**|**ALMA observations of CO isotopologues towards six obscured post-AGB stars**|T. Khouri et.al.|[2501.04492](http://arxiv.org/abs/2501.04492)|null|
 |**2025-01-07**|**NeuralSVG: An Implicit Representation for Text-to-Vector Generation**|Sagi Polaczek et.al.|[2501.03992](http://arxiv.org/abs/2501.03992)|null|
 |**2025-01-07**|**Sequentializing a Test: Anytime Validity is Free**|Nick W. Koning et.al.|[2501.03982](http://arxiv.org/abs/2501.03982)|null|
-|**2025-01-07**|**Scalable calibration for partially observed individual-based epidemic models through categorical approximations**|Lorenzo Rimella et.al.|[2501.03950](http://arxiv.org/abs/2501.03950)|null|
+|**2025-01-07**|**Scalable calibration for partially observed individual-based epidemic models through categorical approximations**|Lorenzo Rimella et.al.|[2501.03950](http://arxiv.org/abs/2501.03950)|**[link](https://github.com/lorenzorimella/cal)**|
 |**2025-01-07**|**Optimal Estimation of Temperature**|Shaoyong Zhang et.al.|[2501.03927](http://arxiv.org/abs/2501.03927)|null|
 |**2025-01-07**|**Cosmological Parameter Estimation with Sequential Linear Simulation-based Inference**|Nicolas Mediato-Diaz et.al.|[2501.03921](http://arxiv.org/abs/2501.03921)|**[link](https://github.com/ngm29/astro-lsbi)**|
 |**2025-01-07**|**Active Learning Techniques for Pomset Recognizers**|Adrien Pommellet et.al.|[2501.03914](http://arxiv.org/abs/2501.03914)|null|
