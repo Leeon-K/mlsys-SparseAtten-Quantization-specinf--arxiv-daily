@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.27
+## Updated on 2025.01.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Quantization
@@ -1526,7 +1526,7 @@ layout: default
 |**2025-01-24**|**Surface Vision Mamba: Leveraging Bidirectional State Space Model for Efficient Spherical Manifold Representation**|Rongzhao He et.al.|[2501.14679](http://arxiv.org/abs/2501.14679)|null|
 |**2025-01-24**|**Neural-Symbolic Message Passing with Dynamic Pruning**|Chongzhi Zhang et.al.|[2501.14661](http://arxiv.org/abs/2501.14661)|null|
 |**2025-01-24**|**Single-neuron deep generative model uncovers underlying physics of neuronal activity in Ca imaging data**|Jordi Abante et.al.|[2501.14615](http://arxiv.org/abs/2501.14615)|null|
-|**2025-01-24**|**3DLabelProp: Geometric-Driven Domain Generalization for LiDAR Semantic Segmentation in Autonomous Driving**|Jules Sanchez et.al.|[2501.14605](http://arxiv.org/abs/2501.14605)|null|
+|**2025-01-24**|**3DLabelProp: Geometric-Driven Domain Generalization for LiDAR Semantic Segmentation in Autonomous Driving**|Jules Sanchez et.al.|[2501.14605](http://arxiv.org/abs/2501.14605)|**[link](https://github.com/julessanchez/3dlabelprop)**|
 |**2025-01-24**|**Minimax Optimal Design with Spillover and Carryover Effects**|Haoyang Yu et.al.|[2501.14602](http://arxiv.org/abs/2501.14602)|null|
 |**2025-01-24**|**Type-Based Approaches to Rounding Error Analysis**|Ariel Eileen Kellison et.al.|[2501.14598](http://arxiv.org/abs/2501.14598)|null|
 |**2025-01-24**|**Bean: A Language for Backward Error Analysis**|Ariel E. Kellison et.al.|[2501.14550](http://arxiv.org/abs/2501.14550)|null|
