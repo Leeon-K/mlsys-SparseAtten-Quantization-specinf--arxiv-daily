@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-27**|**sDREAMER: Self-distilled Mixture-of-Modality-Experts Transformer for Automatic Sleep Staging**|Jingyuan Chen et.al.|[2501.16329](http://arxiv.org/abs/2501.16329)|null|
+|**2025-01-27**|**Efficient evaluation of real-time path integrals**|Job Feldbrugge et.al.|[2501.16323](http://arxiv.org/abs/2501.16323)|null|
+|**2025-01-27**|**A MARVEL-ous study of how well galaxy shapes reflect Dark Matter halo shapes in Cold Dark Matter Simulations**|Blake Keith et.al.|[2501.16317](http://arxiv.org/abs/2501.16317)|null|
+|**2025-01-27**|**A varifold-type estimation for data sampled on a rectifiable set**|Blanche Buet et.al.|[2501.16315](http://arxiv.org/abs/2501.16315)|null|
+|**2025-01-27**|**Evaluating The Performance of Using Large Language Models to Automate Summarization of CT Simulation Orders in Radiation Oncology**|Meiyun Cao et.al.|[2501.16309](http://arxiv.org/abs/2501.16309)|null|
+|**2025-01-27**|**RAPID: Retrieval-Augmented Parallel Inference Drafting for Text-Based Video Event Retrieval**|Long Nguyen et.al.|[2501.16303](http://arxiv.org/abs/2501.16303)|null|
+|**2025-01-27**|**Matryoshka Re-Ranker: A Flexible Re-Ranking Architecture With Configurable Depth and Width**|Zheng Liu et.al.|[2501.16302](http://arxiv.org/abs/2501.16302)|null|
+|**2025-01-27**|**Large Models in Dialogue for Active Perception and Anomaly Detection**|Tzoulio Chamiti et.al.|[2501.16300](http://arxiv.org/abs/2501.16300)|null|
+|**2025-01-27**|**A Unified Representation of Density-Power-Based Divergences Reducible to M-Estimation**|Masahiro Kobayashi et.al.|[2501.16287](http://arxiv.org/abs/2501.16287)|null|
+|**2025-01-27**|**Do LLMs Have Visualization Literacy? An Evaluation on Modified Visualizations to Test Generalization in Data Interpretation**|Jiayi Hong et.al.|[2501.16277](http://arxiv.org/abs/2501.16277)|null|
 |**2025-01-24**|**HERMES: A Unified Self-Driving World Model for Simultaneous 3D Scene Understanding and Generation**|Xin Zhou et.al.|[2501.14729](http://arxiv.org/abs/2501.14729)|**[link](https://github.com/lmd0311/hermes)**|
 |**2025-01-24**|**CodeMonkeys: Scaling Test-Time Compute for Software Engineering**|Ryan Ehrlich et.al.|[2501.14723](http://arxiv.org/abs/2501.14723)|null|
 |**2025-01-24**|**Do LLMs Provide Consistent Answers to Health-Related Questions across Languages?**|Ipek Baris Schlicht et.al.|[2501.14719](http://arxiv.org/abs/2501.14719)|null|
@@ -1339,6 +1349,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-25**|**On Accelerating Edge AI: Optimizing Resource-Constrained Environments**|Jacob Sander et.al.|[2501.15014](http://arxiv.org/abs/2501.15014)|null|
 |**2025-01-21**|**SplitQuant: Layer Splitting for Low-Bit Neural Network Quantization**|Jaewoo Song et.al.|[2501.12428](http://arxiv.org/abs/2501.12428)|null|
 |**2025-01-20**|**Consolidating TinyML Lifecycle with Large Language Models: Reality, Illusion, or Opportunity?**|Guanghan Wu et.al.|[2501.12420](http://arxiv.org/abs/2501.12420)|null|
 |**2025-01-17**|**Michscan: Black-Box Neural Network Integrity Checking at Runtime Through Power Analysis**|Robi Paul et.al.|[2501.10174](http://arxiv.org/abs/2501.10174)|null|
@@ -1523,6 +1534,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-27**|**sDREAMER: Self-distilled Mixture-of-Modality-Experts Transformer for Automatic Sleep Staging**|Jingyuan Chen et.al.|[2501.16329](http://arxiv.org/abs/2501.16329)|null|
+|**2025-01-27**|**A MARVEL-ous study of how well galaxy shapes reflect Dark Matter halo shapes in Cold Dark Matter Simulations**|Blake Keith et.al.|[2501.16317](http://arxiv.org/abs/2501.16317)|null|
+|**2025-01-27**|**A varifold-type estimation for data sampled on a rectifiable set**|Blanche Buet et.al.|[2501.16315](http://arxiv.org/abs/2501.16315)|null|
+|**2025-01-27**|**RAPID: Retrieval-Augmented Parallel Inference Drafting for Text-Based Video Event Retrieval**|Long Nguyen et.al.|[2501.16303](http://arxiv.org/abs/2501.16303)|null|
+|**2025-01-27**|**A Unified Representation of Density-Power-Based Divergences Reducible to M-Estimation**|Masahiro Kobayashi et.al.|[2501.16287](http://arxiv.org/abs/2501.16287)|null|
+|**2025-01-27**|**CLISC: Bridging clip and sam by enhanced cam for unsupervised brain tumor segmentation**|Xiaochuan Ma et.al.|[2501.16246](http://arxiv.org/abs/2501.16246)|null|
+|**2025-01-27**|**Distilling foundation models for robust and efficient models in digital pathology**|Alexandre Filiot et.al.|[2501.16239](http://arxiv.org/abs/2501.16239)|null|
+|**2025-01-27**|**Application of Structured State Space Models to High energy physics with locality-sensitive hashing**|Cheng Jiang et.al.|[2501.16237](http://arxiv.org/abs/2501.16237)|null|
+|**2025-01-27**|**Language-Based Bayesian Optimization Research Assistant (BORA)**|Abdoulatif Cissé et.al.|[2501.16224](http://arxiv.org/abs/2501.16224)|null|
+|**2025-01-27**|**Statistical Inference for Low-Rank Tensor Models**|Ke Xu et.al.|[2501.16223](http://arxiv.org/abs/2501.16223)|null|
 |**2025-01-24**|**Surface Vision Mamba: Leveraging Bidirectional State Space Model for Efficient Spherical Manifold Representation**|Rongzhao He et.al.|[2501.14679](http://arxiv.org/abs/2501.14679)|null|
 |**2025-01-24**|**Neural-Symbolic Message Passing with Dynamic Pruning**|Chongzhi Zhang et.al.|[2501.14661](http://arxiv.org/abs/2501.14661)|null|
 |**2025-01-24**|**Single-neuron deep generative model uncovers underlying physics of neuronal activity in Ca imaging data**|Jordi Abante et.al.|[2501.14615](http://arxiv.org/abs/2501.14615)|null|
@@ -2668,6 +2689,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-27**|**The Sample Complexity of Online Reinforcement Learning: A Multi-model Perspective**|Michael Muehlebach et.al.|[2501.15910](http://arxiv.org/abs/2501.15910)|null|
+|**2025-01-27**|**Gaussian Process-Based Prediction and Control of Hammerstein-Wiener Systems**|Mingzhou Yin et.al.|[2501.15849](http://arxiv.org/abs/2501.15849)|null|
+|**2025-01-27**|**Integrating Personalized Federated Learning with Control Systems for Enhanced Performance**|Alice Smith et.al.|[2501.15728](http://arxiv.org/abs/2501.15728)|null|
+|**2025-01-26**|**One Model to Forecast Them All and in Entity Distributions Bind Them**|Kutay Bölat et.al.|[2501.15499](http://arxiv.org/abs/2501.15499)|null|
+|**2025-01-26**|**Learning-Enhanced Safeguard Control for High-Relative-Degree Systems: Robust Optimization under Disturbances and Faults**|Xinyang Wang et.al.|[2501.15373](http://arxiv.org/abs/2501.15373)|null|
+|**2025-01-25**|**Killing it with Zero-Shot: Adversarially Robust Novelty Detection**|Hossein Mirzaei et.al.|[2501.15271](http://arxiv.org/abs/2501.15271)|**[link](https://github.com/rohban-lab/zarnd)**|
+|**2025-01-25**|**Predictive Lagrangian Optimization for Constrained Reinforcement Learning**|Tianqi Zhang et.al.|[2501.15217](http://arxiv.org/abs/2501.15217)|null|
+|**2025-01-25**|**Data Center Cooling System Optimization Using Offline Reinforcement Learning**|Xianyuan Zhan et.al.|[2501.15085](http://arxiv.org/abs/2501.15085)|null|
 |**2025-01-24**|**Decision-Focused Learning for Complex System Identification: HVAC Management System Application**|Pietro Favaro et.al.|[2501.14708](http://arxiv.org/abs/2501.14708)|null|
 |**2025-01-21**|**Adaptive Cyber-Attack Detection in IIoT Using Attention-Based LSTM-CNN Models**|Afrah Gueriani et.al.|[2501.13962](http://arxiv.org/abs/2501.13962)|null|
 |**2025-01-23**|**The machine learning platform for developers of large systems**|Alexey Naikov et.al.|[2501.13881](http://arxiv.org/abs/2501.13881)|null|
