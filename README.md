@@ -25,6 +25,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-29**|**Dialogue is Better Than Monologue: Instructing Medical LLMs via Strategical Conversations**|Zijie Liu et.al.|[2501.17860](http://arxiv.org/abs/2501.17860)|null|
+|**2025-01-29**|**Improving Your Model Ranking on Chatbot Arena by Vote Rigging**|Rui Min et.al.|[2501.17858](http://arxiv.org/abs/2501.17858)|**[link](https://github.com/sail-sg/rigging-chatbotarena)**|
+|**2025-01-29**|**Learning Beyond the Surface: How Far Can Continual Pre-Training with LoRA Enhance LLMs' Domain-Specific Insight Learning?**|Pouya Pezeshkpour et.al.|[2501.17840](http://arxiv.org/abs/2501.17840)|**[link](https://github.com/megagonlabs/insight_miner)**|
+|**2025-01-29**|**Hierarchical Fallback Architecture for High Risk Online Machine Learning Inference**|Gustavo Polleti et.al.|[2501.17834](http://arxiv.org/abs/2501.17834)|null|
+|**2025-01-29**|**P-TAME: Explain Any Image Classifier with Trained Perturbations**|Mariano V. Ntrougkas et.al.|[2501.17813](http://arxiv.org/abs/2501.17813)|null|
+|**2025-01-29**|**Cell Deformation Signatures along the Apical-Basal Axis: A 3D Continuum Mechanics Shell Model**|Jairo M. Rojas et.al.|[2501.17810](http://arxiv.org/abs/2501.17810)|null|
+|**2025-01-29**|**LEKA:LLM-Enhanced Knowledge Augmentation**|Xinhao Zhang et.al.|[2501.17802](http://arxiv.org/abs/2501.17802)|null|
+|**2025-01-29**|**Leveraging Multimodal LLM for Inspirational User Interface Search**|Seokhyeon Park et.al.|[2501.17799](http://arxiv.org/abs/2501.17799)|**[link](https://github.com/spark-damian/s-ui)**|
+|**2025-01-29**|**BreezyVoice: Adapting TTS for Taiwanese Mandarin with Enhanced Polyphone Disambiguation -- Challenges and Insights**|Chan-Jan Hsu et.al.|[2501.17790](http://arxiv.org/abs/2501.17790)|null|
+|**2025-01-29**|**WARP: An Efficient Engine for Multi-Vector Retrieval**|Jan Luca Scheerer et.al.|[2501.17788](http://arxiv.org/abs/2501.17788)|null|
 |**2025-01-28**|**A novel inversion algorithm for weak gravitational lensing using quasi-conformal geometry**|Jan Jakob et.al.|[2501.17157](http://arxiv.org/abs/2501.17157)|null|
 |**2025-01-29**|**AxBench: Steering LLMs? Even Simple Baselines Outperform Sparse Autoencoders**|Zhengxuan Wu et.al.|[2501.17148](http://arxiv.org/abs/2501.17148)|null|
 |**2025-01-28**|**Non-halo structures and their effects on gravitationally lensed galaxies**|Baptiste Jego et.al.|[2501.17147](http://arxiv.org/abs/2501.17147)|null|
@@ -1570,6 +1580,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-29**|**Hierarchical Fallback Architecture for High Risk Online Machine Learning Inference**|Gustavo Polleti et.al.|[2501.17834](http://arxiv.org/abs/2501.17834)|null|
+|**2025-01-29**|**P-TAME: Explain Any Image Classifier with Trained Perturbations**|Mariano V. Ntrougkas et.al.|[2501.17813](http://arxiv.org/abs/2501.17813)|null|
+|**2025-01-29**|**Cell Deformation Signatures along the Apical-Basal Axis: A 3D Continuum Mechanics Shell Model**|Jairo M. Rojas et.al.|[2501.17810](http://arxiv.org/abs/2501.17810)|null|
+|**2025-01-29**|**WARP: An Efficient Engine for Multi-Vector Retrieval**|Jan Luca Scheerer et.al.|[2501.17788](http://arxiv.org/abs/2501.17788)|null|
+|**2025-01-29**|**Bayesian Inference of the Critical Endpoint in 2+1-Flavor System from Holographic QCD**|Liqiang Zhu et.al.|[2501.17763](http://arxiv.org/abs/2501.17763)|null|
+|**2025-01-29**|**On the Partitioning of GPU Power among Multi-Instances**|Tirth Vamja et.al.|[2501.17752](http://arxiv.org/abs/2501.17752)|null|
+|**2025-01-29**|**Fundamentals of non-parametric statistical inference for integrated quantiles**|Nadezhda Gribkova et.al.|[2501.17722](http://arxiv.org/abs/2501.17722)|null|
+|**2025-01-29**|**A Two-Step Procedure to Detect Cosmological Gravitational Wave Backgrounds with Next-Generation Terrestrial Gravitational-Wave Detectors**|Haowen Zhong et.al.|[2501.17717](http://arxiv.org/abs/2501.17717)|null|
+|**2025-01-29**|**STGCN-LSTM for Olympic Medal Prediction: Dynamic Power Modeling and Causal Policy Optimization**|Yiquan Wang et.al.|[2501.17711](http://arxiv.org/abs/2501.17711)|null|
+|**2025-01-29**|**Inferring Implicit Goals Across Differing Task Models**|Silvia Tulli et.al.|[2501.17704](http://arxiv.org/abs/2501.17704)|null|
 |**2025-01-28**|**A novel inversion algorithm for weak gravitational lensing using quasi-conformal geometry**|Jan Jakob et.al.|[2501.17157](http://arxiv.org/abs/2501.17157)|null|
 |**2025-01-28**|**Non-halo structures and their effects on gravitationally lensed galaxies**|Baptiste Jego et.al.|[2501.17147](http://arxiv.org/abs/2501.17147)|null|
 |**2025-01-28**|**FactCG: Enhancing Fact Checkers with Graph-Based Multi-Hop Data**|Deren Lei et.al.|[2501.17144](http://arxiv.org/abs/2501.17144)|**[link](https://github.com/derenlei/factcg)**|
