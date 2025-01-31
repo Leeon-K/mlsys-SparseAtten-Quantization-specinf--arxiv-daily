@@ -25,6 +25,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-30**|**DeltaLLM: Compress LLMs with Low-Rank Deltas between Shared Weights**|Liana Mikaelyan et.al.|[2501.18596](http://arxiv.org/abs/2501.18596)|null|
+|**2025-01-30**|**Foundational Models for 3D Point Clouds: A Survey and Outlook**|Vishal Thengane et.al.|[2501.18594](http://arxiv.org/abs/2501.18594)|null|
+|**2025-01-30**|**Thoughts Are All Over the Place: On the Underthinking of o1-Like LLMs**|Yue Wang et.al.|[2501.18585](http://arxiv.org/abs/2501.18585)|null|
+|**2025-01-30**|**Prediction-Powered Inference with Imputed Covariates and Nonuniform Sampling**|Dan M. Kluger et.al.|[2501.18577](http://arxiv.org/abs/2501.18577)|null|
+|**2025-01-30**|**Token-Hungry, Yet Precise: DeepSeek R1 Highlights the Need for Multi-Step Reasoning Over Speed in MATH**|Evgenii Evstafev et.al.|[2501.18576](http://arxiv.org/abs/2501.18576)|null|
+|**2025-01-30**|**Log-Gaussian Cox Processes on General Metric Graphs**|David Bolin et.al.|[2501.18558](http://arxiv.org/abs/2501.18558)|null|
+|**2025-01-30**|**The No-Underrun Sampler: A Locally-Adaptive, Gradient-Free MCMC Method**|Nawaf Bou-Rabee et.al.|[2501.18548](http://arxiv.org/abs/2501.18548)|null|
+|**2025-01-30**|**Semantic Web and Creative AI -- A Technical Report from ISWS 2023**|Raia Abu Ahmad et.al.|[2501.18542](http://arxiv.org/abs/2501.18542)|null|
+|**2025-01-30**|**Can we Retrieve Everything All at Once? ARM: An Alignment-Oriented LLM-based Retrieval Method**|Peter Baile Chen et.al.|[2501.18539](http://arxiv.org/abs/2501.18539)|null|
+|**2025-01-30**|**Mini-ResEmoteNet: Leveraging Knowledge Distillation for Human-Centered Design**|Amna Murtada et.al.|[2501.18538](http://arxiv.org/abs/2501.18538)|null|
 |**2025-01-29**|**Dialogue is Better Than Monologue: Instructing Medical LLMs via Strategical Conversations**|Zijie Liu et.al.|[2501.17860](http://arxiv.org/abs/2501.17860)|null|
 |**2025-01-29**|**Improving Your Model Ranking on Chatbot Arena by Vote Rigging**|Rui Min et.al.|[2501.17858](http://arxiv.org/abs/2501.17858)|**[link](https://github.com/sail-sg/rigging-chatbotarena)**|
 |**2025-01-29**|**Learning Beyond the Surface: How Far Can Continual Pre-Training with LoRA Enhance LLMs' Domain-Specific Insight Learning?**|Pouya Pezeshkpour et.al.|[2501.17840](http://arxiv.org/abs/2501.17840)|**[link](https://github.com/megagonlabs/insight_miner)**|
@@ -1230,6 +1240,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-30**|**FLASH-FHE: A Heterogeneous Architecture for Fully Homomorphic Encryption Acceleration**|Junxue Zhang et.al.|[2501.18371](http://arxiv.org/abs/2501.18371)|null|
 |**2025-01-24**|**HWPQ: Hessian-free Weight Pruning-Quantization For LLM Compression And Acceleration**|Yuhan Kang et.al.|[2501.16376](http://arxiv.org/abs/2501.16376)|null|
 |**2025-01-24**|**Real-world Edge Neural Network Implementations Leak Private Interactions Through Physical Side Channel**|Zhuoran Liu et.al.|[2501.14512](http://arxiv.org/abs/2501.14512)|null|
 |**2025-01-24**|**$SpikePack$ : Enhanced Information Flow in Spiking Neural Networks with High Hardware Compatibility**|Guobin Shen et.al.|[2501.14484](http://arxiv.org/abs/2501.14484)|null|
@@ -1387,6 +1398,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-30**|**Advancing Personalized Federated Learning: Integrative Approaches with AI for Enhanced Privacy and Customization**|Kevin Cooper et.al.|[2501.18174](http://arxiv.org/abs/2501.18174)|null|
 |**2025-01-28**|**On Accelerating Edge AI: Optimizing Resource-Constrained Environments**|Jacob Sander et.al.|[2501.15014](http://arxiv.org/abs/2501.15014)|null|
 |**2025-01-21**|**SplitQuant: Layer Splitting for Low-Bit Neural Network Quantization**|Jaewoo Song et.al.|[2501.12428](http://arxiv.org/abs/2501.12428)|null|
 |**2025-01-20**|**Consolidating TinyML Lifecycle with Large Language Models: Reality, Illusion, or Opportunity?**|Guanghan Wu et.al.|[2501.12420](http://arxiv.org/abs/2501.12420)|null|
@@ -1580,6 +1592,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-30**|**Prediction-Powered Inference with Imputed Covariates and Nonuniform Sampling**|Dan M. Kluger et.al.|[2501.18577](http://arxiv.org/abs/2501.18577)|null|
+|**2025-01-30**|**Log-Gaussian Cox Processes on General Metric Graphs**|David Bolin et.al.|[2501.18558](http://arxiv.org/abs/2501.18558)|null|
+|**2025-01-30**|**The No-Underrun Sampler: A Locally-Adaptive, Gradient-Free MCMC Method**|Nawaf Bou-Rabee et.al.|[2501.18548](http://arxiv.org/abs/2501.18548)|null|
+|**2025-01-30**|**Mini-ResEmoteNet: Leveraging Knowledge Distillation for Human-Centered Design**|Amna Murtada et.al.|[2501.18538](http://arxiv.org/abs/2501.18538)|null|
+|**2025-01-30**|**Differentially Private Steering for Large Language Model Alignment**|Anmol Goel et.al.|[2501.18532](http://arxiv.org/abs/2501.18532)|**[link](https://github.com/ukplab/iclr2025-psa)**|
+|**2025-01-30**|**Learn from the Past: Language-conditioned Object Rearrangement with Large Language Models**|Guanqun Cao et.al.|[2501.18516](http://arxiv.org/abs/2501.18516)|null|
+|**2025-01-30**|**Beyond Prior Limits: Addressing Distribution Misalignment in Particle Filtering**|Yiwei Shi et.al.|[2501.18501](http://arxiv.org/abs/2501.18501)|null|
+|**2025-01-30**|**Track-On: Transformer-based Online Point Tracking with Memory**|Görkay Aydemir et.al.|[2501.18487](http://arxiv.org/abs/2501.18487)|null|
+|**2025-01-30**|**Resampling Filter Design for Multirate Neural Audio Effect Processing**|Alistair Carson et.al.|[2501.18470](http://arxiv.org/abs/2501.18470)|**[link](https://github.com/a-carson/resampling_neural_afx)**|
+|**2025-01-30**|**Dissipation bounds the coherence of stochastic limit cycles**|Davide Santolin et.al.|[2501.18469](http://arxiv.org/abs/2501.18469)|null|
 |**2025-01-29**|**Hierarchical Fallback Architecture for High Risk Online Machine Learning Inference**|Gustavo Polleti et.al.|[2501.17834](http://arxiv.org/abs/2501.17834)|null|
 |**2025-01-29**|**P-TAME: Explain Any Image Classifier with Trained Perturbations**|Mariano V. Ntrougkas et.al.|[2501.17813](http://arxiv.org/abs/2501.17813)|null|
 |**2025-01-29**|**Cell Deformation Signatures along the Apical-Basal Axis: A 3D Continuum Mechanics Shell Model**|Jairo M. Rojas et.al.|[2501.17810](http://arxiv.org/abs/2501.17810)|null|
@@ -2757,6 +2779,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-30**|**Disentangling Safe and Unsafe Corruptions via Anisotropy and Locality**|Ramchandran Muthukumar et.al.|[2501.18098](http://arxiv.org/abs/2501.18098)|null|
+|**2025-01-29**|**Digital Twin-Enabled Real-Time Control in Robotic Additive Manufacturing via Soft Actor-Critic Reinforcement Learning**|Matsive Ali et.al.|[2501.18016](http://arxiv.org/abs/2501.18016)|null|
+|**2025-01-29**|**Topological Signatures of Adversaries in Multimodal Alignments**|Minh Vu et.al.|[2501.18006](http://arxiv.org/abs/2501.18006)|null|
 |**2025-01-28**|**Late Breaking Results: Energy-Efficient Printed Machine Learning Classifiers with Sequential SVMs**|Spyridon Besias et.al.|[2501.16828](http://arxiv.org/abs/2501.16828)|null|
 |**2025-01-28**|**Enhancing Non-Intrusive Load Monitoring with Features Extracted by Independent Component Analysis**|Sahar Moghimian Hoosh et.al.|[2501.16817](http://arxiv.org/abs/2501.16817)|null|
 |**2025-01-28**|**Outlier Synthesis via Hamiltonian Monte Carlo for Out-of-Distribution Detection**|Hengzhuang Li et.al.|[2501.16718](http://arxiv.org/abs/2501.16718)|**[link](https://github.com/fir-lat/hamos_ood)**|
