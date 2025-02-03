@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-31**|**Redefining Machine Unlearning: A Conformal Prediction-Motivated Approach**|Yingdan Shi et.al.|[2501.19403](http://arxiv.org/abs/2501.19403)|null|
+|**2025-01-31**|**Vintix: Action Model via In-Context Reinforcement Learning**|Andrey Polubarov et.al.|[2501.19400](http://arxiv.org/abs/2501.19400)|**[link](https://github.com/dunnolab/vintix)**|
+|**2025-01-31**|**Do LLMs Strategically Reveal, Conceal, and Infer Information? A Theoretical and Empirical Analysis in The Chameleon Game**|Mustafa O. Karabag et.al.|[2501.19398](http://arxiv.org/abs/2501.19398)|null|
+|**2025-01-31**|**Fixed-Population Causal Inference for Models of Equilibrium**|Konrad Menzel et.al.|[2501.19394](http://arxiv.org/abs/2501.19394)|null|
+|**2025-01-31**|**Cache Me If You Must: Adaptive Key-Value Quantization for Large Language Models**|Alina Shutova et.al.|[2501.19392](http://arxiv.org/abs/2501.19392)|null|
+|**2025-01-31**|**Federated Sketching LoRA: On-Device Collaborative Fine-Tuning of Large Language Models**|Wenzhi Fang et.al.|[2501.19389](http://arxiv.org/abs/2501.19389)|null|
+|**2025-01-31**|**Using gradient of Lagrangian function to compute efficient channels for the ideal observer**|Weimin Zhou et.al.|[2501.19381](http://arxiv.org/abs/2501.19381)|null|
+|**2025-01-31**|**SELMA: A Speech-Enabled Language Model for Virtual Assistant Interactions**|Dominik Wagner et.al.|[2501.19377](http://arxiv.org/abs/2501.19377)|null|
+|**2025-01-31**|**Greedy Stein Variational Gradient Descent: An algorithmic approach for wave prospection problems**|Jose L. Varona-Santana et.al.|[2501.19370](http://arxiv.org/abs/2501.19370)|null|
+|**2025-01-31**|**The Physics and Metaphysics of Social Powers: Bridging Cognitive Processing and Social Dynamics, a New Perspective on Power through Active Inference**|Mahault Albarracin et.al.|[2501.19368](http://arxiv.org/abs/2501.19368)|null|
 |**2025-01-30**|**DeltaLLM: Compress LLMs with Low-Rank Deltas between Shared Weights**|Liana Mikaelyan et.al.|[2501.18596](http://arxiv.org/abs/2501.18596)|null|
 |**2025-01-30**|**Foundational Models for 3D Point Clouds: A Survey and Outlook**|Vishal Thengane et.al.|[2501.18594](http://arxiv.org/abs/2501.18594)|null|
 |**2025-01-30**|**Thoughts Are All Over the Place: On the Underthinking of o1-Like LLMs**|Yue Wang et.al.|[2501.18585](http://arxiv.org/abs/2501.18585)|null|
@@ -1225,6 +1235,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-31**|**StruM: Structured Mixed Precision for Efficient Deep Learning Hardware Codesign**|Michael Wu et.al.|[2501.18953](http://arxiv.org/abs/2501.18953)|null|
+|**2025-01-30**|**REDACTOR: eFPGA Redaction for DNN Accelerator Security**|Yazan Baddour et.al.|[2501.18740](http://arxiv.org/abs/2501.18740)|null|
 |**2025-01-30**|**FLASH-FHE: A Heterogeneous Architecture for Fully Homomorphic Encryption Acceleration**|Junxue Zhang et.al.|[2501.18371](http://arxiv.org/abs/2501.18371)|null|
 |**2025-01-24**|**HWPQ: Hessian-free Weight Pruning-Quantization For LLM Compression And Acceleration**|Yuhan Kang et.al.|[2501.16376](http://arxiv.org/abs/2501.16376)|null|
 |**2025-01-24**|**Real-world Edge Neural Network Implementations Leak Private Interactions Through Physical Side Channel**|Zhuoran Liu et.al.|[2501.14512](http://arxiv.org/abs/2501.14512)|null|
@@ -1381,6 +1393,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-31**|**Infer-EDGE: Dynamic DNN Inference Optimization in 'Just-in-time' Edge-AI Implementations**|Motahare Mounesan et.al.|[2501.18842](http://arxiv.org/abs/2501.18842)|null|
 |**2025-01-30**|**Advancing Personalized Federated Learning: Integrative Approaches with AI for Enhanced Privacy and Customization**|Kevin Cooper et.al.|[2501.18174](http://arxiv.org/abs/2501.18174)|null|
 |**2025-01-28**|**On Accelerating Edge AI: Optimizing Resource-Constrained Environments**|Jacob Sander et.al.|[2501.15014](http://arxiv.org/abs/2501.15014)|null|
 |**2025-01-21**|**SplitQuant: Layer Splitting for Low-Bit Neural Network Quantization**|Jaewoo Song et.al.|[2501.12428](http://arxiv.org/abs/2501.12428)|null|
@@ -1567,6 +1580,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-31**|**Redefining Machine Unlearning: A Conformal Prediction-Motivated Approach**|Yingdan Shi et.al.|[2501.19403](http://arxiv.org/abs/2501.19403)|null|
+|**2025-01-31**|**Vintix: Action Model via In-Context Reinforcement Learning**|Andrey Polubarov et.al.|[2501.19400](http://arxiv.org/abs/2501.19400)|**[link](https://github.com/dunnolab/vintix)**|
+|**2025-01-31**|**Scalable-Softmax Is Superior for Attention**|Ken M. Nakanishi et.al.|[2501.19399](http://arxiv.org/abs/2501.19399)|null|
+|**2025-01-31**|**Do LLMs Strategically Reveal, Conceal, and Infer Information? A Theoretical and Empirical Analysis in The Chameleon Game**|Mustafa O. Karabag et.al.|[2501.19398](http://arxiv.org/abs/2501.19398)|null|
+|**2025-01-31**|**Fixed-Population Causal Inference for Models of Equilibrium**|Konrad Menzel et.al.|[2501.19394](http://arxiv.org/abs/2501.19394)|null|
+|**2025-01-31**|**Cache Me If You Must: Adaptive Key-Value Quantization for Large Language Models**|Alina Shutova et.al.|[2501.19392](http://arxiv.org/abs/2501.19392)|null|
+|**2025-01-31**|**Using gradient of Lagrangian function to compute efficient channels for the ideal observer**|Weimin Zhou et.al.|[2501.19381](http://arxiv.org/abs/2501.19381)|null|
+|**2025-01-31**|**Greedy Stein Variational Gradient Descent: An algorithmic approach for wave prospection problems**|Jose L. Varona-Santana et.al.|[2501.19370](http://arxiv.org/abs/2501.19370)|null|
+|**2025-01-31**|**The Physics and Metaphysics of Social Powers: Bridging Cognitive Processing and Social Dynamics, a New Perspective on Power through Active Inference**|Mahault Albarracin et.al.|[2501.19368](http://arxiv.org/abs/2501.19368)|null|
+|**2025-01-31**|**High-cadence observations of galactic nuclei by the future two-band UV-photometry mission QUVIK**|Michal Zajaček et.al.|[2501.19365](http://arxiv.org/abs/2501.19365)|null|
 |**2025-01-30**|**Prediction-Powered Inference with Imputed Covariates and Nonuniform Sampling**|Dan M. Kluger et.al.|[2501.18577](http://arxiv.org/abs/2501.18577)|**[link](https://github.com/DanKluger/Predict-Then-Debias_Bootstrap)**|
 |**2025-01-30**|**Log-Gaussian Cox Processes on General Metric Graphs**|David Bolin et.al.|[2501.18558](http://arxiv.org/abs/2501.18558)|null|
 |**2025-01-30**|**The No-Underrun Sampler: A Locally-Adaptive, Gradient-Free MCMC Method**|Nawaf Bou-Rabee et.al.|[2501.18548](http://arxiv.org/abs/2501.18548)|null|
@@ -2752,6 +2775,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-31**|**Learning Contracts in Hierarchical Multi-Agent Systems**|Antoine Scheid et.al.|[2501.19388](http://arxiv.org/abs/2501.19388)|null|
+|**2025-01-30**|**STaleX: A Spatiotemporal-Aware Adaptive Auto-scaling Framework for Microservices**|Majid Dashtbani et.al.|[2501.18734](http://arxiv.org/abs/2501.18734)|null|
 |**2025-01-30**|**Disentangling Safe and Unsafe Corruptions via Anisotropy and Locality**|Ramchandran Muthukumar et.al.|[2501.18098](http://arxiv.org/abs/2501.18098)|null|
 |**2025-01-29**|**Digital Twin-Enabled Real-Time Control in Robotic Additive Manufacturing via Soft Actor-Critic Reinforcement Learning**|Matsive Ali et.al.|[2501.18016](http://arxiv.org/abs/2501.18016)|null|
 |**2025-01-29**|**Topological Signatures of Adversaries in Multimodal Alignments**|Minh Vu et.al.|[2501.18006](http://arxiv.org/abs/2501.18006)|null|
