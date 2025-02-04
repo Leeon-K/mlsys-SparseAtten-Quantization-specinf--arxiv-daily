@@ -16,12 +16,12 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-01-31**|**Redefining Machine Unlearning: A Conformal Prediction-Motivated Approach**|Yingdan Shi et.al.|[2501.19403](http://arxiv.org/abs/2501.19403)|null|
 |**2025-01-31**|**Vintix: Action Model via In-Context Reinforcement Learning**|Andrey Polubarov et.al.|[2501.19400](http://arxiv.org/abs/2501.19400)|**[link](https://github.com/dunnolab/vintix)**|
-|**2025-01-31**|**Do LLMs Strategically Reveal, Conceal, and Infer Information? A Theoretical and Empirical Analysis in The Chameleon Game**|Mustafa O. Karabag et.al.|[2501.19398](http://arxiv.org/abs/2501.19398)|null|
+|**2025-01-31**|**Do LLMs Strategically Reveal, Conceal, and Infer Information? A Theoretical and Empirical Analysis in The Chameleon Game**|Mustafa O. Karabag et.al.|[2501.19398](http://arxiv.org/abs/2501.19398)|**[link](https://github.com/mustafakarabag/llmchameleon)**|
 |**2025-01-31**|**Fixed-Population Causal Inference for Models of Equilibrium**|Konrad Menzel et.al.|[2501.19394](http://arxiv.org/abs/2501.19394)|null|
 |**2025-01-31**|**Cache Me If You Must: Adaptive Key-Value Quantization for Large Language Models**|Alina Shutova et.al.|[2501.19392](http://arxiv.org/abs/2501.19392)|null|
 |**2025-01-31**|**Federated Sketching LoRA: On-Device Collaborative Fine-Tuning of Large Language Models**|Wenzhi Fang et.al.|[2501.19389](http://arxiv.org/abs/2501.19389)|null|
 |**2025-01-31**|**Using gradient of Lagrangian function to compute efficient channels for the ideal observer**|Weimin Zhou et.al.|[2501.19381](http://arxiv.org/abs/2501.19381)|null|
-|**2025-01-31**|**SELMA: A Speech-Enabled Language Model for Virtual Assistant Interactions**|Dominik Wagner et.al.|[2501.19377](http://arxiv.org/abs/2501.19377)|null|
+|**2025-02-03**|**SELMA: A Speech-Enabled Language Model for Virtual Assistant Interactions**|Dominik Wagner et.al.|[2501.19377](http://arxiv.org/abs/2501.19377)|null|
 |**2025-01-31**|**Greedy Stein Variational Gradient Descent: An algorithmic approach for wave prospection problems**|Jose L. Varona-Santana et.al.|[2501.19370](http://arxiv.org/abs/2501.19370)|null|
 |**2025-01-31**|**The Physics and Metaphysics of Social Powers: Bridging Cognitive Processing and Social Dynamics, a New Perspective on Power through Active Inference**|Mahault Albarracin et.al.|[2501.19368](http://arxiv.org/abs/2501.19368)|null|
 |**2025-01-30**|**DeltaLLM: Compress LLMs with Low-Rank Deltas between Shared Weights**|Liana Mikaelyan et.al.|[2501.18596](http://arxiv.org/abs/2501.18596)|null|
@@ -1583,7 +1583,7 @@ layout: default
 |**2025-01-31**|**Redefining Machine Unlearning: A Conformal Prediction-Motivated Approach**|Yingdan Shi et.al.|[2501.19403](http://arxiv.org/abs/2501.19403)|null|
 |**2025-01-31**|**Vintix: Action Model via In-Context Reinforcement Learning**|Andrey Polubarov et.al.|[2501.19400](http://arxiv.org/abs/2501.19400)|**[link](https://github.com/dunnolab/vintix)**|
 |**2025-01-31**|**Scalable-Softmax Is Superior for Attention**|Ken M. Nakanishi et.al.|[2501.19399](http://arxiv.org/abs/2501.19399)|null|
-|**2025-01-31**|**Do LLMs Strategically Reveal, Conceal, and Infer Information? A Theoretical and Empirical Analysis in The Chameleon Game**|Mustafa O. Karabag et.al.|[2501.19398](http://arxiv.org/abs/2501.19398)|null|
+|**2025-01-31**|**Do LLMs Strategically Reveal, Conceal, and Infer Information? A Theoretical and Empirical Analysis in The Chameleon Game**|Mustafa O. Karabag et.al.|[2501.19398](http://arxiv.org/abs/2501.19398)|**[link](https://github.com/mustafakarabag/llmchameleon)**|
 |**2025-01-31**|**Fixed-Population Causal Inference for Models of Equilibrium**|Konrad Menzel et.al.|[2501.19394](http://arxiv.org/abs/2501.19394)|null|
 |**2025-01-31**|**Cache Me If You Must: Adaptive Key-Value Quantization for Large Language Models**|Alina Shutova et.al.|[2501.19392](http://arxiv.org/abs/2501.19392)|null|
 |**2025-01-31**|**Using gradient of Lagrangian function to compute efficient channels for the ideal observer**|Weimin Zhou et.al.|[2501.19381](http://arxiv.org/abs/2501.19381)|null|
