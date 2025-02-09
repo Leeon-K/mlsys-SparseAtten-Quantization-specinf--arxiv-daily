@@ -1286,7 +1286,7 @@
 |**2025-02-02**|**A Flexible Precision Scaling Deep Neural Network Accelerator with Efficient Weight Combination**|Liang Zhao et.al.|[2502.00687](http://arxiv.org/abs/2502.00687)|null|
 |**2025-02-01**|**Late Breaking Results: Leveraging Approximate Computing for Carbon-Aware DNN Accelerators**|Aikaterini Maria Panteleaki et.al.|[2502.00286](http://arxiv.org/abs/2502.00286)|null|
 |**2025-01-31**|**StruM: Structured Mixed Precision for Efficient Deep Learning Hardware Codesign**|Michael Wu et.al.|[2501.18953](http://arxiv.org/abs/2501.18953)|null|
-|**2025-01-30**|**REDACTOR: eFPGA Redaction for DNN Accelerator Security**|Yazan Baddour et.al.|[2501.18740](http://arxiv.org/abs/2501.18740)|null|
+|**2025-01-30**|**REDACTOR: eFPGA Redaction for DNN Accelerator Security**|Yazan Baddour et.al.|[2501.18740](http://arxiv.org/abs/2501.18740)|**[link](https://github.com/cars-lab-repo/redactor)**|
 |**2025-01-30**|**FLASH-FHE: A Heterogeneous Architecture for Fully Homomorphic Encryption Acceleration**|Junxue Zhang et.al.|[2501.18371](http://arxiv.org/abs/2501.18371)|null|
 |**2025-01-24**|**HWPQ: Hessian-free Weight Pruning-Quantization For LLM Compression And Acceleration**|Yuhan Kang et.al.|[2501.16376](http://arxiv.org/abs/2501.16376)|null|
 |**2025-01-24**|**Real-world Edge Neural Network Implementations Leak Private Interactions Through Physical Side Channel**|Zhuoran Liu et.al.|[2501.14512](http://arxiv.org/abs/2501.14512)|null|
