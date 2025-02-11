@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.10
+## Updated on 2025.02.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Quantization
@@ -1438,7 +1438,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-02-04**|**Generative Psycho-Lexical Approach for Constructing Value Systems in Large Language Models**|Haoran Ye et.al.|[2502.02444](http://arxiv.org/abs/2502.02444)|null|
+|**2025-02-08**|**Generative Psycho-Lexical Approach for Constructing Value Systems in Large Language Models**|Haoran Ye et.al.|[2502.02444](http://arxiv.org/abs/2502.02444)|null|
 |**2025-02-03**|**EdgeMark: An Automation and Benchmarking System for Embedded Artificial Intelligence Tools**|Mohammad Amin Hasanpour et.al.|[2502.01700](http://arxiv.org/abs/2502.01700)|null|
 |**2025-02-01**|**Enhancing Field-Oriented Control of Electric Drives with Tiny Neural Network Optimized for Micro-controllers**|Martin Joel Mouk Elele et.al.|[2502.00532](http://arxiv.org/abs/2502.00532)|null|
 |**2025-01-31**|**Infer-EDGE: Dynamic DNN Inference Optimization in 'Just-in-time' Edge-AI Implementations**|Motahare Mounesan et.al.|[2501.18842](http://arxiv.org/abs/2501.18842)|null|
