@@ -25,6 +25,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-11**|**Pippo: High-Resolution Multi-View Humans from a Single Image**|Yash Kant et.al.|[2502.07785](http://arxiv.org/abs/2502.07785)|null|
+|**2025-02-11**|**DarwinLM: Evolutionary Structured Pruning of Large Language Models**|Shengkun Tang et.al.|[2502.07780](http://arxiv.org/abs/2502.07780)|null|
+|**2025-02-11**|**Auditing Prompt Caching in Language Model APIs**|Chenchen Gu et.al.|[2502.07776](http://arxiv.org/abs/2502.07776)|null|
+|**2025-02-11**|**Automatic Robot Task Planning by Integrating Large Language Model with Genetic Programming**|Azizjon Kobilov et.al.|[2502.07772](http://arxiv.org/abs/2502.07772)|null|
+|**2025-02-11**|**Breaking Down Bias: On The Limits of Generalizable Pruning Strategies**|Sibo Ma et.al.|[2502.07771](http://arxiv.org/abs/2502.07771)|null|
+|**2025-02-11**|**Great Power Brings Great Responsibility: Personalizing Conversational AI for Diverse Problem-Solvers**|Italo Santos et.al.|[2502.07763](http://arxiv.org/abs/2502.07763)|null|
+|**2025-02-11**|**Towards Efficient Optimizer Design for LLM via Structured Fisher Approximation with a Low-Rank Extension**|Wenbo Gong et.al.|[2502.07752](http://arxiv.org/abs/2502.07752)|null|
+|**2025-02-11**|**WHODUNIT: Evaluation benchmark for culprit detection in mystery stories**|Kshitij Gupta et.al.|[2502.07747](http://arxiv.org/abs/2502.07747)|null|
+|**2025-02-11**|**Next Block Prediction: Video Generation via Semi-Auto-Regressive Modeling**|Shuhuai Ren et.al.|[2502.07737](http://arxiv.org/abs/2502.07737)|null|
+|**2025-02-11**|**The Economics of Large Language Models: Token Allocation, Fine-Tuning, and Optimal Pricing**|Dirk Bergemann et.al.|[2502.07736](http://arxiv.org/abs/2502.07736)|null|
 |**2025-02-10**|**Visual Agentic AI for Spatial Reasoning with a Dynamic API**|Damiano Marsili et.al.|[2502.06787](http://arxiv.org/abs/2502.06787)|null|
 |**2025-02-10**|**Matryoshka Quantization**|Pranav Nair et.al.|[2502.06786](http://arxiv.org/abs/2502.06786)|null|
 |**2025-02-10**|**Lumina-Video: Efficient and Flexible Video Generation with Multi-scale Next-DiT**|Dongyang Liu et.al.|[2502.06782](http://arxiv.org/abs/2502.06782)|null|
@@ -1300,6 +1310,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-10**|**Accelerating Berends-Giele recursion for gluons in arbitrary dimensions over finite fields**|Juan M. Cruz-Martinez et.al.|[2502.07060](http://arxiv.org/abs/2502.07060)|null|
 |**2025-02-07**|**TNIC: A Trusted NIC Architecture**|Dimitra Giantsidi et.al.|[2502.05338](http://arxiv.org/abs/2502.05338)|null|
 |**2025-02-07**|**Gaussian Models to Non-Gaussian Realms of Quantum Photonic Simulators**|Dennis Delali Kwesi Wayo et.al.|[2502.05245](http://arxiv.org/abs/2502.05245)|null|
 |**2025-02-04**|**SpinGlassPEPS.jl: Tensor-network package for Ising-like optimization on quasi-two-dimensional graphs**|Tomasz Śmierzchalski et.al.|[2502.02317](http://arxiv.org/abs/2502.02317)|null|
@@ -1467,6 +1478,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-10**|**XAMBA: Enabling Efficient State Space Models on Resource-Constrained Neural Processing Units**|Arghadip Das et.al.|[2502.06924](http://arxiv.org/abs/2502.06924)|null|
 |**2025-02-08**|**ETHEREAL: Energy-efficient and High-throughput Inference using Compressed Tsetlin Machine**|Shengyu Duan et.al.|[2502.05640](http://arxiv.org/abs/2502.05640)|null|
 |**2025-02-07**|**Demonstrating CavePI: Autonomous Exploration of Underwater Caves by Semantic Guidance**|Alankrit Gupta et.al.|[2502.05384](http://arxiv.org/abs/2502.05384)|null|
 |**2025-02-08**|**Generative Psycho-Lexical Approach for Constructing Value Systems in Large Language Models**|Haoran Ye et.al.|[2502.02444](http://arxiv.org/abs/2502.02444)|null|
@@ -1667,6 +1679,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-11**|**Pippo: High-Resolution Multi-View Humans from a Single Image**|Yash Kant et.al.|[2502.07785](http://arxiv.org/abs/2502.07785)|null|
+|**2025-02-11**|**Next Block Prediction: Video Generation via Semi-Auto-Regressive Modeling**|Shuhuai Ren et.al.|[2502.07737](http://arxiv.org/abs/2502.07737)|null|
+|**2025-02-11**|**In Search of the First Stars: An Ultra-Compact and Very Low Metallicity Lyman- $α$ Emitter Deep Within the Epoch of Reionization**|Chris J. Willott et.al.|[2502.07733](http://arxiv.org/abs/2502.07733)|null|
+|**2025-02-11**|**DeepVL: Dynamics and Inertial Measurements-based Deep Velocity Learning for Underwater Odometry**|Mohit Singh et.al.|[2502.07726](http://arxiv.org/abs/2502.07726)|null|
+|**2025-02-11**|**Magic 1-For-1: Generating One Minute Video Clips within One Minute**|Hongwei Yi et.al.|[2502.07701](http://arxiv.org/abs/2502.07701)|null|
+|**2025-02-11**|**Sharp Anti-Concentration Inequalities for Extremum Statistics via Copulas**|Matias D. Cattaneo et.al.|[2502.07699](http://arxiv.org/abs/2502.07699)|null|
+|**2025-02-11**|**Time-resolved second-order autocorrelation function of parametric downconversion**|D. B. Horoshko et.al.|[2502.07691](http://arxiv.org/abs/2502.07691)|null|
+|**2025-02-11**|**Distributional Instrumental Variable Method**|Anastasiia Holovchak et.al.|[2502.07641](http://arxiv.org/abs/2502.07641)|null|
+|**2025-02-11**|**Response rate estimation in single-stage basket trials: A comparison of estimators that allow for borrowing across cohorts**|Antonios Daletzakis et.al.|[2502.07639](http://arxiv.org/abs/2502.07639)|null|
+|**2025-02-11**|**Causal-Informed Contrastive Learning: Towards Bias-Resilient Pre-training under Concept Drift**|Xiaoyu Yang et.al.|[2502.07620](http://arxiv.org/abs/2502.07620)|null|
 |**2025-02-10**|**Visual Agentic AI for Spatial Reasoning with a Dynamic API**|Damiano Marsili et.al.|[2502.06787](http://arxiv.org/abs/2502.06787)|null|
 |**2025-02-10**|**Matryoshka Quantization**|Pranav Nair et.al.|[2502.06786](http://arxiv.org/abs/2502.06786)|null|
 |**2025-02-10**|**Lumina-Video: Efficient and Flexible Video Generation with Multi-scale Next-DiT**|Dongyang Liu et.al.|[2502.06782](http://arxiv.org/abs/2502.06782)|null|
