@@ -25,6 +25,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-12**|**Utility Engineering: Analyzing and Controlling Emergent Value Systems in AIs**|Mantas Mazeika et.al.|[2502.08640](http://arxiv.org/abs/2502.08640)|null|
+|**2025-02-12**|**Examining Multilingual Embedding Models Cross-Lingually Through LLM-Generated Adversarial Examples**|Andrianos Michail et.al.|[2502.08638](http://arxiv.org/abs/2502.08638)|null|
+|**2025-02-12**|**Ensemble based approach to quantifying uncertainty of LLM based classifications**|Srijith Rajamohan et.al.|[2502.08631](http://arxiv.org/abs/2502.08631)|null|
+|**2025-02-12**|**Difference-in-Differences and Changes-in-Changes with Sample Selection**|Javier Viviens et.al.|[2502.08614](http://arxiv.org/abs/2502.08614)|null|
+|**2025-02-12**|**Scalable Thermodynamic Second-order Optimization**|Kaelan Donatella et.al.|[2502.08603](http://arxiv.org/abs/2502.08603)|null|
+|**2025-02-12**|**SPeCtrum: A Grounded Framework for Multidimensional Identity Representation in LLM-Based Agent**|Keyeun Lee et.al.|[2502.08599](http://arxiv.org/abs/2502.08599)|null|
+|**2025-02-12**|**Causal Analysis of ASR Errors for Children: Quantifying the Impact of Physiological, Cognitive, and Extrinsic Factors**|Vishwanath Pratap Singh et.al.|[2502.08587](http://arxiv.org/abs/2502.08587)|null|
+|**2025-02-12**|**Commercial LLM Agents Are Already Vulnerable to Simple Yet Dangerous Attacks**|Ang Li et.al.|[2502.08586](http://arxiv.org/abs/2502.08586)|null|
+|**2025-02-12**|**Mapping the Landscape of Generative AI in Network Monitoring and Management**|Giampaolo Bovenzi et.al.|[2502.08576](http://arxiv.org/abs/2502.08576)|null|
+|**2025-02-12**|**Second Quantization and Evolution Operators in infinite dimension**|Davide Addona et.al.|[2502.08572](http://arxiv.org/abs/2502.08572)|null|
 |**2025-02-11**|**Pippo: High-Resolution Multi-View Humans from a Single Image**|Yash Kant et.al.|[2502.07785](http://arxiv.org/abs/2502.07785)|null|
 |**2025-02-11**|**DarwinLM: Evolutionary Structured Pruning of Large Language Models**|Shengkun Tang et.al.|[2502.07780](http://arxiv.org/abs/2502.07780)|null|
 |**2025-02-11**|**Auditing Prompt Caching in Language Model APIs**|Chenchen Gu et.al.|[2502.07776](http://arxiv.org/abs/2502.07776)|null|
@@ -1310,6 +1320,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-12**|**Scalable Thermodynamic Second-order Optimization**|Kaelan Donatella et.al.|[2502.08603](http://arxiv.org/abs/2502.08603)|null|
+|**2025-02-10**|**Runtime Tunable Tsetlin Machines for Edge Inference on eFPGAs**|Tousif Rahman et.al.|[2502.07823](http://arxiv.org/abs/2502.07823)|null|
 |**2025-02-10**|**Accelerating Berends-Giele recursion for gluons in arbitrary dimensions over finite fields**|Juan M. Cruz-Martinez et.al.|[2502.07060](http://arxiv.org/abs/2502.07060)|null|
 |**2025-02-07**|**TNIC: A Trusted NIC Architecture**|Dimitra Giantsidi et.al.|[2502.05338](http://arxiv.org/abs/2502.05338)|null|
 |**2025-02-07**|**Gaussian Models to Non-Gaussian Realms of Quantum Photonic Simulators**|Dennis Delali Kwesi Wayo et.al.|[2502.05245](http://arxiv.org/abs/2502.05245)|null|
@@ -1478,6 +1490,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-10**|**Runtime Tunable Tsetlin Machines for Edge Inference on eFPGAs**|Tousif Rahman et.al.|[2502.07823](http://arxiv.org/abs/2502.07823)|null|
 |**2025-02-10**|**XAMBA: Enabling Efficient State Space Models on Resource-Constrained Neural Processing Units**|Arghadip Das et.al.|[2502.06924](http://arxiv.org/abs/2502.06924)|null|
 |**2025-02-08**|**ETHEREAL: Energy-efficient and High-throughput Inference using Compressed Tsetlin Machine**|Shengyu Duan et.al.|[2502.05640](http://arxiv.org/abs/2502.05640)|null|
 |**2025-02-07**|**Demonstrating CavePI: Autonomous Exploration of Underwater Caves by Semantic Guidance**|Alankrit Gupta et.al.|[2502.05384](http://arxiv.org/abs/2502.05384)|null|
@@ -1679,6 +1692,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-12**|**Ensemble based approach to quantifying uncertainty of LLM based classifications**|Srijith Rajamohan et.al.|[2502.08631](http://arxiv.org/abs/2502.08631)|null|
+|**2025-02-12**|**Difference-in-Differences and Changes-in-Changes with Sample Selection**|Javier Viviens et.al.|[2502.08614](http://arxiv.org/abs/2502.08614)|null|
+|**2025-02-12**|**Scalable Thermodynamic Second-order Optimization**|Kaelan Donatella et.al.|[2502.08603](http://arxiv.org/abs/2502.08603)|null|
+|**2025-02-12**|**Causal Analysis of ASR Errors for Children: Quantifying the Impact of Physiological, Cognitive, and Extrinsic Factors**|Vishwanath Pratap Singh et.al.|[2502.08587](http://arxiv.org/abs/2502.08587)|null|
+|**2025-02-12**|**Brain Latent Progression: Individual-based Spatiotemporal Disease Progression on 3D Brain MRIs via Latent Diffusion**|Lemuel Puglisi et.al.|[2502.08560](http://arxiv.org/abs/2502.08560)|null|
+|**2025-02-12**|**LLMs can implicitly learn from mistakes in-context**|Lisa Alazraki et.al.|[2502.08550](http://arxiv.org/abs/2502.08550)|null|
+|**2025-02-12**|**BCDDM: Branch-Corrected Denoising Diffusion Model for Black Hole Image Generation**|Ao liu et.al.|[2502.08528](http://arxiv.org/abs/2502.08528)|null|
+|**2025-02-12**|**Analysis of the weak lensing mass-richness relation of redMaPPer clusters in the LSST DESC DC2 simulations**|Constantin Payerne et.al.|[2502.08444](http://arxiv.org/abs/2502.08444)|null|
+|**2025-02-12**|**Tutorial for Surrogate Endpoint Validation Using Joint modeling and Mediation Analysis**|Quentin Le Coent et.al.|[2502.08443](http://arxiv.org/abs/2502.08443)|null|
+|**2025-02-12**|**Scenario analysis with multivariate Bayesian machine learning models**|Michael Pfarrhofer et.al.|[2502.08440](http://arxiv.org/abs/2502.08440)|null|
 |**2025-02-11**|**Pippo: High-Resolution Multi-View Humans from a Single Image**|Yash Kant et.al.|[2502.07785](http://arxiv.org/abs/2502.07785)|null|
 |**2025-02-12**|**Next Block Prediction: Video Generation via Semi-Autoregressive Modeling**|Shuhuai Ren et.al.|[2502.07737](http://arxiv.org/abs/2502.07737)|null|
 |**2025-02-11**|**In Search of the First Stars: An Ultra-Compact and Very Low Metallicity Lyman- $α$ Emitter Deep Within the Epoch of Reionization**|Chris J. Willott et.al.|[2502.07733](http://arxiv.org/abs/2502.07733)|null|
@@ -2936,6 +2959,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-12**|**DNNs May Determine Major Properties of Their Outputs Early, with Timing Possibly Driven by Bias**|Song Park et.al.|[2502.08167](http://arxiv.org/abs/2502.08167)|null|
 |**2025-02-10**|**Koopman-Equivariant Gaussian Processes**|Petar Bevanda et.al.|[2502.06645](http://arxiv.org/abs/2502.06645)|null|
 |**2025-02-10**|**Predictive Red Teaming: Breaking Policies Without Breaking Robots**|Anirudha Majumdar et.al.|[2502.06575](http://arxiv.org/abs/2502.06575)|null|
 |**2025-02-09**|**Towards Autonomous Experimentation: Bayesian Optimization over Problem Formulation Space for Accelerated Alloy Development**|Danial Khatamsaz et.al.|[2502.05735](http://arxiv.org/abs/2502.05735)|null|
