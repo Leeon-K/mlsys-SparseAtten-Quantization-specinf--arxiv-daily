@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.12
+## Updated on 2025.02.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Quantization
@@ -22,7 +22,7 @@ layout: default
 |**2025-02-11**|**Great Power Brings Great Responsibility: Personalizing Conversational AI for Diverse Problem-Solvers**|Italo Santos et.al.|[2502.07763](http://arxiv.org/abs/2502.07763)|null|
 |**2025-02-11**|**Towards Efficient Optimizer Design for LLM via Structured Fisher Approximation with a Low-Rank Extension**|Wenbo Gong et.al.|[2502.07752](http://arxiv.org/abs/2502.07752)|null|
 |**2025-02-11**|**WHODUNIT: Evaluation benchmark for culprit detection in mystery stories**|Kshitij Gupta et.al.|[2502.07747](http://arxiv.org/abs/2502.07747)|null|
-|**2025-02-11**|**Next Block Prediction: Video Generation via Semi-Auto-Regressive Modeling**|Shuhuai Ren et.al.|[2502.07737](http://arxiv.org/abs/2502.07737)|null|
+|**2025-02-12**|**Next Block Prediction: Video Generation via Semi-Autoregressive Modeling**|Shuhuai Ren et.al.|[2502.07737](http://arxiv.org/abs/2502.07737)|null|
 |**2025-02-11**|**The Economics of Large Language Models: Token Allocation, Fine-Tuning, and Optimal Pricing**|Dirk Bergemann et.al.|[2502.07736](http://arxiv.org/abs/2502.07736)|null|
 |**2025-02-10**|**Visual Agentic AI for Spatial Reasoning with a Dynamic API**|Damiano Marsili et.al.|[2502.06787](http://arxiv.org/abs/2502.06787)|null|
 |**2025-02-10**|**Matryoshka Quantization**|Pranav Nair et.al.|[2502.06786](http://arxiv.org/abs/2502.06786)|null|
@@ -1655,7 +1655,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-02-11**|**Pippo: High-Resolution Multi-View Humans from a Single Image**|Yash Kant et.al.|[2502.07785](http://arxiv.org/abs/2502.07785)|null|
-|**2025-02-11**|**Next Block Prediction: Video Generation via Semi-Auto-Regressive Modeling**|Shuhuai Ren et.al.|[2502.07737](http://arxiv.org/abs/2502.07737)|null|
+|**2025-02-12**|**Next Block Prediction: Video Generation via Semi-Autoregressive Modeling**|Shuhuai Ren et.al.|[2502.07737](http://arxiv.org/abs/2502.07737)|null|
 |**2025-02-11**|**In Search of the First Stars: An Ultra-Compact and Very Low Metallicity Lyman- $α$ Emitter Deep Within the Epoch of Reionization**|Chris J. Willott et.al.|[2502.07733](http://arxiv.org/abs/2502.07733)|null|
 |**2025-02-11**|**DeepVL: Dynamics and Inertial Measurements-based Deep Velocity Learning for Underwater Odometry**|Mohit Singh et.al.|[2502.07726](http://arxiv.org/abs/2502.07726)|null|
 |**2025-02-11**|**Magic 1-For-1: Generating One Minute Video Clips within One Minute**|Hongwei Yi et.al.|[2502.07701](http://arxiv.org/abs/2502.07701)|null|

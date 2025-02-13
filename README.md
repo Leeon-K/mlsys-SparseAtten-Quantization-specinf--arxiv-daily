@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.12
+## Updated on 2025.02.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -33,7 +33,7 @@
 |**2025-02-11**|**Great Power Brings Great Responsibility: Personalizing Conversational AI for Diverse Problem-Solvers**|Italo Santos et.al.|[2502.07763](http://arxiv.org/abs/2502.07763)|null|
 |**2025-02-11**|**Towards Efficient Optimizer Design for LLM via Structured Fisher Approximation with a Low-Rank Extension**|Wenbo Gong et.al.|[2502.07752](http://arxiv.org/abs/2502.07752)|null|
 |**2025-02-11**|**WHODUNIT: Evaluation benchmark for culprit detection in mystery stories**|Kshitij Gupta et.al.|[2502.07747](http://arxiv.org/abs/2502.07747)|null|
-|**2025-02-11**|**Next Block Prediction: Video Generation via Semi-Auto-Regressive Modeling**|Shuhuai Ren et.al.|[2502.07737](http://arxiv.org/abs/2502.07737)|null|
+|**2025-02-12**|**Next Block Prediction: Video Generation via Semi-Autoregressive Modeling**|Shuhuai Ren et.al.|[2502.07737](http://arxiv.org/abs/2502.07737)|null|
 |**2025-02-11**|**The Economics of Large Language Models: Token Allocation, Fine-Tuning, and Optimal Pricing**|Dirk Bergemann et.al.|[2502.07736](http://arxiv.org/abs/2502.07736)|null|
 |**2025-02-10**|**Visual Agentic AI for Spatial Reasoning with a Dynamic API**|Damiano Marsili et.al.|[2502.06787](http://arxiv.org/abs/2502.06787)|null|
 |**2025-02-10**|**Matryoshka Quantization**|Pranav Nair et.al.|[2502.06786](http://arxiv.org/abs/2502.06786)|null|
@@ -1286,7 +1286,7 @@
 |**2024-07-11**|**Q-GaLore: Quantized GaLore with INT4 Projection and Layer-Adaptive Low-Rank Gradients**|Zhenyu Zhang et.al.|[2407.08296](http://arxiv.org/abs/2407.08296)|**[link](https://github.com/VITA-Group/Q-GaLore)**|
 |**2024-07-10**|**RoLoRA: Fine-tuning Rotated Outlier-free LLMs for Effective Weight-Activation Quantization**|Xijie Huang et.al.|[2407.08044](http://arxiv.org/abs/2407.08044)|**[link](https://github.com/huangowen/rolora)**|
 
-<p align=right>(<a href=#updated-on-20250212>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250213>back to top</a>)</p>
 
 ## Pruning
 
@@ -1304,7 +1304,7 @@
 |**2024-07-16**|**MINI-LLM: Memory-Efficient Structured Pruning for Large Language Models**|Hongrong Cheng et.al.|[2407.11681](http://arxiv.org/abs/2407.11681)|null|
 |**2024-07-15**|**DDFAD: Dataset Distillation Framework for Audio Data**|Wenbo Jiang et.al.|[2407.10446](http://arxiv.org/abs/2407.10446)|null|
 
-<p align=right>(<a href=#updated-on-20250212>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250213>back to top</a>)</p>
 
 ## Hardware-Software Co-Design
 
@@ -1472,7 +1472,7 @@
 |**2024-07-12**|**68-Channel Highly-Integrated Neural Signal Processing PSoC with On-Chip Feature Extraction, Compression, and Hardware Accelerators for Neuroprosthetics in 22nm FDSOI**|Liyuan Guo et.al.|[2407.09166](http://arxiv.org/abs/2407.09166)|null|
 |**2024-07-12**|**Hybrid Temporal Computing for Lower Power Hardware Accelerators**|Maliha Tasnim et.al.|[2407.08975](http://arxiv.org/abs/2407.08975)|null|
 
-<p align=right>(<a href=#updated-on-20250212>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250213>back to top</a>)</p>
 
 ## TinyML
 
@@ -1599,7 +1599,7 @@
 |**2024-07-13**|**Characterizing Disparity Between Edge Models and High-Accuracy Base Models for Vision Tasks**|Zhenyu Wang et.al.|[2407.10016](http://arxiv.org/abs/2407.10016)|null|
 |**2024-07-11**|**Towards Efficient Deployment of Hybrid SNNs on Neuromorphic and Edge AI Hardware**|James Seekings et.al.|[2407.08704](http://arxiv.org/abs/2407.08704)|null|
 
-<p align=right>(<a href=#updated-on-20250212>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250213>back to top</a>)</p>
 
 ## Domain Specific Accelerator
 
@@ -1617,7 +1617,7 @@
 |**2024-06-05**|**HASS: Hardware-Aware Sparsity Search for Dataflow DNN Accelerator**|Zhewen Yu et.al.|[2406.03088](http://arxiv.org/abs/2406.03088)|**[link](https://github.com/yu-zhewen/hass)**|
 |**2024-06-03**|**A 0.96pJ/SOP, 30.23K-neuron/mm^2 Heterogeneous Neuromorphic Chip With Fullerene-like Interconnection Topology for Edge-AI Computing**|P. J. Zhou et.al.|[2406.01151](http://arxiv.org/abs/2406.01151)|null|
 
-<p align=right>(<a href=#updated-on-20250212>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250213>back to top</a>)</p>
 
 ## Low-Rank Adaptation
 
@@ -1643,7 +1643,7 @@
 |**2024-07-21**|**Learn to Preserve and Diversify: Parameter-Efficient Group with Orthogonal Regularization for Domain Generalization**|Jiajun Hu et.al.|[2407.15085](http://arxiv.org/abs/2407.15085)|null|
 |**2024-07-21**|**MedSAGa: Few-shot Memory Efficient Medical Image Segmentation using Gradient Low-Rank Projection in SAM**|Navyansh Mahla et.al.|[2407.15042](http://arxiv.org/abs/2407.15042)|null|
 
-<p align=right>(<a href=#updated-on-20250212>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250213>back to top</a>)</p>
 
 ## Model Compression
 
@@ -1673,14 +1673,14 @@
 |**2024-07-23**|**OriGen:Enhancing RTL Code Generation with Code-to-Code Augmentation and Self-Reflection**|Fan Cui et.al.|[2407.16237](http://arxiv.org/abs/2407.16237)|**[link](https://github.com/pku-liang/origen)**|
 |**2024-07-23**|**DDK: Distilling Domain Knowledge for Efficient Large Language Models**|Jiaheng Liu et.al.|[2407.16154](http://arxiv.org/abs/2407.16154)|null|
 
-<p align=right>(<a href=#updated-on-20250212>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250213>back to top</a>)</p>
 
 ## Long-context
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-02-11**|**Pippo: High-Resolution Multi-View Humans from a Single Image**|Yash Kant et.al.|[2502.07785](http://arxiv.org/abs/2502.07785)|null|
-|**2025-02-11**|**Next Block Prediction: Video Generation via Semi-Auto-Regressive Modeling**|Shuhuai Ren et.al.|[2502.07737](http://arxiv.org/abs/2502.07737)|null|
+|**2025-02-12**|**Next Block Prediction: Video Generation via Semi-Autoregressive Modeling**|Shuhuai Ren et.al.|[2502.07737](http://arxiv.org/abs/2502.07737)|null|
 |**2025-02-11**|**In Search of the First Stars: An Ultra-Compact and Very Low Metallicity Lyman- $α$ Emitter Deep Within the Epoch of Reionization**|Chris J. Willott et.al.|[2502.07733](http://arxiv.org/abs/2502.07733)|null|
 |**2025-02-11**|**DeepVL: Dynamics and Inertial Measurements-based Deep Velocity Learning for Underwater Odometry**|Mohit Singh et.al.|[2502.07726](http://arxiv.org/abs/2502.07726)|null|
 |**2025-02-11**|**Magic 1-For-1: Generating One Minute Video Clips within One Minute**|Hongwei Yi et.al.|[2502.07701](http://arxiv.org/abs/2502.07701)|null|
@@ -2930,7 +2930,7 @@
 |**2024-07-30**|**Exocomet orbital distribution around $β$ Pictoris**|René Heller et.al.|[2407.20829](http://arxiv.org/abs/2407.20829)|null|
 |**2024-07-30**|**Design and inference for multi-arm clinical trials with informational borrowing: the interacting urns design**|Giacomo Aletti et.al.|[2407.20819](http://arxiv.org/abs/2407.20819)|null|
 
-<p align=right>(<a href=#updated-on-20250212>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250213>back to top</a>)</p>
 
 ## MLSYS
 
@@ -3374,7 +3374,7 @@
 |**2024-07-24**|**Deep Koopman-based Control of Quality Variation in Multistage Manufacturing Systems**|Zhiyi Chen et.al.|[2407.16933](http://arxiv.org/abs/2407.16933)|null|
 |**2024-07-23**|**Implementing engrams from a machine learning perspective: the relevance of a latent space**|J Marco de Lucas et.al.|[2407.16616](http://arxiv.org/abs/2407.16616)|null|
 
-<p align=right>(<a href=#updated-on-20250212>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250213>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
