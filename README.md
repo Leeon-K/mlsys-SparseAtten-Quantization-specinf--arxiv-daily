@@ -25,6 +25,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-13**|**Embed Any NeRF: Graph Meta-Networks for Neural Tasks on Arbitrary NeRF Architectures**|Francesco Ballerini et.al.|[2502.09623](http://arxiv.org/abs/2502.09623)|null|
+|**2025-02-13**|**MME-CoT: Benchmarking Chain-of-Thought in Large Multimodal Models for Reasoning Quality, Robustness, and Efficiency**|Dongzhi Jiang et.al.|[2502.09621](http://arxiv.org/abs/2502.09621)|null|
+|**2025-02-13**|**Exploring the Potential of Encoder-free Architectures in 3D LMMs**|Yiwen Tang et.al.|[2502.09620](http://arxiv.org/abs/2502.09620)|null|
+|**2025-02-13**|**LIFe-GoM: Generalizable Human Rendering with Learned Iterative Feedback Over Multi-Resolution Gaussians-on-Mesh**|Jing Wen et.al.|[2502.09617](http://arxiv.org/abs/2502.09617)|null|
+|**2025-02-13**|**Variational Rectified Flow Matching**|Pengsheng Guo et.al.|[2502.09616](http://arxiv.org/abs/2502.09616)|null|
+|**2025-02-13**|**Human-LLM Coevolution: Evidence from Academic Writing**|Mingmeng Geng et.al.|[2502.09606](http://arxiv.org/abs/2502.09606)|null|
+|**2025-02-13**|**SelfCite: Self-Supervised Alignment for Context Attribution in Large Language Models**|Yung-Sung Chuang et.al.|[2502.09604](http://arxiv.org/abs/2502.09604)|null|
+|**2025-02-13**|**CoT-Valve: Length-Compressible Chain-of-Thought Tuning**|Xinyin Ma et.al.|[2502.09601](http://arxiv.org/abs/2502.09601)|null|
+|**2025-02-13**|**Do LLMs Recognize Your Preferences? Evaluating Personalized Preference Following in LLMs**|Siyan Zhao et.al.|[2502.09597](http://arxiv.org/abs/2502.09597)|null|
+|**2025-02-13**|**KIMAs: A Configurable Knowledge Integrated Multi-Agent System**|Zitao Li et.al.|[2502.09596](http://arxiv.org/abs/2502.09596)|null|
 |**2025-02-12**|**Utility Engineering: Analyzing and Controlling Emergent Value Systems in AIs**|Mantas Mazeika et.al.|[2502.08640](http://arxiv.org/abs/2502.08640)|null|
 |**2025-02-12**|**Examining Multilingual Embedding Models Cross-Lingually Through LLM-Generated Adversarial Examples**|Andrianos Michail et.al.|[2502.08638](http://arxiv.org/abs/2502.08638)|null|
 |**2025-02-12**|**Ensemble based approach to quantifying uncertainty of LLM based classifications**|Srijith Rajamohan et.al.|[2502.08631](http://arxiv.org/abs/2502.08631)|null|
@@ -1320,6 +1330,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-13**|**Recipe: Hardware-Accelerated Replication Protocols**|Dimitra Giantsidi et.al.|[2502.09251](http://arxiv.org/abs/2502.09251)|null|
 |**2025-02-12**|**Scalable Thermodynamic Second-order Optimization**|Kaelan Donatella et.al.|[2502.08603](http://arxiv.org/abs/2502.08603)|null|
 |**2025-02-10**|**Runtime Tunable Tsetlin Machines for Edge Inference on eFPGAs**|Tousif Rahman et.al.|[2502.07823](http://arxiv.org/abs/2502.07823)|null|
 |**2025-02-10**|**Accelerating Berends-Giele recursion for gluons in arbitrary dimensions over finite fields**|Juan M. Cruz-Martinez et.al.|[2502.07060](http://arxiv.org/abs/2502.07060)|**[link](https://github.com/amps-gpu/bg-trees)**|
@@ -1490,6 +1501,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-13**|**SteROI-D: System Design and Mapping for Stereo Depth Inference on Regions of Interest**|Jack Erhardt et.al.|[2502.09528](http://arxiv.org/abs/2502.09528)|null|
 |**2025-02-10**|**Runtime Tunable Tsetlin Machines for Edge Inference on eFPGAs**|Tousif Rahman et.al.|[2502.07823](http://arxiv.org/abs/2502.07823)|null|
 |**2025-02-13**|**XAMBA: Enabling Efficient State Space Models on Resource-Constrained Neural Processing Units**|Arghadip Das et.al.|[2502.06924](http://arxiv.org/abs/2502.06924)|**[link](https://github.com/arghadippurdue/xamba)**|
 |**2025-02-08**|**ETHEREAL: Energy-efficient and High-throughput Inference using Compressed Tsetlin Machine**|Shengyu Duan et.al.|[2502.05640](http://arxiv.org/abs/2502.05640)|null|
@@ -1692,6 +1704,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-13**|**Embed Any NeRF: Graph Meta-Networks for Neural Tasks on Arbitrary NeRF Architectures**|Francesco Ballerini et.al.|[2502.09623](http://arxiv.org/abs/2502.09623)|null|
+|**2025-02-13**|**LIFe-GoM: Generalizable Human Rendering with Learned Iterative Feedback Over Multi-Resolution Gaussians-on-Mesh**|Jing Wen et.al.|[2502.09617](http://arxiv.org/abs/2502.09617)|null|
+|**2025-02-13**|**Variational Rectified Flow Matching**|Pengsheng Guo et.al.|[2502.09616](http://arxiv.org/abs/2502.09616)|null|
+|**2025-02-13**|**SelfCite: Self-Supervised Alignment for Context Attribution in Large Language Models**|Yung-Sung Chuang et.al.|[2502.09604](http://arxiv.org/abs/2502.09604)|null|
+|**2025-02-13**|**CoT-Valve: Length-Compressible Chain-of-Thought Tuning**|Xinyin Ma et.al.|[2502.09601](http://arxiv.org/abs/2502.09601)|null|
+|**2025-02-13**|**Do LLMs Recognize Your Preferences? Evaluating Personalized Preference Following in LLMs**|Siyan Zhao et.al.|[2502.09597](http://arxiv.org/abs/2502.09597)|null|
+|**2025-02-13**|**Censor Dependent Variational Inference**|Chuanhui Liu et.al.|[2502.09591](http://arxiv.org/abs/2502.09591)|null|
+|**2025-02-13**|**Star-crossed Clusters: Asteroseismic Ages for Individual Stars are in Tension with the Ages of their Host Clusters**|Jamie Tayar et.al.|[2502.09582](http://arxiv.org/abs/2502.09582)|null|
+|**2025-02-13**|**MorphNLI: A Stepwise Approach to Natural Language Inference Using Text Morphing**|Vlad Andrei Negru et.al.|[2502.09567](http://arxiv.org/abs/2502.09567)|null|
+|**2025-02-13**|**SteROI-D: System Design and Mapping for Stereo Depth Inference on Regions of Interest**|Jack Erhardt et.al.|[2502.09528](http://arxiv.org/abs/2502.09528)|null|
 |**2025-02-12**|**Ensemble based approach to quantifying uncertainty of LLM based classifications**|Srijith Rajamohan et.al.|[2502.08631](http://arxiv.org/abs/2502.08631)|null|
 |**2025-02-12**|**Difference-in-Differences and Changes-in-Changes with Sample Selection**|Javier Viviens et.al.|[2502.08614](http://arxiv.org/abs/2502.08614)|null|
 |**2025-02-12**|**Scalable Thermodynamic Second-order Optimization**|Kaelan Donatella et.al.|[2502.08603](http://arxiv.org/abs/2502.08603)|null|
@@ -2959,6 +2981,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-13**|**Inverse Design with Dynamic Mode Decomposition**|Yunpeng Zhu et.al.|[2502.09490](http://arxiv.org/abs/2502.09490)|null|
+|**2025-02-13**|**ThunderServe: High-performance and Cost-efficient LLM Serving in Cloud Environments**|Youhe Jiang et.al.|[2502.09334](http://arxiv.org/abs/2502.09334)|null|
+|**2025-02-13**|**Dynamic Rolling Horizon Optimization for Network-Constrained V2X Value Stacking of Electric Vehicles Under Uncertainties**|Canchen Jiang et.al.|[2502.09290](http://arxiv.org/abs/2502.09290)|null|
+|**2025-02-13**|**Integrated Optimization and Game Theory Framework for Fair Cost Allocation in Community Microgrids**|K. Victor Sam Moses Babu et.al.|[2502.08953](http://arxiv.org/abs/2502.08953)|null|
+|**2025-02-13**|**On the Promise for Assurance of Differentiable Neurosymbolic Reasoning Paradigms**|Luke E. Richards et.al.|[2502.08932](http://arxiv.org/abs/2502.08932)|null|
+|**2025-02-12**|**Demand Response Optimization MILP Framework for Microgrids with DERs**|K. Victor Sam Moses Babu et.al.|[2502.08764](http://arxiv.org/abs/2502.08764)|null|
+|**2025-02-12**|**Contextual bandits with entropy-based human feedback**|Raihan Seraj et.al.|[2502.08759](http://arxiv.org/abs/2502.08759)|null|
 |**2025-02-12**|**DNNs May Determine Major Properties of Their Outputs Early, with Timing Possibly Driven by Bias**|Song Park et.al.|[2502.08167](http://arxiv.org/abs/2502.08167)|null|
 |**2025-02-10**|**Koopman-Equivariant Gaussian Processes**|Petar Bevanda et.al.|[2502.06645](http://arxiv.org/abs/2502.06645)|null|
 |**2025-02-10**|**Predictive Red Teaming: Breaking Policies Without Breaking Robots**|Anirudha Majumdar et.al.|[2502.06575](http://arxiv.org/abs/2502.06575)|null|
