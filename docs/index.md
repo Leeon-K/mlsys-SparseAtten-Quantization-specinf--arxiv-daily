@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.24
+## Updated on 2025.02.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Quantization
@@ -3095,7 +3095,7 @@ layout: default
 |**2025-02-21**|**Robust Information Selection for Hypothesis Testing with Misclassification Penalties**|Jayanth Bhargav et.al.|[2502.14738](http://arxiv.org/abs/2502.14738)|null|
 |**2025-02-20**|**Real-Time Sampling-based Online Planning for Drone Interception**|Gilhyun Ryou et.al.|[2502.14231](http://arxiv.org/abs/2502.14231)|null|
 |**2025-02-20**|**Sample Complexity of Linear Quadratic Regulator Without Initial Stability**|Amirreza Neshaei Moghaddam et.al.|[2502.14210](http://arxiv.org/abs/2502.14210)|null|
-|**2025-02-19**|**A Supervised Machine-Learning Approach For Turboshaft Engine Dynamic Modeling Under Real Flight Conditions**|Damiano Paniccia et.al.|[2502.14120](http://arxiv.org/abs/2502.14120)|null|
+|**2025-02-23**|**A Supervised Machine-Learning Approach For Turboshaft Engine Dynamic Modeling Under Real Flight Conditions**|Damiano Paniccia et.al.|[2502.14120](http://arxiv.org/abs/2502.14120)|null|
 |**2025-02-19**|**Highly Dynamic and Flexible Spatio-Temporal Spectrum Management with AI-Driven O-RAN: A Multi-Granularity Marketplace Framework**|Mehdi Rasti et.al.|[2502.13891](http://arxiv.org/abs/2502.13891)|null|
 |**2025-02-19**|**Learning to explore when mistakes are not allowed**|Charly Pecqueux-Guézénec et.al.|[2502.13801](http://arxiv.org/abs/2502.13801)|null|
 |**2025-02-19**|**Multi-Target Radar Search and Track Using Sequence-Capable Deep Reinforcement Learning**|Jan-Hendrik Ewers et.al.|[2502.13584](http://arxiv.org/abs/2502.13584)|null|
