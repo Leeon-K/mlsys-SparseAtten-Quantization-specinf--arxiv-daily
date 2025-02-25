@@ -25,6 +25,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-24**|**GCC: Generative Color Constancy via Diffusing a Color Checker**|Chen-Wei Chang et.al.|[2502.17435](http://arxiv.org/abs/2502.17435)|null|
+|**2025-02-24**|**Emergent Misalignment: Narrow finetuning can produce broadly misaligned LLMs**|Jan Betley et.al.|[2502.17424](http://arxiv.org/abs/2502.17424)|null|
+|**2025-02-24**|**MLLMs Know Where to Look: Training-free Perception of Small Visual Details with Multimodal LLMs**|Jiarui Zhang et.al.|[2502.17422](http://arxiv.org/abs/2502.17422)|null|
+|**2025-02-24**|**LongSpec: Long-Context Speculative Decoding with Efficient Drafting and Verification**|Penghui Yang et.al.|[2502.17421](http://arxiv.org/abs/2502.17421)|null|
+|**2025-02-24**|**The Geometry of Refusal in Large Language Models: Concept Cones and Representational Independence**|Tom Wollschläger et.al.|[2502.17420](http://arxiv.org/abs/2502.17420)|null|
+|**2025-02-24**|**From System 1 to System 2: A Survey of Reasoning Large Language Models**|Zhong-Zhi Li et.al.|[2502.17419](http://arxiv.org/abs/2502.17419)|null|
+|**2025-02-24**|**A JWST Panchromatic Thermal Emission Spectrum of the Warm Neptune Archetype GJ 436b**|Sagnick Mukherjee et.al.|[2502.17418](http://arxiv.org/abs/2502.17418)|null|
+|**2025-02-24**|**Reasoning with Latent Thoughts: On the Power of Looped Transformers**|Nikunj Saunshi et.al.|[2502.17416](http://arxiv.org/abs/2502.17416)|null|
+|**2025-02-24**|**COSMOS: A Hybrid Adaptive Optimizer for Memory-Efficient Training of LLMs**|Liming Liu et.al.|[2502.17410](http://arxiv.org/abs/2502.17410)|null|
+|**2025-02-24**|**Linguistic Generalizability of Test-Time Scaling in Mathematical Reasoning**|Guijin Son et.al.|[2502.17407](http://arxiv.org/abs/2502.17407)|null|
 |**2025-02-21**|**Privacy Ripple Effects from Adding or Removing Personal Information in Language Model Training**|Jaydeep Borkar et.al.|[2502.15680](http://arxiv.org/abs/2502.15680)|null|
 |**2025-02-21**|**FLEKE: Federated Locate-then-Edit Knowledge Editing**|Zongkai Zhao et.al.|[2502.15677](http://arxiv.org/abs/2502.15677)|null|
 |**2025-02-21**|**AutoToM: Automated Bayesian Inverse Planning and Model Discovery for Open-ended Theory of Mind**|Zhining Zhang et.al.|[2502.15676](http://arxiv.org/abs/2502.15676)|null|
@@ -1390,6 +1400,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-24**|**Evaluating IOMMU-Based Shared Virtual Addressing for RISC-V Embedded Heterogeneous SoCs**|Cyril Koenig et.al.|[2502.17398](http://arxiv.org/abs/2502.17398)|null|
+|**2025-02-24**|**APINT: A Full-Stack Framework for Acceleration of Privacy-Preserving Inference of Transformers based on Garbled Circuits**|Hyunjun Cho et.al.|[2502.16877](http://arxiv.org/abs/2502.16877)|null|
+|**2025-02-22**|**A Hybrid Neural Network for High-Throughput Attosecond Resolution Single-shot X-ray Pulse Characterization**|Jack Hirschman et.al.|[2502.16141](http://arxiv.org/abs/2502.16141)|null|
 |**2025-02-20**|**Micro Blossom: Accelerated Minimum-Weight Perfect Matching Decoding for Quantum Error Correction**|Yue Wu et.al.|[2502.14787](http://arxiv.org/abs/2502.14787)|null|
 |**2025-02-18**|**RTPD: Penetration Depth calculation using Hardware accelerated Ray-Tracing**|YoungWoo Kim et.al.|[2502.12463](http://arxiv.org/abs/2502.12463)|null|
 |**2025-02-20**|**TherAIssist: Assisting Art Therapy Homework and Client-Practitioner Collaboration through Human-AI Interaction**|Di Liu et.al.|[2502.12443](http://arxiv.org/abs/2502.12443)|null|
@@ -1567,6 +1580,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-22**|**A Hybrid Neural Network for High-Throughput Attosecond Resolution Single-shot X-ray Pulse Characterization**|Jack Hirschman et.al.|[2502.16141](http://arxiv.org/abs/2502.16141)|null|
 |**2025-02-19**|**Qwen2.5-VL Technical Report**|Shuai Bai et.al.|[2502.13923](http://arxiv.org/abs/2502.13923)|null|
 |**2025-02-19**|**AnDB: Breaking Boundaries with an AI-Native Database for Universal Semantic Analysis**|Tianqing Wang et.al.|[2502.13805](http://arxiv.org/abs/2502.13805)|null|
 |**2025-02-19**|**Improving the Sparse Structure Learning of Spiking Neural Networks from the View of Compression Efficiency**|Jiangrong Shen et.al.|[2502.13572](http://arxiv.org/abs/2502.13572)|null|
@@ -1778,6 +1792,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-24**|**GCC: Generative Color Constancy via Diffusing a Color Checker**|Chen-Wei Chang et.al.|[2502.17435](http://arxiv.org/abs/2502.17435)|null|
+|**2025-02-24**|**LongSpec: Long-Context Speculative Decoding with Efficient Drafting and Verification**|Penghui Yang et.al.|[2502.17421](http://arxiv.org/abs/2502.17421)|null|
+|**2025-02-24**|**A JWST Panchromatic Thermal Emission Spectrum of the Warm Neptune Archetype GJ 436b**|Sagnick Mukherjee et.al.|[2502.17418](http://arxiv.org/abs/2502.17418)|null|
+|**2025-02-24**|**Reasoning with Latent Thoughts: On the Power of Looped Transformers**|Nikunj Saunshi et.al.|[2502.17416](http://arxiv.org/abs/2502.17416)|null|
+|**2025-02-24**|**Linguistic Generalizability of Test-Time Scaling in Mathematical Reasoning**|Guijin Son et.al.|[2502.17407](http://arxiv.org/abs/2502.17407)|null|
+|**2025-02-24**|**Large Language Models are Powerful EHR Encoders**|Stefan Hegselmann et.al.|[2502.17403](http://arxiv.org/abs/2502.17403)|null|
+|**2025-02-24**|**A Closer Look at TabPFN v2: Strength, Limitation, and Extension**|Han-Jia Ye et.al.|[2502.17361](http://arxiv.org/abs/2502.17361)|null|
+|**2025-02-24**|**DIS-CO: Discovering Copyrighted Content in VLMs Training Data**|André V. Duarte et.al.|[2502.17358](http://arxiv.org/abs/2502.17358)|null|
+|**2025-02-24**|**Leveraging Procedural Knowledge and Task Hierarchies for Efficient Instructional Video Pre-training**|Karan Samel et.al.|[2502.17352](http://arxiv.org/abs/2502.17352)|null|
+|**2025-02-24**|**HybridLinker: Topology-Guided Posterior Sampling for Enhanced Diversity and Validity in 3D Molecular Linker Generation**|Minyeong Hwang et.al.|[2502.17349](http://arxiv.org/abs/2502.17349)|null|
 |**2025-02-21**|**AutoToM: Automated Bayesian Inverse Planning and Model Discovery for Open-ended Theory of Mind**|Zhining Zhang et.al.|[2502.15676](http://arxiv.org/abs/2502.15676)|null|
 |**2025-02-21**|**Automating Curriculum Learning for Reinforcement Learning using a Skill-Based Bayesian Network**|Vincent Hsiao et.al.|[2502.15662](http://arxiv.org/abs/2502.15662)|null|
 |**2025-02-21**|**Superintelligent Agents Pose Catastrophic Risks: Can Scientist AI Offer a Safer Path?**|Yoshua Bengio et.al.|[2502.15657](http://arxiv.org/abs/2502.15657)|null|
@@ -3115,7 +3139,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-02-21**|**TAG: A Decentralized Framework for Multi-Agent Hierarchical Reinforcement Learning**|Giuseppe Paolo et.al.|[2502.15425](http://arxiv.org/abs/2502.15425)|null|
+|**2025-02-24**|**A Concise Lyapunov Analysis of Nesterov's Accelerated Gradient Method**|Jun Liu et.al.|[2502.17373](http://arxiv.org/abs/2502.17373)|null|
+|**2025-02-22**|**A Survey of Model Extraction Attacks and Defenses in Distributed Computing Environments**|Kaixiang Zhao et.al.|[2502.16065](http://arxiv.org/abs/2502.16065)|null|
+|**2025-02-20**|**From Target Tracking to Targeting Track -- Part I: A Metric for Spatio-Temporal Trajectory Evaluation**|Tiancheng Li et.al.|[2502.15842](http://arxiv.org/abs/2502.15842)|null|
+|**2025-02-20**|**Advancing Out-of-Distribution Detection via Local Neuroplasticity**|Alessandro Canevaro et.al.|[2502.15833](http://arxiv.org/abs/2502.15833)|null|
+|**2025-02-24**|**TAG: A Decentralized Framework for Multi-Agent Hierarchical Reinforcement Learning**|Giuseppe Paolo et.al.|[2502.15425](http://arxiv.org/abs/2502.15425)|null|
 |**2025-02-21**|**Multi-agent Multi-armed Bandits with Minimum Reward Guarantee Fairness**|Piyushi Manupriya et.al.|[2502.15240](http://arxiv.org/abs/2502.15240)|null|
 |**2025-02-20**|**LServe: Efficient Long-sequence LLM Serving with Unified Sparse Attention**|Shang Yang et.al.|[2502.14866](http://arxiv.org/abs/2502.14866)|**[link](https://github.com/mit-han-lab/omniserve)**|
 |**2025-02-20**|**Reinforcement Learning with Graph Attention for Routing and Wavelength Assignment with Lightpath Reuse**|Michael Doherty et.al.|[2502.14741](http://arxiv.org/abs/2502.14741)|null|
