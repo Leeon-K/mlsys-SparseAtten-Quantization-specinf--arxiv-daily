@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-25**|**Scalable Equilibrium Sampling with Sequential Boltzmann Generators**|Charlie B. Tan et.al.|[2502.18462](http://arxiv.org/abs/2502.18462)|null|
+|**2025-02-25**|**DRAMA: Diverse Augmentation from Large Language Models to Smaller Dense Retrievers**|Xueguang Ma et.al.|[2502.18460](http://arxiv.org/abs/2502.18460)|null|
+|**2025-02-25**|**LLM-Based Design Pattern Detection**|Christian Schindler et.al.|[2502.18458](http://arxiv.org/abs/2502.18458)|null|
+|**2025-02-25**|**FRIDA to the Rescue! Analyzing Synthetic Data Effectiveness in Object-Based Common Sense Reasoning for Disaster Response**|Mollie Shichman et.al.|[2502.18452](http://arxiv.org/abs/2502.18452)|null|
+|**2025-02-25**|**SWE-RL: Advancing LLM Reasoning via Reinforcement Learning on Open Software Evolution**|Yuxiang Wei et.al.|[2502.18449](http://arxiv.org/abs/2502.18449)|null|
+|**2025-02-25**|**Disambiguate First Parse Later: Generating Interpretations for Ambiguity Resolution in Semantic Parsing**|Irina Saparina et.al.|[2502.18448](http://arxiv.org/abs/2502.18448)|null|
+|**2025-02-25**|**Supervised Reward Inference**|Will Schwarzer et.al.|[2502.18447](http://arxiv.org/abs/2502.18447)|null|
+|**2025-02-25**|**olmOCR: Unlocking Trillions of Tokens in PDFs with Vision Language Models**|Jake Poznanski et.al.|[2502.18443](http://arxiv.org/abs/2502.18443)|null|
+|**2025-02-25**|**MAPoRL: Multi-Agent Post-Co-Training for Collaborative Large Language Models with Reinforcement Learning**|Chanwoo Park et.al.|[2502.18439](http://arxiv.org/abs/2502.18439)|null|
+|**2025-02-25**|**ToMCAT: Theory-of-Mind for Cooperative Agents in Teams via Multiagent Diffusion Policies**|Pedro Sequeira et.al.|[2502.18438](http://arxiv.org/abs/2502.18438)|null|
 |**2025-02-24**|**GCC: Generative Color Constancy via Diffusing a Color Checker**|Chen-Wei Chang et.al.|[2502.17435](http://arxiv.org/abs/2502.17435)|null|
 |**2025-02-24**|**Emergent Misalignment: Narrow finetuning can produce broadly misaligned LLMs**|Jan Betley et.al.|[2502.17424](http://arxiv.org/abs/2502.17424)|**[link](https://github.com/emergent-misalignment/emergent-misalignment)**|
 |**2025-02-24**|**MLLMs Know Where to Look: Training-free Perception of Small Visual Details with Multimodal LLMs**|Jiarui Zhang et.al.|[2502.17422](http://arxiv.org/abs/2502.17422)|**[link](https://github.com/saccharomycetes/mllms_know)**|
@@ -1563,6 +1573,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-25**|**On-device edge learning for IoT data streams: a survey**|Afonso Lourenço et.al.|[2502.17788](http://arxiv.org/abs/2502.17788)|null|
 |**2025-02-22**|**A Hybrid Neural Network for High-Throughput Attosecond Resolution Single-shot X-ray Pulse Characterization**|Jack Hirschman et.al.|[2502.16141](http://arxiv.org/abs/2502.16141)|null|
 |**2025-02-19**|**Qwen2.5-VL Technical Report**|Shuai Bai et.al.|[2502.13923](http://arxiv.org/abs/2502.13923)|null|
 |**2025-02-19**|**AnDB: Breaking Boundaries with an AI-Native Database for Universal Semantic Analysis**|Tianqing Wang et.al.|[2502.13805](http://arxiv.org/abs/2502.13805)|null|
@@ -1767,6 +1778,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-25**|**Scalable Equilibrium Sampling with Sequential Boltzmann Generators**|Charlie B. Tan et.al.|[2502.18462](http://arxiv.org/abs/2502.18462)|null|
+|**2025-02-25**|**DRAMA: Diverse Augmentation from Large Language Models to Smaller Dense Retrievers**|Xueguang Ma et.al.|[2502.18460](http://arxiv.org/abs/2502.18460)|null|
+|**2025-02-25**|**Supervised Reward Inference**|Will Schwarzer et.al.|[2502.18447](http://arxiv.org/abs/2502.18447)|null|
+|**2025-02-25**|**olmOCR: Unlocking Trillions of Tokens in PDFs with Vision Language Models**|Jake Poznanski et.al.|[2502.18443](http://arxiv.org/abs/2502.18443)|null|
+|**2025-02-25**|**ToMCAT: Theory-of-Mind for Cooperative Agents in Teams via Multiagent Diffusion Policies**|Pedro Sequeira et.al.|[2502.18438](http://arxiv.org/abs/2502.18438)|null|
+|**2025-02-25**|**Comparative Analysis of MDL-VAE vs. Standard VAE on 202 Years of Gynecological Data**|Paula Santos et.al.|[2502.18412](http://arxiv.org/abs/2502.18412)|null|
+|**2025-02-25**|**Chemical abundance ratios for the bulge of M31**|F. La Barbera et.al.|[2502.18409](http://arxiv.org/abs/2502.18409)|null|
+|**2025-02-25**|**The Gradient of Algebraic Model Counting**|Jaron Maene et.al.|[2502.18406](http://arxiv.org/abs/2502.18406)|null|
+|**2025-02-25**|**Enhancing DNA Foundation Models to Address Masking Inefficiencies**|Monireh Safari et.al.|[2502.18405](http://arxiv.org/abs/2502.18405)|null|
+|**2025-02-25**|**Kitsune: Enabling Dataflow Execution on GPUs**|Michael Davies et.al.|[2502.18403](http://arxiv.org/abs/2502.18403)|null|
 |**2025-02-24**|**GCC: Generative Color Constancy via Diffusing a Color Checker**|Chen-Wei Chang et.al.|[2502.17435](http://arxiv.org/abs/2502.17435)|null|
 |**2025-02-24**|**LongSpec: Long-Context Speculative Decoding with Efficient Drafting and Verification**|Penghui Yang et.al.|[2502.17421](http://arxiv.org/abs/2502.17421)|**[link](https://github.com/sail-sg/longspec)**|
 |**2025-02-24**|**A JWST Panchromatic Thermal Emission Spectrum of the Warm Neptune Archetype GJ 436b**|Sagnick Mukherjee et.al.|[2502.17418](http://arxiv.org/abs/2502.17418)|null|
@@ -3112,6 +3133,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-25**|**Sample-efficient diffusion-based control of complex nonlinear systems**|Hongyi Chen et.al.|[2502.17893](http://arxiv.org/abs/2502.17893)|null|
+|**2025-02-25**|**Toward 6-DOF Autonomous Underwater Vehicle Energy-Aware Position Control based on Deep Reinforcement Learning: Preliminary Results**|Gustavo Boré et.al.|[2502.17742](http://arxiv.org/abs/2502.17742)|null|
+|**2025-02-24**|**MEDA: Dynamic KV Cache Allocation for Efficient Multimodal Long-Context Inference**|Zhongwei Wan et.al.|[2502.17599](http://arxiv.org/abs/2502.17599)|null|
 |**2025-02-25**|**A Concise Lyapunov Analysis of Nesterov's Accelerated Gradient Method**|Jun Liu et.al.|[2502.17373](http://arxiv.org/abs/2502.17373)|null|
 |**2025-02-22**|**A Survey of Model Extraction Attacks and Defenses in Distributed Computing Environments**|Kaixiang Zhao et.al.|[2502.16065](http://arxiv.org/abs/2502.16065)|null|
 |**2025-02-20**|**From Target Tracking to Targeting Track -- Part I: A Metric for Spatio-Temporal Trajectory Evaluation**|Tiancheng Li et.al.|[2502.15842](http://arxiv.org/abs/2502.15842)|null|
