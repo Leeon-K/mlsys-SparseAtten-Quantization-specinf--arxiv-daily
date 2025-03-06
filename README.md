@@ -25,6 +25,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-05**|**GEN3C: 3D-Informed World-Consistent Video Generation with Precise Camera Control**|Xuanchi Ren et.al.|[2503.03751](http://arxiv.org/abs/2503.03751)|**[link](https://github.com/nv-tlabs/GEN3C)**|
+|**2025-03-05**|**The MASK Benchmark: Disentangling Honesty From Accuracy in AI Systems**|Richard Ren et.al.|[2503.03750](http://arxiv.org/abs/2503.03750)|null|
+|**2025-03-05**|**Process-based Self-Rewarding Language Models**|Shimao Zhang et.al.|[2503.03746](http://arxiv.org/abs/2503.03746)|null|
+|**2025-03-05**|**Towards Understanding Distilled Reasoning Models: A Representational Approach**|David D. Baek et.al.|[2503.03730](http://arxiv.org/abs/2503.03730)|null|
+|**2025-03-05**|**Improving LLM Safety Alignment with Dual-Objective Optimization**|Xuandong Zhao et.al.|[2503.03710](http://arxiv.org/abs/2503.03710)|null|
+|**2025-03-05**|**Effective LLM Knowledge Learning via Model Generalization**|Mingkang Zhu et.al.|[2503.03705](http://arxiv.org/abs/2503.03705)|null|
+|**2025-03-05**|**A Practical Memory Injection Attack against LLM Agents**|Shen Dong et.al.|[2503.03704](http://arxiv.org/abs/2503.03704)|null|
+|**2025-03-05**|**Developing and Utilizing a Large-Scale Cantonese Dataset for Multi-Tasking in Large Language Models**|Jiyue Jiang et.al.|[2503.03702](http://arxiv.org/abs/2503.03702)|null|
+|**2025-03-05**|**High-Energy Neutrinos by Hydrogen-rich Supernovae interacting with low-massive Circumstellar Medium: The Case of SN 2023ixf**|S. P. Cosentino et.al.|[2503.03699](http://arxiv.org/abs/2503.03699)|null|
+|**2025-03-05**|**ILLC: Iterative Layer-by-Layer Compression for Enhancing Structural Faithfulness in SpArX**|Ungsik Kim et.al.|[2503.03693](http://arxiv.org/abs/2503.03693)|null|
 |**2025-03-04**|**Wikipedia in the Era of LLMs: Evolution and Risks**|Siming Huang et.al.|[2503.02879](http://arxiv.org/abs/2503.02879)|null|
 |**2025-03-04**|**Language Models can Self-Improve at State-Value Estimation for Better Search**|Ethan Mendes et.al.|[2503.02878](http://arxiv.org/abs/2503.02878)|null|
 |**2025-03-04**|**The First Few Tokens Are All You Need: An Efficient and Effective Unsupervised Prefix Fine-Tuning Method for Reasoning Models**|Ke Ji et.al.|[2503.02875](http://arxiv.org/abs/2503.02875)|null|
@@ -1450,6 +1460,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-05**|**DiRe-JAX: A JAX based Dimensionality Reduction Algorithm for Large-scale Data**|Alexander Kolpakov et.al.|[2503.03156](http://arxiv.org/abs/2503.03156)|null|
+|**2025-02-26**|**Vision Transformers on the Edge: A Comprehensive Survey of Model Compression and Acceleration Strategies**|Shaibal Saha et.al.|[2503.02891](http://arxiv.org/abs/2503.02891)|null|
 |**2025-03-04**|**TFHE-SBC: Software Designs for Fully Homomorphic Encryption over the Torus on Single Board Computers**|Marin Matsumoto et.al.|[2503.02559](http://arxiv.org/abs/2503.02559)|null|
 |**2025-03-04**|**POPGym Arcade: Parallel Pixelated POMDPs**|Zekang Wang et.al.|[2503.01450](http://arxiv.org/abs/2503.01450)|**[link](https://github.com/bolt-research/popgym_arcade)**|
 |**2025-02-28**|**Supporting the development of Machine Learning for fundamental science in a federated Cloud with the AI_INFN platform**|Lucio Anderlini et.al.|[2502.21266](http://arxiv.org/abs/2502.21266)|null|
@@ -1852,6 +1864,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-05**|**GEN3C: 3D-Informed World-Consistent Video Generation with Precise Camera Control**|Xuanchi Ren et.al.|[2503.03751](http://arxiv.org/abs/2503.03751)|**[link](https://github.com/nv-tlabs/GEN3C)**|
+|**2025-03-05**|**High-Energy Neutrinos by Hydrogen-rich Supernovae interacting with low-massive Circumstellar Medium: The Case of SN 2023ixf**|S. P. Cosentino et.al.|[2503.03699](http://arxiv.org/abs/2503.03699)|null|
+|**2025-03-05**|**ILLC: Iterative Layer-by-Layer Compression for Enhancing Structural Faithfulness in SpArX**|Ungsik Kim et.al.|[2503.03693](http://arxiv.org/abs/2503.03693)|null|
+|**2025-03-05**|**MAS-GPT: Training LLMs to Build LLM-based Multi-Agent Systems**|Rui Ye et.al.|[2503.03686](http://arxiv.org/abs/2503.03686)|null|
+|**2025-03-05**|**Towards Trustworthy Federated Learning**|Alina Basharat et.al.|[2503.03684](http://arxiv.org/abs/2503.03684)|null|
+|**2025-03-05**|**Study of an active region prominence using spectropolarimetric data in the He I D3 multiplet**|S. Esteban Pozuelo et.al.|[2503.03670](http://arxiv.org/abs/2503.03670)|null|
+|**2025-03-05**|**Design and Implementation of an IoT Cluster with Raspberry Pi Powered by Solar Energy: A Theoretical Approach**|Noel Portillo et.al.|[2503.03618](http://arxiv.org/abs/2503.03618)|null|
+|**2025-03-05**|**CLIP is Strong Enough to Fight Back: Test-time Counterattacks towards Zero-shot Adversarial Robustness of CLIP**|Songlong Xing et.al.|[2503.03613](http://arxiv.org/abs/2503.03613)|null|
+|**2025-03-05**|**English K_Quantization of LLMs Does Not Disproportionately Diminish Multilingual Performance**|Karl Audun Borgersen et.al.|[2503.03592](http://arxiv.org/abs/2503.03592)|null|
+|**2025-03-05**|**PowerAttention: Exponentially Scaling of Receptive Fields for Effective Sparse Attention**|Lida Chen et.al.|[2503.03588](http://arxiv.org/abs/2503.03588)|null|
 |**2025-03-04**|**Optimal Power Management for Large-Scale Battery Energy Storage Systems via Bayesian Inference**|Amir Farakhor et.al.|[2503.02866](http://arxiv.org/abs/2503.02866)|null|
 |**2025-03-04**|**Privacy and Accuracy-Aware AI/ML Model Deduplication**|Hong Guan et.al.|[2503.02862](http://arxiv.org/abs/2503.02862)|null|
 |**2025-03-04**|**Feynman-Kac Correctors in Diffusion: Annealing, Guidance, and Product of Experts**|Marta Skreta et.al.|[2503.02819](http://arxiv.org/abs/2503.02819)|null|
@@ -3249,6 +3271,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-05**|**Domain Consistent Industrial Decarbonisation of Global Coal Power Plants**|Waqar Muhammad Ashraf et.al.|[2503.03571](http://arxiv.org/abs/2503.03571)|null|
+|**2025-03-05**|**Transformer-Based Power Optimization for Max-Min Fairness in Cell-Free Massive MIMO**|Irched Chafaa et.al.|[2503.03561](http://arxiv.org/abs/2503.03561)|null|
+|**2025-03-05**|**Simulation-Based Performance Evaluation of 3D Object Detection Methods with Deep Learning for a LiDAR Point Cloud Dataset in a SOTIF-related Use Case**|Milin Patel et.al.|[2503.03548](http://arxiv.org/abs/2503.03548)|**[link](https://github.com/milinpatel07/SOTIF-PCOD)**|
+|**2025-03-05**|**A Novel Multi-Criteria Local Latin Hypercube Refinement System for Commutation Angle Improvement in IPMSMs**|Pedram Asef et.al.|[2503.03372](http://arxiv.org/abs/2503.03372)|null|
+|**2025-03-05**|**A Systematic Survey on Debugging Techniques for Machine Learning Systems**|Thanh-Dat Nguyen et.al.|[2503.03158](http://arxiv.org/abs/2503.03158)|null|
+|**2025-03-04**|**Robust time series generation via Schrödinger Bridge: a comprehensive evaluation**|Alexandre Alouadi et.al.|[2503.02943](http://arxiv.org/abs/2503.02943)|null|
 |**2025-03-04**|**A Systematic Literature Review on Safety of the Intended Functionality for Automated Driving Systems**|Milin Patel et.al.|[2503.02498](http://arxiv.org/abs/2503.02498)|null|
 |**2025-03-03**|**Uncertainty Representation in a SOTIF-Related Use Case with Dempster-Shafer Theory for LiDAR Sensor-Based Object Detection**|Milin Patel et.al.|[2503.02087](http://arxiv.org/abs/2503.02087)|**[link](https://github.com/milinpatel07/SOTIF-PCOD)**|
 |**2025-03-03**|**Active Alignments of Lens Systems with Reinforcement Learning**|Matthias Burkhardt et.al.|[2503.02075](http://arxiv.org/abs/2503.02075)|null|
