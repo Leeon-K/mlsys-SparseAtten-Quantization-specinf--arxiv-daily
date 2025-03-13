@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.12
+## Updated on 2025.03.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Quantization
@@ -3338,7 +3338,7 @@ layout: default
 |**2025-03-11**|**Domain Adaptation and Entanglement: an Optimal Transport Perspective**|Okan Koç et.al.|[2503.08155](http://arxiv.org/abs/2503.08155)|null|
 |**2025-03-10**|**Diagnostic-free onboard battery health assessment**|Yunhong Che et.al.|[2503.07383](http://arxiv.org/abs/2503.07383)|null|
 |**2025-03-10**|**Decision-Dependent Stochastic Optimization: The Role of Distribution Dynamics**|Zhiyu He et.al.|[2503.07324](http://arxiv.org/abs/2503.07324)|null|
-|**2025-03-10**|**Hierarchical Neuro-Symbolic Decision Transformer**|Ali Baheri et.al.|[2503.07148](http://arxiv.org/abs/2503.07148)|null|
+|**2025-03-12**|**Hierarchical Neuro-Symbolic Decision Transformer**|Ali Baheri et.al.|[2503.07148](http://arxiv.org/abs/2503.07148)|null|
 |**2025-03-09**|**Agile Climate-Sensor Design and Calibration Algorithms Using Machine Learning: Experiments From Cape Point**|Travis Barrett et.al.|[2503.06777](http://arxiv.org/abs/2503.06777)|null|
 |**2025-03-09**|**Precise Insulin Delivery for Artificial Pancreas: A Reinforcement Learning Optimized Adaptive Fuzzy Control Approach**|Omar Mameche et.al.|[2503.06701](http://arxiv.org/abs/2503.06701)|null|
 |**2025-03-09**|**Synthetic Data Generation for Minimum-Exposure Navigation in a Time-Varying Environment using Generative AI Models**|Nachiket U. Bapat et.al.|[2503.06619](http://arxiv.org/abs/2503.06619)|null|
