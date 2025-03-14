@@ -25,6 +25,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-13**|**Distilling Diversity and Control in Diffusion Models**|Rohit Gandikota et.al.|[2503.10637](http://arxiv.org/abs/2503.10637)|null|
+|**2025-03-13**|**The Curse of Conditions: Analyzing and Improving Optimal Transport for Conditional Flow-Based Generation**|Ho Kei Cheng et.al.|[2503.10636](http://arxiv.org/abs/2503.10636)|**[link](https://github.com/hkchengrex/C2OT)**|
+|**2025-03-13**|**UniGoal: Towards Universal Zero-shot Goal-oriented Navigation**|Hang Yin et.al.|[2503.10630](http://arxiv.org/abs/2503.10630)|null|
+|**2025-03-13**|**LHM: Large Animatable Human Reconstruction Model from a Single Image in Seconds**|Lingteng Qiu et.al.|[2503.10625](http://arxiv.org/abs/2503.10625)|null|
+|**2025-03-13**|**DriveLMM-o1: A Step-by-Step Reasoning Dataset and Large Multimodal Model for Driving Scenario Understanding**|Ayesha Ishaq et.al.|[2503.10621](http://arxiv.org/abs/2503.10621)|null|
+|**2025-03-13**|**From TOWER to SPIRE: Adding the Speech Modality to a Text-Only LLM**|Kshitij Ambilduke et.al.|[2503.10620](http://arxiv.org/abs/2503.10620)|null|
+|**2025-03-13**|**Siege: Autonomous Multi-Turn Jailbreaking of Large Language Models with Tree Search**|Andy Zhou et.al.|[2503.10619](http://arxiv.org/abs/2503.10619)|null|
+|**2025-03-13**|**OVTR: End-to-End Open-Vocabulary Multiple Object Tracking with Transformer**|Jinyang Li et.al.|[2503.10616](http://arxiv.org/abs/2503.10616)|null|
+|**2025-03-13**|**ConsisLoRA: Enhancing Content and Style Consistency for LoRA-based Style Transfer**|Bolin Chen et.al.|[2503.10614](http://arxiv.org/abs/2503.10614)|null|
+|**2025-03-13**|**CoSTA $\ast$ : Cost-Sensitive Toolpath Agent for Multi-turn Image Editing**|Advait Gupta et.al.|[2503.10613](http://arxiv.org/abs/2503.10613)|**[link](https://github.com/tianyi-lab/CoSTAR)**|
 |**2025-03-12**|**MoC: Mixtures of Text Chunking Learners for Retrieval-Augmented Generation System**|Jihao Zhao et.al.|[2503.09600](http://arxiv.org/abs/2503.09600)|null|
 |**2025-03-12**|**How to Protect Yourself from 5G Radiation? Investigating LLM Responses to Implicit Misinformation**|Ruohao Guo et.al.|[2503.09598](http://arxiv.org/abs/2503.09598)|null|
 |**2025-03-12**|**SimLingo: Vision-Only Closed-Loop Autonomous Driving with Language-Action Alignment**|Katrin Renz et.al.|[2503.09594](http://arxiv.org/abs/2503.09594)|null|
@@ -1703,6 +1713,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-12**|**BioSpark: Beyond Analogical Inspiration to LLM-augmented Transfer**|Hyeonsu Kang et.al.|[2503.09838](http://arxiv.org/abs/2503.09838)|null|
+|**2025-03-12**|**Edge AI for Real-time Fetal Assessment in Rural Guatemala**|Nasim Katebi et.al.|[2503.09659](http://arxiv.org/abs/2503.09659)|null|
+|**2025-03-12**|**Edge AI-Powered Real-Time Decision-Making for Autonomous Vehicles in Adverse Weather Conditions**|Milad Rahmati et.al.|[2503.09638](http://arxiv.org/abs/2503.09638)|null|
 |**2025-03-12**|**Quantitative Analysis of Deeply Quantized Tiny Neural Networks Robust to Adversarial Attacks**|Idris Zakariyya et.al.|[2503.08973](http://arxiv.org/abs/2503.08973)|null|
 |**2025-03-07**|**SplitQuantV2: Enhancing Low-Bit Quantization of LLMs Without GPUs**|Jaewoo Song et.al.|[2503.07657](http://arxiv.org/abs/2503.07657)|null|
 |**2025-03-07**|**Compliance of AI Systems**|Julius Schöning et.al.|[2503.05571](http://arxiv.org/abs/2503.05571)|null|
@@ -1925,6 +1938,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-13**|**Distilling Diversity and Control in Diffusion Models**|Rohit Gandikota et.al.|[2503.10637](http://arxiv.org/abs/2503.10637)|null|
+|**2025-03-13**|**The Curse of Conditions: Analyzing and Improving Optimal Transport for Conditional Flow-Based Generation**|Ho Kei Cheng et.al.|[2503.10636](http://arxiv.org/abs/2503.10636)|**[link](https://github.com/hkchengrex/C2OT)**|
+|**2025-03-13**|**UniGoal: Towards Universal Zero-shot Goal-oriented Navigation**|Hang Yin et.al.|[2503.10630](http://arxiv.org/abs/2503.10630)|null|
+|**2025-03-13**|**LHM: Large Animatable Human Reconstruction Model from a Single Image in Seconds**|Lingteng Qiu et.al.|[2503.10625](http://arxiv.org/abs/2503.10625)|null|
+|**2025-03-13**|**DriveLMM-o1: A Step-by-Step Reasoning Dataset and Large Multimodal Model for Driving Scenario Understanding**|Ayesha Ishaq et.al.|[2503.10621](http://arxiv.org/abs/2503.10621)|null|
+|**2025-03-13**|**OVTR: End-to-End Open-Vocabulary Multiple Object Tracking with Transformer**|Jinyang Li et.al.|[2503.10616](http://arxiv.org/abs/2503.10616)|null|
+|**2025-03-13**|**ConsisLoRA: Enhancing Content and Style Consistency for LoRA-based Style Transfer**|Bolin Chen et.al.|[2503.10614](http://arxiv.org/abs/2503.10614)|null|
+|**2025-03-13**|**Hierarchical Bayesian inference for uncertainty quantification of thermal grease rheology**|Pranay P. Nagrani et.al.|[2503.10608](http://arxiv.org/abs/2503.10608)|null|
+|**2025-03-13**|**TruthPrInt: Mitigating LVLM Object Hallucination Via Latent Truthful-Guided Pre-Intervention**|Jinhao Duan et.al.|[2503.10602](http://arxiv.org/abs/2503.10602)|null|
+|**2025-03-13**|**Analysis and sample-size determination for $2^K$ audit experiments with binary response and application to identification of effect of racial discrimination on access to justice**|Nicole Pashley et.al.|[2503.10591](http://arxiv.org/abs/2503.10591)|null|
 |**2025-03-12**|**Cost-Optimal Grouped-Query Attention for Long-Context LLMs**|Yingfa Chen et.al.|[2503.09579](http://arxiv.org/abs/2503.09579)|**[link](https://github.com/thunlp/cost-optimal-gqa)**|
 |**2025-03-12**|**Block Diffusion: Interpolating Between Autoregressive and Diffusion Language Models**|Marianne Arriola et.al.|[2503.09573](http://arxiv.org/abs/2503.09573)|null|
 |**2025-03-12**|**Biological Multi-Layer and Single Cell Network-Based Multiomics Models - a Review**|Marcello Barylli et.al.|[2503.09568](http://arxiv.org/abs/2503.09568)|null|
@@ -3382,6 +3405,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-13**|**Safe exploration in reproducing kernel Hilbert spaces**|Abdullah Tokmak et.al.|[2503.10352](http://arxiv.org/abs/2503.10352)|null|
+|**2025-03-12**|**A Rule Based Solution to Co-reference Resolution in Clinical Text**|Ping Chen et.al.|[2503.09896](http://arxiv.org/abs/2503.09896)|null|
+|**2025-03-12**|**A Comprehensive Review on Understanding the Decentralized and Collaborative Approach in Machine Learning**|Sarwar Saif et.al.|[2503.09833](http://arxiv.org/abs/2503.09833)|null|
+|**2025-03-12**|**SE(3)-Equivariant Robot Learning and Control: A Tutorial Survey**|Joohwan Seo et.al.|[2503.09829](http://arxiv.org/abs/2503.09829)|null|
+|**2025-03-12**|**Real-Time Risky Fault-Chain Search using Time-Varying Graph RNNs**|Anmol Dwivedi et.al.|[2503.09775](http://arxiv.org/abs/2503.09775)|null|
+|**2025-03-12**|**The Pitfalls of Imitation Learning when Actions are Continuous**|Max Simchowitz et.al.|[2503.09722](http://arxiv.org/abs/2503.09722)|null|
 |**2025-03-12**|**Precoder Learning by Leveraging Unitary Equivariance Property**|Yilun Ge et.al.|[2503.09398](http://arxiv.org/abs/2503.09398)|null|
 |**2025-03-12**|**Context-aware Constrained Reinforcement Learning Based Energy-Efficient Power Scheduling for Non-stationary XR Data Traffic**|Kexuan Wang et.al.|[2503.09391](http://arxiv.org/abs/2503.09391)|null|
 |**2025-03-12**|**Large-scale Regional Traffic Signal Control Based on Single-Agent Reinforcement Learning**|Qiang Li et.al.|[2503.09252](http://arxiv.org/abs/2503.09252)|null|
