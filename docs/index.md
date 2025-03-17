@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-14**|**VGGT: Visual Geometry Grounded Transformer**|Jianyuan Wang et.al.|[2503.11651](http://arxiv.org/abs/2503.11651)|null|
+|**2025-03-14**|**Centaur: Robust End-to-End Autonomous Driving with Test-Time Training**|Chonghao Sima et.al.|[2503.11650](http://arxiv.org/abs/2503.11650)|null|
+|**2025-03-14**|**Ladder Operator Block-Encoding**|William A. Simon et.al.|[2503.11641](http://arxiv.org/abs/2503.11641)|null|
+|**2025-03-14**|**Gradient-bridged Posterior: Bayesian Inference for Models with Implicit Functions**|Cheng Zeng et.al.|[2503.11637](http://arxiv.org/abs/2503.11637)|null|
+|**2025-03-14**|**Towards Markov-State Holography**|Xizhu Zhao et.al.|[2503.11636](http://arxiv.org/abs/2503.11636)|null|
+|**2025-03-14**|**Direct observation of angular momentum transfer among crystal lattice modes**|Olga Minakova et.al.|[2503.11626](http://arxiv.org/abs/2503.11626)|null|
+|**2025-03-14**|**Euclid preparation. BAO analysis of photometric galaxy clustering in configuration space**|Euclid Collaboration et.al.|[2503.11621](http://arxiv.org/abs/2503.11621)|null|
+|**2025-03-14**|**ASMA-Tune: Unlocking LLMs' Assembly Code Comprehension via Structural-Semantic Instruction Tuning**|Xinyi Wang et.al.|[2503.11617](http://arxiv.org/abs/2503.11617)|null|
+|**2025-03-14**|**Neutralizing Bias in LLM Reasoning using Entailment Graphs**|Liang Cheng et.al.|[2503.11614](http://arxiv.org/abs/2503.11614)|null|
+|**2025-03-14**|**Enhanced Soups for Graph Neural Networks**|Joseph Zuber et.al.|[2503.11612](http://arxiv.org/abs/2503.11612)|null|
 |**2025-03-14**|**Distilling Diversity and Control in Diffusion Models**|Rohit Gandikota et.al.|[2503.10637](http://arxiv.org/abs/2503.10637)|null|
 |**2025-03-14**|**The Curse of Conditions: Analyzing and Improving Optimal Transport for Conditional Flow-Based Generation**|Ho Kei Cheng et.al.|[2503.10636](http://arxiv.org/abs/2503.10636)|**[link](https://github.com/hkchengrex/C2OT)**|
 |**2025-03-13**|**UniGoal: Towards Universal Zero-shot Goal-oriented Navigation**|Hang Yin et.al.|[2503.10630](http://arxiv.org/abs/2503.10630)|null|
@@ -1505,6 +1515,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-13**|**Bridging Machine Learning and Cosmological Simulations: Using Neural Operators to emulate Chemical Evolution**|Pelle van de Bor et.al.|[2503.10736](http://arxiv.org/abs/2503.10736)|null|
 |**2025-03-12**|**Hardware.jl - An MLIR-based Julia HLS Flow (Work in Progress)**|Benedict Short et.al.|[2503.09463](http://arxiv.org/abs/2503.09463)|null|
 |**2025-03-11**|**SSVQ: Unleashing the Potential of Vector Quantization with Sign-Splitting**|Shuaiting Li et.al.|[2503.08668](http://arxiv.org/abs/2503.08668)|null|
 |**2025-03-11**|**V-Max: Making RL practical for Autonomous Driving**|Valentin Charraut et.al.|[2503.08388](http://arxiv.org/abs/2503.08388)|**[link](https://github.com/valeoai/v-max)**|
@@ -1913,6 +1924,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-14**|**VGGT: Visual Geometry Grounded Transformer**|Jianyuan Wang et.al.|[2503.11651](http://arxiv.org/abs/2503.11651)|null|
+|**2025-03-14**|**Centaur: Robust End-to-End Autonomous Driving with Test-Time Training**|Chonghao Sima et.al.|[2503.11650](http://arxiv.org/abs/2503.11650)|null|
+|**2025-03-14**|**Gradient-bridged Posterior: Bayesian Inference for Models with Implicit Functions**|Cheng Zeng et.al.|[2503.11637](http://arxiv.org/abs/2503.11637)|null|
+|**2025-03-14**|**Towards Markov-State Holography**|Xizhu Zhao et.al.|[2503.11636](http://arxiv.org/abs/2503.11636)|null|
+|**2025-03-14**|**Euclid preparation. BAO analysis of photometric galaxy clustering in configuration space**|Euclid Collaboration et.al.|[2503.11621](http://arxiv.org/abs/2503.11621)|null|
+|**2025-03-14**|**Neutralizing Bias in LLM Reasoning using Entailment Graphs**|Liang Cheng et.al.|[2503.11614](http://arxiv.org/abs/2503.11614)|null|
+|**2025-03-14**|**Enhanced Soups for Graph Neural Networks**|Joseph Zuber et.al.|[2503.11612](http://arxiv.org/abs/2503.11612)|null|
+|**2025-03-14**|**Rethinking Few-Shot Adaptation of Vision-Language Models in Two Stages**|Matteo Farina et.al.|[2503.11609](http://arxiv.org/abs/2503.11609)|null|
+|**2025-03-14**|**Microlensing Constraints on the Stellar and Planetary Mass Functions**|Jennifer C. Yee et.al.|[2503.11597](http://arxiv.org/abs/2503.11597)|null|
+|**2025-03-14**|**Vamba: Understanding Hour-Long Videos with Hybrid Mamba-Transformers**|Weiming Ren et.al.|[2503.11579](http://arxiv.org/abs/2503.11579)|null|
 |**2025-03-14**|**Distilling Diversity and Control in Diffusion Models**|Rohit Gandikota et.al.|[2503.10637](http://arxiv.org/abs/2503.10637)|null|
 |**2025-03-14**|**The Curse of Conditions: Analyzing and Improving Optimal Transport for Conditional Flow-Based Generation**|Ho Kei Cheng et.al.|[2503.10636](http://arxiv.org/abs/2503.10636)|**[link](https://github.com/hkchengrex/C2OT)**|
 |**2025-03-13**|**UniGoal: Towards Universal Zero-shot Goal-oriented Navigation**|Hang Yin et.al.|[2503.10630](http://arxiv.org/abs/2503.10630)|null|
@@ -3378,6 +3399,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-14**|**A Real-World Energy Management Dataset from a Smart Company Building for Optimization and Machine Learning**|Jens Engel et.al.|[2503.11469](http://arxiv.org/abs/2503.11469)|null|
+|**2025-03-14**|**Adaptive Torque Control of Exoskeletons under Spasticity Conditions via Reinforcement Learning**|Andrés Chavarrías et.al.|[2503.11433](http://arxiv.org/abs/2503.11433)|null|
+|**2025-03-14**|**A Multi-Objective Evaluation Framework for Analyzing Utility-Fairness Trade-Offs in Machine Learning Systems**|Gökhan Özbulak et.al.|[2503.11120](http://arxiv.org/abs/2503.11120)|null|
+|**2025-03-13**|**Efficient Reachability Analysis for Convolutional Neural Networks Using Hybrid Zonotopes**|Yuhao Zhang et.al.|[2503.10840](http://arxiv.org/abs/2503.10840)|null|
+|**2025-03-13**|**Lessons from the trenches on evaluating machine-learning systems in materials science**|Nawaf Alampara et.al.|[2503.10837](http://arxiv.org/abs/2503.10837)|null|
 |**2025-03-13**|**Safe exploration in reproducing kernel Hilbert spaces**|Abdullah Tokmak et.al.|[2503.10352](http://arxiv.org/abs/2503.10352)|null|
 |**2025-03-12**|**A Rule Based Solution to Co-reference Resolution in Clinical Text**|Ping Chen et.al.|[2503.09896](http://arxiv.org/abs/2503.09896)|null|
 |**2025-03-12**|**A Comprehensive Review on Understanding the Decentralized and Collaborative Approach in Machine Learning**|Sarwar Saif et.al.|[2503.09833](http://arxiv.org/abs/2503.09833)|null|
