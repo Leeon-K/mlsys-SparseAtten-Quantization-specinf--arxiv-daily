@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-17**|**MetaScale: Test-Time Scaling with Evolving Meta-Thoughts**|Qin Liu et.al.|[2503.13447](http://arxiv.org/abs/2503.13447)|null|
+|**2025-03-17**|**Faithfulness of LLM Self-Explanations for Commonsense Tasks: Larger Is Better, and Instruction-Tuning Allows Trade-Offs but Not Pareto Dominance**|Noah Y. Siegel et.al.|[2503.13445](http://arxiv.org/abs/2503.13445)|null|
+|**2025-03-17**|**MaTVLM: Hybrid Mamba-Transformer for Efficient Vision-Language Modeling**|Yingyue Li et.al.|[2503.13440](http://arxiv.org/abs/2503.13440)|**[link](https://github.com/hustvl/MaTVLM)**|
+|**2025-03-17**|**Deep Belief Markov Models for POMDP Inference**|Giacomo Arcieri et.al.|[2503.13438](http://arxiv.org/abs/2503.13438)|null|
+|**2025-03-17**|**Unified Autoregressive Visual Generation and Understanding with Continuous Tokens**|Lijie Fan et.al.|[2503.13436](http://arxiv.org/abs/2503.13436)|null|
+|**2025-03-17**|**xLSTM 7B: A Recurrent LLM for Fast and Efficient Inference**|Maximilian Beck et.al.|[2503.13427](http://arxiv.org/abs/2503.13427)|null|
+|**2025-03-17**|**SuperBPE: Space Travel for Language Models**|Alisa Liu et.al.|[2503.13423](http://arxiv.org/abs/2503.13423)|null|
+|**2025-03-17**|**Optimal Expert Selection for Distributed Mixture-of-Experts at the Wireless Edge**|Shengling Qin et.al.|[2503.13421](http://arxiv.org/abs/2503.13421)|null|
+|**2025-03-17**|**A Comprehensive Survey on Multi-Agent Cooperative Decision-Making: Scenarios, Approaches, Challenges and Perspectives**|Weiqiang Jin et.al.|[2503.13415](http://arxiv.org/abs/2503.13415)|null|
+|**2025-03-17**|**DLPO: Towards a Robust, Efficient, and Generalizable Prompt Optimization Framework from a Deep-Learning Perspective**|Dengyun Peng et.al.|[2503.13413](http://arxiv.org/abs/2503.13413)|null|
 |**2025-03-14**|**VGGT: Visual Geometry Grounded Transformer**|Jianyuan Wang et.al.|[2503.11651](http://arxiv.org/abs/2503.11651)|null|
 |**2025-03-14**|**Centaur: Robust End-to-End Autonomous Driving with Test-Time Training**|Chonghao Sima et.al.|[2503.11650](http://arxiv.org/abs/2503.11650)|null|
 |**2025-03-14**|**Ladder Operator Block-Encoding**|William A. Simon et.al.|[2503.11641](http://arxiv.org/abs/2503.11641)|null|
@@ -1515,6 +1525,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-17**|**Performance Analysis and Industry Deployment of Post-Quantum Cryptography Algorithms**|Elif Dicle Demir et.al.|[2503.12952](http://arxiv.org/abs/2503.12952)|null|
+|**2025-03-12**|**EDEA: Efficient Dual-Engine Accelerator for Depthwise Separable Convolution with Direct Data Transfer**|Yi Chen et.al.|[2503.11707](http://arxiv.org/abs/2503.11707)|null|
 |**2025-03-13**|**Bridging Machine Learning and Cosmological Simulations: Using Neural Operators to emulate Chemical Evolution**|Pelle van de Bor et.al.|[2503.10736](http://arxiv.org/abs/2503.10736)|null|
 |**2025-03-12**|**Hardware.jl - An MLIR-based Julia HLS Flow (Work in Progress)**|Benedict Short et.al.|[2503.09463](http://arxiv.org/abs/2503.09463)|null|
 |**2025-03-11**|**SSVQ: Unleashing the Potential of Vector Quantization with Sign-Splitting**|Shuaiting Li et.al.|[2503.08668](http://arxiv.org/abs/2503.08668)|null|
@@ -1707,6 +1719,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-17**|**Semantic-Relevance Based Sensor Selection for Edge-AI Empowered Sensing Systems**|Zhiyan Liu et.al.|[2503.12785](http://arxiv.org/abs/2503.12785)|null|
+|**2025-03-15**|**End-to-End Edge AI Service Provisioning Framework in 6G ORAN**|Yun Tang et.al.|[2503.11933](http://arxiv.org/abs/2503.11933)|null|
+|**2025-03-04**|**CORDIC Is All You Need**|Omkar Kokane et.al.|[2503.11685](http://arxiv.org/abs/2503.11685)|null|
 |**2025-03-12**|**BioSpark: Beyond Analogical Inspiration to LLM-augmented Transfer**|Hyeonsu Kang et.al.|[2503.09838](http://arxiv.org/abs/2503.09838)|null|
 |**2025-03-12**|**Edge AI for Real-time Fetal Assessment in Rural Guatemala**|Nasim Katebi et.al.|[2503.09659](http://arxiv.org/abs/2503.09659)|null|
 |**2025-03-12**|**Edge AI-Powered Real-Time Decision-Making for Autonomous Vehicles in Adverse Weather Conditions**|Milad Rahmati et.al.|[2503.09638](http://arxiv.org/abs/2503.09638)|null|
@@ -1924,6 +1939,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-17**|**MetaScale: Test-Time Scaling with Evolving Meta-Thoughts**|Qin Liu et.al.|[2503.13447](http://arxiv.org/abs/2503.13447)|null|
+|**2025-03-17**|**MaTVLM: Hybrid Mamba-Transformer for Efficient Vision-Language Modeling**|Yingyue Li et.al.|[2503.13440](http://arxiv.org/abs/2503.13440)|**[link](https://github.com/hustvl/MaTVLM)**|
+|**2025-03-17**|**Deep Belief Markov Models for POMDP Inference**|Giacomo Arcieri et.al.|[2503.13438](http://arxiv.org/abs/2503.13438)|null|
+|**2025-03-17**|**xLSTM 7B: A Recurrent LLM for Fast and Efficient Inference**|Maximilian Beck et.al.|[2503.13427](http://arxiv.org/abs/2503.13427)|null|
+|**2025-03-17**|**SuperBPE: Space Travel for Language Models**|Alisa Liu et.al.|[2503.13423](http://arxiv.org/abs/2503.13423)|null|
+|**2025-03-17**|**Optimal Expert Selection for Distributed Mixture-of-Experts at the Wireless Edge**|Shengling Qin et.al.|[2503.13421](http://arxiv.org/abs/2503.13421)|null|
+|**2025-03-17**|**TimeZero: Temporal Video Grounding with Reasoning-Guided LVLM**|Ye Wang et.al.|[2503.13377](http://arxiv.org/abs/2503.13377)|null|
+|**2025-03-17**|**Sightation Counts: Leveraging Sighted User Feedback in Building a BLV-aligned Dataset of Diagram Descriptions**|Wan Ju Kang et.al.|[2503.13369](http://arxiv.org/abs/2503.13369)|null|
+|**2025-03-17**|**STEP: Simultaneous Tracking and Estimation of Pose for Animals and Humans**|Shashikant Verma et.al.|[2503.13344](http://arxiv.org/abs/2503.13344)|null|
+|**2025-03-17**|**Detection of millimeter-wave coronal emission in a quasar at cosmological distance using microlensing**|M. Rybak et.al.|[2503.13313](http://arxiv.org/abs/2503.13313)|null|
 |**2025-03-14**|**VGGT: Visual Geometry Grounded Transformer**|Jianyuan Wang et.al.|[2503.11651](http://arxiv.org/abs/2503.11651)|null|
 |**2025-03-14**|**Centaur: Robust End-to-End Autonomous Driving with Test-Time Training**|Chonghao Sima et.al.|[2503.11650](http://arxiv.org/abs/2503.11650)|null|
 |**2025-03-14**|**Gradient-bridged Posterior: Bayesian Inference for Models with Implicit Functions**|Cheng Zeng et.al.|[2503.11637](http://arxiv.org/abs/2503.11637)|null|
@@ -3399,6 +3424,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-17**|**Laplace-Net: Learning Dynamical Systems with External Forcing**|Bernd Zimmering et.al.|[2503.13158](http://arxiv.org/abs/2503.13158)|null|
+|**2025-03-16**|**RL-TIME: Reinforcement Learning-based Task Replication in Multicore Embedded Systems**|Roozbeh Siyadatzadeh et.al.|[2503.12677](http://arxiv.org/abs/2503.12677)|null|
+|**2025-03-16**|**SVD-LLM V2: Optimizing Singular Value Truncation for Large Language Model Compression**|Xin Wang et.al.|[2503.12340](http://arxiv.org/abs/2503.12340)|null|
+|**2025-03-15**|**A State Alignment-Centric Approach to Federated System Identification: The FedAlign Framework**|Ertuğrul Keçeci et.al.|[2503.12137](http://arxiv.org/abs/2503.12137)|null|
+|**2025-03-14**|**Bayes and Biased Estimators Without Hyper-parameter Estimation: Comparable Performance to the Empirical-Bayes-Based Regularized Estimator**|Yue Ju et.al.|[2503.11854](http://arxiv.org/abs/2503.11854)|null|
 |**2025-03-14**|**A Real-World Energy Management Dataset from a Smart Company Building for Optimization and Machine Learning**|Jens Engel et.al.|[2503.11469](http://arxiv.org/abs/2503.11469)|null|
 |**2025-03-14**|**Adaptive Torque Control of Exoskeletons under Spasticity Conditions via Reinforcement Learning**|Andrés Chavarrías et.al.|[2503.11433](http://arxiv.org/abs/2503.11433)|null|
 |**2025-03-14**|**A Multi-Objective Evaluation Framework for Analyzing Utility-Fairness Trade-Offs in Machine Learning Systems**|Gökhan Özbulak et.al.|[2503.11120](http://arxiv.org/abs/2503.11120)|null|
