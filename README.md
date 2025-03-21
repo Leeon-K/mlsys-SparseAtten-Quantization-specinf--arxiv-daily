@@ -25,6 +25,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-20**|**Bridging Continuous and Discrete Tokens for Autoregressive Visual Generation**|Yuqing Wang et.al.|[2503.16430](http://arxiv.org/abs/2503.16430)|null|
+|**2025-03-20**|**XAttention: Block Sparse Attention with Antidiagonal Scoring**|Ruyi Xu et.al.|[2503.16428](http://arxiv.org/abs/2503.16428)|null|
+|**2025-03-20**|**Stop Overthinking: A Survey on Efficient Reasoning for Large Language Models**|Yang Sui et.al.|[2503.16419](http://arxiv.org/abs/2503.16419)|null|
+|**2025-03-20**|**Survey on Evaluation of LLM-based Agents**|Asaf Yehudai et.al.|[2503.16416](http://arxiv.org/abs/2503.16416)|null|
+|**2025-03-20**|**M3: 3D-Spatial MultiModal Memory**|Xueyan Zou et.al.|[2503.16413](http://arxiv.org/abs/2503.16413)|null|
+|**2025-03-20**|**The Emperor's New Clothes in Benchmarking? A Rigorous Examination of Mitigation Strategies for LLM Benchmark Data Contamination**|Yifan Sun et.al.|[2503.16402](http://arxiv.org/abs/2503.16402)|null|
+|**2025-03-20**|**Exploring the Hidden Reasoning Process of Large Language Models by Misleading Them**|Guanyu Chen et.al.|[2503.16401](http://arxiv.org/abs/2503.16401)|null|
+|**2025-03-20**|**ScalingNoise: Scaling Inference-Time Search for Generating Infinite Videos**|Haolin Yang et.al.|[2503.16400](http://arxiv.org/abs/2503.16400)|null|
+|**2025-03-20**|**Scale-wise Distillation of Diffusion Models**|Nikita Starodubcev et.al.|[2503.16397](http://arxiv.org/abs/2503.16397)|null|
+|**2025-03-20**|**Phonons in Electron Crystals with Berry Curvature**|Junkai Dong et.al.|[2503.16390](http://arxiv.org/abs/2503.16390)|null|
 |**2025-03-19**|**Natural Quantization of Neural Networks**|Richard Barney et.al.|[2503.15482](http://arxiv.org/abs/2503.15482)|null|
 |**2025-03-19**|**SWEET-RL: Training Multi-Turn LLM Agents on Collaborative Reasoning Tasks**|Yifei Zhou et.al.|[2503.15478](http://arxiv.org/abs/2503.15478)|null|
 |**2025-03-19**|**Cube: A Roblox View of 3D Intelligence**|Foundation AI Team et.al.|[2503.15475](http://arxiv.org/abs/2503.15475)|null|
@@ -1986,6 +1996,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-20**|**XAttention: Block Sparse Attention with Antidiagonal Scoring**|Ruyi Xu et.al.|[2503.16428](http://arxiv.org/abs/2503.16428)|null|
+|**2025-03-20**|**Stop Overthinking: A Survey on Efficient Reasoning for Large Language Models**|Yang Sui et.al.|[2503.16419](http://arxiv.org/abs/2503.16419)|null|
+|**2025-03-20**|**M3: 3D-Spatial MultiModal Memory**|Xueyan Zou et.al.|[2503.16413](http://arxiv.org/abs/2503.16413)|null|
+|**2025-03-20**|**ScalingNoise: Scaling Inference-Time Search for Generating Infinite Videos**|Haolin Yang et.al.|[2503.16400](http://arxiv.org/abs/2503.16400)|null|
+|**2025-03-20**|**Scale-wise Distillation of Diffusion Models**|Nikita Starodubcev et.al.|[2503.16397](http://arxiv.org/abs/2503.16397)|null|
+|**2025-03-20**|**The impact of baryons on the sparsity of simulated galaxy clusters from The Three Hundred Project**|P. S. Corasaniti et.al.|[2503.16379](http://arxiv.org/abs/2503.16379)|null|
+|**2025-03-20**|**CaKE: Circuit-aware Editing Enables Generalizable Knowledge Learners**|Yunzhi Yao et.al.|[2503.16356](http://arxiv.org/abs/2503.16356)|null|
+|**2025-03-20**|**DEMNUni: the Sunyaev-Zel'dovich effect in the presence of massive neutrinos and dynamical dark energy**|Davide Luchina et.al.|[2503.16355](http://arxiv.org/abs/2503.16355)|null|
+|**2025-03-20**|**Hypercyclicity of Weighted shifts on weighted Bergman and Dirichlet spaces**|Bibhash Kumar Das et.al.|[2503.16354](http://arxiv.org/abs/2503.16354)|null|
+|**2025-03-20**|**Lyra: An Efficient and Expressive Subquadratic Architecture for Modeling Biological Sequences**|Krithik Ramesh et.al.|[2503.16351](http://arxiv.org/abs/2503.16351)|null|
 |**2025-03-19**|**From 1,000,000 Users to Every User: Scaling Up Personalized Preference for User-level Alignment**|Jia-Nan Li et.al.|[2503.15463](http://arxiv.org/abs/2503.15463)|null|
 |**2025-03-19**|**Di $\mathtt{[M]}$ O: Distilling Masked Diffusion Models into One-step Generator**|Yuanzhi Zhu et.al.|[2503.15457](http://arxiv.org/abs/2503.15457)|null|
 |**2025-03-19**|**SkyLadder: Better and Faster Pretraining via Context Window Scheduling**|Tongyao Zhu et.al.|[2503.15450](http://arxiv.org/abs/2503.15450)|null|
@@ -3493,6 +3513,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-20**|**Flight Testing an Optionally Piloted Aircraft: a Case Study on Trust Dynamics in Human-Autonomy Teaming**|Jeremy C. -H. Wang et.al.|[2503.16227](http://arxiv.org/abs/2503.16227)|null|
+|**2025-03-20**|**Learn to Bid as a Price-Maker Wind Power Producer**|Shobhit Singhal et.al.|[2503.16107](http://arxiv.org/abs/2503.16107)|null|
+|**2025-03-20**|**Control Pneumatic Soft Bending Actuator with Online Learning Pneumatic Physical Reservoir Computing**|Junyi Shen et.al.|[2503.15819](http://arxiv.org/abs/2503.15819)|null|
+|**2025-03-20**|**Prediction of Permissioned Blockchain Performance for Resource Scaling Configurations**|Seungwoo Jung et.al.|[2503.15769](http://arxiv.org/abs/2503.15769)|null|
+|**2025-03-19**|**Performance-bounded Online Ensemble Learning Method Based on Multi-armed bandits and Its Applications in Real-time Safety Assessment**|Songqiao Hu et.al.|[2503.15581](http://arxiv.org/abs/2503.15581)|null|
 |**2025-03-19**|**Exploiting Prior Knowledge in Preferential Learning of Individualized Autonomous Vehicle Driving Styles**|Lukas Theiner et.al.|[2503.15407](http://arxiv.org/abs/2503.15407)|null|
 |**2025-03-19**|**A Personalized Data-Driven Generative Model of Human Motion**|Angelo Di Porzio et.al.|[2503.15225](http://arxiv.org/abs/2503.15225)|null|
 |**2025-03-19**|**Semi-Gradient SARSA Routing with Theoretical Guarantee on Traffic Stability and Weight Convergence**|Yidan Wu et.al.|[2503.14927](http://arxiv.org/abs/2503.14927)|null|
