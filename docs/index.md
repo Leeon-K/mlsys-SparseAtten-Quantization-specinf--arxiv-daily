@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-21**|**Dancing with Critiques: Enhancing LLM Reasoning with Stepwise Natural Language Self-Critique**|Yansi Li et.al.|[2503.17363](http://arxiv.org/abs/2503.17363)|null|
+|**2025-03-21**|**Gumbel-Softmax Flow Matching with Straight-Through Guidance for Controllable Biological Sequence Generation**|Sophia Tang et.al.|[2503.17361](http://arxiv.org/abs/2503.17361)|null|
+|**2025-03-21**|**OpenVLThinker: An Early Exploration to Complex Vision-Language Reasoning via Iterative Self-Improvement**|Yihe Deng et.al.|[2503.17352](http://arxiv.org/abs/2503.17352)|null|
+|**2025-03-21**|**Dereflection Any Image with Diffusion Priors and Diversified Data**|Jichen Hu et.al.|[2503.17347](http://arxiv.org/abs/2503.17347)|**[link](https://github.com/Abuuu122/Dereflection-Any-Image)**|
+|**2025-03-21**|**Efficient Intent-Based Filtering for Multi-Party Conversations Using Knowledge Distillation from LLMs**|Reem Gody et.al.|[2503.17336](http://arxiv.org/abs/2503.17336)|null|
+|**2025-03-21**|**CVE-Bench: A Benchmark for AI Agents' Ability to Exploit Real-World Web Application Vulnerabilities**|Yuxuan Zhu et.al.|[2503.17332](http://arxiv.org/abs/2503.17332)|**[link](https://github.com/uiuc-kang-lab/cve-bench)**|
+|**2025-03-21**|**Pow3R: Empowering Unconstrained 3D Reconstruction with Camera and Scene Priors**|Wonbong Jang et.al.|[2503.17316](http://arxiv.org/abs/2503.17316)|null|
+|**2025-03-21**|**Numerical Investigation of Preferential Flow Paths in Enzymatically Induced Calcite Precipitation supported by Bayesian Model Analysis**|Rebecca Kohlhaas et.al.|[2503.17314](http://arxiv.org/abs/2503.17314)|null|
+|**2025-03-21**|**LLM+MAP: Bimanual Robot Task Planning using Large Language Models and Planning Domain Definition Language**|Kun Chu et.al.|[2503.17309](http://arxiv.org/abs/2503.17309)|null|
+|**2025-03-21**|**Bugdar: AI-Augmented Secure Code Review for GitHub Pull Requests**|John Naulty et.al.|[2503.17302](http://arxiv.org/abs/2503.17302)|null|
 |**2025-03-20**|**Bridging Continuous and Discrete Tokens for Autoregressive Visual Generation**|Yuqing Wang et.al.|[2503.16430](http://arxiv.org/abs/2503.16430)|null|
 |**2025-03-20**|**XAttention: Block Sparse Attention with Antidiagonal Scoring**|Ruyi Xu et.al.|[2503.16428](http://arxiv.org/abs/2503.16428)|null|
 |**2025-03-20**|**Stop Overthinking: A Survey on Efficient Reasoning for Large Language Models**|Yang Sui et.al.|[2503.16419](http://arxiv.org/abs/2503.16419)|null|
@@ -1555,6 +1565,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-20**|**QuartDepth: Post-Training Quantization for Real-Time Depth Estimation on the Edge**|Xuan Shen et.al.|[2503.16709](http://arxiv.org/abs/2503.16709)|null|
+|**2025-03-20**|**Accelerating Transformer Inference and Training with 2:4 Activation Sparsity**|Daniel Haziza et.al.|[2503.16672](http://arxiv.org/abs/2503.16672)|null|
+|**2025-03-20**|**Explainable AI-Guided Efficient Approximate DNN Generation for Multi-Pod Systolic Arrays**|Ayesha Siddique et.al.|[2503.16583](http://arxiv.org/abs/2503.16583)|null|
 |**2025-03-19**|**QEA: An Accelerator for Quantum Circuit Simulation with Resources Efficiency and Flexibility**|Van Duy Tran et.al.|[2503.14951](http://arxiv.org/abs/2503.14951)|**[link](https://github.com/NAIST-Archlab/fast-psr)**|
 |**2025-03-17**|**Performance Analysis and Industry Deployment of Post-Quantum Cryptography Algorithms**|Elif Dicle Demir et.al.|[2503.12952](http://arxiv.org/abs/2503.12952)|null|
 |**2025-03-12**|**EDEA: Efficient Dual-Engine Accelerator for Depthwise Separable Convolution with Direct Data Transfer**|Yi Chen et.al.|[2503.11707](http://arxiv.org/abs/2503.11707)|null|
@@ -1750,7 +1763,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-03-19**|**Pruning-Based TinyML Optimization of Machine Learning Models for Anomaly Detection in Electric Vehicle Charging Infrastructure**|Fatemeh Dehrouyeh et.al.|[2503.14799](http://arxiv.org/abs/2503.14799)|null|
+|**2025-03-21**|**Replay4NCL: An Efficient Memory Replay-based Methodology for Neuromorphic Continual Learning in Embedded AI Systems**|Mishal Fatima Minhas et.al.|[2503.17061](http://arxiv.org/abs/2503.17061)|null|
+|**2025-03-21**|**On-Sensor Convolutional Neural Networks with Early-Exits**|Hazem Hesham Yousef Shalby et.al.|[2503.16939](http://arxiv.org/abs/2503.16939)|null|
+|**2025-03-20**|**Distributed LLMs and Multimodal Large Language Models: A Survey on Advances, Challenges, and Future Directions**|Hadi Amini et.al.|[2503.16585](http://arxiv.org/abs/2503.16585)|null|
+|**2025-03-19**|**Pruning-Based TinyML Optimization of Machine Learning Models for Anomaly Detection in Electric Vehicle Charging Infrastructure**|Fatemeh Dehrouyeh et.al.|[2503.14799](http://arxiv.org/abs/2503.14799)|**[link](https://github.com/western-oc2-lab/evci-pruning)**|
 |**2025-03-17**|**Semantic-Relevance Based Sensor Selection for Edge-AI Empowered Sensing Systems**|Zhiyan Liu et.al.|[2503.12785](http://arxiv.org/abs/2503.12785)|null|
 |**2025-03-15**|**End-to-End Edge AI Service Provisioning Framework in 6G ORAN**|Yun Tang et.al.|[2503.11933](http://arxiv.org/abs/2503.11933)|null|
 |**2025-03-04**|**CORDIC Is All You Need**|Omkar Kokane et.al.|[2503.11685](http://arxiv.org/abs/2503.11685)|null|
@@ -1971,6 +1987,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-21**|**Dancing with Critiques: Enhancing LLM Reasoning with Stepwise Natural Language Self-Critique**|Yansi Li et.al.|[2503.17363](http://arxiv.org/abs/2503.17363)|null|
+|**2025-03-21**|**Gumbel-Softmax Flow Matching with Straight-Through Guidance for Controllable Biological Sequence Generation**|Sophia Tang et.al.|[2503.17361](http://arxiv.org/abs/2503.17361)|null|
+|**2025-03-21**|**Dereflection Any Image with Diffusion Priors and Diversified Data**|Jichen Hu et.al.|[2503.17347](http://arxiv.org/abs/2503.17347)|**[link](https://github.com/Abuuu122/Dereflection-Any-Image)**|
+|**2025-03-21**|**Pow3R: Empowering Unconstrained 3D Reconstruction with Camera and Scene Priors**|Wonbong Jang et.al.|[2503.17316](http://arxiv.org/abs/2503.17316)|null|
+|**2025-03-21**|**Numerical Investigation of Preferential Flow Paths in Enzymatically Induced Calcite Precipitation supported by Bayesian Model Analysis**|Rebecca Kohlhaas et.al.|[2503.17314](http://arxiv.org/abs/2503.17314)|null|
+|**2025-03-21**|**Calibration Strategies for Robust Causal Estimation: Theoretical and Empirical Insights on Propensity Score Based Estimators**|Jan Rabenseifner et.al.|[2503.17290](http://arxiv.org/abs/2503.17290)|null|
+|**2025-03-21**|**FastCuRL: Curriculum Reinforcement Learning with Progressive Context Extension for Efficient Training R1-like Reasoning Models**|Mingyang Song et.al.|[2503.17287](http://arxiv.org/abs/2503.17287)|**[link](https://github.com/nick7nlp/FastCuRL)**|
+|**2025-03-21**|**Recovering Pulse Waves from Video Using Deep Unrolling and Deep Equilibrium Models**|Vineet R Shenoy et.al.|[2503.17269](http://arxiv.org/abs/2503.17269)|null|
+|**2025-03-21**|**Physical Plausibility-aware Trajectory Prediction via Locomotion Embodiment**|Hiromu Taketsugu et.al.|[2503.17267](http://arxiv.org/abs/2503.17267)|null|
+|**2025-03-21**|**Unsupervised Joint Learning of Optical Flow and Intensity with Event Cameras**|Shuang Guo et.al.|[2503.17262](http://arxiv.org/abs/2503.17262)|null|
 |**2025-03-20**|**XAttention: Block Sparse Attention with Antidiagonal Scoring**|Ruyi Xu et.al.|[2503.16428](http://arxiv.org/abs/2503.16428)|null|
 |**2025-03-20**|**Stop Overthinking: A Survey on Efficient Reasoning for Large Language Models**|Yang Sui et.al.|[2503.16419](http://arxiv.org/abs/2503.16419)|null|
 |**2025-03-20**|**M3: 3D-Spatial MultiModal Memory**|Xueyan Zou et.al.|[2503.16413](http://arxiv.org/abs/2503.16413)|null|
@@ -3486,11 +3512,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-21**|**Physics-Informed Deep B-Spline Networks for Dynamical Systems**|Zhuoyuan Wang et.al.|[2503.16777](http://arxiv.org/abs/2503.16777)|null|
+|**2025-03-20**|**Deep Q-Learning with Gradient Target Tracking**|Donghwan Lee et.al.|[2503.16700](http://arxiv.org/abs/2503.16700)|null|
+|**2025-03-20**|**Subgradient Method for System Identification with Non-Smooth Objectives**|Baturalp Yalcin et.al.|[2503.16673](http://arxiv.org/abs/2503.16673)|null|
 |**2025-03-20**|**Flight Testing an Optionally Piloted Aircraft: a Case Study on Trust Dynamics in Human-Autonomy Teaming**|Jeremy C. -H. Wang et.al.|[2503.16227](http://arxiv.org/abs/2503.16227)|null|
 |**2025-03-20**|**Learn to Bid as a Price-Maker Wind Power Producer**|Shobhit Singhal et.al.|[2503.16107](http://arxiv.org/abs/2503.16107)|null|
-|**2025-03-20**|**Control Pneumatic Soft Bending Actuator with Online Learning Pneumatic Physical Reservoir Computing**|Junyi Shen et.al.|[2503.15819](http://arxiv.org/abs/2503.15819)|null|
+|**2025-03-20**|**Control Pneumatic Soft Bending Actuator with Online Learning Pneumatic Physical Reservoir Computing**|Junyi Shen et.al.|[2503.15819](http://arxiv.org/abs/2503.15819)|**[link](https://github.com/JonyeeShen/Online-Learning-RC-Control-RoboSoft2025)**|
 |**2025-03-20**|**Prediction of Permissioned Blockchain Performance for Resource Scaling Configurations**|Seungwoo Jung et.al.|[2503.15769](http://arxiv.org/abs/2503.15769)|null|
-|**2025-03-19**|**Performance-bounded Online Ensemble Learning Method Based on Multi-armed bandits and Its Applications in Real-time Safety Assessment**|Songqiao Hu et.al.|[2503.15581](http://arxiv.org/abs/2503.15581)|null|
+|**2025-03-19**|**Performance-bounded Online Ensemble Learning Method Based on Multi-armed bandits and Its Applications in Real-time Safety Assessment**|Songqiao Hu et.al.|[2503.15581](http://arxiv.org/abs/2503.15581)|**[link](https://github.com/liuzy0708/Awesome_OL)**|
 |**2025-03-19**|**Exploiting Prior Knowledge in Preferential Learning of Individualized Autonomous Vehicle Driving Styles**|Lukas Theiner et.al.|[2503.15407](http://arxiv.org/abs/2503.15407)|null|
 |**2025-03-19**|**A Personalized Data-Driven Generative Model of Human Motion**|Angelo Di Porzio et.al.|[2503.15225](http://arxiv.org/abs/2503.15225)|null|
 |**2025-03-19**|**Semi-Gradient SARSA Routing with Theoretical Guarantee on Traffic Stability and Weight Convergence**|Yidan Wu et.al.|[2503.14927](http://arxiv.org/abs/2503.14927)|null|
