@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.23
+## Updated on 2025.03.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Quantization
@@ -1555,7 +1555,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-03-19**|**QEA: An Accelerator for Quantum Circuit Simulation with Resources Efficiency and Flexibility**|Van Duy Tran et.al.|[2503.14951](http://arxiv.org/abs/2503.14951)|null|
+|**2025-03-19**|**QEA: An Accelerator for Quantum Circuit Simulation with Resources Efficiency and Flexibility**|Van Duy Tran et.al.|[2503.14951](http://arxiv.org/abs/2503.14951)|**[link](https://github.com/NAIST-Archlab/fast-psr)**|
 |**2025-03-17**|**Performance Analysis and Industry Deployment of Post-Quantum Cryptography Algorithms**|Elif Dicle Demir et.al.|[2503.12952](http://arxiv.org/abs/2503.12952)|null|
 |**2025-03-12**|**EDEA: Efficient Dual-Engine Accelerator for Depthwise Separable Convolution with Direct Data Transfer**|Yi Chen et.al.|[2503.11707](http://arxiv.org/abs/2503.11707)|null|
 |**2025-03-13**|**Bridging Machine Learning and Cosmological Simulations: Using Neural Operators to emulate Chemical Evolution**|Pelle van de Bor et.al.|[2503.10736](http://arxiv.org/abs/2503.10736)|null|
@@ -1976,7 +1976,7 @@ layout: default
 |**2025-03-20**|**M3: 3D-Spatial MultiModal Memory**|Xueyan Zou et.al.|[2503.16413](http://arxiv.org/abs/2503.16413)|null|
 |**2025-03-20**|**ScalingNoise: Scaling Inference-Time Search for Generating Infinite Videos**|Haolin Yang et.al.|[2503.16400](http://arxiv.org/abs/2503.16400)|null|
 |**2025-03-20**|**Scale-wise Distillation of Diffusion Models**|Nikita Starodubcev et.al.|[2503.16397](http://arxiv.org/abs/2503.16397)|null|
-|**2025-03-20**|**The impact of baryons on the sparsity of simulated galaxy clusters from The Three Hundred Project**|P. S. Corasaniti et.al.|[2503.16379](http://arxiv.org/abs/2503.16379)|null|
+|**2025-03-21**|**The impact of baryons on the sparsity of simulated galaxy clusters from The Three Hundred Project**|P. S. Corasaniti et.al.|[2503.16379](http://arxiv.org/abs/2503.16379)|null|
 |**2025-03-20**|**CaKE: Circuit-aware Editing Enables Generalizable Knowledge Learners**|Yunzhi Yao et.al.|[2503.16356](http://arxiv.org/abs/2503.16356)|null|
 |**2025-03-20**|**DEMNUni: the Sunyaev-Zel'dovich effect in the presence of massive neutrinos and dynamical dark energy**|Davide Luchina et.al.|[2503.16355](http://arxiv.org/abs/2503.16355)|null|
 |**2025-03-20**|**Hypercyclicity of Weighted shifts on weighted Bergman and Dirichlet spaces**|Bibhash Kumar Das et.al.|[2503.16354](http://arxiv.org/abs/2503.16354)|null|
