@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-02**|**Slot-Level Robotic Placement via Visual Imitation from Single Human Video**|Dandan Shan et.al.|[2504.01959](http://arxiv.org/abs/2504.01959)|null|
+|**2025-04-02**|**VideoScene: Distilling Video Diffusion Model to Generate 3D Scenes in One Step**|Hanyang Wang et.al.|[2504.01956](http://arxiv.org/abs/2504.01956)|null|
+|**2025-04-02**|**The LLM Wears Prada: Analysing Gender Bias and Stereotypes through Online Shopping Data**|Massimiliano Luca et.al.|[2504.01951](http://arxiv.org/abs/2504.01951)|null|
+|**2025-04-02**|**Nucleon scattering from lattice QCD**|Colin Morningstar et.al.|[2504.01950](http://arxiv.org/abs/2504.01950)|null|
+|**2025-04-02**|**OpenCodeReasoning: Advancing Data Distillation for Competitive Coding**|Wasi Uddin Ahmad et.al.|[2504.01943](http://arxiv.org/abs/2504.01943)|null|
+|**2025-04-02**|**Critical Thinking: Which Kinds of Complexity Govern Optimal Reasoning Length?**|Celine Lee et.al.|[2504.01935](http://arxiv.org/abs/2504.01935)|null|
+|**2025-04-02**|**Hessian-aware Training for Enhancing DNNs Resilience to Parameter Corruptions**|Tahmid Hasan Prato et.al.|[2504.01933](http://arxiv.org/abs/2504.01933)|null|
+|**2025-04-02**|**Review, Refine, Repeat: Understanding Iterative Decoding of AI Agents with Dynamic Evaluation and Selection**|Souradip Chakraborty et.al.|[2504.01931](http://arxiv.org/abs/2504.01931)|null|
+|**2025-04-02**|**A thorough benchmark of automatic text classification: From traditional approaches to large language models**|Washington Cunha et.al.|[2504.01930](http://arxiv.org/abs/2504.01930)|null|
+|**2025-04-02**|**Source Coding for a Wiener Process**|Sahan Liyanaarachchi et.al.|[2504.01929](http://arxiv.org/abs/2504.01929)|null|
 |**2025-03-31**|**Easi3R: Estimating Disentangled Motion from DUSt3R Without Training**|Xingyu Chen et.al.|[2503.24391](http://arxiv.org/abs/2503.24391)|**[link](https://github.com/inception3d/easi3r)**|
 |**2025-03-31**|**RIG: Synergizing Reasoning and Imagination in End-to-End Generalist Policy**|Zhonghan Zhao et.al.|[2503.24388](http://arxiv.org/abs/2503.24388)|null|
 |**2025-03-31**|**Harnessing the Reasoning Economy: A Survey of Efficient Reasoning for Large Language Models**|Rui Wang et.al.|[2503.24377](http://arxiv.org/abs/2503.24377)|**[link](https://github.com/devoallen/awesome-reasoning-economy-papers)**|
@@ -1625,6 +1635,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-01**|**SCRec: A Scalable Computational Storage System with Statistical Sharding and Tensor-train Decomposition for Recommendation Models**|Jinho Yang et.al.|[2504.00520](http://arxiv.org/abs/2504.00520)|null|
 |**2025-03-31**|**Single-Shot Matrix-Matrix Multiplication Optical Tensor Processor for Deep Learning**|Chao Luan et.al.|[2503.24356](http://arxiv.org/abs/2503.24356)|null|
 |**2025-03-30**|**FlexMem: High-Parallel Near-Memory Architecture for Flexible Dataflow in Fully Homomorphic Encryption**|Shangyi Shi et.al.|[2503.23496](http://arxiv.org/abs/2503.23496)|null|
 |**2025-03-28**|**Quamba2: A Robust and Scalable Post-training Quantization Framework for Selective State Space Models**|Hung-Yueh Chiang et.al.|[2503.22879](http://arxiv.org/abs/2503.22879)|**[link](https://github.com/enyac-group/quamba)**|
@@ -1834,11 +1845,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-02**|**Satellite Edge Artificial Intelligence with Large Models: Architectures and Technologies**|Yuanming Shi et.al.|[2504.01676](http://arxiv.org/abs/2504.01676)|null|
+|**2025-04-02**|**HH-PIM: Dynamic Optimization of Power and Performance with Heterogeneous-Hybrid PIM for Edge AI Devices**|Sangmin Jeon et.al.|[2504.01468](http://arxiv.org/abs/2504.01468)|null|
+|**2025-04-01**|**Enabling Efficient Processing of Spiking Neural Networks with On-Chip Learning on Commodity Neuromorphic Processors for Edge AI Systems**|Rachmad Vidya Wicaksana Putra et.al.|[2504.00957](http://arxiv.org/abs/2504.00957)|null|
+|**2025-04-01**|**IDMR: Towards Instance-Driven Precise Visual Correspondence in Multimodal Retrieval**|Bangwei Liu et.al.|[2504.00954](http://arxiv.org/abs/2504.00954)|null|
+|**2025-04-01**|**QSViT: A Methodology for Quantizing Spiking Vision Transformers**|Rachmad Vidya Wicaksana Putra et.al.|[2504.00948](http://arxiv.org/abs/2504.00948)|null|
 |**2025-03-19**|**Advancing Deep Learning through Probability Engineering: A Pragmatic Paradigm for Modern AI**|Jianyi Zhang et.al.|[2503.18958](http://arxiv.org/abs/2503.18958)|null|
 |**2025-03-12**|**Intanify AI Platform: Embedded AI for Automated IP Audit and Due Diligence**|Viktor Dorfler et.al.|[2503.17374](http://arxiv.org/abs/2503.17374)|null|
 |**2025-03-21**|**Replay4NCL: An Efficient Memory Replay-based Methodology for Neuromorphic Continual Learning in Embedded AI Systems**|Mishal Fatima Minhas et.al.|[2503.17061](http://arxiv.org/abs/2503.17061)|null|
 |**2025-03-21**|**On-Sensor Convolutional Neural Networks with Early-Exits**|Hazem Hesham Yousef Shalby et.al.|[2503.16939](http://arxiv.org/abs/2503.16939)|null|
-|**2025-03-20**|**Distributed LLMs and Multimodal Large Language Models: A Survey on Advances, Challenges, and Future Directions**|Hadi Amini et.al.|[2503.16585](http://arxiv.org/abs/2503.16585)|null|
+|**2025-03-20**|**Distributed LLMs and Multimodal Large Language Models: A Survey on Advances, Challenges, and Future Directions**|Hadi Amini et.al.|[2503.16585](http://arxiv.org/abs/2503.16585)|**[link](https://github.com/solidlabnetwork/awesome-distributed-LLM)**|
 |**2025-03-19**|**Pruning-Based TinyML Optimization of Machine Learning Models for Anomaly Detection in Electric Vehicle Charging Infrastructure**|Fatemeh Dehrouyeh et.al.|[2503.14799](http://arxiv.org/abs/2503.14799)|**[link](https://github.com/western-oc2-lab/evci-pruning)**|
 |**2025-03-17**|**Semantic-Relevance Based Sensor Selection for Edge-AI Empowered Sensing Systems**|Zhiyan Liu et.al.|[2503.12785](http://arxiv.org/abs/2503.12785)|null|
 |**2025-03-15**|**End-to-End Edge AI Service Provisioning Framework in 6G ORAN**|Yun Tang et.al.|[2503.11933](http://arxiv.org/abs/2503.11933)|null|
@@ -2060,6 +2076,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-02**|**Slot-Level Robotic Placement via Visual Imitation from Single Human Video**|Dandan Shan et.al.|[2504.01959](http://arxiv.org/abs/2504.01959)|null|
+|**2025-04-02**|**VideoScene: Distilling Video Diffusion Model to Generate 3D Scenes in One Step**|Hanyang Wang et.al.|[2504.01956](http://arxiv.org/abs/2504.01956)|null|
+|**2025-04-02**|**The LLM Wears Prada: Analysing Gender Bias and Stereotypes through Online Shopping Data**|Massimiliano Luca et.al.|[2504.01951](http://arxiv.org/abs/2504.01951)|null|
+|**2025-04-02**|**Critical Thinking: Which Kinds of Complexity Govern Optimal Reasoning Length?**|Celine Lee et.al.|[2504.01935](http://arxiv.org/abs/2504.01935)|null|
+|**2025-04-02**|**Hessian-aware Training for Enhancing DNNs Resilience to Parameter Corruptions**|Tahmid Hasan Prato et.al.|[2504.01933](http://arxiv.org/abs/2504.01933)|null|
+|**2025-04-02**|**Review, Refine, Repeat: Understanding Iterative Decoding of AI Agents with Dynamic Evaluation and Selection**|Souradip Chakraborty et.al.|[2504.01931](http://arxiv.org/abs/2504.01931)|null|
+|**2025-04-02**|**Representing Flow Fields with Divergence-Free Kernels for Reconstruction**|Xingyu Ni et.al.|[2504.01913](http://arxiv.org/abs/2504.01913)|null|
+|**2025-04-02**|**Graphically Speaking: Unmasking Abuse in Social Media with Conversation Insights**|Célia Nouri et.al.|[2504.01902](http://arxiv.org/abs/2504.01902)|null|
+|**2025-04-02**|**Multi-fidelity Parameter Estimation Using Conditional Diffusion Models**|Caroline Tatsuoka et.al.|[2504.01894](http://arxiv.org/abs/2504.01894)|null|
+|**2025-04-02**|**CoMatcher: Multi-View Collaborative Feature Matching**|Jintao Zhang et.al.|[2504.01872](http://arxiv.org/abs/2504.01872)|null|
 |**2025-03-31**|**Easi3R: Estimating Disentangled Motion from DUSt3R Without Training**|Xingyu Chen et.al.|[2503.24391](http://arxiv.org/abs/2503.24391)|**[link](https://github.com/inception3d/easi3r)**|
 |**2025-03-31**|**RIG: Synergizing Reasoning and Imagination in End-to-End Generalist Policy**|Zhonghan Zhao et.al.|[2503.24388](http://arxiv.org/abs/2503.24388)|null|
 |**2025-03-31**|**Harnessing the Reasoning Economy: A Survey of Efficient Reasoning for Large Language Models**|Rui Wang et.al.|[2503.24377](http://arxiv.org/abs/2503.24377)|**[link](https://github.com/devoallen/awesome-reasoning-economy-papers)**|
@@ -3645,6 +3671,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-02**|**Barrier Certificates for Unknown Systems with Latent States and Polynomial Dynamics using Bayesian Inference**|Robert Lefringhausen et.al.|[2504.01807](http://arxiv.org/abs/2504.01807)|null|
+|**2025-04-02**|**Learning with Imperfect Models: When Multi-step Prediction Mitigates Compounding Error**|Anne Somalwar et.al.|[2504.01766](http://arxiv.org/abs/2504.01766)|null|
+|**2025-04-01**|**R2DN: Scalable Parameterization of Contracting and Lipschitz Recurrent Deep Networks**|Nicholas H. Barbara et.al.|[2504.01250](http://arxiv.org/abs/2504.01250)|null|
+|**2025-04-01**|**Value Iteration for Learning Concurrently Executable Robotic Control Tasks**|Sheikh A. Tahmid et.al.|[2504.01174](http://arxiv.org/abs/2504.01174)|null|
+|**2025-04-01**|**MPCritic: A plug-and-play MPC architecture for reinforcement learning**|Nathan P. Lawrence et.al.|[2504.01086](http://arxiv.org/abs/2504.01086)|null|
+|**2025-03-31**|**Are clinicians ethically obligated to disclose their use of medical machine learning systems to patients?**|Joshua Hatherley et.al.|[2504.01043](http://arxiv.org/abs/2504.01043)|null|
+|**2025-04-01**|**Data-Driven Safety Verification using Barrier Certificates and Matrix Zonotopes**|Mohammed Adib Oumer et.al.|[2504.01007](http://arxiv.org/abs/2504.01007)|null|
+|**2025-03-31**|**Nuclear Microreactor Control with Deep Reinforcement Learning**|Leo Tunkle et.al.|[2504.00156](http://arxiv.org/abs/2504.00156)|null|
+|**2025-03-31**|**Data-driven Power Loss Identification through Physics-Based Thermal Model Backpropagation**|Mattia Scarpa et.al.|[2504.00133](http://arxiv.org/abs/2504.00133)|null|
 |**2025-03-31**|**Policy Gradient for LQR with Domain Randomization**|Tesshu Fujinami et.al.|[2503.24371](http://arxiv.org/abs/2503.24371)|null|
 |**2025-03-31**|**Certified Approximate Reachability (CARe): Formal Error Bounds on Deep Learning of Reachable Sets**|Prashant Solanki et.al.|[2503.23912](http://arxiv.org/abs/2503.23912)|**[link](https://github.com/nikovert/CARe)**|
 |**2025-03-31**|**Free Parametrization of L2-bounded State Space Models**|Leonardo Massai et.al.|[2503.23818](http://arxiv.org/abs/2503.23818)|null|
