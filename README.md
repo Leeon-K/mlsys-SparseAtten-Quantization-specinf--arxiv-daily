@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.02
+## Updated on 2025.04.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -1616,7 +1616,7 @@
 |**2024-07-11**|**Q-GaLore: Quantized GaLore with INT4 Projection and Layer-Adaptive Low-Rank Gradients**|Zhenyu Zhang et.al.|[2407.08296](http://arxiv.org/abs/2407.08296)|**[link](https://github.com/VITA-Group/Q-GaLore)**|
 |**2024-07-10**|**RoLoRA: Fine-tuning Rotated Outlier-free LLMs for Effective Weight-Activation Quantization**|Xijie Huang et.al.|[2407.08044](http://arxiv.org/abs/2407.08044)|**[link](https://github.com/huangowen/rolora)**|
 
-<p align=right>(<a href=#updated-on-20250402>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250403>back to top</a>)</p>
 
 ## Pruning
 
@@ -1634,7 +1634,7 @@
 |**2024-07-16**|**MINI-LLM: Memory-Efficient Structured Pruning for Large Language Models**|Hongrong Cheng et.al.|[2407.11681](http://arxiv.org/abs/2407.11681)|null|
 |**2024-07-15**|**DDFAD: Dataset Distillation Framework for Audio Data**|Wenbo Jiang et.al.|[2407.10446](http://arxiv.org/abs/2407.10446)|null|
 
-<p align=right>(<a href=#updated-on-20250402>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250403>back to top</a>)</p>
 
 ## Hardware-Software Co-Design
 
@@ -1845,7 +1845,7 @@
 |**2024-07-12**|**68-Channel Highly-Integrated Neural Signal Processing PSoC with On-Chip Feature Extraction, Compression, and Hardware Accelerators for Neuroprosthetics in 22nm FDSOI**|Liyuan Guo et.al.|[2407.09166](http://arxiv.org/abs/2407.09166)|null|
 |**2024-07-12**|**Hybrid Temporal Computing for Lower Power Hardware Accelerators**|Maliha Tasnim et.al.|[2407.08975](http://arxiv.org/abs/2407.08975)|null|
 
-<p align=right>(<a href=#updated-on-20250402>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250403>back to top</a>)</p>
 
 ## TinyML
 
@@ -2005,7 +2005,7 @@
 |**2024-07-13**|**Characterizing Disparity Between Edge Models and High-Accuracy Base Models for Vision Tasks**|Zhenyu Wang et.al.|[2407.10016](http://arxiv.org/abs/2407.10016)|null|
 |**2024-07-11**|**Towards Efficient Deployment of Hybrid SNNs on Neuromorphic and Edge AI Hardware**|James Seekings et.al.|[2407.08704](http://arxiv.org/abs/2407.08704)|null|
 
-<p align=right>(<a href=#updated-on-20250402>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250403>back to top</a>)</p>
 
 ## Domain Specific Accelerator
 
@@ -2023,7 +2023,7 @@
 |**2024-06-05**|**HASS: Hardware-Aware Sparsity Search for Dataflow DNN Accelerator**|Zhewen Yu et.al.|[2406.03088](http://arxiv.org/abs/2406.03088)|**[link](https://github.com/yu-zhewen/hass)**|
 |**2024-06-03**|**A 0.96pJ/SOP, 30.23K-neuron/mm^2 Heterogeneous Neuromorphic Chip With Fullerene-like Interconnection Topology for Edge-AI Computing**|P. J. Zhou et.al.|[2406.01151](http://arxiv.org/abs/2406.01151)|null|
 
-<p align=right>(<a href=#updated-on-20250402>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250403>back to top</a>)</p>
 
 ## Low-Rank Adaptation
 
@@ -2049,7 +2049,7 @@
 |**2024-07-21**|**Learn to Preserve and Diversify: Parameter-Efficient Group with Orthogonal Regularization for Domain Generalization**|Jiajun Hu et.al.|[2407.15085](http://arxiv.org/abs/2407.15085)|**[link](https://github.com/JudgingH/PEGO)**|
 |**2024-07-21**|**MedSAGa: Few-shot Memory Efficient Medical Image Segmentation using Gradient Low-Rank Projection in SAM**|Navyansh Mahla et.al.|[2407.15042](http://arxiv.org/abs/2407.15042)|null|
 
-<p align=right>(<a href=#updated-on-20250402>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250403>back to top</a>)</p>
 
 ## Model Compression
 
@@ -2079,7 +2079,7 @@
 |**2024-07-23**|**OriGen:Enhancing RTL Code Generation with Code-to-Code Augmentation and Self-Reflection**|Fan Cui et.al.|[2407.16237](http://arxiv.org/abs/2407.16237)|**[link](https://github.com/pku-liang/origen)**|
 |**2024-07-23**|**DDK: Distilling Domain Knowledge for Efficient Large Language Models**|Jiaheng Liu et.al.|[2407.16154](http://arxiv.org/abs/2407.16154)|null|
 
-<p align=right>(<a href=#updated-on-20250402>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250403>back to top</a>)</p>
 
 ## Long-context
 
@@ -3666,17 +3666,17 @@
 |**2024-07-30**|**Exocomet orbital distribution around $β$ Pictoris**|René Heller et.al.|[2407.20829](http://arxiv.org/abs/2407.20829)|null|
 |**2024-07-30**|**Design and inference for multi-arm clinical trials with informational borrowing: the interacting urns design**|Giacomo Aletti et.al.|[2407.20819](http://arxiv.org/abs/2407.20819)|null|
 
-<p align=right>(<a href=#updated-on-20250402>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250403>back to top</a>)</p>
 
 ## MLSYS
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-03-31**|**Policy Gradient for LQR with Domain Randomization**|Tesshu Fujinami et.al.|[2503.24371](http://arxiv.org/abs/2503.24371)|null|
-|**2025-03-31**|**Certified Approximate Reachability (CARe): Formal Error Bounds on Deep Learning of Reachable Sets**|Prashant Solanki et.al.|[2503.23912](http://arxiv.org/abs/2503.23912)|null|
+|**2025-03-31**|**Certified Approximate Reachability (CARe): Formal Error Bounds on Deep Learning of Reachable Sets**|Prashant Solanki et.al.|[2503.23912](http://arxiv.org/abs/2503.23912)|**[link](https://github.com/nikovert/CARe)**|
 |**2025-03-31**|**Free Parametrization of L2-bounded State Space Models**|Leonardo Massai et.al.|[2503.23818](http://arxiv.org/abs/2503.23818)|null|
-|**2025-03-30**|**Online Convex Optimization and Integral Quadratic Constraints: A new approach to regret analysis**|Fabian Jakob et.al.|[2503.23600](http://arxiv.org/abs/2503.23600)|null|
-|**2025-03-30**|**Bridging conformal prediction and scenario optimization**|Niall O'Sullivan et.al.|[2503.23561](http://arxiv.org/abs/2503.23561)|null|
+|**2025-03-30**|**Online Convex Optimization and Integral Quadratic Constraints: A new approach to regret analysis**|Fabian Jakob et.al.|[2503.23600](http://arxiv.org/abs/2503.23600)|**[link](https://github.com/col-tasas/oco-with-iqcs)**|
+|**2025-04-01**|**Bridging conformal prediction and scenario optimization**|Niall O'Sullivan et.al.|[2503.23561](http://arxiv.org/abs/2503.23561)|null|
 |**2025-03-26**|**PowerGNN: A Topology-Aware Graph Neural Network for Electricity Grids**|Dhruv Suri et.al.|[2503.22721](http://arxiv.org/abs/2503.22721)|null|
 |**2025-03-28**|**AcL: Action Learner for Fault-Tolerant Quadruped Locomotion Control**|Tianyu Xu et.al.|[2503.21401](http://arxiv.org/abs/2503.21401)|null|
 |**2025-03-26**|**TAR: Teacher-Aligned Representations via Contrastive Learning for Quadrupedal Locomotion**|Amr Mousa et.al.|[2503.20839](http://arxiv.org/abs/2503.20839)|null|
@@ -4238,7 +4238,7 @@
 |**2024-07-24**|**Deep Koopman-based Control of Quality Variation in Multistage Manufacturing Systems**|Zhiyi Chen et.al.|[2407.16933](http://arxiv.org/abs/2407.16933)|null|
 |**2024-07-23**|**Implementing engrams from a machine learning perspective: the relevance of a latent space**|J Marco de Lucas et.al.|[2407.16616](http://arxiv.org/abs/2407.16616)|null|
 
-<p align=right>(<a href=#updated-on-20250402>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250403>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
