@@ -3725,8 +3725,8 @@
 |**2025-04-02**|**Barrier Certificates for Unknown Systems with Latent States and Polynomial Dynamics using Bayesian Inference**|Robert Lefringhausen et.al.|[2504.01807](http://arxiv.org/abs/2504.01807)|null|
 |**2025-04-02**|**Learning with Imperfect Models: When Multi-step Prediction Mitigates Compounding Error**|Anne Somalwar et.al.|[2504.01766](http://arxiv.org/abs/2504.01766)|null|
 |**2025-04-01**|**R2DN: Scalable Parameterization of Contracting and Lipschitz Recurrent Deep Networks**|Nicholas H. Barbara et.al.|[2504.01250](http://arxiv.org/abs/2504.01250)|null|
-|**2025-04-01**|**Value Iteration for Learning Concurrently Executable Robotic Control Tasks**|Sheikh A. Tahmid et.al.|[2504.01174](http://arxiv.org/abs/2504.01174)|null|
-|**2025-04-01**|**MPCritic: A plug-and-play MPC architecture for reinforcement learning**|Nathan P. Lawrence et.al.|[2504.01086](http://arxiv.org/abs/2504.01086)|null|
+|**2025-04-01**|**Value Iteration for Learning Concurrently Executable Robotic Control Tasks**|Sheikh A. Tahmid et.al.|[2504.01174](http://arxiv.org/abs/2504.01174)|**[link](https://github.com/erablab/value_iteration_for_learning_concurrently_executable_robotic_control_tasks)**|
+|**2025-04-01**|**MPCritic: A plug-and-play MPC architecture for reinforcement learning**|Nathan P. Lawrence et.al.|[2504.01086](http://arxiv.org/abs/2504.01086)|**[link](https://github.com/tbanker/MPCritic)**|
 |**2025-03-31**|**Are clinicians ethically obligated to disclose their use of medical machine learning systems to patients?**|Joshua Hatherley et.al.|[2504.01043](http://arxiv.org/abs/2504.01043)|null|
 |**2025-04-01**|**Data-Driven Safety Verification using Barrier Certificates and Matrix Zonotopes**|Mohammed Adib Oumer et.al.|[2504.01007](http://arxiv.org/abs/2504.01007)|null|
 |**2025-03-31**|**Nuclear Microreactor Control with Deep Reinforcement Learning**|Leo Tunkle et.al.|[2504.00156](http://arxiv.org/abs/2504.00156)|null|
