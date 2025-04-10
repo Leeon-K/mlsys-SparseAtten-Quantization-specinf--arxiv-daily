@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-09**|**Sculpting Subspaces: Constrained Full Fine-Tuning in LLMs for Continual Learning**|Nikhil Shivakumar Nayak et.al.|[2504.07097](http://arxiv.org/abs/2504.07097)|null|
+|**2025-04-09**|**OmniCaptioner: One Captioner to Rule Them All**|Yiting Lu et.al.|[2504.07089](http://arxiv.org/abs/2504.07089)|null|
+|**2025-04-09**|**KG-LLM-Bench: A Scalable Benchmark for Evaluating LLM Reasoning on Textualized Knowledge Graphs**|Elan Markowitz et.al.|[2504.07087](http://arxiv.org/abs/2504.07087)|null|
+|**2025-04-09**|**A geometric ensemble method for Bayesian inference**|Andrey A Popov et.al.|[2504.07084](http://arxiv.org/abs/2504.07084)|null|
+|**2025-04-09**|**Self-Steering Language Models**|Gabriel Grand et.al.|[2504.07081](http://arxiv.org/abs/2504.07081)|null|
+|**2025-04-09**|**DeduCE: Deductive Consistency as a Framework to Evaluate LLM Reasoning**|Atharva Pandey et.al.|[2504.07080](http://arxiv.org/abs/2504.07080)|null|
+|**2025-04-09**|**A Survey on Personalized and Pluralistic Preference Alignment in Large Language Models**|Zhouhang Xie et.al.|[2504.07070](http://arxiv.org/abs/2504.07070)|null|
+|**2025-04-09**|**HalluciNot: Hallucination Detection Through Context and Common Knowledge Verification**|Bibek Paudel et.al.|[2504.07069](http://arxiv.org/abs/2504.07069)|null|
+|**2025-04-09**|**$Π$ -NeSy: A Possibilistic Neuro-Symbolic Approach**|Ismaïl Baaj et.al.|[2504.07055](http://arxiv.org/abs/2504.07055)|null|
+|**2025-04-09**|**TASTE: Text-Aligned Speech Tokenization and Embedding for Spoken Language Modeling**|Liang-Hsuan Tseng et.al.|[2504.07053](http://arxiv.org/abs/2504.07053)|null|
 |**2025-04-08**|**Constraining the [CII] luminosity function from the power spectrum of line intensity maps at redshift 3.6**|Elena Marcuzzo et.al.|[2504.06266](http://arxiv.org/abs/2504.06266)|null|
 |**2025-04-08**|**GOLLuM: Gaussian Process Optimized LLMs -- Reframing LLM Finetuning through Bayesian Optimization**|Bojana Ranković et.al.|[2504.06265](http://arxiv.org/abs/2504.06265)|null|
 |**2025-04-09**|**Hogwild! Inference: Parallel LLM Generation via Concurrent Attention**|Gleb Rodionov et.al.|[2504.06261](http://arxiv.org/abs/2504.06261)|null|
@@ -1675,6 +1685,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-08**|**Accelerating Hybrid XOR $-$ CNF SAT Problems Natively with In-Memory Computing**|Haesol Im et.al.|[2504.06476](http://arxiv.org/abs/2504.06476)|null|
+|**2025-04-08**|**FETTA: Flexible and Efficient Hardware Accelerator for Tensorized Neural Network Training**|Jinming Lu et.al.|[2504.06474](http://arxiv.org/abs/2504.06474)|null|
 |**2025-04-06**|**Thanos: A Block-wise Pruning Algorithm for Efficient Large Language Model Compression**|Ivan Ilin et.al.|[2504.05346](http://arxiv.org/abs/2504.05346)|null|
 |**2025-04-07**|**3D Gaussian Particle Approximation of VDB Datasets: A Study for Scientific Visualization**|Isha Sharma et.al.|[2504.04857](http://arxiv.org/abs/2504.04857)|null|
 |**2025-04-07**|**A High-Performance Curve25519 and Curve448 Unified Elliptic Curve Cryptography Accelerator**|Aniket Banerjee et.al.|[2504.04731](http://arxiv.org/abs/2504.04731)|null|
@@ -1892,6 +1904,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-09**|**Neural Signal Compression using RAMAN tinyML Accelerator for BCI Applications**|Adithya Krishna et.al.|[2504.06996](http://arxiv.org/abs/2504.06996)|null|
 |**2025-04-08**|**Enhanced Anomaly Detection for Capsule Endoscopy Using Ensemble Learning Strategies**|Julia Werner et.al.|[2504.06039](http://arxiv.org/abs/2504.06039)|null|
 |**2025-04-03**|**Advancing Air Quality Monitoring: TinyML-Based Real-Time Ozone Prediction with Cost-Effective Edge Devices**|Huam Ming Ken et.al.|[2504.03776](http://arxiv.org/abs/2504.03776)|null|
 |**2025-04-02**|**Efficient Calibration for RRAM-based In-Memory Computing using DoRA**|Weirong Dong et.al.|[2504.03763](http://arxiv.org/abs/2504.03763)|null|
@@ -2127,6 +2140,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-09**|**OmniCaptioner: One Captioner to Rule Them All**|Yiting Lu et.al.|[2504.07089](http://arxiv.org/abs/2504.07089)|null|
+|**2025-04-09**|**A geometric ensemble method for Bayesian inference**|Andrey A Popov et.al.|[2504.07084](http://arxiv.org/abs/2504.07084)|null|
+|**2025-04-09**|**Self-Steering Language Models**|Gabriel Grand et.al.|[2504.07081](http://arxiv.org/abs/2504.07081)|null|
+|**2025-04-09**|**DeduCE: Deductive Consistency as a Framework to Evaluate LLM Reasoning**|Atharva Pandey et.al.|[2504.07080](http://arxiv.org/abs/2504.07080)|null|
+|**2025-04-09**|**A Survey on Personalized and Pluralistic Preference Alignment in Large Language Models**|Zhouhang Xie et.al.|[2504.07070](http://arxiv.org/abs/2504.07070)|null|
+|**2025-04-09**|**HalluciNot: Hallucination Detection Through Context and Common Knowledge Verification**|Bibek Paudel et.al.|[2504.07069](http://arxiv.org/abs/2504.07069)|null|
+|**2025-04-09**|**$Π$ -NeSy: A Possibilistic Neuro-Symbolic Approach**|Ismaïl Baaj et.al.|[2504.07055](http://arxiv.org/abs/2504.07055)|null|
+|**2025-04-09**|**Distilling Textual Priors from LLM to Efficient Image Fusion**|Ran Zhang et.al.|[2504.07029](http://arxiv.org/abs/2504.07029)|null|
+|**2025-04-09**|**SIGMAN:Scaling 3D Human Gaussian Generation with Millions of Assets**|Yuhang Yang et.al.|[2504.06982](http://arxiv.org/abs/2504.06982)|null|
+|**2025-04-09**|**HIP 15429: a newborn Be star on an eccentric binary orbit**|Johanna Müller-Horn et.al.|[2504.06973](http://arxiv.org/abs/2504.06973)|null|
 |**2025-04-08**|**Constraining the [CII] luminosity function from the power spectrum of line intensity maps at redshift 3.6**|Elena Marcuzzo et.al.|[2504.06266](http://arxiv.org/abs/2504.06266)|null|
 |**2025-04-09**|**Hogwild! Inference: Parallel LLM Generation via Concurrent Attention**|Gleb Rodionov et.al.|[2504.06261](http://arxiv.org/abs/2504.06261)|null|
 |**2025-04-08**|**Decentralized Federated Domain Generalization with Style Sharing: A Formal Modeling and Convergence Analysis**|Shahryar Zehtabi et.al.|[2504.06235](http://arxiv.org/abs/2504.06235)|null|
@@ -3762,6 +3785,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-09**|**Deep Neural Koopman Operator-based Economic Model Predictive Control of Shipboard Carbon Capture System**|Minghao Han et.al.|[2504.06818](http://arxiv.org/abs/2504.06818)|null|
+|**2025-04-09**|**NAPER: Fault Protection for Real-Time Resource-Constrained Deep Neural Networks**|Rian Adam Rajagede et.al.|[2504.06591](http://arxiv.org/abs/2504.06591)|null|
+|**2025-04-08**|**Graph Neural Network-Based Distributed Optimal Control for Linear Networked Systems: An Online Distributed Training Approach**|Zihao Song et.al.|[2504.06439](http://arxiv.org/abs/2504.06439)|null|
 |**2025-04-09**|**Robo-taxi Fleet Coordination at Scale via Reinforcement Learning**|Luigi Tresca et.al.|[2504.06125](http://arxiv.org/abs/2504.06125)|null|
 |**2025-04-08**|**Smart Exploration in Reinforcement Learning using Bounded Uncertainty Models**|J. S. van Hulst et.al.|[2504.05978](http://arxiv.org/abs/2504.05978)|null|
 |**2025-04-07**|**Optimal Bayesian Affine Estimator and Active Learning for the Wiener Model**|Sasan Vakili et.al.|[2504.05490](http://arxiv.org/abs/2504.05490)|null|
