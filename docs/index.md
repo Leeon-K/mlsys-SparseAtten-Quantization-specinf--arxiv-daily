@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-11**|**Visual Chronicles: Using Multimodal LLMs to Analyze Massive Collections of Images**|Boyang Deng et.al.|[2504.08727](http://arxiv.org/abs/2504.08727)|null|
+|**2025-04-11**|**DocAgent: A Multi-Agent System for Automated Code Documentation Generation**|Dayu Yang et.al.|[2504.08725](http://arxiv.org/abs/2504.08725)|null|
+|**2025-04-11**|**SWAN-GPT: An Efficient and Scalable Approach for Long-Context Language Modeling**|Krishna C. Puvvada et.al.|[2504.08719](http://arxiv.org/abs/2504.08719)|null|
+|**2025-04-11**|**EMO-X: Efficient Multi-Person Pose and Shape Estimation in One-Stage**|Haohang Jian et.al.|[2504.08718](http://arxiv.org/abs/2504.08718)|null|
+|**2025-04-11**|**ModernBERT or DeBERTaV3? Examining Architecture and Data Influence on Transformer Encoder Models Performance**|Wissam Antoun et.al.|[2504.08716](http://arxiv.org/abs/2504.08716)|null|
+|**2025-04-11**|**Generating Fine Details of Entity Interactions**|Xinyi Gu et.al.|[2504.08714](http://arxiv.org/abs/2504.08714)|null|
+|**2025-04-11**|**Don't torque like that. Measuring compact object magnetic fields with analytic torque models**|J. J. R. Stierhof et.al.|[2504.08700](http://arxiv.org/abs/2504.08700)|null|
+|**2025-04-11**|**Large Language Models as Span Annotators**|Zdeněk Kasner et.al.|[2504.08697](http://arxiv.org/abs/2504.08697)|null|
+|**2025-04-11**|**SeaView: Software Engineering Agent Visual Interface for Enhanced Workflow**|Timothy Bula et.al.|[2504.08696](http://arxiv.org/abs/2504.08696)|null|
+|**2025-04-11**|**TP-RAG: Benchmarking Retrieval-Augmented Large Language Model Agents for Spatiotemporal-Aware Travel Planning**|Hang Ni et.al.|[2504.08694](http://arxiv.org/abs/2504.08694)|null|
 |**2025-04-10**|**C3PO: Critical-Layer, Core-Expert, Collaborative Pathway Optimization for Test-Time Expert Re-Mixing**|Zhongyang Li et.al.|[2504.07964](http://arxiv.org/abs/2504.07964)|**[link](https://github.com/tianyi-lab/c3po)**|
 |**2025-04-10**|**Geo4D: Leveraging Video Generators for Geometric 4D Scene Reconstruction**|Zeren Jiang et.al.|[2504.07961](http://arxiv.org/abs/2504.07961)|null|
 |**2025-04-10**|**VCR-Bench: A Comprehensive Evaluation Framework for Video Chain-of-Thought Reasoning**|Yukun Qi et.al.|[2504.07956](http://arxiv.org/abs/2504.07956)|null|
@@ -1695,6 +1705,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-11**|**TensorNEAT: A GPU-accelerated Library for NeuroEvolution of Augmenting Topologies**|Lishuang Wang et.al.|[2504.08339](http://arxiv.org/abs/2504.08339)|null|
+|**2025-04-10**|**Improving Multiresource Job Scheduling with Markovian Service Rate Policies**|Zhongrui Chen et.al.|[2504.08094](http://arxiv.org/abs/2504.08094)|null|
 |**2025-04-10**|**Pychop: Emulating Low-Precision Arithmetic in Numerical Methods and Neural Networks**|Erin Carson et.al.|[2504.07835](http://arxiv.org/abs/2504.07835)|null|
 |**2025-04-09**|**Rapid inference and comparison of gravitational-wave population models with neural variational posteriors**|Matthew Mould et.al.|[2504.07197](http://arxiv.org/abs/2504.07197)|null|
 |**2025-04-08**|**Accelerating Hybrid XOR $-$ CNF SAT Problems Natively with In-Memory Computing**|Haesol Im et.al.|[2504.06476](http://arxiv.org/abs/2504.06476)|null|
@@ -1916,6 +1928,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-11**|**Jupiter: Fast and Resource-Efficient Collaborative Inference of Generative LLMs on Edge Devices**|Shengyuan Ye et.al.|[2504.08242](http://arxiv.org/abs/2504.08242)|null|
 |**2025-04-09**|**Neural Signal Compression using RAMAN tinyML Accelerator for BCI Applications**|Adithya Krishna et.al.|[2504.06996](http://arxiv.org/abs/2504.06996)|null|
 |**2025-04-08**|**Enhanced Anomaly Detection for Capsule Endoscopy Using Ensemble Learning Strategies**|Julia Werner et.al.|[2504.06039](http://arxiv.org/abs/2504.06039)|null|
 |**2025-04-03**|**Advancing Air Quality Monitoring: TinyML-Based Real-Time Ozone Prediction with Cost-Effective Edge Devices**|Huam Ming Ken et.al.|[2504.03776](http://arxiv.org/abs/2504.03776)|null|
@@ -2152,6 +2165,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-11**|**SWAN-GPT: An Efficient and Scalable Approach for Long-Context Language Modeling**|Krishna C. Puvvada et.al.|[2504.08719](http://arxiv.org/abs/2504.08719)|null|
+|**2025-04-11**|**EMO-X: Efficient Multi-Person Pose and Shape Estimation in One-Stage**|Haohang Jian et.al.|[2504.08718](http://arxiv.org/abs/2504.08718)|null|
+|**2025-04-11**|**ModernBERT or DeBERTaV3? Examining Architecture and Data Influence on Transformer Encoder Models Performance**|Wissam Antoun et.al.|[2504.08716](http://arxiv.org/abs/2504.08716)|null|
+|**2025-04-11**|**Generating Fine Details of Entity Interactions**|Xinyi Gu et.al.|[2504.08714](http://arxiv.org/abs/2504.08714)|null|
+|**2025-04-11**|**Don't torque like that. Measuring compact object magnetic fields with analytic torque models**|J. J. R. Stierhof et.al.|[2504.08700](http://arxiv.org/abs/2504.08700)|null|
+|**2025-04-11**|**TinyCenterSpeed: Efficient Center-Based Object Detection for Autonomous Racing**|Neil Reichlin et.al.|[2504.08655](http://arxiv.org/abs/2504.08655)|null|
+|**2025-04-11**|**The Invisible EgoHand: 3D Hand Forecasting through EgoBody Pose Estimation**|Masashi Hatano et.al.|[2504.08654](http://arxiv.org/abs/2504.08654)|null|
+|**2025-04-11**|**Title block detection and information extraction for enhanced building drawings search**|Alessio Lombardi et.al.|[2504.08645](http://arxiv.org/abs/2504.08645)|null|
+|**2025-04-11**|**Training-free Guidance in Text-to-Video Generation via Multimodal Planning and Structured Noise Initialization**|Jialu Li et.al.|[2504.08641](http://arxiv.org/abs/2504.08641)|null|
+|**2025-04-11**|**Simple low-dimensional computations explain variability in neuronal activity**|Christopher W. Lynn et.al.|[2504.08637](http://arxiv.org/abs/2504.08637)|null|
 |**2025-04-10**|**GLUS: Global-Local Reasoning Unified into A Single Large Language Model for Video Segmentation**|Lang Lin et.al.|[2504.07962](http://arxiv.org/abs/2504.07962)|null|
 |**2025-04-10**|**Geo4D: Leveraging Video Generators for Geometric 4D Scene Reconstruction**|Zeren Jiang et.al.|[2504.07961](http://arxiv.org/abs/2504.07961)|null|
 |**2025-04-10**|**Dynamic Cheatsheet: Test-Time Learning with Adaptive Memory**|Mirac Suzgun et.al.|[2504.07952](http://arxiv.org/abs/2504.07952)|**[link](https://github.com/suzgunmirac/dynamic-cheatsheet)**|
@@ -3807,6 +3830,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-11**|**Neural Fidelity Calibration for Informative Sim-to-Real Adaptation**|Youwei Yu et.al.|[2504.08604](http://arxiv.org/abs/2504.08604)|null|
+|**2025-04-11**|**Physics-informed data-driven control without persistence of excitation**|Martina Vanelli et.al.|[2504.08484](http://arxiv.org/abs/2504.08484)|null|
+|**2025-04-11**|**Neural Network-assisted Interval Reachability for Systems with Control Barrier Function-Based Safe Controllers**|Damola Ajeyemi et.al.|[2504.08249](http://arxiv.org/abs/2504.08249)|null|
+|**2025-04-11**|**Spectral Normalization for Lipschitz-Constrained Policies on Learning Humanoid Locomotion**|Jaeyong Shin et.al.|[2504.08246](http://arxiv.org/abs/2504.08246)|null|
+|**2025-04-11**|**Optimizing Power Grid Topologies with Reinforcement Learning: A Survey of Methods and Challenges**|Erica van der Sar et.al.|[2504.08210](http://arxiv.org/abs/2504.08210)|null|
+|**2025-04-10**|**RL-based Control of UAS Subject to Significant Disturbance**|Kousheek Chakraborty et.al.|[2504.08114](http://arxiv.org/abs/2504.08114)|null|
+|**2025-04-10**|**Deep Reinforcement Learning for Day-to-day Dynamic Tolling in Tradable Credit Schemes**|Xiaoyi Wu et.al.|[2504.08074](http://arxiv.org/abs/2504.08074)|null|
 |**2025-04-10**|**Data Requirement Goal Modeling for Machine Learning Systems**|Asma Yamani et.al.|[2504.07664](http://arxiv.org/abs/2504.07664)|null|
 |**2025-04-09**|**Deep Neural Koopman Operator-based Economic Model Predictive Control of Shipboard Carbon Capture System**|Minghao Han et.al.|[2504.06818](http://arxiv.org/abs/2504.06818)|null|
 |**2025-04-09**|**NAPER: Fault Protection for Real-Time Resource-Constrained Deep Neural Networks**|Rian Adam Rajagede et.al.|[2504.06591](http://arxiv.org/abs/2504.06591)|null|
