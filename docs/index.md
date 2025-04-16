@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-15**|**DeepMath-103K: A Large-Scale, Challenging, Decontaminated, and Verifiable Mathematical Dataset for Advancing Reasoning**|Zhiwei He et.al.|[2504.11456](http://arxiv.org/abs/2504.11456)|null|
+|**2025-04-15**|**SimpleAR: Pushing the Frontier of Autoregressive Visual Generation through Pretraining, SFT, and RL**|Junke Wang et.al.|[2504.11455](http://arxiv.org/abs/2504.11455)|null|
+|**2025-04-15**|**PARTFIELD: Learning 3D Feature Fields for Part Segmentation and Beyond**|Minghua Liu et.al.|[2504.11451](http://arxiv.org/abs/2504.11451)|null|
+|**2025-04-15**|**eXplainable AI for data driven control: an inverse optimal control approach**|Federico Porcari et.al.|[2504.11446](http://arxiv.org/abs/2504.11446)|null|
+|**2025-04-15**|**TextArena**|Leon Guertler et.al.|[2504.11442](http://arxiv.org/abs/2504.11442)|null|
+|**2025-04-15**|**Masculine Defaults via Gendered Discourse in Podcasts and Large Language Models**|Maria Teleki et.al.|[2504.11431](http://arxiv.org/abs/2504.11431)|null|
+|**2025-04-15**|**A Dual-Space Framework for General Knowledge Distillation of Large Language Models**|Xue Zhang et.al.|[2504.11426](http://arxiv.org/abs/2504.11426)|null|
+|**2025-04-15**|**ADT: Tuning Diffusion Models with Adversarial Supervision**|Dazhong Shen et.al.|[2504.11423](http://arxiv.org/abs/2504.11423)|null|
+|**2025-04-15**|**Reinforcing Compositional Retrieval: Retrieving Step-by-Step for Composing Informative Contexts**|Quanyu Long et.al.|[2504.11420](http://arxiv.org/abs/2504.11420)|null|
+|**2025-04-15**|**Efficient Hybrid Language Model Compression through Group-Aware SSM Pruning**|Ali Taghibakhshi et.al.|[2504.11409](http://arxiv.org/abs/2504.11409)|null|
 |**2025-04-14**|**DNF-Avatar: Distilling Neural Fields for Real-time Animatable Avatar Relighting**|Zeren Jiang et.al.|[2504.10486](http://arxiv.org/abs/2504.10486)|null|
 |**2025-04-14**|**xVerify: Efficient Answer Verifier for Reasoning Model Evaluations**|Ding Chen et.al.|[2504.10481](http://arxiv.org/abs/2504.10481)|null|
 |**2025-04-15**|**InternVL3: Exploring Advanced Training and Test-Time Recipes for Open-Source Multimodal Models**|Jinguo Zhu et.al.|[2504.10479](http://arxiv.org/abs/2504.10479)|null|
@@ -1715,6 +1725,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-15**|**A Unified Hardware Accelerator for Fast Fourier Transform and Number Theoretic Transform**|Rishabh Shrivastava et.al.|[2504.11124](http://arxiv.org/abs/2504.11124)|null|
+|**2025-04-14**|**Adaptive Synaptogenesis Implemented on a Nanomagnetic Platform**|Faiyaz Elahi Mullick et.al.|[2504.10767](http://arxiv.org/abs/2504.10767)|null|
 |**2025-04-14**|**FPGA-Optimized Hardware Accelerator for Fast Fourier Transform and Singular Value Decomposition in AI**|Hong Ding et.al.|[2504.10411](http://arxiv.org/abs/2504.10411)|null|
 |**2025-04-14**|**Carbon-Efficient 3D DNN Acceleration: Optimizing Performance and Sustainability**|Aikaterini Maria Panteleaki et.al.|[2504.09851](http://arxiv.org/abs/2504.09851)|null|
 |**2025-04-11**|**ML For Hardware Design Interpretability: Challenges and Opportunities**|Raymond Baartmans et.al.|[2504.08852](http://arxiv.org/abs/2504.08852)|null|
@@ -1941,6 +1953,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-14**|**VAE-based Feature Disentanglement for Data Augmentation and Compression in Generalized GNSS Interference Classification**|Lucas Heublein et.al.|[2504.10556](http://arxiv.org/abs/2504.10556)|null|
 |**2025-04-13**|**Can LLMs Revolutionize the Design of Explainable and Efficient TinyML Models?**|Christophe El Zeinaty et.al.|[2504.09685](http://arxiv.org/abs/2504.09685)|null|
 |**2025-04-11**|**MSCCL++: Rethinking GPU Communication Abstractions for Cutting-edge AI Applications**|Aashaka Shah et.al.|[2504.09014](http://arxiv.org/abs/2504.09014)|null|
 |**2025-04-11**|**Jupiter: Fast and Resource-Efficient Collaborative Inference of Generative LLMs on Edge Devices**|Shengyuan Ye et.al.|[2504.08242](http://arxiv.org/abs/2504.08242)|null|
@@ -2180,6 +2193,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-15**|**SimpleAR: Pushing the Frontier of Autoregressive Visual Generation through Pretraining, SFT, and RL**|Junke Wang et.al.|[2504.11455](http://arxiv.org/abs/2504.11455)|null|
+|**2025-04-15**|**PARTFIELD: Learning 3D Feature Fields for Part Segmentation and Beyond**|Minghua Liu et.al.|[2504.11451](http://arxiv.org/abs/2504.11451)|null|
+|**2025-04-15**|**eXplainable AI for data driven control: an inverse optimal control approach**|Federico Porcari et.al.|[2504.11446](http://arxiv.org/abs/2504.11446)|null|
+|**2025-04-15**|**ADT: Tuning Diffusion Models with Adversarial Supervision**|Dazhong Shen et.al.|[2504.11423](http://arxiv.org/abs/2504.11423)|null|
+|**2025-04-15**|**Efficient Hybrid Language Model Compression through Group-Aware SSM Pruning**|Ali Taghibakhshi et.al.|[2504.11409](http://arxiv.org/abs/2504.11409)|null|
+|**2025-04-15**|**VideoPanda: Video Panoramic Diffusion with Multi-view Attention**|Kevin Xie et.al.|[2504.11389](http://arxiv.org/abs/2504.11389)|null|
+|**2025-04-15**|**Teaching Large Language Models to Reason through Learning and Forgetting**|Tianwei Ni et.al.|[2504.11364](http://arxiv.org/abs/2504.11364)|null|
+|**2025-04-15**|**Looking beyond the next token**|Abitha Thankaraj et.al.|[2504.11336](http://arxiv.org/abs/2504.11336)|null|
+|**2025-04-15**|**Decorrelation in Complex Wave Scattering**|Qihang Zhang et.al.|[2504.11330](http://arxiv.org/abs/2504.11330)|null|
+|**2025-04-15**|**Hunting for Maxwell's Demon in the Wild**|Johan du Buisson et.al.|[2504.11329](http://arxiv.org/abs/2504.11329)|null|
 |**2025-04-14**|**DNF-Avatar: Distilling Neural Fields for Real-time Animatable Avatar Relighting**|Zeren Jiang et.al.|[2504.10486](http://arxiv.org/abs/2504.10486)|null|
 |**2025-04-14**|**Anchors no more: Using peculiar velocities to constrain $H_0$ and the primordial Universe without calibrators**|Davide Piras et.al.|[2504.10453](http://arxiv.org/abs/2504.10453)|null|
 |**2025-04-14**|**M1: Towards Scalable Test-Time Compute with Mamba Reasoning Models**|Junxiong Wang et.al.|[2504.10449](http://arxiv.org/abs/2504.10449)|null|
@@ -3855,6 +3878,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-14**|**Transfer Learning Assisted XgBoost For Adaptable Cyberattack Detection In Battery Packs**|Sanchita Ghosh et.al.|[2504.10658](http://arxiv.org/abs/2504.10658)|null|
 |**2025-04-13**|**Ensemble-Enhanced Graph Autoencoder with GAT and Transformer-Based Encoders for Robust Fault Diagnosis**|Moirangthem Tiken Singh et.al.|[2504.09427](http://arxiv.org/abs/2504.09427)|null|
 |**2025-04-13**|**Expressivity of Quadratic Neural ODEs**|Joshua Hanson et.al.|[2504.09385](http://arxiv.org/abs/2504.09385)|null|
 |**2025-04-12**|**Lumos: Efficient Performance Modeling and Estimation for Large-scale LLM Training**|Mingyu Liang et.al.|[2504.09307](http://arxiv.org/abs/2504.09307)|null|
