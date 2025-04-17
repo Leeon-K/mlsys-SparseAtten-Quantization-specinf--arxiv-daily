@@ -25,6 +25,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-16**|**BitNet b1.58 2B4T Technical Report**|Shuming Ma et.al.|[2504.12285](http://arxiv.org/abs/2504.12285)|null|
+|**2025-04-16**|**Quantum Area Fluctuations from Gravitational Phase Space**|Luca Ciambelli et.al.|[2504.12282](http://arxiv.org/abs/2504.12282)|null|
+|**2025-04-16**|**Dysarthria Normalization via Local Lie Group Transformations for Robust ASR**|Mikhail Osipov et.al.|[2504.12279](http://arxiv.org/abs/2504.12279)|null|
+|**2025-04-16**|**HLS-Eval: A Benchmark and Framework for Evaluating LLMs on High-Level Synthesis Design Tasks**|Stefan Abi-Karam et.al.|[2504.12268](http://arxiv.org/abs/2504.12268)|null|
+|**2025-04-16**|**New Constraints on DMS and DMDS in the Atmosphere of K2-18 b from JWST MIRI**|Nikku Madhusudhan et.al.|[2504.12267](http://arxiv.org/abs/2504.12267)|null|
+|**2025-04-16**|**Semiparametric Dynamic Copula Models for Portfolio Optimization**|Savita Pareek et.al.|[2504.12266](http://arxiv.org/abs/2504.12266)|null|
+|**2025-04-16**|**Towards Learning to Complete Anything in Lidar**|Ayca Takmaz et.al.|[2504.12264](http://arxiv.org/abs/2504.12264)|null|
+|**2025-04-16**|**FLIP Reasoning Challenge**|Andreas Plesner et.al.|[2504.12256](http://arxiv.org/abs/2504.12256)|null|
+|**2025-04-16**|**AnomalyGen: An Automated Semantic Log Sequence Generation Framework with LLM for Anomaly Detection**|Xinyu Li et.al.|[2504.12250](http://arxiv.org/abs/2504.12250)|null|
+|**2025-04-16**|**Cobra: Efficient Line Art COlorization with BRoAder References**|Junhao Zhuang et.al.|[2504.12240](http://arxiv.org/abs/2504.12240)|null|
 |**2025-04-15**|**DeepMath-103K: A Large-Scale, Challenging, Decontaminated, and Verifiable Mathematical Dataset for Advancing Reasoning**|Zhiwei He et.al.|[2504.11456](http://arxiv.org/abs/2504.11456)|null|
 |**2025-04-15**|**SimpleAR: Pushing the Frontier of Autoregressive Visual Generation through Pretraining, SFT, and RL**|Junke Wang et.al.|[2504.11455](http://arxiv.org/abs/2504.11455)|null|
 |**2025-04-15**|**PARTFIELD: Learning 3D Feature Fields for Part Segmentation and Beyond**|Minghua Liu et.al.|[2504.11451](http://arxiv.org/abs/2504.11451)|null|
@@ -1970,6 +1980,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-03**|**Edge Intelligence for Wildlife Conservation: Real-Time Hornbill Call Classification Using TinyML**|Kong Ka Hing et.al.|[2504.12272](http://arxiv.org/abs/2504.12272)|null|
+|**2025-04-10**|**MultiCore+TPU Accelerated Multi-Modal TinyML for Livestock Behaviour Recognition**|Qianxue Zhang et.al.|[2504.11467](http://arxiv.org/abs/2504.11467)|null|
 |**2025-04-14**|**VAE-based Feature Disentanglement for Data Augmentation and Compression in Generalized GNSS Interference Classification**|Lucas Heublein et.al.|[2504.10556](http://arxiv.org/abs/2504.10556)|null|
 |**2025-04-13**|**Can LLMs Revolutionize the Design of Explainable and Efficient TinyML Models?**|Christophe El Zeinaty et.al.|[2504.09685](http://arxiv.org/abs/2504.09685)|null|
 |**2025-04-11**|**MSCCL++: Rethinking GPU Communication Abstractions for Cutting-edge AI Applications**|Aashaka Shah et.al.|[2504.09014](http://arxiv.org/abs/2504.09014)|null|
@@ -2218,6 +2230,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-16**|**BitNet b1.58 2B4T Technical Report**|Shuming Ma et.al.|[2504.12285](http://arxiv.org/abs/2504.12285)|null|
+|**2025-04-16**|**Dysarthria Normalization via Local Lie Group Transformations for Robust ASR**|Mikhail Osipov et.al.|[2504.12279](http://arxiv.org/abs/2504.12279)|null|
+|**2025-04-16**|**HLS-Eval: A Benchmark and Framework for Evaluating LLMs on High-Level Synthesis Design Tasks**|Stefan Abi-Karam et.al.|[2504.12268](http://arxiv.org/abs/2504.12268)|null|
+|**2025-04-16**|**New Constraints on DMS and DMDS in the Atmosphere of K2-18 b from JWST MIRI**|Nikku Madhusudhan et.al.|[2504.12267](http://arxiv.org/abs/2504.12267)|null|
+|**2025-04-16**|**Semiparametric Dynamic Copula Models for Portfolio Optimization**|Savita Pareek et.al.|[2504.12266](http://arxiv.org/abs/2504.12266)|null|
+|**2025-04-16**|**Towards Learning to Complete Anything in Lidar**|Ayca Takmaz et.al.|[2504.12264](http://arxiv.org/abs/2504.12264)|null|
+|**2025-04-16**|**Cobra: Efficient Line Art COlorization with BRoAder References**|Junhao Zhuang et.al.|[2504.12240](http://arxiv.org/abs/2504.12240)|null|
+|**2025-04-16**|**SALAD: Improving Robustness and Generalization through Contrastive Learning with Structure-Aware and LLM-Driven Augmented Data**|Suyoung Bae et.al.|[2504.12185](http://arxiv.org/abs/2504.12185)|null|
+|**2025-04-16**|**Deep Generative Models for Bayesian Inference on High-Rate Sensor Data: Applications in Automotive Radar and Medical Imaging**|Tristan S. W. Stevens et.al.|[2504.12154](http://arxiv.org/abs/2504.12154)|null|
+|**2025-04-16**|**Overlapping Error Correction Codes on Two-Dimensional Structures**|Andrew Rafael Fritsch et.al.|[2504.12142](http://arxiv.org/abs/2504.12142)|null|
 |**2025-04-15**|**SimpleAR: Pushing the Frontier of Autoregressive Visual Generation through Pretraining, SFT, and RL**|Junke Wang et.al.|[2504.11455](http://arxiv.org/abs/2504.11455)|null|
 |**2025-04-15**|**PARTFIELD: Learning 3D Feature Fields for Part Segmentation and Beyond**|Minghua Liu et.al.|[2504.11451](http://arxiv.org/abs/2504.11451)|null|
 |**2025-04-15**|**eXplainable AI for data driven control: an inverse optimal control approach**|Federico Porcari et.al.|[2504.11446](http://arxiv.org/abs/2504.11446)|null|
@@ -3905,6 +3927,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-16**|**Efficient identification of linear, parameter-varying, and nonlinear systems with noise models**|Alberto Bemporad et.al.|[2504.11982](http://arxiv.org/abs/2504.11982)|null|
+|**2025-04-16**|**Transferable Deployment of Semantic Edge Inference Systems via Unsupervised Domain Adaption**|Weiqiang Jiao et.al.|[2504.11873](http://arxiv.org/abs/2504.11873)|null|
+|**2025-04-16**|**Manifold meta-learning for reduced-complexity neural system identification**|Marco Forgione et.al.|[2504.11811](http://arxiv.org/abs/2504.11811)|null|
+|**2025-04-15**|**Sub-optimality of the Separation Principle for Quadratic Control from Bilinear Observations**|Yahya Sattar et.al.|[2504.11555](http://arxiv.org/abs/2504.11555)|null|
+|**2025-04-14**|**Probabilistic Task Parameterization of Tool-Tissue Interaction via Sparse Landmarks Tracking in Robotic Surgery**|Yiting Wang et.al.|[2504.11495](http://arxiv.org/abs/2504.11495)|null|
 |**2025-04-14**|**Transfer Learning Assisted XgBoost For Adaptable Cyberattack Detection In Battery Packs**|Sanchita Ghosh et.al.|[2504.10658](http://arxiv.org/abs/2504.10658)|null|
 |**2025-04-13**|**Ensemble-Enhanced Graph Autoencoder with GAT and Transformer-Based Encoders for Robust Fault Diagnosis**|Moirangthem Tiken Singh et.al.|[2504.09427](http://arxiv.org/abs/2504.09427)|null|
 |**2025-04-13**|**Expressivity of Quadratic Neural ODEs**|Joshua Hanson et.al.|[2504.09385](http://arxiv.org/abs/2504.09385)|null|
