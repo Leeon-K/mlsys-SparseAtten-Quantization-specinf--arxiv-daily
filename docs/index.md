@@ -7,13 +7,23 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.20
+## Updated on 2025.04.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Quantization
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-18**|**Does Reinforcement Learning Really Incentivize Reasoning Capacity in LLMs Beyond the Base Model?**|Yang Yue et.al.|[2504.13837](http://arxiv.org/abs/2504.13837)|null|
+|**2025-04-18**|**Science Hierarchography: Hierarchical Organization of Science Literature**|Muhan Gao et.al.|[2504.13834](http://arxiv.org/abs/2504.13834)|null|
+|**2025-04-18**|**Feature Alignment and Representation Transfer in Knowledge Distillation for Large Language Models**|Junjie Yang et.al.|[2504.13825](http://arxiv.org/abs/2504.13825)|null|
+|**2025-04-18**|**Not All Rollouts are Useful: Down-Sampling Rollouts in LLM Reinforcement Learning**|Yixuan Even Xu et.al.|[2504.13818](http://arxiv.org/abs/2504.13818)|null|
+|**2025-04-18**|**Analyzing LLMs' Knowledge Boundary Cognition Across Languages Through the Lens of Internal Representations**|Chenghao Xiao et.al.|[2504.13816](http://arxiv.org/abs/2504.13816)|null|
+|**2025-04-18**|**Imitation Learning with Precisely Labeled Human Demonstrations**|Yilong Song et.al.|[2504.13803](http://arxiv.org/abs/2504.13803)|null|
+|**2025-04-18**|**The Binary and Ternary Quantization Can Improve Feature Discrimination**|Weizhi Lu et.al.|[2504.13792](http://arxiv.org/abs/2504.13792)|null|
+|**2025-04-18**|**Learning Through Retrospection: Improving Trajectory Prediction for Automated Driving with Error Feedback**|Steffen Hagedorn et.al.|[2504.13785](http://arxiv.org/abs/2504.13785)|null|
+|**2025-04-18**|**Quantum theory of the Josephson junction between finite islands**|Thomas J. Maldonado et.al.|[2504.13779](http://arxiv.org/abs/2504.13779)|null|
+|**2025-04-18**|**BadApex: Backdoor Attack Based on Adaptive Optimization Mechanism of Black-box Large Language Models**|Zhengxian Wu et.al.|[2504.13775](http://arxiv.org/abs/2504.13775)|null|
 |**2025-04-17**|**Aligning Constraint Generation with Design Intent in Parametric CAD**|Evan Casey et.al.|[2504.13178](http://arxiv.org/abs/2504.13178)|null|
 |**2025-04-17**|**Single-Shot Shape and Reflectance with Spatial Polarization Multiplexing**|Tomoki Ichikawa et.al.|[2504.13177](http://arxiv.org/abs/2504.13177)|null|
 |**2025-04-17**|**IMAGGarment-1: Fine-Grained Garment Generation for Controllable Fashion Design**|Fei Shen et.al.|[2504.13176](http://arxiv.org/abs/2504.13176)|**[link](https://github.com/muzishen/imaggarment-1)**|
@@ -1745,6 +1755,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-18**|**MAAM: A Lightweight Multi-Agent Aggregation Module for Efficient Image Classification Based on the MindSpore Framework**|Zhenkai Qin et.al.|[2504.13574](http://arxiv.org/abs/2504.13574)|null|
+|**2025-04-17**|**CardioFit: A WebGL-Based Tool for Fast and Efficient Parameterization of Cardiac Action Potential Models to Fit User-Provided Data**|Darby I. Cairns et.al.|[2504.13274](http://arxiv.org/abs/2504.13274)|null|
 |**2025-04-15**|**A Unified Hardware Accelerator for Fast Fourier Transform and Number Theoretic Transform**|Rishabh Shrivastava et.al.|[2504.11124](http://arxiv.org/abs/2504.11124)|null|
 |**2025-04-14**|**Adaptive Synaptogenesis Implemented on a Nanomagnetic Platform**|Faiyaz Elahi Mullick et.al.|[2504.10767](http://arxiv.org/abs/2504.10767)|null|
 |**2025-04-14**|**FPGA-Optimized Hardware Accelerator for Fast Fourier Transform and Singular Value Decomposition in AI**|Hong Ding et.al.|[2504.10411](http://arxiv.org/abs/2504.10411)|null|
@@ -2215,6 +2227,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-18**|**Feature Alignment and Representation Transfer in Knowledge Distillation for Large Language Models**|Junjie Yang et.al.|[2504.13825](http://arxiv.org/abs/2504.13825)|null|
+|**2025-04-18**|**Not All Rollouts are Useful: Down-Sampling Rollouts in LLM Reinforcement Learning**|Yixuan Even Xu et.al.|[2504.13818](http://arxiv.org/abs/2504.13818)|null|
+|**2025-04-18**|**Imitation Learning with Precisely Labeled Human Demonstrations**|Yilong Song et.al.|[2504.13803](http://arxiv.org/abs/2504.13803)|null|
+|**2025-04-18**|**Learning Through Retrospection: Improving Trajectory Prediction for Automated Driving with Error Feedback**|Steffen Hagedorn et.al.|[2504.13785](http://arxiv.org/abs/2504.13785)|null|
+|**2025-04-18**|**DP2Unlearning: An Efficient and Guaranteed Unlearning Framework for LLMs**|Tamim Al Mahmud et.al.|[2504.13774](http://arxiv.org/abs/2504.13774)|null|
+|**2025-04-18**|**Modeling L1 Influence on L2 Pronunciation: An MFCC-Based Framework for Explainable Machine Learning and Pedagogical Feedback**|Peyman Jahanbin et.al.|[2504.13765](http://arxiv.org/abs/2504.13765)|null|
+|**2025-04-18**|**Observation of gyroscopic coupling in a non-spinning levitated ferromagnet**|F. Ahrens et.al.|[2504.13744](http://arxiv.org/abs/2504.13744)|null|
+|**2025-04-18**|**LimitNet: Progressive, Content-Aware Image Offloading for Extremely Weak Devices & Networks**|Ali Hojjat et.al.|[2504.13736](http://arxiv.org/abs/2504.13736)|null|
+|**2025-04-18**|**Dynamic Regularized CBDT: Variance-Calibrated Causal Boosting for Interpretable Heterogeneous Treatment Effects**|Yichen Liu et.al.|[2504.13733](http://arxiv.org/abs/2504.13733)|null|
+|**2025-04-18**|**Controlled Territory and Conflict Tracking (CONTACT): (Geo-)Mapping Occupied Territory from Open Source Intelligence**|Paul K. Mandal et.al.|[2504.13730](http://arxiv.org/abs/2504.13730)|null|
 |**2025-04-17**|**IMAGGarment-1: Fine-Grained Garment Generation for Controllable Fashion Design**|Fei Shen et.al.|[2504.13176](http://arxiv.org/abs/2504.13176)|**[link](https://github.com/muzishen/imaggarment-1)**|
 |**2025-04-17**|**Sleep-time Compute: Beyond Inference Scaling at Test-time**|Kevin Lin et.al.|[2504.13171](http://arxiv.org/abs/2504.13171)|**[link](https://github.com/letta-ai/sleep-time-compute)**|
 |**2025-04-17**|**Generate, but Verify: Reducing Hallucination in Vision-Language Models with Retrospective Resampling**|Tsung-Han Wu et.al.|[2504.13169](http://arxiv.org/abs/2504.13169)|**[link](https://github.com/tsunghan-wu/reverse_vlm)**|
@@ -3920,6 +3942,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-18**|**Risk-aware black-box portfolio construction using Bayesian optimization with adaptive weighted Lagrangian estimator**|Zinuo You et.al.|[2504.13529](http://arxiv.org/abs/2504.13529)|null|
 |**2025-04-16**|**Reinforcement Learning from Human Feedback**|Nathan Lambert et.al.|[2504.12501](http://arxiv.org/abs/2504.12501)|null|
 |**2025-04-16**|**Enhanced Battery Capacity Estimation in Data-Limited Scenarios through Swarm Learning**|Jiawei Zhang et.al.|[2504.12444](http://arxiv.org/abs/2504.12444)|null|
 |**2025-04-16**|**Learning Transferable Friction Models and LuGre Identification via Physics Informed Neural Networks**|Asutay Ozmen et.al.|[2504.12441](http://arxiv.org/abs/2504.12441)|null|
