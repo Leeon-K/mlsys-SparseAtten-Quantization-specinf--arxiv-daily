@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-22**|**TTRL: Test-Time Reinforcement Learning**|Yuxin Zuo et.al.|[2504.16084](http://arxiv.org/abs/2504.16084)|null|
+|**2025-04-22**|**MMInference: Accelerating Pre-filling for Long-Context VLMs via Modality-Aware Permutation Sparse Attention**|Yucheng Li et.al.|[2504.16083](http://arxiv.org/abs/2504.16083)|null|
+|**2025-04-22**|**MR. Video: "MapReduce" is the Principle for Long Video Understanding**|Ziqi Pang et.al.|[2504.16082](http://arxiv.org/abs/2504.16082)|null|
+|**2025-04-22**|**From Reflection to Perfection: Scaling Inference-Time Optimization for Text-to-Image Diffusion Models via Reflection Tuning**|Le Zhuo et.al.|[2504.16080](http://arxiv.org/abs/2504.16080)|null|
+|**2025-04-22**|**LLMs are Greedy Agents: Effects of RL Fine-tuning on Decision-Making Abilities**|Thomas Schmied et.al.|[2504.16078](http://arxiv.org/abs/2504.16078)|null|
+|**2025-04-22**|**PHYBench: Holistic Evaluation of Physical Perception and Reasoning in Large Language Models**|Shi Qiu et.al.|[2504.16074](http://arxiv.org/abs/2504.16074)|null|
+|**2025-04-22**|**Guiding VLM Agents with Process Rewards at Inference Time for GUI Navigation**|Zhiyuan Hu et.al.|[2504.16073](http://arxiv.org/abs/2504.16073)|null|
+|**2025-04-22**|**High-performance training and inference for deep equivariant interatomic potentials**|Chuin Wei Tan et.al.|[2504.16068](http://arxiv.org/abs/2504.16068)|null|
+|**2025-04-22**|**Boosting Generative Image Modeling via Joint Image-Feature Synthesis**|Theodoros Kouzelis et.al.|[2504.16064](http://arxiv.org/abs/2504.16064)|null|
+|**2025-04-22**|**Automated Static Vulnerability Detection via a Holistic Neuro-symbolic Approach**|Penghui Li et.al.|[2504.16057](http://arxiv.org/abs/2504.16057)|null|
 |**2025-04-21**|**Stop Summation: Min-Form Credit Assignment Is All Process Reward Model Needs for Reasoning**|Jie Cheng et.al.|[2504.15275](http://arxiv.org/abs/2504.15275)|**[link](https://github.com/cjreinforce/pure)**|
 |**2025-04-21**|**Beating the Correlation Breakdown: Robust Inference, Flexible Scenarios, and Stress Testing for Financial Portfolios**|JD Opdyke et.al.|[2504.15268](http://arxiv.org/abs/2504.15268)|null|
 |**2025-04-21**|**Interpretable Locomotion Prediction in Construction Using a Memory-Driven LLM Agent With Chain-of-Thought Reasoning**|Ehsan Ahmadi et.al.|[2504.15263](http://arxiv.org/abs/2504.15263)|null|
@@ -1765,6 +1775,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-21**|**SCALE-Sim v3: A modular cycle-accurate systolic accelerator simulator for end-to-end system analysis**|Ritik Raj et.al.|[2504.15377](http://arxiv.org/abs/2504.15377)|null|
 |**2025-04-21**|**To Offload or Not To Offload: Model-driven Comparison of Edge-native and On-device Processing**|Nathan Ng et.al.|[2504.15162](http://arxiv.org/abs/2504.15162)|null|
 |**2025-04-22**|**GainSight: Application-Guided Profiling for Composing Heterogeneous On-Chip Memories in AI Hardware Accelerators**|Peijing Li et.al.|[2504.14866](http://arxiv.org/abs/2504.14866)|null|
 |**2025-04-21**|**vApps: Verifiable Applications at Internet Scale**|Isaac Zhang et.al.|[2504.14809](http://arxiv.org/abs/2504.14809)|null|
@@ -2000,6 +2011,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-18**|**SLAM-Based Navigation and Fault Resilience in a Surveillance Quadcopter with Embedded Vision Systems**|Abhishek Tyagi et.al.|[2504.15305](http://arxiv.org/abs/2504.15305)|null|
 |**2025-04-21**|**Time-Series Analysis on Edge-AI Hardware for Healthcare Monitoring**|Jinhai Hu et.al.|[2504.15178](http://arxiv.org/abs/2504.15178)|null|
 |**2025-04-20**|**Explainability for Embedding AI: Aspirations and Actuality**|Thomas Weber et.al.|[2504.14631](http://arxiv.org/abs/2504.14631)|null|
 |**2025-04-03**|**Edge Intelligence for Wildlife Conservation: Real-Time Hornbill Call Classification Using TinyML**|Kong Ka Hing et.al.|[2504.12272](http://arxiv.org/abs/2504.12272)|null|
@@ -2244,6 +2256,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-22**|**TTRL: Test-Time Reinforcement Learning**|Yuxin Zuo et.al.|[2504.16084](http://arxiv.org/abs/2504.16084)|null|
+|**2025-04-22**|**MMInference: Accelerating Pre-filling for Long-Context VLMs via Modality-Aware Permutation Sparse Attention**|Yucheng Li et.al.|[2504.16083](http://arxiv.org/abs/2504.16083)|null|
+|**2025-04-22**|**From Reflection to Perfection: Scaling Inference-Time Optimization for Text-to-Image Diffusion Models via Reflection Tuning**|Le Zhuo et.al.|[2504.16080](http://arxiv.org/abs/2504.16080)|null|
+|**2025-04-22**|**Guiding VLM Agents with Process Rewards at Inference Time for GUI Navigation**|Zhiyuan Hu et.al.|[2504.16073](http://arxiv.org/abs/2504.16073)|null|
+|**2025-04-22**|**High-performance training and inference for deep equivariant interatomic potentials**|Chuin Wei Tan et.al.|[2504.16068](http://arxiv.org/abs/2504.16068)|null|
+|**2025-04-22**|**Boosting Generative Image Modeling via Joint Image-Feature Synthesis**|Theodoros Kouzelis et.al.|[2504.16064](http://arxiv.org/abs/2504.16064)|null|
+|**2025-04-22**|**LongMamba: Enhancing Mamba's Long Context Capabilities via Training-Free Receptive Field Enlargement**|Zhifan Ye et.al.|[2504.16053](http://arxiv.org/abs/2504.16053)|null|
+|**2025-04-22**|**Certified Mitigation of Worst-Case LLM Copyright Infringement**|Jingyu Zhang et.al.|[2504.16046](http://arxiv.org/abs/2504.16046)|null|
+|**2025-04-22**|**From observed transitions to hidden paths in Markov networks**|Alexander M. Maier et.al.|[2504.16015](http://arxiv.org/abs/2504.16015)|null|
+|**2025-04-22**|**How Private is Your Attention? Bridging Privacy with In-Context Learning**|Soham Bonnerjee et.al.|[2504.16000](http://arxiv.org/abs/2504.16000)|null|
 |**2025-04-21**|**Eagle 2.5: Boosting Long-Context Post-Training for Frontier Vision-Language Models**|Guo Chen et.al.|[2504.15271](http://arxiv.org/abs/2504.15271)|null|
 |**2025-04-21**|**Beating the Correlation Breakdown: Robust Inference, Flexible Scenarios, and Stress Testing for Financial Portfolios**|JD Opdyke et.al.|[2504.15268](http://arxiv.org/abs/2504.15268)|null|
 |**2025-04-21**|**Population Models for Star Formation Timescales in Early Galaxies: The First Step Towards Solving Outshining in Star Formation History Inference**|Bingjie Wang et.al.|[2504.15255](http://arxiv.org/abs/2504.15255)|null|
@@ -3969,6 +3991,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-22**|**Observability conditions for neural state-space models with eigenvalues and their roots of unity**|Andrew Gracyk et.al.|[2504.15758](http://arxiv.org/abs/2504.15758)|null|
+|**2025-04-22**|**Markov Kernels, Distances and Optimal Control: A Parable of Linear Quadratic Non-Gaussian Distribution Steering**|Alexis M. H. Teter et.al.|[2504.15753](http://arxiv.org/abs/2504.15753)|null|
+|**2025-04-22**|**RadioDiff- $k^2$ : Helmholtz Equation Informed Generative Diffusion Model for Multi-Path Aware Radio Map Construction**|Xiucheng Wang et.al.|[2504.15623](http://arxiv.org/abs/2504.15623)|null|
+|**2025-04-22**|**Real-Time Optimal Design of Experiment for Parameter Identification of Li-Ion Cell Electrochemical Model**|Ian Mikesell et.al.|[2504.15578](http://arxiv.org/abs/2504.15578)|null|
+|**2025-04-21**|**LAPP: Large Language Model Feedback for Preference-Driven Reinforcement Learning**|Pingcheng Jian et.al.|[2504.15472](http://arxiv.org/abs/2504.15472)|null|
 |**2025-04-20**|**Geometric Learning Dynamics**|Vitaly Vanchurin et.al.|[2504.14728](http://arxiv.org/abs/2504.14728)|null|
 |**2025-04-19**|**Quantum-Enhanced Reinforcement Learning for Power Grid Security Assessment**|Benjamin M. Peter et.al.|[2504.14412](http://arxiv.org/abs/2504.14412)|null|
 |**2025-04-16**|**Prognosis Of Lithium-Ion Battery Health with Hybrid EKF-CNN+LSTM Model Using Differential Capacity**|Md Azizul Hoque et.al.|[2504.13956](http://arxiv.org/abs/2504.13956)|null|
