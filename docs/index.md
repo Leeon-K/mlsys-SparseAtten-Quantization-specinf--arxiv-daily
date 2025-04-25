@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.24
+## Updated on 2025.04.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Quantization
@@ -21,7 +21,7 @@ layout: default
 |**2025-04-23**|**Do Large Language Models know who did what to whom?**|Joseph M. Denning et.al.|[2504.16884](http://arxiv.org/abs/2504.16884)|null|
 |**2025-04-23**|**Enhancing Critical Thinking with AI: A Tailored Warning System for RAG Models**|Xuyang Zhu et.al.|[2504.16883](http://arxiv.org/abs/2504.16883)|null|
 |**2025-04-23**|**Context-Enhanced Vulnerability Detection Based on Large Language Model**|Yixin Yang et.al.|[2504.16877](http://arxiv.org/abs/2504.16877)|null|
-|**2025-04-23**|**Exploring How LLMs Capture and Represent Domain-Specific Knowledge**|Mirian Hipolito Garcia et.al.|[2504.16871](http://arxiv.org/abs/2504.16871)|null|
+|**2025-04-24**|**Exploring How LLMs Capture and Represent Domain-Specific Knowledge**|Mirian Hipolito Garcia et.al.|[2504.16871](http://arxiv.org/abs/2504.16871)|null|
 |**2025-04-23**|**Hint towards inconsistency between BAO and Supernovae Dataset: The Evidence of Redshift Evolving Dark Energy from DESI DR2 is Absent**|Samsuzzaman Afroz et.al.|[2504.16868](http://arxiv.org/abs/2504.16868)|null|
 |**2025-04-23**|**Planning with Diffusion Models for Target-Oriented Dialogue Systems**|Hanwen Du et.al.|[2504.16858](http://arxiv.org/abs/2504.16858)|null|
 |**2025-04-22**|**TTRL: Test-Time Reinforcement Learning**|Yuxin Zuo et.al.|[2504.16084](http://arxiv.org/abs/2504.16084)|null|
@@ -1788,9 +1788,9 @@ layout: default
 |**2025-04-21**|**SCALE-Sim v3: A modular cycle-accurate systolic accelerator simulator for end-to-end system analysis**|Ritik Raj et.al.|[2504.15377](http://arxiv.org/abs/2504.15377)|null|
 |**2025-04-21**|**To Offload or Not To Offload: Model-driven Comparison of Edge-native and On-device Processing**|Nathan Ng et.al.|[2504.15162](http://arxiv.org/abs/2504.15162)|null|
 |**2025-04-22**|**GainSight: Application-Guided Profiling for Composing Heterogeneous On-Chip Memories in AI Hardware Accelerators**|Peijing Li et.al.|[2504.14866](http://arxiv.org/abs/2504.14866)|null|
-|**2025-04-23**|**vApps: Verifiable Applications at Internet Scale**|Isaac Zhang et.al.|[2504.14809](http://arxiv.org/abs/2504.14809)|null|
+|**2025-04-24**|**vApps: Verifiable Applications at Internet Scale**|Isaac Zhang et.al.|[2504.14809](http://arxiv.org/abs/2504.14809)|null|
 |**2025-04-19**|**FGMP: Fine-Grained Mixed-Precision Weight and Activation Quantization for Hardware-Accelerated LLM Inference**|Coleman Hooper et.al.|[2504.14152](http://arxiv.org/abs/2504.14152)|null|
-|**2025-04-18**|**HyDra: SOT-CAM Based Vector Symbolic Macro for Hyperdimensional Computing**|Md Mizanur Rahaman Nayan et.al.|[2504.14020](http://arxiv.org/abs/2504.14020)|null|
+|**2025-04-24**|**HyDra: SOT-CAM Based Vector Symbolic Macro for Hyperdimensional Computing**|Md Mizanur Rahaman Nayan et.al.|[2504.14020](http://arxiv.org/abs/2504.14020)|null|
 |**2025-04-18**|**MAAM: A Lightweight Multi-Agent Aggregation Module for Efficient Image Classification Based on the MindSpore Framework**|Zhenkai Qin et.al.|[2504.13574](http://arxiv.org/abs/2504.13574)|null|
 |**2025-04-17**|**CardioFit: A WebGL-Based Tool for Fast and Efficient Parameterization of Cardiac Action Potential Models to Fit User-Provided Data**|Darby I. Cairns et.al.|[2504.13274](http://arxiv.org/abs/2504.13274)|null|
 |**2025-04-15**|**A Unified Hardware Accelerator for Fast Fourier Transform and Number Theoretic Transform**|Rishabh Shrivastava et.al.|[2504.11124](http://arxiv.org/abs/2504.11124)|null|
