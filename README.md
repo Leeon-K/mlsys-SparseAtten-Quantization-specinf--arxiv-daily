@@ -116,7 +116,7 @@
 |**2025-04-14**|**CliniChat: A Multi-Source Knowledge-Driven Framework for Clinical Interview Dialogue Reconstruction and Evaluation**|Jing Chen et.al.|[2504.10418](http://arxiv.org/abs/2504.10418)|null|
 |**2025-04-14**|**LLM-SRBench: A New Benchmark for Scientific Equation Discovery with Large Language Models**|Parshin Shojaee et.al.|[2504.10415](http://arxiv.org/abs/2504.10415)|**[link](https://github.com/deep-symbolic-mathematics/llm-srbench)**|
 |**2025-04-14**|**Visual Chronicles: Using Multimodal LLMs to Analyze Massive Collections of Images**|Boyang Deng et.al.|[2504.08727](http://arxiv.org/abs/2504.08727)|null|
-|**2025-04-11**|**DocAgent: A Multi-Agent System for Automated Code Documentation Generation**|Dayu Yang et.al.|[2504.08725](http://arxiv.org/abs/2504.08725)|null|
+|**2025-04-11**|**DocAgent: A Multi-Agent System for Automated Code Documentation Generation**|Dayu Yang et.al.|[2504.08725](http://arxiv.org/abs/2504.08725)|**[link](https://github.com/facebookresearch/docagent)**|
 |**2025-04-11**|**SWAN-GPT: An Efficient and Scalable Approach for Long-Context Language Modeling**|Krishna C. Puvvada et.al.|[2504.08719](http://arxiv.org/abs/2504.08719)|null|
 |**2025-04-11**|**EMO-X: Efficient Multi-Person Pose and Shape Estimation in One-Stage**|Haohang Jian et.al.|[2504.08718](http://arxiv.org/abs/2504.08718)|null|
 |**2025-04-11**|**ModernBERT or DeBERTaV3? Examining Architecture and Data Influence on Transformer Encoder Models Performance**|Wissam Antoun et.al.|[2504.08716](http://arxiv.org/abs/2504.08716)|null|
@@ -156,7 +156,7 @@
 |**2025-04-08**|**Can Performant LLMs Be Ethical? Quantifying the Impact of Web Crawling Opt-Outs**|Dongyang Fan et.al.|[2504.06219](http://arxiv.org/abs/2504.06219)|null|
 |**2025-04-08**|**Randomization Inference in Two-Sided Market Experiments**|Jizhou Liu et.al.|[2504.06215](http://arxiv.org/abs/2504.06215)|null|
 |**2025-04-07**|**Gaussian Mixture Flow Matching Models**|Hansheng Chen et.al.|[2504.05304](http://arxiv.org/abs/2504.05304)|null|
-|**2025-04-07**|**InteractVLM: 3D Interaction Reasoning from 2D Foundational Models**|Sai Kumar Dwivedi et.al.|[2504.05303](http://arxiv.org/abs/2504.05303)|null|
+|**2025-04-07**|**InteractVLM: 3D Interaction Reasoning from 2D Foundational Models**|Sai Kumar Dwivedi et.al.|[2504.05303](http://arxiv.org/abs/2504.05303)|**[link](https://github.com/saidwivedi/InteractVLM)**|
 |**2025-04-07**|**SmolVLM: Redefining small and efficient multimodal models**|Andrés Marafioti et.al.|[2504.05299](http://arxiv.org/abs/2504.05299)|null|
 |**2025-04-07**|**Truthful or Fabricated? Using Causal Attribution to Mitigate Reward Hacking in Explanations**|Pedro Ferreira et.al.|[2504.05294](http://arxiv.org/abs/2504.05294)|null|
 |**2025-04-07**|**The challenge of uncertainty quantification of large language models in medicine**|Zahra Atf et.al.|[2504.05278](http://arxiv.org/abs/2504.05278)|null|
@@ -2157,7 +2157,7 @@
 |**2024-11-11**|**A Primer on Word Embeddings: AI Techniques for Text Analysis in Social Work**|Brian E. Perron et.al.|[2411.07156](http://arxiv.org/abs/2411.07156)|null|
 |**2024-11-11**|**TinyML Security: Exploring Vulnerabilities in Resource-Constrained Machine Learning Systems**|Jacob Huckelberry et.al.|[2411.07114](http://arxiv.org/abs/2411.07114)|null|
 |**2024-11-10**|**Activation Map Compression through Tensor Decomposition for Deep Learning**|Le-Trung Nguyen et.al.|[2411.06346](http://arxiv.org/abs/2411.06346)|**[link](https://github.com/le-trungnguyen/neurips2024-activationcompression)**|
-|**2024-11-09**|**TinyML NLP Approach for Semantic Wireless Sentiment Classification**|Ahmed Y. Radwan et.al.|[2411.06291](http://arxiv.org/abs/2411.06291)|null|
+|**2024-11-09**|**TinyML NLP Approach for Semantic Wireless Sentiment Classification**|Ahmed Y. Radwan et.al.|[2411.06291](http://arxiv.org/abs/2411.06291)|**[link](https://github.com/ahmedradwan02/tinyeco2ai-nlp)**|
 |**2024-11-03**|**Energy-Aware FPGA Implementation of Spiking Neural Network with LIF Neurons**|Asmer Hamid Ali et.al.|[2411.01628](http://arxiv.org/abs/2411.01628)|null|
 |**2024-11-01**|**On the Impact of White-box Deployment Strategies for Edge AI on Latency and Model Performance**|Jaskirat Singh et.al.|[2411.00907](http://arxiv.org/abs/2411.00907)|null|
 |**2024-10-30**|**Profiling AI Models: Towards Efficient Computation Offloading in Heterogeneous Edge AI Systems**|Juan Marcelo Parra-Ullauri et.al.|[2411.00859](http://arxiv.org/abs/2411.00859)|null|
@@ -2382,7 +2382,7 @@
 |**2025-04-15**|**ADT: Tuning Diffusion Models with Adversarial Supervision**|Dazhong Shen et.al.|[2504.11423](http://arxiv.org/abs/2504.11423)|null|
 |**2025-04-15**|**Efficient Hybrid Language Model Compression through Group-Aware SSM Pruning**|Ali Taghibakhshi et.al.|[2504.11409](http://arxiv.org/abs/2504.11409)|null|
 |**2025-04-15**|**VideoPanda: Video Panoramic Diffusion with Multi-view Attention**|Kevin Xie et.al.|[2504.11389](http://arxiv.org/abs/2504.11389)|null|
-|**2025-04-15**|**Teaching Large Language Models to Reason through Learning and Forgetting**|Tianwei Ni et.al.|[2504.11364](http://arxiv.org/abs/2504.11364)|null|
+|**2025-04-15**|**Teaching Large Language Models to Reason through Learning and Forgetting**|Tianwei Ni et.al.|[2504.11364](http://arxiv.org/abs/2504.11364)|**[link](https://github.com/twni2016/llm-reasoning-uft)**|
 |**2025-04-15**|**Looking beyond the next token**|Abitha Thankaraj et.al.|[2504.11336](http://arxiv.org/abs/2504.11336)|null|
 |**2025-04-15**|**Decorrelation in Complex Wave Scattering**|Qihang Zhang et.al.|[2504.11330](http://arxiv.org/abs/2504.11330)|null|
 |**2025-04-15**|**Hunting for Maxwell's Demon in the Wild**|Johan du Buisson et.al.|[2504.11329](http://arxiv.org/abs/2504.11329)|null|
@@ -2437,7 +2437,7 @@
 |**2025-04-08**|**A Training-Free Style-aligned Image Generation with Scale-wise Autoregressive Model**|Jihun Park et.al.|[2504.06144](http://arxiv.org/abs/2504.06144)|null|
 |**2025-04-08**|**SpikeStream: Accelerating Spiking Neural Network Inference on RISC-V Clusters with Sparse Computation Extensions**|Simone Manoni et.al.|[2504.06134](http://arxiv.org/abs/2504.06134)|null|
 |**2025-04-07**|**Gaussian Mixture Flow Matching Models**|Hansheng Chen et.al.|[2504.05304](http://arxiv.org/abs/2504.05304)|null|
-|**2025-04-07**|**InteractVLM: 3D Interaction Reasoning from 2D Foundational Models**|Sai Kumar Dwivedi et.al.|[2504.05303](http://arxiv.org/abs/2504.05303)|null|
+|**2025-04-07**|**InteractVLM: 3D Interaction Reasoning from 2D Foundational Models**|Sai Kumar Dwivedi et.al.|[2504.05303](http://arxiv.org/abs/2504.05303)|**[link](https://github.com/saidwivedi/InteractVLM)**|
 |**2025-04-07**|**SmolVLM: Redefining small and efficient multimodal models**|Andrés Marafioti et.al.|[2504.05299](http://arxiv.org/abs/2504.05299)|null|
 |**2025-04-07**|**One-Minute Video Generation with Test-Time Training**|Karan Dalal et.al.|[2504.05298](http://arxiv.org/abs/2504.05298)|null|
 |**2025-04-07**|**The challenge of uncertainty quantification of large language models in medicine**|Zahra Atf et.al.|[2504.05278](http://arxiv.org/abs/2504.05278)|null|
@@ -3795,7 +3795,7 @@
 |**2024-09-06**|**A Unified Approach to Inferring Chemical Compounds with the Desired Aqueous Solubility**|Muniba Batool et.al.|[2409.04301](http://arxiv.org/abs/2409.04301)|**[link](https://github.com/ku-dml/mol-infer)**|
 |**2024-09-06**|**An "alien" called Oosterhoff dichotomy?**|E. Luongo et.al.|[2409.04259](http://arxiv.org/abs/2409.04259)|null|
 |**2024-09-06**|**Hermes: Memory-Efficient Pipeline Inference for Large Models on Edge Devices**|Xueyuan Han et.al.|[2409.04249](http://arxiv.org/abs/2409.04249)|null|
-|**2024-09-06**|**GST: Precise 3D Human Body from a Single Image with Gaussian Splatting Transformers**|Lorenza Prospero et.al.|[2409.04196](http://arxiv.org/abs/2409.04196)|null|
+|**2024-09-06**|**GST: Precise 3D Human Body from a Single Image with Gaussian Splatting Transformers**|Lorenza Prospero et.al.|[2409.04196](http://arxiv.org/abs/2409.04196)|**[link](https://github.com/prosperolo/gst)**|
 |**2024-09-05**|**Understanding Data Importance in Machine Learning Attacks: Does Valuable Data Pose Greater Harm?**|Rui Wen et.al.|[2409.03741](http://arxiv.org/abs/2409.03741)|**[link](https://github.com/TrustAIRLab/importance-in-mlattacks)**|
 |**2024-09-05**|**Planning In Natural Language Improves LLM Search For Code Generation**|Evan Wang et.al.|[2409.03733](http://arxiv.org/abs/2409.03733)|**[link](https://github.com/scaleapi/plansearch)**|
 |**2024-09-05**|**The Gaia Ultracool Dwarf Sample -- IV. GTC/OSIRIS optical spectra of Gaia late-M and L dwarfs**|W. J. Cooper et.al.|[2409.03706](http://arxiv.org/abs/2409.03706)|null|
@@ -4457,7 +4457,7 @@
 |**2024-11-06**|**Predicting and Publishing Accurate Imbalance Prices Using Monte Carlo Tree Search**|Fabio Pavirani et.al.|[2411.04011](http://arxiv.org/abs/2411.04011)|null|
 |**2024-11-06**|**No Culture Left Behind: ArtELingo-28, a Benchmark of WikiArt with Captions in 28 Languages**|Youssef Mohamed et.al.|[2411.03769](http://arxiv.org/abs/2411.03769)|**[link](https://github.com/mo-youssef/artelingo-28)**|
 |**2024-11-05**|**Oblivious Defense in ML Models: Backdoor Removal without Detection**|Shafi Goldwasser et.al.|[2411.03279](http://arxiv.org/abs/2411.03279)|null|
-|**2024-11-05**|**FEDLAD: Federated Evaluation of Deep Leakage Attacks and Defenses**|Isaac Baglin et.al.|[2411.03019](http://arxiv.org/abs/2411.03019)|null|
+|**2024-11-05**|**FEDLAD: Federated Evaluation of Deep Leakage Attacks and Defenses**|Isaac Baglin et.al.|[2411.03019](http://arxiv.org/abs/2411.03019)|**[link](https://github.com/Koukyosyumei/AIJack)**|
 |**2024-11-05**|**Transformer-Based Fault-Tolerant Control for Fixed-Wing UAVs Using Knowledge Distillation and In-Context Adaptation**|Francisco Giral et.al.|[2411.02975](http://arxiv.org/abs/2411.02975)|null|
 |**2024-11-05**|**Embedding Safety into RL: A New Take on Trust Region Methods**|Nikola Milosevic et.al.|[2411.02957](http://arxiv.org/abs/2411.02957)|null|
 |**2024-11-05**|**Layer-Adaptive State Pruning for Deep State Space Models**|Minseon Gwak et.al.|[2411.02824](http://arxiv.org/abs/2411.02824)|**[link](https://github.com/msgwak/last)**|
