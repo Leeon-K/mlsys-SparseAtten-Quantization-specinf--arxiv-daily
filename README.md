@@ -25,6 +25,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-29**|**Toward Efficient Exploration by Large Language Model Agents**|Dilip Arumugam et.al.|[2504.20997](http://arxiv.org/abs/2504.20997)|null|
+|**2025-04-29**|**X-Fusion: Introducing New Modality to Frozen Large Language Models**|Sicheng Mo et.al.|[2504.20996](http://arxiv.org/abs/2504.20996)|null|
+|**2025-04-29**|**ACE: A Security Architecture for LLM-Integrated App Systems**|Evan Li et.al.|[2504.20984](http://arxiv.org/abs/2504.20984)|null|
+|**2025-04-29**|**Jekyll-and-Hyde Tipping Point in an AI's Behavior**|Neil F. Johnson et.al.|[2504.20980](http://arxiv.org/abs/2504.20980)|null|
+|**2025-04-29**|**Real-Time Wayfinding Assistant for Blind and Low-Vision Users**|Dabbrata Das et.al.|[2504.20976](http://arxiv.org/abs/2504.20976)|null|
+|**2025-04-29**|**SetKE: Knowledge Editing for Knowledge Elements Overlap**|Yifan Wei et.al.|[2504.20972](http://arxiv.org/abs/2504.20972)|null|
+|**2025-04-29**|**Softpick: No Attention Sink, No Massive Activations with Rectified Softmax**|Zayd M. K. Zuhri et.al.|[2504.20966](http://arxiv.org/abs/2504.20966)|null|
+|**2025-04-29**|**AegisLLM: Scaling Agentic Systems for Self-Reflective Defense in LLM Security**|Zikui Cai et.al.|[2504.20965](http://arxiv.org/abs/2504.20965)|null|
+|**2025-04-29**|**OSVBench: Benchmarking LLMs on Specification Generation Tasks for Operating System Verification**|Shangyu Li et.al.|[2504.20964](http://arxiv.org/abs/2504.20964)|null|
+|**2025-04-29**|**Information Gravity: A Field-Theoretic Model for Token Selection in Large Language Models**|Maryna Vyshnyvetska et.al.|[2504.20951](http://arxiv.org/abs/2504.20951)|null|
 |**2025-04-28**|**MP-SfM: Monocular Surface Priors for Robust Structure-from-Motion**|Zador Pataki et.al.|[2504.20040](http://arxiv.org/abs/2504.20040)|null|
 |**2025-04-28**|**AutoJudge: Judge Decoding Without Manual Annotation**|Roman Garipov et.al.|[2504.20039](http://arxiv.org/abs/2504.20039)|null|
 |**2025-04-28**|**LIRM: Large Inverse Rendering Model for Progressive Reconstruction of Shape, Materials and View-dependent Radiance Fields**|Zhengqin Li et.al.|[2504.20026](http://arxiv.org/abs/2504.20026)|null|
@@ -2075,6 +2085,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-29**|**DDPS: Discrete Diffusion Posterior Sampling for Paths in Layered Graphs**|Hao Luan et.al.|[2504.20754](http://arxiv.org/abs/2504.20754)|null|
+|**2025-04-29**|**CarbonCall: Sustainability-Aware Function Calling for Large Language Models on Edge Devices**|Varatheepan Paramanayakam et.al.|[2504.20348](http://arxiv.org/abs/2504.20348)|null|
+|**2025-04-27**|**Personalized Artificial General Intelligence (AGI) via Neuroscience-Inspired Continuous Learning Systems**|Rajeev Gupta et.al.|[2504.20109](http://arxiv.org/abs/2504.20109)|null|
 |**2025-04-28**|**Hardware/Software Co-Design of RISC-V Extensions for Accelerating Sparse DNNs on FPGAs**|Muhammad Sabih et.al.|[2504.19659](http://arxiv.org/abs/2504.19659)|null|
 |**2025-04-22**|**TinyML for Speech Recognition**|Andrew Barovic et.al.|[2504.16213](http://arxiv.org/abs/2504.16213)|null|
 |**2025-04-21**|**Hybrid Knowledge Transfer through Attention and Logit Distillation for On-Device Vision Systems in Agricultural IoT**|Stanley Mugisha et.al.|[2504.16128](http://arxiv.org/abs/2504.16128)|null|
@@ -2331,6 +2344,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-29**|**OSVBench: Benchmarking LLMs on Specification Generation Tasks for Operating System Verification**|Shangyu Li et.al.|[2504.20964](http://arxiv.org/abs/2504.20964)|null|
+|**2025-04-29**|**DYNAMAX: Dynamic computing for Transformers and Mamba based architectures**|Miguel Nogales et.al.|[2504.20922](http://arxiv.org/abs/2504.20922)|null|
+|**2025-04-29**|**Relativistic ejecta from stellar mass black holes: insights from simulations and synthetic radio images**|Katie Savard et.al.|[2504.20914](http://arxiv.org/abs/2504.20914)|null|
+|**2025-04-29**|**Bayesian Optimization-based Tire Parameter and Uncertainty Estimation for Real-World Data**|Sven Goblirsch et.al.|[2504.20863](http://arxiv.org/abs/2504.20863)|null|
+|**2025-04-29**|**RadSAM: Segmenting 3D radiological images with a 2D promptable model**|Julien Khlaut et.al.|[2504.20837](http://arxiv.org/abs/2504.20837)|null|
+|**2025-04-29**|**Enhancing Non-Core Language Instruction-Following in Speech LLMs via Semi-Implicit Cross-Lingual CoT Reasoning**|Hongfei Xue et.al.|[2504.20835](http://arxiv.org/abs/2504.20835)|null|
+|**2025-04-29**|**GaussTrap: Stealthy Poisoning Attacks on 3D Gaussian Splatting for Targeted Scene Confusion**|Jiaxin Hong et.al.|[2504.20829](http://arxiv.org/abs/2504.20829)|null|
+|**2025-04-29**|**SoccerDiffusion: Toward Learning End-to-End Humanoid Robot Soccer from Gameplay Recordings**|Florian Vahl et.al.|[2504.20808](http://arxiv.org/abs/2504.20808)|null|
+|**2025-04-29**|**Approximate Lifted Model Construction**|Malte Luttermann et.al.|[2504.20784](http://arxiv.org/abs/2504.20784)|**[link](https://github.com/StatisticalRelationalAI/EpsilonAdvancedColourPassing)**|
+|**2025-04-29**|**ECOSoundSet: a finely annotated dataset for the automated acoustic identification of Orthoptera and Cicadidae in North, Central and temperate Western Europe**|David Funosas et.al.|[2504.20776](http://arxiv.org/abs/2504.20776)|null|
 |**2025-04-28**|**MP-SfM: Monocular Surface Priors for Robust Structure-from-Motion**|Zador Pataki et.al.|[2504.20040](http://arxiv.org/abs/2504.20040)|null|
 |**2025-04-28**|**AutoJudge: Judge Decoding Without Manual Annotation**|Roman Garipov et.al.|[2504.20039](http://arxiv.org/abs/2504.20039)|null|
 |**2025-04-28**|**LIRM: Large Inverse Rendering Model for Progressive Reconstruction of Shape, Materials and View-dependent Radiance Fields**|Zhengqin Li et.al.|[2504.20026](http://arxiv.org/abs/2504.20026)|null|
