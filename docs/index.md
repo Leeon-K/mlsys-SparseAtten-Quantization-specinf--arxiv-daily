@@ -7,13 +7,23 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.30
+## Updated on 2025.05.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Quantization
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-30**|**Holography and Causality in the Karch-Randall Braneworld**|Hao Geng et.al.|[2504.21856](http://arxiv.org/abs/2504.21856)|null|
+|**2025-04-30**|**TRUST: An LLM-Based Dialogue System for Trauma Understanding and Structured Assessments**|Sichang Tu et.al.|[2504.21851](http://arxiv.org/abs/2504.21851)|null|
+|**2025-04-30**|**Scalable Multi-Task Learning for Particle Collision Event Reconstruction with Heterogeneous Graph Neural Networks**|William Sutcliffe et.al.|[2504.21844](http://arxiv.org/abs/2504.21844)|null|
+|**2025-04-30**|**Parameter Inference of Black Hole Images using Deep Learning in Visibility Space**|Franc O et.al.|[2504.21840](http://arxiv.org/abs/2504.21840)|null|
+|**2025-04-30**|**Early Exit and Multi Stage Knowledge Distillation in VLMs for Video Summarization**|Anas Anwarul Haq Khan et.al.|[2504.21831](http://arxiv.org/abs/2504.21831)|null|
+|**2025-04-30**|**Easily Computed Marginal Likelihoods for Multivariate Mixture Models Using the THAMES Estimator**|Martin Metodiev et.al.|[2504.21812](http://arxiv.org/abs/2504.21812)|null|
+|**2025-04-30**|**An Empirical Study on the Effectiveness of Large Language Models for Binary Code Understanding**|Xiuwei Shang et.al.|[2504.21803](http://arxiv.org/abs/2504.21803)|null|
+|**2025-04-30**|**MAC-Tuning: LLM Multi-Compositional Problem Reasoning with Enhanced Knowledge Boundary Awareness**|Junsheng Huang et.al.|[2504.21773](http://arxiv.org/abs/2504.21773)|null|
+|**2025-04-30**|**LASHED: LLMs And Static Hardware Analysis for Early Detection of RTL Bugs**|Baleegh Ahmad et.al.|[2504.21770](http://arxiv.org/abs/2504.21770)|null|
+|**2025-04-30**|**LLM-based Interactive Imitation Learning for Robotic Manipulation**|Jonas Werner et.al.|[2504.21769](http://arxiv.org/abs/2504.21769)|null|
 |**2025-04-29**|**Toward Efficient Exploration by Large Language Model Agents**|Dilip Arumugam et.al.|[2504.20997](http://arxiv.org/abs/2504.20997)|null|
 |**2025-04-29**|**X-Fusion: Introducing New Modality to Frozen Large Language Models**|Sicheng Mo et.al.|[2504.20996](http://arxiv.org/abs/2504.20996)|null|
 |**2025-04-29**|**ACE: A Security Architecture for LLM-Integrated App Systems**|Evan Li et.al.|[2504.20984](http://arxiv.org/abs/2504.20984)|null|
@@ -1825,6 +1835,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-30**|**Low latency FPGA implementation of twisted Edward curve cryptography hardware accelerator over prime field**|Md Rownak Hossain et.al.|[2504.21342](http://arxiv.org/abs/2504.21342)|null|
 |**2025-04-28**|**Systematic Hardware Integration Testing for Smart Video-based Medical Device Prototypes**|Oliver Bause et.al.|[2504.19533](http://arxiv.org/abs/2504.19533)|null|
 |**2025-04-28**|**From Cluster to Desktop: A Cache-Accelerated INR framework for Interactive Visualization of Tera-Scale Data**|Daniel Zavorotny et.al.|[2504.18001](http://arxiv.org/abs/2504.18001)|null|
 |**2025-04-25**|**RapidPIV: Full Flow-Field kHz PIV for Real-Time Display and Control**|Scott A. Bollt et.al.|[2504.17987](http://arxiv.org/abs/2504.17987)|null|
@@ -2068,6 +2079,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-30**|**Smart Environmental Monitoring of Marine Pollution using Edge AI**|Mohamed Moursi et.al.|[2504.21759](http://arxiv.org/abs/2504.21759)|null|
+|**2025-04-27**|**Transcending Dimensions using Generative AI: Real-Time 3D Model Generation in Augmented Reality**|Majid Behravan et.al.|[2504.21033](http://arxiv.org/abs/2504.21033)|null|
 |**2025-04-29**|**DDPS: Discrete Diffusion Posterior Sampling for Paths in Layered Graphs**|Hao Luan et.al.|[2504.20754](http://arxiv.org/abs/2504.20754)|null|
 |**2025-04-29**|**CarbonCall: Sustainability-Aware Function Calling for Large Language Models on Edge Devices**|Varatheepan Paramanayakam et.al.|[2504.20348](http://arxiv.org/abs/2504.20348)|null|
 |**2025-04-27**|**Personalized Artificial General Intelligence (AGI) via Neuroscience-Inspired Continuous Learning Systems**|Rajeev Gupta et.al.|[2504.20109](http://arxiv.org/abs/2504.20109)|null|
@@ -2319,6 +2332,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-30**|**Scalable Multi-Task Learning for Particle Collision Event Reconstruction with Heterogeneous Graph Neural Networks**|William Sutcliffe et.al.|[2504.21844](http://arxiv.org/abs/2504.21844)|null|
+|**2025-04-30**|**Parameter Inference of Black Hole Images using Deep Learning in Visibility Space**|Franc O et.al.|[2504.21840](http://arxiv.org/abs/2504.21840)|null|
+|**2025-04-30**|**Early Exit and Multi Stage Knowledge Distillation in VLMs for Video Summarization**|Anas Anwarul Haq Khan et.al.|[2504.21831](http://arxiv.org/abs/2504.21831)|null|
+|**2025-04-30**|**Easily Computed Marginal Likelihoods for Multivariate Mixture Models Using the THAMES Estimator**|Martin Metodiev et.al.|[2504.21812](http://arxiv.org/abs/2504.21812)|null|
+|**2025-04-30**|**New {\em ab initio} constrained extended Skyrme equations of state for simulations of neutron stars, supernovae and binary mergers: I. Subsaturation density domain**|Adriana R. Raduta et.al.|[2504.21725](http://arxiv.org/abs/2504.21725)|null|
+|**2025-04-30**|**Assessing Racial Disparities in Healthcare Expenditures Using Causal Path-Specific Effects**|Xiaxian Ou et.al.|[2504.21688](http://arxiv.org/abs/2504.21688)|null|
+|**2025-04-30**|**Traceback of Poisoning Attacks to Retrieval-Augmented Generation**|Baolei Zhang et.al.|[2504.21668](http://arxiv.org/abs/2504.21668)|null|
+|**2025-04-30**|**AdaR1: From Long-CoT to Hybrid-CoT via Bi-Level Adaptive Reasoning Optimization**|Haotian Luo et.al.|[2504.21659](http://arxiv.org/abs/2504.21659)|null|
+|**2025-04-30**|**Convergence rate for Nearest Neighbour matching: geometry of the domain and higher-order regularity**|Simon Viel et.al.|[2504.21633](http://arxiv.org/abs/2504.21633)|null|
+|**2025-04-30**|**Robust Misinformation Detection by Visiting Potential Commonsense Conflict**|Bing Wang et.al.|[2504.21604](http://arxiv.org/abs/2504.21604)|null|
 |**2025-04-29**|**OSVBench: Benchmarking LLMs on Specification Generation Tasks for Operating System Verification**|Shangyu Li et.al.|[2504.20964](http://arxiv.org/abs/2504.20964)|null|
 |**2025-04-29**|**DYNAMAX: Dynamic computing for Transformers and Mamba based architectures**|Miguel Nogales et.al.|[2504.20922](http://arxiv.org/abs/2504.20922)|null|
 |**2025-04-29**|**Relativistic ejecta from stellar mass black holes: insights from simulations and synthetic radio images**|Katie Savard et.al.|[2504.20914](http://arxiv.org/abs/2504.20914)|null|
@@ -4104,6 +4127,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-30**|**How to Backdoor the Knowledge Distillation**|Chen Wu et.al.|[2504.21323](http://arxiv.org/abs/2504.21323)|null|
+|**2025-04-30**|**Power Flow Approximations for Multiphase Distribution Networks using Gaussian Processes**|Daniel Glover et.al.|[2504.21260](http://arxiv.org/abs/2504.21260)|null|
+|**2025-04-30**|**Data-driven operator learning for energy-efficient building control**|Yuexin Bian et.al.|[2504.21243](http://arxiv.org/abs/2504.21243)|null|
+|**2025-04-29**|**GLIP-OOD: Zero-Shot Graph OOD Detection with Foundation Model**|Haoyan Xu et.al.|[2504.21186](http://arxiv.org/abs/2504.21186)|null|
+|**2025-04-28**|**Automated Generation of Precedence Graphs in Digital Value Chains for Automotive Production**|Cornelius Hake et.al.|[2504.19835](http://arxiv.org/abs/2504.19835)|null|
 |**2025-04-28**|**Model-based controller assisted domain randomization in deep reinforcement learning: application to nonlinear powertrain control**|Heisei Yonezawa et.al.|[2504.19715](http://arxiv.org/abs/2504.19715)|null|
 |**2025-04-28**|**Negative Imaginary Neural ODEs: Learning to Control Mechanical Systems with Stability Guarantees**|Kanghong Shi et.al.|[2504.19497](http://arxiv.org/abs/2504.19497)|null|
 |**2025-04-27**|**HyperController: A Hyperparameter Controller for Fast and Stable Training of Reinforcement Learning Neural Networks**|Jonathan Gornet et.al.|[2504.19382](http://arxiv.org/abs/2504.19382)|null|
