@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.12
+## Updated on 2025.05.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -25,6 +25,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-12**|**DanceGRPO: Unleashing GRPO on Visual Generation**|Zeyue Xue et.al.|[2505.07818](http://arxiv.org/abs/2505.07818)|null|
+|**2025-05-12**|**Continuous Visual Autoregressive Generation via Score Maximization**|Chenze Shao et.al.|[2505.07812](http://arxiv.org/abs/2505.07812)|null|
+|**2025-05-12**|**Improving Trajectory Stitching with Flow Models**|Reece O'Mahoney et.al.|[2505.07802](http://arxiv.org/abs/2505.07802)|null|
+|**2025-05-12**|**Overflow Prevention Enhances Long-Context Recurrent LLMs**|Assaf Ben-Kish et.al.|[2505.07793](http://arxiv.org/abs/2505.07793)|null|
+|**2025-05-12**|**Emerging (2+1)D electrodynamics and topological instanton in pseudo-Hermitian two-level systems**|Kuangyin Deng et.al.|[2505.07791](http://arxiv.org/abs/2505.07791)|null|
+|**2025-05-12**|**Learning from Peers in Reasoning Models**|Tongxu Luo et.al.|[2505.07787](http://arxiv.org/abs/2505.07787)|null|
+|**2025-05-12**|**Conditions for accretion favoring an unmelted Callisto and a differentiated Ganymede**|Yannis Bennacer et.al.|[2505.07785](http://arxiv.org/abs/2505.07785)|null|
+|**2025-05-12**|**Domain Regeneration: How well do LLMs match syntactic properties of text domains?**|Da Ju et.al.|[2505.07784](http://arxiv.org/abs/2505.07784)|null|
+|**2025-05-12**|**Relative Overfitting and Accept-Reject Framework**|Yanxin Liu et.al.|[2505.07783](http://arxiv.org/abs/2505.07783)|null|
+|**2025-05-12**|**MLE-Dojo: Interactive Environments for Empowering LLM Agents in Machine Learning Engineering**|Rushi Qiang et.al.|[2505.07782](http://arxiv.org/abs/2505.07782)|null|
 |**2025-05-09**|**Derivations and Hochschild cohomology of quantum nilpotent algebras**|Stéphane Launois et.al.|[2505.06205](http://arxiv.org/abs/2505.06205)|null|
 |**2025-05-09**|**Beyond the Mean: Limit Theory and Tests for Infinite-Mean Autoregressive Conditional Durations**|Giuseppe Cavaliere et.al.|[2505.06190](http://arxiv.org/abs/2505.06190)|null|
 |**2025-05-09**|**From Millions of Tweets to Actionable Insights: Leveraging LLMs for User Profiling**|Vahid Rahimzadeh et.al.|[2505.06184](http://arxiv.org/abs/2505.06184)|null|
@@ -1896,7 +1906,7 @@
 |**2024-07-11**|**Q-GaLore: Quantized GaLore with INT4 Projection and Layer-Adaptive Low-Rank Gradients**|Zhenyu Zhang et.al.|[2407.08296](http://arxiv.org/abs/2407.08296)|**[link](https://github.com/VITA-Group/Q-GaLore)**|
 |**2024-07-10**|**RoLoRA: Fine-tuning Rotated Outlier-free LLMs for Effective Weight-Activation Quantization**|Xijie Huang et.al.|[2407.08044](http://arxiv.org/abs/2407.08044)|**[link](https://github.com/huangowen/rolora)**|
 
-<p align=right>(<a href=#updated-on-20250512>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250513>back to top</a>)</p>
 
 ## Pruning
 
@@ -1914,12 +1924,13 @@
 |**2024-07-16**|**MINI-LLM: Memory-Efficient Structured Pruning for Large Language Models**|Hongrong Cheng et.al.|[2407.11681](http://arxiv.org/abs/2407.11681)|null|
 |**2024-07-15**|**DDFAD: Dataset Distillation Framework for Audio Data**|Wenbo Jiang et.al.|[2407.10446](http://arxiv.org/abs/2407.10446)|null|
 
-<p align=right>(<a href=#updated-on-20250512>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250513>back to top</a>)</p>
 
 ## Hardware-Software Co-Design
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-10**|**JaxRobotarium: Training and Deploying Multi-Robot Policies in 10 Minutes**|Shalin Anand Jain et.al.|[2505.06771](http://arxiv.org/abs/2505.06771)|null|
 |**2025-05-07**|**Edge-GPU Based Face Tracking for Face Detection and Recognition Acceleration**|Asma Baobaid et.al.|[2505.04524](http://arxiv.org/abs/2505.04524)|null|
 |**2025-05-08**|**In-Situ Hardware Error Detection Using Specification-Derived Petri Net Models and Behavior-Derived State Sequences**|Tomonari Tanaka et.al.|[2505.04108](http://arxiv.org/abs/2505.04108)|null|
 |**2025-05-08**|**Carbon Aware Transformers Through Joint Model-Hardware Optimization**|Irene Wang et.al.|[2505.01386](http://arxiv.org/abs/2505.01386)|**[link](https://github.com/facebookresearch/catransformers)**|
@@ -1928,7 +1939,7 @@
 |**2025-04-28**|**Systematic Hardware Integration Testing for Smart Video-based Medical Device Prototypes**|Oliver Bause et.al.|[2504.19533](http://arxiv.org/abs/2504.19533)|null|
 |**2025-04-28**|**From Cluster to Desktop: A Cache-Accelerated INR framework for Interactive Visualization of Tera-Scale Data**|Daniel Zavorotny et.al.|[2504.18001](http://arxiv.org/abs/2504.18001)|null|
 |**2025-04-25**|**RapidPIV: Full Flow-Field kHz PIV for Real-Time Display and Control**|Scott A. Bollt et.al.|[2504.17987](http://arxiv.org/abs/2504.17987)|null|
-|**2025-04-24**|**ApproXAI: Energy-Efficient Hardware Acceleration of Explainable AI using Approximate Computing**|Ayesha Siddique et.al.|[2504.17929](http://arxiv.org/abs/2504.17929)|null|
+|**2025-05-12**|**ApproXAI: Energy-Efficient Hardware Acceleration of Explainable AI using Approximate Computing**|Ayesha Siddique et.al.|[2504.17929](http://arxiv.org/abs/2504.17929)|null|
 |**2025-04-24**|**Energy Considerations of Large Language Model Inference and Efficiency Optimizations**|Jared Fernandez et.al.|[2504.17674](http://arxiv.org/abs/2504.17674)|null|
 |**2025-04-24**|**On-Device Qwen2.5: Efficient LLM Inference with Model Compression and Hardware Acceleration**|Maoyang Xiang et.al.|[2504.17376](http://arxiv.org/abs/2504.17376)|null|
 |**2025-04-24**|**Fine-Grained Fusion: The Missing Piece in Area-Efficient State Space Model Acceleration**|Robin Geens et.al.|[2504.17333](http://arxiv.org/abs/2504.17333)|null|
@@ -2164,12 +2175,15 @@
 |**2024-07-12**|**68-Channel Highly-Integrated Neural Signal Processing PSoC with On-Chip Feature Extraction, Compression, and Hardware Accelerators for Neuroprosthetics in 22nm FDSOI**|Liyuan Guo et.al.|[2407.09166](http://arxiv.org/abs/2407.09166)|null|
 |**2024-07-12**|**Hybrid Temporal Computing for Lower Power Hardware Accelerators**|Maliha Tasnim et.al.|[2407.08975](http://arxiv.org/abs/2407.08975)|null|
 
-<p align=right>(<a href=#updated-on-20250512>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250513>back to top</a>)</p>
 
 ## TinyML
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-12**|**Privacy-Preserving Real-Time Vietnamese-English Translation on iOS using Edge AI**|Cong Le et.al.|[2505.07583](http://arxiv.org/abs/2505.07583)|null|
+|**2025-05-12**|**Empowering the Grid: Collaborative Edge Artificial Intelligence for Decentralized Energy Systems**|Eddie de Paula Jr et.al.|[2505.07170](http://arxiv.org/abs/2505.07170)|null|
+|**2025-05-09**|**Sigma-Delta Neural Network Conversion on Loihi 2**|Matthew Brehove et.al.|[2505.06417](http://arxiv.org/abs/2505.06417)|null|
 |**2025-05-08**|**DPQ-HD: Post-Training Compression for Ultra-Low Power Hyperdimensional Computing**|Nilesh Prasad Pandey et.al.|[2505.05413](http://arxiv.org/abs/2505.05413)|null|
 |**2025-05-08**|**Demonstrating ViSafe: Vision-enabled Safety for High-speed Detect and Avoid**|Parv Kapoor et.al.|[2505.03694](http://arxiv.org/abs/2505.03694)|null|
 |**2025-05-06**|**Edge Large AI Models: Collaborative Deployment and IoT Applications**|Zixin Wang et.al.|[2505.03139](http://arxiv.org/abs/2505.03139)|null|
@@ -2356,7 +2370,7 @@
 |**2024-07-13**|**Characterizing Disparity Between Edge Models and High-Accuracy Base Models for Vision Tasks**|Zhenyu Wang et.al.|[2407.10016](http://arxiv.org/abs/2407.10016)|null|
 |**2024-07-11**|**Towards Efficient Deployment of Hybrid SNNs on Neuromorphic and Edge AI Hardware**|James Seekings et.al.|[2407.08704](http://arxiv.org/abs/2407.08704)|null|
 
-<p align=right>(<a href=#updated-on-20250512>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250513>back to top</a>)</p>
 
 ## Domain Specific Accelerator
 
@@ -2374,7 +2388,7 @@
 |**2024-06-05**|**HASS: Hardware-Aware Sparsity Search for Dataflow DNN Accelerator**|Zhewen Yu et.al.|[2406.03088](http://arxiv.org/abs/2406.03088)|**[link](https://github.com/yu-zhewen/hass)**|
 |**2024-06-03**|**A 0.96pJ/SOP, 30.23K-neuron/mm^2 Heterogeneous Neuromorphic Chip With Fullerene-like Interconnection Topology for Edge-AI Computing**|P. J. Zhou et.al.|[2406.01151](http://arxiv.org/abs/2406.01151)|null|
 
-<p align=right>(<a href=#updated-on-20250512>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250513>back to top</a>)</p>
 
 ## Low-Rank Adaptation
 
@@ -2400,7 +2414,7 @@
 |**2024-07-21**|**Learn to Preserve and Diversify: Parameter-Efficient Group with Orthogonal Regularization for Domain Generalization**|Jiajun Hu et.al.|[2407.15085](http://arxiv.org/abs/2407.15085)|**[link](https://github.com/JudgingH/PEGO)**|
 |**2024-07-21**|**MedSAGa: Few-shot Memory Efficient Medical Image Segmentation using Gradient Low-Rank Projection in SAM**|Navyansh Mahla et.al.|[2407.15042](http://arxiv.org/abs/2407.15042)|null|
 
-<p align=right>(<a href=#updated-on-20250512>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250513>back to top</a>)</p>
 
 ## Model Compression
 
@@ -2430,12 +2444,22 @@
 |**2024-07-23**|**OriGen:Enhancing RTL Code Generation with Code-to-Code Augmentation and Self-Reflection**|Fan Cui et.al.|[2407.16237](http://arxiv.org/abs/2407.16237)|**[link](https://github.com/pku-liang/origen)**|
 |**2024-07-23**|**DDK: Distilling Domain Knowledge for Efficient Large Language Models**|Jiaheng Liu et.al.|[2407.16154](http://arxiv.org/abs/2407.16154)|null|
 
-<p align=right>(<a href=#updated-on-20250512>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250513>back to top</a>)</p>
 
 ## Long-context
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-12**|**DanceGRPO: Unleashing GRPO on Visual Generation**|Zeyue Xue et.al.|[2505.07818](http://arxiv.org/abs/2505.07818)|null|
+|**2025-05-12**|**Improving Trajectory Stitching with Flow Models**|Reece O'Mahoney et.al.|[2505.07802](http://arxiv.org/abs/2505.07802)|null|
+|**2025-05-12**|**Overflow Prevention Enhances Long-Context Recurrent LLMs**|Assaf Ben-Kish et.al.|[2505.07793](http://arxiv.org/abs/2505.07793)|null|
+|**2025-05-12**|**Learning from Peers in Reasoning Models**|Tongxu Luo et.al.|[2505.07787](http://arxiv.org/abs/2505.07787)|null|
+|**2025-05-12**|**Conditions for accretion favoring an unmelted Callisto and a differentiated Ganymede**|Yannis Bennacer et.al.|[2505.07785](http://arxiv.org/abs/2505.07785)|null|
+|**2025-05-12**|**Relative Overfitting and Accept-Reject Framework**|Yanxin Liu et.al.|[2505.07783](http://arxiv.org/abs/2505.07783)|null|
+|**2025-05-12**|**Naturalistic Metaphysics and the Parity Thesis: Why Scientific Realism Doesn't Lead to Realism about Metaphysics**|Raoni Arroyo et.al.|[2505.07751](http://arxiv.org/abs/2505.07751)|null|
+|**2025-05-12**|**Reproducibility, Replicability, and Insights into Visual Document Retrieval with Late Interaction**|Jingfen Qiao et.al.|[2505.07730](http://arxiv.org/abs/2505.07730)|null|
+|**2025-05-12**|**Nonparametric Instrumental Variable Inference with Many Weak Instruments**|Lars van der Laan et.al.|[2505.07729](http://arxiv.org/abs/2505.07729)|null|
+|**2025-05-12**|**Gameplay Highlights Generation**|Vignesh Edithal et.al.|[2505.07721](http://arxiv.org/abs/2505.07721)|null|
 |**2025-05-09**|**Beyond the Mean: Limit Theory and Tests for Infinite-Mean Autoregressive Conditional Durations**|Giuseppe Cavaliere et.al.|[2505.06190](http://arxiv.org/abs/2505.06190)|null|
 |**2025-05-09**|**Turbo-ICL: In-Context Learning-Based Turbo Equalization**|Zihang Song et.al.|[2505.06175](http://arxiv.org/abs/2505.06175)|null|
 |**2025-05-09**|**Interaction-Aware Parameter Privacy-Preserving Data Sharing in Coupled Systems via Particle Filter Reinforcement Learning**|Haokun Yu et.al.|[2505.06122](http://arxiv.org/abs/2505.06122)|null|
@@ -4297,14 +4321,22 @@
 |**2024-07-30**|**Exocomet orbital distribution around $β$ Pictoris**|René Heller et.al.|[2407.20829](http://arxiv.org/abs/2407.20829)|null|
 |**2024-07-30**|**Design and inference for multi-arm clinical trials with informational borrowing: the interacting urns design**|Giacomo Aletti et.al.|[2407.20819](http://arxiv.org/abs/2407.20819)|null|
 
-<p align=right>(<a href=#updated-on-20250512>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250513>back to top</a>)</p>
 
 ## MLSYS
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-12**|**DexWild: Dexterous Human Interactions for In-the-Wild Robot Policies**|Tony Tao et.al.|[2505.07813](http://arxiv.org/abs/2505.07813)|null|
+|**2025-05-12**|**Multi-Objective Reinforcement Learning for Energy-Efficient Industrial Control**|Georg Schäfer et.al.|[2505.07607](http://arxiv.org/abs/2505.07607)|null|
+|**2025-05-12**|**Finite-Sample-Based Reachability for Safe Control with Gaussian Process Dynamics**|Manish Prajapat et.al.|[2505.07594](http://arxiv.org/abs/2505.07594)|null|
+|**2025-05-12**|**Interpretable Event Diagnosis in Water Distribution Networks**|André Artelt et.al.|[2505.07299](http://arxiv.org/abs/2505.07299)|null|
+|**2025-05-12**|**HuB: Learning Extreme Humanoid Balance**|Tong Zhang et.al.|[2505.07294](http://arxiv.org/abs/2505.07294)|null|
+|**2025-05-11**|**YANNs: Y-wise Affine Neural Networks for Exact and Efficient Representations of Piecewise Linear Functions**|Austin Braniff et.al.|[2505.07054](http://arxiv.org/abs/2505.07054)|null|
+|**2025-05-11**|**Realistic Counterfactual Explanations for Machine Learning-Controlled Mobile Robots using 2D LiDAR**|Sindre Benjamin Remman et.al.|[2505.06906](http://arxiv.org/abs/2505.06906)|null|
+|**2025-05-10**|**A Survey on Data-Driven Modeling of Human Drivers' Lane-Changing Decisions**|Linxuan Huang et.al.|[2505.06680](http://arxiv.org/abs/2505.06680)|null|
 |**2025-05-09**|**Leveraging Multi-Task Learning for Multi-Label Power System Security Assessment**|Muhy Eddin Za'ter et.al.|[2505.06207](http://arxiv.org/abs/2505.06207)|null|
-|**2025-05-08**|**Learning to Drive Anywhere with Model-Based Reannotation11**|Noriaki Hirose et.al.|[2505.05592](http://arxiv.org/abs/2505.05592)|null|
+|**2025-05-12**|**Learning to Drive Anywhere with Model-Based Reannotation**|Noriaki Hirose et.al.|[2505.05592](http://arxiv.org/abs/2505.05592)|null|
 |**2025-05-08**|**Learning Linearized Models from Nonlinear Systems under Initialization Constraints with Finite Data**|Lei Xin et.al.|[2505.04954](http://arxiv.org/abs/2505.04954)|null|
 |**2025-05-05**|**Robustly Invertible Nonlinear Dynamics and the BiLipREN: Contracting Neural Models with Contracting Inverses**|Yurui Zhang et.al.|[2505.03069](http://arxiv.org/abs/2505.03069)|null|
 |**2025-05-02**|**A Computational Model of Inclusive Pedagogy: From Understanding to Application**|Francesco Balzan et.al.|[2505.02853](http://arxiv.org/abs/2505.02853)|null|
@@ -4971,7 +5003,7 @@
 |**2024-07-24**|**Deep Koopman-based Control of Quality Variation in Multistage Manufacturing Systems**|Zhiyi Chen et.al.|[2407.16933](http://arxiv.org/abs/2407.16933)|null|
 |**2024-07-23**|**Implementing engrams from a machine learning perspective: the relevance of a latent space**|J Marco de Lucas et.al.|[2407.16616](http://arxiv.org/abs/2407.16616)|null|
 
-<p align=right>(<a href=#updated-on-20250512>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250513>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
