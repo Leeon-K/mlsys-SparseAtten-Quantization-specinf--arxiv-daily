@@ -16,11 +16,11 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-05-29**|**From Chat Logs to Collective Insights: Aggregative Question Answering**|Wentao Zhang et.al.|[2505.23765](http://arxiv.org/abs/2505.23765)|null|
 |**2025-05-29**|**Sketch Down the FLOPs: Towards Efficient Networks for Human Sketch**|Aneeshan Sain et.al.|[2505.23763](http://arxiv.org/abs/2505.23763)|null|
-|**2025-05-29**|**DeepTheorem: Advancing LLM Reasoning for Theorem Proving Through Natural Language and Reinforcement Learning**|Ziyin Zhang et.al.|[2505.23754](http://arxiv.org/abs/2505.23754)|null|
-|**2025-05-29**|**ThinkGeo: Evaluating Tool-Augmented Agents for Remote Sensing Tasks**|Akashah Shabbir et.al.|[2505.23752](http://arxiv.org/abs/2505.23752)|null|
+|**2025-05-29**|**DeepTheorem: Advancing LLM Reasoning for Theorem Proving Through Natural Language and Reinforcement Learning**|Ziyin Zhang et.al.|[2505.23754](http://arxiv.org/abs/2505.23754)|**[link](https://github.com/jiahao004/deeptheorem)**|
+|**2025-05-29**|**ThinkGeo: Evaluating Tool-Augmented Agents for Remote Sensing Tasks**|Akashah Shabbir et.al.|[2505.23752](http://arxiv.org/abs/2505.23752)|**[link](https://github.com/mbzuai-oryx/thinkgeo)**|
 |**2025-05-29**|**Spatial-MLLM: Boosting MLLM Capabilities in Visual-based Spatial Intelligence**|Diankun Wu et.al.|[2505.23747](http://arxiv.org/abs/2505.23747)|null|
 |**2025-05-29**|**Comparative of Genetic Fuzzy regression techniques for aeroacoustic phenomenons**|Hugo Henry et.al.|[2505.23746](http://arxiv.org/abs/2505.23746)|null|
-|**2025-05-29**|**MAGREF: Masked Guidance for Any-Reference Video Generation**|Yufan Deng et.al.|[2505.23742](http://arxiv.org/abs/2505.23742)|null|
+|**2025-05-29**|**MAGREF: Masked Guidance for Any-Reference Video Generation**|Yufan Deng et.al.|[2505.23742](http://arxiv.org/abs/2505.23742)|**[link](https://github.com/magref-video/magref)**|
 |**2025-05-29**|**ZPressor: Bottleneck-Aware Compression for Scalable Feed-Forward 3DGS**|Weijie Wang et.al.|[2505.23734](http://arxiv.org/abs/2505.23734)|**[link](https://github.com/ziplab/ZPressor)**|
 |**2025-05-29**|**Bounded Rationality for LLMs: Satisficing Alignment at Inference-Time**|Mohamad Chehade et.al.|[2505.23729](http://arxiv.org/abs/2505.23729)|null|
 |**2025-05-29**|**MuLoCo: Muon is a practical inner optimizer for DiLoCo**|Benjamin Thérien et.al.|[2505.23725](http://arxiv.org/abs/2505.23725)|null|
@@ -2047,7 +2047,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-05-28**|**GPU-Accelerated Simulated Oscillator Ising/Potts Machine Solving Combinatorial Optimization Problems**|Yilmaz Ege Gonul et.al.|[2505.22631](http://arxiv.org/abs/2505.22631)|null|
 |**2025-05-28**|**Refining Datapath for Microscaling ViTs**|Can Xiao et.al.|[2505.22194](http://arxiv.org/abs/2505.22194)|null|
-|**2025-05-27**|**KPerfIR: Towards an Open and Compiler-centric Ecosystem for GPU Kernel Performance Tooling on Modern AI Workloads**|Yue Guan et.al.|[2505.21661](http://arxiv.org/abs/2505.21661)|null|
+|**2025-05-27**|**KPerfIR: Towards an Open and Compiler-centric Ecosystem for GPU Kernel Performance Tooling on Modern AI Workloads**|Yue Guan et.al.|[2505.21661](http://arxiv.org/abs/2505.21661)|**[link](https://github.com/triton-lang/triton)**|
 |**2025-05-27**|**FCOS: A Two-Stage Recoverable Model Pruning Framework for Automatic Modulation Recognition**|Yao Lu et.al.|[2505.21571](http://arxiv.org/abs/2505.21571)|null|
 |**2025-05-27**|**Static Communication Analysis for Hardware Design**|Mads Rosendahl et.al.|[2505.20849](http://arxiv.org/abs/2505.20849)|null|
 |**2025-05-24**|**Autocomp: LLM-Driven Code Optimization for Tensor Accelerators**|Charles Hong et.al.|[2505.18574](http://arxiv.org/abs/2505.18574)|null|
@@ -2313,7 +2313,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-05-27**|**Making Every Event Count: Balancing Data Efficiency and Accuracy in Event Camera Subsampling**|Hesam Araghi et.al.|[2505.21187](http://arxiv.org/abs/2505.21187)|null|
-|**2025-05-26**|**Optimizing edge AI models on HPC systems with the edge in the loop**|Marcel Aach et.al.|[2505.19995](http://arxiv.org/abs/2505.19995)|null|
+|**2025-05-26**|**Optimizing edge AI models on HPC systems with the edge in the loop**|Marcel Aach et.al.|[2505.19995](http://arxiv.org/abs/2505.19995)|**[link](https://github.com/flanders-make-vzw/hpc2edge)**|
 |**2025-05-25**|**PosePilot: An Edge-AI Solution for Posture Correction in Physical Exercises**|Rushiraj Gadhvi et.al.|[2505.19186](http://arxiv.org/abs/2505.19186)|null|
 |**2025-05-24**|**Reinforcement Fine-Tuning Powers Reasoning Capability of Multimodal Large Language Models**|Haoyuan Sun et.al.|[2505.18536](http://arxiv.org/abs/2505.18536)|**[link](https://github.com/sun-haoyuan23/awesome-rl-based-reasoning-mllms)**|
 |**2025-05-13**|**Constrained Edge AI Deployment: Fine-Tuning vs Distillation for LLM Compression**|Jacob Sander et.al.|[2505.18166](http://arxiv.org/abs/2505.18166)|null|
@@ -2588,14 +2588,14 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-05-29**|**Sketch Down the FLOPs: Towards Efficient Networks for Human Sketch**|Aneeshan Sain et.al.|[2505.23763](http://arxiv.org/abs/2505.23763)|null|
-|**2025-05-29**|**DeepTheorem: Advancing LLM Reasoning for Theorem Proving Through Natural Language and Reinforcement Learning**|Ziyin Zhang et.al.|[2505.23754](http://arxiv.org/abs/2505.23754)|null|
+|**2025-05-29**|**DeepTheorem: Advancing LLM Reasoning for Theorem Proving Through Natural Language and Reinforcement Learning**|Ziyin Zhang et.al.|[2505.23754](http://arxiv.org/abs/2505.23754)|**[link](https://github.com/jiahao004/deeptheorem)**|
 |**2025-05-29**|**Spatial-MLLM: Boosting MLLM Capabilities in Visual-based Spatial Intelligence**|Diankun Wu et.al.|[2505.23747](http://arxiv.org/abs/2505.23747)|null|
 |**2025-05-29**|**Comparative of Genetic Fuzzy regression techniques for aeroacoustic phenomenons**|Hugo Henry et.al.|[2505.23746](http://arxiv.org/abs/2505.23746)|null|
-|**2025-05-29**|**MAGREF: Masked Guidance for Any-Reference Video Generation**|Yufan Deng et.al.|[2505.23742](http://arxiv.org/abs/2505.23742)|null|
+|**2025-05-29**|**MAGREF: Masked Guidance for Any-Reference Video Generation**|Yufan Deng et.al.|[2505.23742](http://arxiv.org/abs/2505.23742)|**[link](https://github.com/magref-video/magref)**|
 |**2025-05-29**|**ATLAS: Learning to Optimally Memorize the Context at Test Time**|Ali Behrouz et.al.|[2505.23735](http://arxiv.org/abs/2505.23735)|null|
 |**2025-05-29**|**ZPressor: Bottleneck-Aware Compression for Scalable Feed-Forward 3DGS**|Weijie Wang et.al.|[2505.23734](http://arxiv.org/abs/2505.23734)|**[link](https://github.com/ziplab/ZPressor)**|
 |**2025-05-29**|**Bounded Rationality for LLMs: Satisficing Alignment at Inference-Time**|Mohamad Chehade et.al.|[2505.23729](http://arxiv.org/abs/2505.23729)|null|
-|**2025-05-29**|**SocialMaze: A Benchmark for Evaluating Social Reasoning in Large Language Models**|Zixiang Xu et.al.|[2505.23713](http://arxiv.org/abs/2505.23713)|null|
+|**2025-05-29**|**SocialMaze: A Benchmark for Evaluating Social Reasoning in Large Language Models**|Zixiang Xu et.al.|[2505.23713](http://arxiv.org/abs/2505.23713)|**[link](https://github.com/xzx34/socialmaze)**|
 |**2025-05-29**|**Knowledge Insulating Vision-Language-Action Models: Train Fast, Run Fast, Generalize Better**|Danny Driess et.al.|[2505.23705](http://arxiv.org/abs/2505.23705)|null|
 |**2025-05-28**|**Training Free Stylized Abstraction**|Aimon Rahman et.al.|[2505.22663](http://arxiv.org/abs/2505.22663)|null|
 |**2025-05-28**|**AutoL2S: Auto Long-Short Reasoning for Efficient Large Language Models**|Feng Luo et.al.|[2505.22662](http://arxiv.org/abs/2505.22662)|null|
@@ -4593,14 +4593,14 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-05-29**|**Network Inversion for Uncertainty-Aware Out-of-Distribution Detection**|Pirzada Suhail et.al.|[2505.23448](http://arxiv.org/abs/2505.23448)|null|
-|**2025-05-29**|**LADA: Scalable Label-Specific CLIP Adapter for Continual Learning**|Mao-Lin Luo et.al.|[2505.23271](http://arxiv.org/abs/2505.23271)|null|
+|**2025-05-29**|**LADA: Scalable Label-Specific CLIP Adapter for Continual Learning**|Mao-Lin Luo et.al.|[2505.23271](http://arxiv.org/abs/2505.23271)|**[link](https://github.com/maolinluo/lada)**|
 |**2025-05-28**|**A Physics-Informed Learning Framework to Solve the Infinite-Horizon Optimal Control Problem**|Filippos Fotiadis et.al.|[2505.21842](http://arxiv.org/abs/2505.21842)|null|
 |**2025-05-27**|**Multi-Mode Process Control Using Multi-Task Inverse Reinforcement Learning**|Runze Lin et.al.|[2505.21026](http://arxiv.org/abs/2505.21026)|null|
 |**2025-05-27**|**Efficient Spectral Control of Partially Observed Linear Dynamical Systems**|Anand Brahmbhatt et.al.|[2505.20943](http://arxiv.org/abs/2505.20943)|null|
 |**2025-05-27**|**Practical estimation of the optimal classification error with soft labels and calibration**|Ryota Ushio et.al.|[2505.20761](http://arxiv.org/abs/2505.20761)|null|
 |**2025-05-26**|**Algorithmic Control Improves Residential Building Energy and EV Management when PV Capacity is High but Battery Capacity is Low**|Lennart Ullner et.al.|[2505.20377](http://arxiv.org/abs/2505.20377)|null|
 |**2025-05-26**|**Learning mechanical systems from real-world data using discrete forced Lagrangian dynamics**|Martine Dyring Hansen et.al.|[2505.20370](http://arxiv.org/abs/2505.20370)|null|
-|**2025-05-26**|**Synthetic Time Series Forecasting with Transformer Architectures: Extensive Simulation Benchmarks**|Ali Forootani et.al.|[2505.20048](http://arxiv.org/abs/2505.20048)|null|
+|**2025-05-26**|**Synthetic Time Series Forecasting with Transformer Architectures: Extensive Simulation Benchmarks**|Ali Forootani et.al.|[2505.20048](http://arxiv.org/abs/2505.20048)|**[link](https://github.com/ali-forootani/compactformer)**|
 |**2025-05-26**|**Learning Dynamics under Environmental Constraints via Measurement-Induced Bundle Structures**|Dongzhe Zheng et.al.|[2505.19521](http://arxiv.org/abs/2505.19521)|null|
 |**2025-05-26**|**Toward Physics-Informed Machine Learning for Data Center Operations: A Tropical Case Study**|Ruihang Wang et.al.|[2505.19414](http://arxiv.org/abs/2505.19414)|null|
 |**2025-05-26**|**Alignment of large language models with constrained learning**|Botong Zhang et.al.|[2505.19387](http://arxiv.org/abs/2505.19387)|null|
