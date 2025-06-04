@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-03**|**UniWorld: High-Resolution Semantic Encoders for Unified Visual Understanding and Generation**|Bin Lin et.al.|[2506.03147](http://arxiv.org/abs/2506.03147)|null|
+|**2025-06-03**|**Entity-Augmented Neuroscience Knowledge Retrieval Using Ontology and Semantic Understanding Capability of LLM**|Pralaypati Ta et.al.|[2506.03145](http://arxiv.org/abs/2506.03145)|null|
+|**2025-06-03**|**Not All Tokens Are Meant to Be Forgotten**|Xiangyu Zhou et.al.|[2506.03142](http://arxiv.org/abs/2506.03142)|null|
+|**2025-06-03**|**SVGenius: Benchmarking LLMs in SVG Understanding, Editing and Generation**|Siqi Chen et.al.|[2506.03139](http://arxiv.org/abs/2506.03139)|null|
+|**2025-06-03**|**Co-Evolving LLM Coder and Unit Tester via Reinforcement Learning**|Yinjie Wang et.al.|[2506.03136](http://arxiv.org/abs/2506.03136)|null|
+|**2025-06-03**|**Native-Resolution Image Synthesis**|Zidong Wang et.al.|[2506.03131](http://arxiv.org/abs/2506.03131)|null|
+|**2025-06-03**|**AUTOCIRCUIT-RL: Reinforcement Learning-Driven LLM for Automated Circuit Topology Generation**|Prashanth Vijayaraghavan et.al.|[2506.03122](http://arxiv.org/abs/2506.03122)|null|
+|**2025-06-03**|**Rectified Flows for Fast Multiscale Fluid Flow Modeling**|Victor Armegioiu et.al.|[2506.03111](http://arxiv.org/abs/2506.03111)|null|
+|**2025-06-03**|**Critique-GRPO: Advancing LLM Reasoning with Natural Language and Numerical Feedback**|Xiaoying Zhang et.al.|[2506.03106](http://arxiv.org/abs/2506.03106)|null|
+|**2025-06-03**|**Retrieval-Augmented Generation as Noisy In-Context Learning: A Unified Theory and Risk Bounds**|Yang Guo et.al.|[2506.03100](http://arxiv.org/abs/2506.03100)|null|
 |**2025-05-30**|**Open CaptchaWorld: A Comprehensive Web-based Platform for Testing and Benchmarking Multimodal LLM Agents**|Yaxin Luo et.al.|[2505.24878](http://arxiv.org/abs/2505.24878)|null|
 |**2025-05-30**|**MiniMax-Remover: Taming Bad Noise Helps Video Object Removal**|Bojia Zi et.al.|[2505.24873](http://arxiv.org/abs/2505.24873)|null|
 |**2025-05-30**|**ProxyThinker: Test-Time Guidance through Small Visual Reasoners**|Zilin Xiao et.al.|[2505.24872](http://arxiv.org/abs/2505.24872)|null|
@@ -2055,6 +2065,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-03**|**CLONE: Customizing LLMs for Efficient Latency-Aware Inference at the Edge**|Chunlin Tian et.al.|[2506.02847](http://arxiv.org/abs/2506.02847)|null|
+|**2025-06-02**|**FlexiSAGA: A Flexible Systolic Array GEMM Accelerator for Sparse and Dense Processing**|Mika Markus Müller et.al.|[2506.01566](http://arxiv.org/abs/2506.01566)|null|
+|**2025-06-01**|**Towards Edge-Based Idle State Detection in Construction Machinery Using Surveillance Cameras**|Xander Küpers et.al.|[2506.00904](http://arxiv.org/abs/2506.00904)|null|
+|**2025-05-31**|**COGNATE: Acceleration of Sparse Tensor Programs on Emerging Hardware using Transfer Learning**|Chamika Sudusinghe et.al.|[2506.00424](http://arxiv.org/abs/2506.00424)|null|
 |**2025-05-29**|**TSENOR: Highly-Efficient Algorithm for Finding Transposable N:M Sparse Masks**|Xiang Meng et.al.|[2505.23949](http://arxiv.org/abs/2505.23949)|null|
 |**2025-05-28**|**GPU-Accelerated Simulated Oscillator Ising/Potts Machine Solving Combinatorial Optimization Problems**|Yilmaz Ege Gonul et.al.|[2505.22631](http://arxiv.org/abs/2505.22631)|null|
 |**2025-05-28**|**Refining Datapath for Microscaling ViTs**|Can Xiao et.al.|[2505.22194](http://arxiv.org/abs/2505.22194)|null|
@@ -2323,6 +2337,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-02**|**Composable Building Blocks for Controllable and Transparent Interactive AI Systems**|Sebe Vanbrabant et.al.|[2506.02262](http://arxiv.org/abs/2506.02262)|null|
+|**2025-06-01**|**VUSA: Virtually Upscaled Systolic Array Architecture to Exploit Unstructured Sparsity in AI Acceleration**|Shereef Helal et.al.|[2506.01166](http://arxiv.org/abs/2506.01166)|null|
 |**2025-05-30**|**Towards a unified user modeling language for engineering human centered AI systems**|Aaron Conrardy et.al.|[2505.24697](http://arxiv.org/abs/2505.24697)|null|
 |**2025-05-30**|**INSIGHT: A Survey of In-Network Systems for Intelligent, High-Efficiency AI and Topology Optimization**|Aleksandr Algazinov et.al.|[2505.24269](http://arxiv.org/abs/2505.24269)|null|
 |**2025-05-27**|**Making Every Event Count: Balancing Data Efficiency and Accuracy in Event Camera Subsampling**|Hesam Araghi et.al.|[2505.21187](http://arxiv.org/abs/2505.21187)|null|
@@ -2600,6 +2616,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-03**|**UniWorld: High-Resolution Semantic Encoders for Unified Visual Understanding and Generation**|Bin Lin et.al.|[2506.03147](http://arxiv.org/abs/2506.03147)|null|
+|**2025-06-03**|**Co-Evolving LLM Coder and Unit Tester via Reinforcement Learning**|Yinjie Wang et.al.|[2506.03136](http://arxiv.org/abs/2506.03136)|null|
+|**2025-06-03**|**Rectified Flows for Fast Multiscale Fluid Flow Modeling**|Victor Armegioiu et.al.|[2506.03111](http://arxiv.org/abs/2506.03111)|null|
+|**2025-06-03**|**TalkingMachines: Real-Time Audio-Driven FaceTime-Style Video via Autoregressive Diffusion Models**|Chetwin Low et.al.|[2506.03099](http://arxiv.org/abs/2506.03099)|null|
+|**2025-06-03**|**DPO Learning with LLMs-Judge Signal for Computer Use Agents**|Man Luo et.al.|[2506.03095](http://arxiv.org/abs/2506.03095)|null|
+|**2025-06-03**|**From Flat to Hierarchical: Extracting Sparse Representations with Matching Pursuit**|Valérie Costa et.al.|[2506.03093](http://arxiv.org/abs/2506.03093)|null|
+|**2025-06-03**|**Thin coronal jets and plasmoid-mediated reconnection: Insights from Solar Orbiter observations and Bifrost simulations**|D. Nóbrega-Siverio et.al.|[2506.03092](http://arxiv.org/abs/2506.03092)|null|
+|**2025-06-03**|**Literary Evidence Retrieval via Long-Context Language Models**|Katherine Thai et.al.|[2506.03090](http://arxiv.org/abs/2506.03090)|null|
+|**2025-06-03**|**InterMamba: Efficient Human-Human Interaction Generation with Adaptive Spatio-Temporal Mamba**|Zizhao Wu et.al.|[2506.03084](http://arxiv.org/abs/2506.03084)|null|
+|**2025-06-03**|**Sparse-vDiT: Unleashing the Power of Sparse Attention to Accelerate Video Diffusion Transformers**|Pengtao Chen et.al.|[2506.03065](http://arxiv.org/abs/2506.03065)|null|
 |**2025-05-30**|**MiniMax-Remover: Taming Bad Noise Helps Video Object Removal**|Bojia Zi et.al.|[2505.24873](http://arxiv.org/abs/2505.24873)|null|
 |**2025-05-30**|**ProxyThinker: Test-Time Guidance through Small Visual Reasoners**|Zilin Xiao et.al.|[2505.24872](http://arxiv.org/abs/2505.24872)|null|
 |**2025-05-30**|**SiLVR: A Simple Language-based Video Reasoning Framework**|Ce Zhang et.al.|[2505.24869](http://arxiv.org/abs/2505.24869)|null|
@@ -4615,6 +4641,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-03**|**Ensemble-MIX: Enhancing Sample Efficiency in Multi-Agent RL Using Ensemble Methods**|Tom Danino et.al.|[2506.02841](http://arxiv.org/abs/2506.02841)|null|
+|**2025-06-03**|**KVCache Cache in the Wild: Characterizing and Optimizing KVCache Cache at a Large Cloud Provider**|Jiahao Wang et.al.|[2506.02634](http://arxiv.org/abs/2506.02634)|null|
+|**2025-06-03**|**HATA: Trainable and Hardware-Efficient Hash-Aware Top-k Attention for Scalable Large Model Inference**|Ping Gong et.al.|[2506.02572](http://arxiv.org/abs/2506.02572)|null|
+|**2025-06-03**|**Olfactory Inertial Odometry: Methodology for Effective Robot Navigation by Scent**|Kordel K. France et.al.|[2506.02373](http://arxiv.org/abs/2506.02373)|null|
+|**2025-06-03**|**Data-assimilated model-informed reinforcement learning**|Defne E. Ozan et.al.|[2506.01755](http://arxiv.org/abs/2506.01755)|null|
+|**2025-06-02**|**Interpretable reinforcement learning for heat pump control through asymmetric differentiable decision trees**|Toon Van Puyvelde et.al.|[2506.01641](http://arxiv.org/abs/2506.01641)|null|
+|**2025-06-02**|**System Calls for Malware Detection and Classification: Methodologies and Applications**|Bishwajit Prasad Gond et.al.|[2506.01412](http://arxiv.org/abs/2506.01412)|null|
+|**2025-06-02**|**React to Surprises: Stable-by-Design Neural Feedback Control and the Youla-REN**|Nicholas H. Barbara et.al.|[2506.01226](http://arxiv.org/abs/2506.01226)|null|
+|**2025-06-01**|**Generative diffusion posterior sampling for informative likelihoods**|Zheng Zhao et.al.|[2506.01083](http://arxiv.org/abs/2506.01083)|null|
 |**2025-05-29**|**How far away are truly hyperparameter-free learning algorithms?**|Priya Kasimbeg et.al.|[2505.24005](http://arxiv.org/abs/2505.24005)|null|
 |**2025-05-29**|**Network Inversion for Uncertainty-Aware Out-of-Distribution Detection**|Pirzada Suhail et.al.|[2505.23448](http://arxiv.org/abs/2505.23448)|null|
 |**2025-05-29**|**LADA: Scalable Label-Specific CLIP Adapter for Continual Learning**|Mao-Lin Luo et.al.|[2505.23271](http://arxiv.org/abs/2505.23271)|**[link](https://github.com/maolinluo/lada)**|
