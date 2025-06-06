@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-05**|**Why LLM Safety Guardrails Collapse After Fine-tuning: A Similarity Analysis Between Alignment and Fine-tuning Datasets**|Lei Hsiung et.al.|[2506.05346](http://arxiv.org/abs/2506.05346)|null|
+|**2025-06-05**|**Inference-Time Hyper-Scaling with KV Cache Compression**|Adrian Łańcucki et.al.|[2506.05345](http://arxiv.org/abs/2506.05345)|null|
+|**2025-06-05**|**SparseMM: Head Sparsity Emerges from Visual Concept Responses in MLLMs**|Jiahui Wang et.al.|[2506.05344](http://arxiv.org/abs/2506.05344)|null|
+|**2025-06-05**|**Direct Numerical Layout Generation for 3D Indoor Scene Synthesis via Spatial Reasoning**|Xingjian Ran et.al.|[2506.05341](http://arxiv.org/abs/2506.05341)|null|
+|**2025-06-05**|**VideoMolmo: Spatio-Temporal Grounding Meets Pointing**|Ghazi Shazan Ahmad et.al.|[2506.05336](http://arxiv.org/abs/2506.05336)|null|
+|**2025-06-05**|**Search Arena: Analyzing Search-Augmented LLMs**|Mihran Miroyan et.al.|[2506.05334](http://arxiv.org/abs/2506.05334)|null|
+|**2025-06-05**|**Kinetics: Rethinking Test-Time Scaling Laws**|Ranajoy Sadhukhan et.al.|[2506.05333](http://arxiv.org/abs/2506.05333)|null|
+|**2025-06-05**|**Unleashing Hour-Scale Video Training for Long Video-Language Understanding**|Jingyang Lin et.al.|[2506.05332](http://arxiv.org/abs/2506.05332)|null|
+|**2025-06-05**|**MINT-CoT: Enabling Interleaved Visual Tokens in Mathematical Chain-of-Thought Reasoning**|Xinyan Chen et.al.|[2506.05331](http://arxiv.org/abs/2506.05331)|null|
+|**2025-06-05**|**Seeing the Invisible: Machine learning-Based QPI Kernel Extraction via Latent Alignment**|Yingshuai Ji et.al.|[2506.05325](http://arxiv.org/abs/2506.05325)|null|
 |**2025-06-04**|**LayerFlow: A Unified Model for Layer-aware Video Generation**|Sihui Ji et.al.|[2506.04228](http://arxiv.org/abs/2506.04228)|null|
 |**2025-06-04**|**Voyager: Long-Range and World-Consistent Video Diffusion for Explorable 3D Scene Generation**|Tianyu Huang et.al.|[2506.04225](http://arxiv.org/abs/2506.04225)|null|
 |**2025-06-04**|**Diffusion Domain Teacher: Diffusion Guided Domain Adaptive Object Detector**|Boyong He et.al.|[2506.04211](http://arxiv.org/abs/2506.04211)|**[link](https://github.com/heboyong/Diffusion-Domain-Teacher)**|
@@ -2628,6 +2638,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-05**|**Inference-Time Hyper-Scaling with KV Cache Compression**|Adrian Łańcucki et.al.|[2506.05345](http://arxiv.org/abs/2506.05345)|null|
+|**2025-06-05**|**SparseMM: Head Sparsity Emerges from Visual Concept Responses in MLLMs**|Jiahui Wang et.al.|[2506.05344](http://arxiv.org/abs/2506.05344)|null|
+|**2025-06-05**|**Direct Numerical Layout Generation for 3D Indoor Scene Synthesis via Spatial Reasoning**|Xingjian Ran et.al.|[2506.05341](http://arxiv.org/abs/2506.05341)|null|
+|**2025-06-05**|**Kinetics: Rethinking Test-Time Scaling Laws**|Ranajoy Sadhukhan et.al.|[2506.05333](http://arxiv.org/abs/2506.05333)|null|
+|**2025-06-05**|**Unleashing Hour-Scale Video Training for Long Video-Language Understanding**|Jingyang Lin et.al.|[2506.05332](http://arxiv.org/abs/2506.05332)|null|
+|**2025-06-05**|**Seeing the Invisible: Machine learning-Based QPI Kernel Extraction via Latent Alignment**|Yingshuai Ji et.al.|[2506.05325](http://arxiv.org/abs/2506.05325)|null|
+|**2025-06-05**|**LSM-2: Learning from Incomplete Wearable Sensor Data**|Maxwell A. Xu et.al.|[2506.05321](http://arxiv.org/abs/2506.05321)|null|
+|**2025-06-05**|**Generalizable, real-time neural decoding with hybrid state-space models**|Avery Hee-Woon Ryoo et.al.|[2506.05320](http://arxiv.org/abs/2506.05320)|null|
+|**2025-06-05**|**ProRefine: Inference-time Prompt Refinement with Textual Feedback**|Deepak Pandita et.al.|[2506.05305](http://arxiv.org/abs/2506.05305)|null|
+|**2025-06-05**|**SeedVR2: One-Step Video Restoration via Diffusion Adversarial Post-Training**|Jianyi Wang et.al.|[2506.05301](http://arxiv.org/abs/2506.05301)|null|
 |**2025-06-04**|**LayerFlow: A Unified Model for Layer-aware Video Generation**|Sihui Ji et.al.|[2506.04228](http://arxiv.org/abs/2506.04228)|null|
 |**2025-06-04**|**Voyager: Long-Range and World-Consistent Video Diffusion for Explorable 3D Scene Generation**|Tianyu Huang et.al.|[2506.04225](http://arxiv.org/abs/2506.04225)|null|
 |**2025-06-04**|**Diffusion Domain Teacher: Diffusion Guided Domain Adaptive Object Detector**|Boyong He et.al.|[2506.04211](http://arxiv.org/abs/2506.04211)|**[link](https://github.com/heboyong/Diffusion-Domain-Teacher)**|
@@ -4663,8 +4683,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-05**|**Trustworthiness Preservation by Copies of Machine Learning Systems**|Leonardo Ceragioli et.al.|[2506.05203](http://arxiv.org/abs/2506.05203)|null|
+|**2025-06-05**|**Information Locality as an Inductive Bias for Neural Language Models**|Taiga Someya et.al.|[2506.05136](http://arxiv.org/abs/2506.05136)|null|
+|**2025-06-05**|**Agentic AI for Intent-Based Industrial Automation**|Marcos Lima Romero et.al.|[2506.04980](http://arxiv.org/abs/2506.04980)|null|
+|**2025-06-05**|**Energentic Intelligence: From Self-Sustaining Systems to Enduring Artificial Life**|Atahan Karagoz et.al.|[2506.04916](http://arxiv.org/abs/2506.04916)|null|
+|**2025-06-05**|**Olfactory Inertial Odometry: Sensor Calibration and Drift Compensation**|Kordel K. France et.al.|[2506.04539](http://arxiv.org/abs/2506.04539)|null|
+|**2025-06-04**|**Replay Can Provably Increase Forgetting**|Yasaman Mahdaviyeh et.al.|[2506.04377](http://arxiv.org/abs/2506.04377)|null|
 |**2025-06-04**|**Object-centric 3D Motion Field for Robot Learning from Human Videos**|Zhao-Heng Yin et.al.|[2506.04227](http://arxiv.org/abs/2506.04227)|null|
 |**2025-06-04**|**Faster Approx. Top-K: Harnessing the Full Power of Two Stages**|Yashas Samaga et.al.|[2506.04165](http://arxiv.org/abs/2506.04165)|null|
+|**2025-06-04**|**Autonomous Vehicle Lateral Control Using Deep Reinforcement Learning with MPC-PID Demonstration**|Chengdong Wu et.al.|[2506.04040](http://arxiv.org/abs/2506.04040)|null|
 |**2025-06-04**|**Adapting Rule Representation With Four-Parameter Beta Distribution for Learning Classifier Systems**|Hiroki Shiraishi et.al.|[2506.03602](http://arxiv.org/abs/2506.03602)|null|
 |**2025-06-03**|**Improving Performance of Spike-based Deep Q-Learning using Ternary Neurons**|Aref Ghoreishee et.al.|[2506.03392](http://arxiv.org/abs/2506.03392)|null|
 |**2025-06-03**|**Automated Traffic Incident Response Plans using Generative Artificial Intelligence: Part 1 -- Building the Incident Response Benchmark**|Artur Grigorev et.al.|[2506.03381](http://arxiv.org/abs/2506.03381)|null|
