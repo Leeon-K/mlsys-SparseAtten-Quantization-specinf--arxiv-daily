@@ -7,13 +7,23 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.12
+## Updated on 2025.06.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Quantization
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-12**|**SceneCompleter: Dense 3D Scene Completion for Generative Novel View Synthesis**|Weiliang Chen et.al.|[2506.10981](http://arxiv.org/abs/2506.10981)|null|
+|**2025-06-12**|**AutoMind: Adaptive Knowledgeable Agent for Automated Data Science**|Yixin Ou et.al.|[2506.10974](http://arxiv.org/abs/2506.10974)|null|
+|**2025-06-12**|**Farseer: A Refined Scaling Law in Large Language Models**|Houyi Li et.al.|[2506.10972](http://arxiv.org/abs/2506.10972)|null|
+|**2025-06-12**|**Beyond Attention or Similarity: Maximizing Conditional Diversity for Token Pruning in MLLMs**|Qizhe Zhang et.al.|[2506.10967](http://arxiv.org/abs/2506.10967)|null|
+|**2025-06-12**|**GENMANIP: LLM-driven Simulation for Generalizable Instruction-Following Manipulation**|Ning Gao et.al.|[2506.10966](http://arxiv.org/abs/2506.10966)|null|
+|**2025-06-12**|**Apparent inconsistency between Streda formula and Hall conductivity in reentrant integer quantum anomalous Hall effect in twisted MoTe $_2$**|Yi Huang et.al.|[2506.10965](http://arxiv.org/abs/2506.10965)|null|
+|**2025-06-12**|**MMMG: A Massive, Multidisciplinary, Multi-Tier Generation Benchmark for Text-to-Image Reasoning**|Yuxuan Luo et.al.|[2506.10963](http://arxiv.org/abs/2506.10963)|null|
+|**2025-06-12**|**ChineseHarm-Bench: A Chinese Harmful Content Detection Benchmark**|Kangwei Liu et.al.|[2506.10960](http://arxiv.org/abs/2506.10960)|null|
+|**2025-06-12**|**Large-scale quantization of trace I: Finite propagation operators**|Matthias Ludewig et.al.|[2506.10957](http://arxiv.org/abs/2506.10957)|null|
+|**2025-06-12**|**SWE-Factory: Your Automated Factory for Issue Resolution Training Data and Evaluation Benchmarks**|Lianghong Guo et.al.|[2506.10954](http://arxiv.org/abs/2506.10954)|null|
 |**2025-06-11**|**Flipping Against All Odds: Reducing LLM Coin Flip Bias via Verbalized Rejection Sampling**|Tim Z. Xiao et.al.|[2506.09998](http://arxiv.org/abs/2506.09998)|null|
 |**2025-06-11**|**From Judgment to Interference: Early Stopping LLM Harmful Outputs via Streaming Content Monitoring**|Yang Li et.al.|[2506.09996](http://arxiv.org/abs/2506.09996)|null|
 |**2025-06-11**|**Multiverse: Your Language Models Secretly Decide How to Parallelize and Merge Generation**|Xinyu Yang et.al.|[2506.09991](http://arxiv.org/abs/2506.09991)|null|
@@ -2125,6 +2135,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-12**|**MARS: Processing-In-Memory Acceleration of Raw Signal Genome Analysis Inside the Storage Subsystem**|Melina Soysal et.al.|[2506.10931](http://arxiv.org/abs/2506.10931)|null|
+|**2025-06-12**|**Deployment of Containerized Simulations in an API-Driven Distributed Infrastructure**|Tim Kraus et.al.|[2506.10642](http://arxiv.org/abs/2506.10642)|null|
+|**2025-06-12**|**HPCTransCompile: An AI Compiler Generated Dataset for High-Performance CUDA Transpilation and LLM Preliminary Exploration**|Jiaqi Lv et.al.|[2506.10401](http://arxiv.org/abs/2506.10401)|null|
 |**2025-06-11**|**The Fast and the Frame-Dragging: Efficient waveforms for asymmetric-mass eccentric equatorial inspirals into rapidly-spinning black holes**|Christian E. A. Chapman-Bird et.al.|[2506.09470](http://arxiv.org/abs/2506.09470)|null|
 |**2025-06-09**|**Towards a Base-Station-on-Chip: RISC-V Hardware Acceleration for wireless communication**|Javier Acevedo et.al.|[2506.07873](http://arxiv.org/abs/2506.07873)|null|
 |**2025-06-08**|**QForce-RL: Quantized FPGA-Optimized Reinforcement Learning Compute Engine**|Anushka Jha et.al.|[2506.07046](http://arxiv.org/abs/2506.07046)|null|
@@ -2403,13 +2416,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-12**|**6G Infrastructures for Edge AI: An Analytical Perspective**|Kurt Horvath et.al.|[2506.10570](http://arxiv.org/abs/2506.10570)|null|
 |**2025-06-11**|**Integrating Quantized LLMs into Robotics Systems as Edge AI to Leverage their Natural Language Processing Capabilities**|Miguel Á. González-Santamarta et.al.|[2506.09581](http://arxiv.org/abs/2506.09581)|null|
 |**2025-06-10**|**Efficient Edge Deployment of Quantized YOLOv4-Tiny for Aerial Emergency Object Detection on Raspberry Pi 5**|Sindhu Boddu et.al.|[2506.09300](http://arxiv.org/abs/2506.09300)|null|
 |**2025-06-09**|**SALT: A Lightweight Model Adaptation Method for Closed Split Computing Environments**|Yuya Okada et.al.|[2506.07355](http://arxiv.org/abs/2506.07355)|null|
 |**2025-06-08**|**EdgeSpotter: Multi-Scale Dense Text Spotting for Industrial Panel Monitoring**|Changhong Fu et.al.|[2506.07112](http://arxiv.org/abs/2506.07112)|null|
 |**2025-06-06**|**TinyML-Based Adaptive Pulse Shaping for Edge Intelligence in IoT/IIoT**|Afan Ali et.al.|[2506.05789](http://arxiv.org/abs/2506.05789)|null|
 |**2025-06-04**|**Analyzing Transformer Models and Knowledge Distillation Approaches for Image Captioning on Edge AI**|Wing Man Casca Kwok et.al.|[2506.03607](http://arxiv.org/abs/2506.03607)|null|
-|**2025-06-03**|**SENMAP: Multi-objective data-flow mapping and synthesis for hybrid scalable neuromorphic systems**|Prithvish V Nembhani et.al.|[2506.03450](http://arxiv.org/abs/2506.03450)|null|
+|**2025-06-03**|**SENMAP: Multi-objective data-flow mapping and synthesis for hybrid scalable neuromorphic systems**|Prithvish V Nembhani et.al.|[2506.03450](http://arxiv.org/abs/2506.03450)|**[link](https://github.com/Prithvish04/senMap_paper_submission)**|
 |**2025-06-02**|**Composable Building Blocks for Controllable and Transparent Interactive AI Systems**|Sebe Vanbrabant et.al.|[2506.02262](http://arxiv.org/abs/2506.02262)|null|
 |**2025-06-01**|**VUSA: Virtually Upscaled Systolic Array Architecture to Exploit Unstructured Sparsity in AI Acceleration**|Shereef Helal et.al.|[2506.01166](http://arxiv.org/abs/2506.01166)|null|
 |**2025-05-30**|**Towards a unified user modeling language for engineering human centered AI systems**|Aaron Conrardy et.al.|[2505.24697](http://arxiv.org/abs/2505.24697)|null|
@@ -2689,6 +2703,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-12**|**SceneCompleter: Dense 3D Scene Completion for Generative Novel View Synthesis**|Weiliang Chen et.al.|[2506.10981](http://arxiv.org/abs/2506.10981)|null|
+|**2025-06-12**|**Beyond Attention or Similarity: Maximizing Conditional Diversity for Token Pruning in MLLMs**|Qizhe Zhang et.al.|[2506.10967](http://arxiv.org/abs/2506.10967)|null|
+|**2025-06-12**|**Apparent inconsistency between Streda formula and Hall conductivity in reentrant integer quantum anomalous Hall effect in twisted MoTe $_2$**|Yi Huang et.al.|[2506.10965](http://arxiv.org/abs/2506.10965)|null|
+|**2025-06-12**|**Execution Guided Line-by-Line Code Generation**|Boaz Lavon et.al.|[2506.10948](http://arxiv.org/abs/2506.10948)|null|
+|**2025-06-12**|**Robustly Improving LLM Fairness in Realistic Settings via Interpretability**|Adam Karvonen et.al.|[2506.10922](http://arxiv.org/abs/2506.10922)|null|
+|**2025-06-12**|**Sequential-Parallel Duality in Prefix Scannable Models**|Morris Yau et.al.|[2506.10918](http://arxiv.org/abs/2506.10918)|null|
+|**2025-06-12**|**M4V: Multi-Modal Mamba for Text-to-Video Generation**|Jiancheng Huang et.al.|[2506.10915](http://arxiv.org/abs/2506.10915)|null|
+|**2025-06-12**|**Foundation Models for Causal Inference via Prior-Data Fitted Networks**|Yuchen Ma et.al.|[2506.10914](http://arxiv.org/abs/2506.10914)|null|
+|**2025-06-12**|**BioClinical ModernBERT: A State-of-the-Art Long-Context Encoder for Biomedical and Clinical NLP**|Thomas Sounack et.al.|[2506.10896](http://arxiv.org/abs/2506.10896)|null|
+|**2025-06-12**|**OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics**|Rui Zhang et.al.|[2506.10862](http://arxiv.org/abs/2506.10862)|null|
 |**2025-06-11**|**From Judgment to Interference: Early Stopping LLM Harmful Outputs via Streaming Content Monitoring**|Yang Li et.al.|[2506.09996](http://arxiv.org/abs/2506.09996)|null|
 |**2025-06-11**|**Multiverse: Your Language Models Secretly Decide How to Parallelize and Merge Generation**|Xinyu Yang et.al.|[2506.09991](http://arxiv.org/abs/2506.09991)|null|
 |**2025-06-11**|**InterActHuman: Multi-Concept Human Animation with Layout-Aligned Audio Conditions**|Zhenzhi Wang et.al.|[2506.09984](http://arxiv.org/abs/2506.09984)|null|
@@ -4774,6 +4798,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-12**|**System Identification Using Kolmogorov-Arnold Networks: A Case Study on Buck Converters**|Nart Gashi et.al.|[2506.10434](http://arxiv.org/abs/2506.10434)|null|
+|**2025-06-11**|**Wasserstein Barycenter Soft Actor-Critic**|Zahra Shahrooei et.al.|[2506.10167](http://arxiv.org/abs/2506.10167)|null|
 |**2025-06-11**|**Evasion Attacks Against Bayesian Predictive Models**|Pablo G. Arce et.al.|[2506.09640](http://arxiv.org/abs/2506.09640)|null|
 |**2025-06-11**|**A Survey on the Role of Artificial Intelligence and Machine Learning in 6G-V2X Applications**|Donglin Wang et.al.|[2506.09512](http://arxiv.org/abs/2506.09512)|null|
 |**2025-06-10**|**One Patch to Rule Them All: Transforming Static Patches into Dynamic Attacks in the Physical World**|Xingshuo Han et.al.|[2506.08482](http://arxiv.org/abs/2506.08482)|null|
